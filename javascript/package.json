@@ -1,5 +1,5 @@
 {
-  "name": "data-wilayah-indonesia",
+  "name": "@damarkuncoro/data-wilayah-indonesia",
   "version": "1.0.0",
   "description": "Package JavaScript/TypeScript untuk data wilayah administratif Indonesia",
   "main": "dist/index.js",

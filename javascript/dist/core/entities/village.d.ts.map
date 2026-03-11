@@ -1,0 +1,1 @@
+{"version":3,"file":"village.d.ts","sourceRoot":"","sources":["../../../src/core/entities/village.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,WAAW,EAAE,MAAM,uBAAuB,CAAC;AAExE;;GAEG;AACH,qBAAa,OAAQ,SAAQ,kBAAkB;aAI3B,YAAY,EAAE,MAAM;aACpB,IAAI,EAAE,WAAW;gBAHjC,IAAI,EAAE,MAAM,EACZ,IAAI,EAAE,MAAM,EACI,YAAY,EAAE,MAAM,EACpB,IAAI,EAAE,WAAW;CAKpC"}

@@ -24,11 +24,11 @@ class DataAggregator:
                 df = pd.read_csv(file)
                 
                 # Kita mencari baris yang memiliki pola kode (XX atau XX.XX atau XX.XX.XX atau XX.XX.XX.XXXX)
-                # Kolom pertama biasanya adalah kode
                 code_col = df.columns[0]
                 
-                # Filter baris yang kolom kodenya tidak kosong dan sesuai pola
-                valid_rows = df[df[code_col].astype(str).str.match(r'^\d{2}(\.\d{2})*$', na=False)].copy()
+                # Pola kode: 2 digit, atau 2.2, atau 2.2.2, atau 2.2.2.4
+                code_pattern = r'^\d{2}(\.\d{2}){0,2}(\.\d{4})?$'
+                valid_rows = df[df[code_col].astype(str).str.match(code_pattern, na=False)].copy()
                 
                 if not valid_rows.empty:
                     # Pastikan kode adalah string
@@ -57,7 +57,8 @@ class DataAggregator:
 
         aggregated_df = pd.concat(all_data).drop_duplicates()
         # Bersihkan data: hapus baris dengan kode yang tidak valid atau nama "Unknown"
-        aggregated_df = aggregated_df[aggregated_df['code'].str.match(r'^\d{2}(\.\d{2})*$', na=False)]
+        code_pattern = r'^\d{2}(\.\d{2}){0,2}(\.\d{4})?$'
+        aggregated_df = aggregated_df[aggregated_df['code'].str.match(code_pattern, na=False)]
         aggregated_df = aggregated_df[aggregated_df['name'] != "Unknown"]
         
         aggregated_df = aggregated_df.sort_values('code')

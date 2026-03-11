@@ -139,15 +139,15 @@
   },
   {
     "code": "12.19",
-    "name": "BATU BARA",
-    "provinceCode": "12",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "12.19",
     "name": "UU No. 5 /2007.",
     "provinceCode": "12",
     "type": "KOTA"
+  },
+  {
+    "code": "12.19",
+    "name": "BATU BARA",
+    "provinceCode": "12",
+    "type": "KABUPATEN"
   },
   {
     "code": "12.20",
@@ -169,15 +169,15 @@
   },
   {
     "code": "12.23",
-    "name": "UU No. 23/2008.",
-    "provinceCode": "12",
-    "type": "KOTA"
-  },
-  {
-    "code": "12.23",
     "name": "LABUHANBATU UTARA",
     "provinceCode": "12",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "12.23",
+    "name": "UU No. 23/2008.",
+    "provinceCode": "12",
+    "type": "KOTA"
   },
   {
     "code": "12.24",
@@ -493,15 +493,15 @@
   },
   {
     "code": "31.01",
-    "name": "ADM. KEP. SERIBU",
-    "provinceCode": "31",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "31.01",
     "name": "UU No. 29/2007",
     "provinceCode": "31",
     "type": "KOTA"
+  },
+  {
+    "code": "31.01",
+    "name": "ADM. KEP. SERIBU",
+    "provinceCode": "31",
+    "type": "KABUPATEN"
   },
   {
     "code": "31.71",
@@ -535,15 +535,15 @@
   },
   {
     "code": "32.02",
-    "name": "PP Mo. 66/1998",
-    "provinceCode": "32",
-    "type": "KOTA"
-  },
-  {
-    "code": "32.02",
     "name": "SUKABUMI",
     "provinceCode": "32",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "32.02",
+    "name": "PP Mo. 66/1998",
+    "provinceCode": "32",
+    "type": "KOTA"
   },
   {
     "code": "32.03",
@@ -709,15 +709,15 @@
   },
   {
     "code": "36.04",
-    "name": "SERANG",
-    "provinceCode": "36",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "36.04",
     "name": "PP. No. 32 Tahun 2012",
     "provinceCode": "36",
     "type": "KOTA"
+  },
+  {
+    "code": "36.04",
+    "name": "SERANG",
+    "provinceCode": "36",
+    "type": "KABUPATEN"
   },
   {
     "code": "36.74",
@@ -793,15 +793,15 @@
   },
   {
     "code": "52.08",
-    "name": "LOMBOK UTARA",
-    "provinceCode": "52",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "52.08",
     "name": "UU No. 26/2008.",
     "provinceCode": "52",
     "type": "KOTA"
+  },
+  {
+    "code": "52.08",
+    "name": "LOMBOK UTARA",
+    "provinceCode": "52",
+    "type": "KABUPATEN"
   },
   {
     "code": "53.01",
@@ -883,15 +883,15 @@
   },
   {
     "code": "53.16",
-    "name": "UU No. 2/2007.",
-    "provinceCode": "53",
-    "type": "KOTA"
-  },
-  {
-    "code": "53.16",
     "name": "NAGEKEO",
     "provinceCode": "53",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "53.16",
+    "name": "UU No. 2/2007.",
+    "provinceCode": "53",
+    "type": "KOTA"
   },
   {
     "code": "53.17",
@@ -919,15 +919,15 @@
   },
   {
     "code": "53.20",
-    "name": "UU No. 51/2008.",
-    "provinceCode": "53",
-    "type": "KOTA"
-  },
-  {
-    "code": "53.20",
     "name": "SABU RAIJUA",
     "provinceCode": "53",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "53.20",
+    "name": "UU No. 51/2008.",
+    "provinceCode": "53",
+    "type": "KOTA"
   },
   {
     "code": "61.01",
@@ -961,19 +961,13 @@
   },
   {
     "code": "61.11",
-    "name": "UU No. 6 /2007.",
-    "provinceCode": "61",
-    "type": "KOTA"
-  },
-  {
-    "code": "61.11",
     "name": "KAYONG UTARA",
     "provinceCode": "61",
     "type": "KABUPATEN"
   },
   {
-    "code": "61.12",
-    "name": "UU No 35/2007.",
+    "code": "61.11",
+    "name": "UU No. 6 /2007.",
     "provinceCode": "61",
     "type": "KOTA"
   },
@@ -982,6 +976,12 @@
     "name": "KUBU RAYA",
     "provinceCode": "61",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "61.12",
+    "name": "UU No 35/2007.",
+    "provinceCode": "61",
+    "type": "KOTA"
   },
   {
     "code": "62.03",
@@ -1087,21 +1087,15 @@
   },
   {
     "code": "65.01",
-    "name": "BULUNGAN",
+    "name": "Semula wil. Prov. Kalimantan Timur.",
     "provinceCode": "65",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "65.01",
-    "name": "Semula wil. Prov. Kalimantan Timur.",
+    "name": "BULUNGAN",
     "provinceCode": "65",
-    "type": "KOTA"
-  },
-  {
-    "code": "65.02",
-    "name": "Semula wil. Prov. Kalimantan Timur.",
-    "provinceCode": "65",
-    "type": "KOTA"
+    "type": "KABUPATEN"
   },
   {
     "code": "65.02",
@@ -1110,10 +1104,10 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "65.03",
-    "name": "NUNUKAN",
+    "code": "65.02",
+    "name": "Semula wil. Prov. Kalimantan Timur.",
     "provinceCode": "65",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "65.03",
@@ -1122,8 +1116,8 @@
     "type": "KOTA"
   },
   {
-    "code": "65.04",
-    "name": "TANA TIDUNG",
+    "code": "65.03",
+    "name": "NUNUKAN",
     "provinceCode": "65",
     "type": "KABUPATEN"
   },
@@ -1132,6 +1126,12 @@
     "name": "Semula Wil. Prov. Kalimantan Timur.",
     "provinceCode": "65",
     "type": "KOTA"
+  },
+  {
+    "code": "65.04",
+    "name": "TANA TIDUNG",
+    "provinceCode": "65",
+    "type": "KABUPATEN"
   },
   {
     "code": "65.71",
@@ -1429,27 +1429,27 @@
   },
   {
     "code": "75.04",
-    "name": "Perbaikan nama semula Kab. Pahuwato menjadi Kab. Pohuwato",
-    "provinceCode": "75",
-    "type": "KOTA"
-  },
-  {
-    "code": "75.04",
     "name": "POHUWATO",
     "provinceCode": "75",
     "type": "KABUPATEN"
   },
   {
-    "code": "75.05",
-    "name": "GORONTALO UTARA",
+    "code": "75.04",
+    "name": "Perbaikan nama semula Kab. Pahuwato menjadi Kab. Pohuwato",
     "provinceCode": "75",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "75.05",
     "name": "UU No. 11/2007",
     "provinceCode": "75",
     "type": "KOTA"
+  },
+  {
+    "code": "75.05",
+    "name": "GORONTALO UTARA",
+    "provinceCode": "75",
+    "type": "KABUPATEN"
   },
   {
     "code": "76.01",
