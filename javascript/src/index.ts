@@ -4,10 +4,10 @@
  */
 
 import { Province, Regency, District, Village, RegencyType, VillageType, AdministrativeUnit } from './types/administrative';
-import provincesData from './data/provinces.json';
-import regenciesData from './data/regencies.json';
-import districtsData from './data/districts.json';
-import villagesData from './data/villages.json';
+import provincesData from '../data/provinces.json';
+import regenciesData from '../data/regencies.json';
+import districtsData from '../data/districts.json';
+import villagesData from '../data/villages.json';
 
 /**
  * DataWilayahService - Kelas utama untuk mengakses data wilayah Indonesia
@@ -118,10 +118,10 @@ export class DataWilayahService {
 export { Province, Regency, District, Village, RegencyType, VillageType, AdministrativeUnit };
 
 // Export data directly (for advanced users)
-export { default as provincesData } from './data/provinces.json';
-export { default as regenciesData } from './data/regencies.json';
-export { default as districtsData } from './data/districts.json';
-export { default as villagesData } from './data/villages.json';
+export { default as provincesData } from '../data/provinces.json';
+export { default as regenciesData } from '../data/regencies.json';
+export { default as districtsData } from '../data/districts.json';
+export { default as villagesData } from '../data/villages.json';
 
 // Default export
 export default DataWilayahService;

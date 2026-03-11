@@ -1,9 +1,5 @@
 [
   {
-    "code": "10",
-    "name": "2,028"
-  },
-  {
     "code": "11",
     "name": "DKI JAKARTA"
   },
@@ -12,64 +8,32 @@
     "name": "SUMATERA UTARA"
   },
   {
-    "code": "12",
-    "name": "JAWA BARAT"
-  },
-  {
     "code": "13",
     "name": "JAWA TENGAH"
-  },
-  {
-    "code": "13",
-    "name": "SUMATERA BARAT"
   },
   {
     "code": "14",
     "name": "DAERAH ISTIMEWA YOGYAKARTA"
   },
   {
-    "code": "14",
-    "name": "RIAU"
-  },
-  {
     "code": "15",
     "name": "JAMBI"
-  },
-  {
-    "code": "15",
-    "name": "JAWA TIMUR"
   },
   {
     "code": "16",
     "name": "SUMATERA SELATAN"
   },
   {
-    "code": "16",
-    "name": "BANTEN"
-  },
-  {
     "code": "17",
     "name": "BENGKULU"
-  },
-  {
-    "code": "17",
-    "name": "BALI"
   },
   {
     "code": "18",
     "name": "NUSA TENGGARA BARAT"
   },
   {
-    "code": "18",
-    "name": "LAMPUNG"
-  },
-  {
     "code": "19",
     "name": "NUSA TENGGARA TIMUR"
-  },
-  {
-    "code": "19",
-    "name": "KEPULAUAN BANGKA BELITUNG"
   },
   {
     "code": "20",
@@ -78,10 +42,6 @@
   {
     "code": "21",
     "name": "KEPULAUAN RIAU"
-  },
-  {
-    "code": "21",
-    "name": "KALIMANTAN TENGAH"
   },
   {
     "code": "22",
@@ -98,10 +58,6 @@
   {
     "code": "25",
     "name": "SULAWESI UTARA"
-  },
-  {
-    "code": "26",
-    "name": "1,572"
   },
   {
     "code": "31",

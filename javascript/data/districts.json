@@ -10,69 +10,9 @@
     "regencyCode": "11.01"
   },
   {
-    "code": "11.02.12",
-    "name": "Qanun No. 19/2006",
-    "regencyCode": "11.02"
-  },
-  {
-    "code": "11.02.13",
-    "name": "Qanun No. 19/2006",
-    "regencyCode": "11.02"
-  },
-  {
-    "code": "11.02.14",
-    "name": "Qanun No. 19/2006",
-    "regencyCode": "11.02"
-  },
-  {
-    "code": "11.02.15",
-    "name": "Qanun No. 19/2006",
-    "regencyCode": "11.02"
-  },
-  {
-    "code": "11.02.16",
-    "name": "Qanun No. 19/2006",
-    "regencyCode": "11.02"
-  },
-  {
     "code": "11.03.10",
     "name": "Perbaikan nama kec. semula Rantau Peureulak menjadi Ranto",
     "regencyCode": "11.03"
-  },
-  {
-    "code": "11.03.22",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.03"
-  },
-  {
-    "code": "11.03.23",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.03"
-  },
-  {
-    "code": "11.03.24",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.03"
-  },
-  {
-    "code": "11.04.18",
-    "name": "Qanun No. 1/2006",
-    "regencyCode": "11.04"
-  },
-  {
-    "code": "11.04.19",
-    "name": "Qanun No. 1/2006",
-    "regencyCode": "11.04"
-  },
-  {
-    "code": "11.04.20",
-    "name": "Qanun No. 1/2006",
-    "regencyCode": "11.04"
-  },
-  {
-    "code": "11.04.21",
-    "name": "Qanun No. 1/2006",
-    "regencyCode": "11.04"
   },
   {
     "code": "11.05.01",
@@ -80,64 +20,9 @@
     "regencyCode": "11.05"
   },
   {
-    "code": "Pahlawan",
-    "name": "sesuai:",
-    "regencyCode": "Pahla"
-  },
-  {
-    "code": "11.05.12",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.05"
-  },
-  {
-    "code": "11.06.16",
-    "name": "Perbaikan nama kec. semula Kota Cot Glie menjadi Kuta Cot Glie,",
-    "regencyCode": "11.06"
-  },
-  {
-    "code": "11.06.23",
-    "name": "Pemekaran Kec Qanun No. 3/2006",
-    "regencyCode": "11.06"
-  },
-  {
     "code": "11.07.06",
     "name": "Perbaikan nama dari Geulumpang Tiga menjadi Glumpang",
     "regencyCode": "11.07"
-  },
-  {
-    "code": "11.07.07",
-    "name": "Perbaikan nama dari Indra Jaya menjadi Indrajaya,Peraturan Bupati",
-    "regencyCode": "11.07"
-  },
-  {
-    "code": "11.07.31",
-    "name": "Qanun No. 9/2007",
-    "regencyCode": "11.07"
-  },
-  {
-    "code": "11.08.24",
-    "name": "Qanun No. 32/2005",
-    "regencyCode": "11.08"
-  },
-  {
-    "code": "11.08.25",
-    "name": "Qanun No. 32/2005",
-    "regencyCode": "11.08"
-  },
-  {
-    "code": "11.08.26",
-    "name": "Qanun No. 32/2005",
-    "regencyCode": "11.08"
-  },
-  {
-    "code": "11.08.27",
-    "name": "Qanun No. 32/2005",
-    "regencyCode": "11.08"
-  },
-  {
-    "code": "11.09.08",
-    "name": "Perbaikan nama desa semula Alapan menjadi Alafan, sesuai:",
-    "regencyCode": "11.09"
   },
   {
     "code": "11.09.09",
@@ -150,44 +35,9 @@
     "regencyCode": "11.09"
   },
   {
-    "code": "11.10.14",
-    "name": "Qanun No.3/2004",
-    "regencyCode": "11.10"
-  },
-  {
     "code": "11.10.16",
     "name": "Pemekaran Kec. Pulau Banyak Perda No. 2/2010",
     "regencyCode": "11.10"
-  },
-  {
-    "code": "11.12.01",
-    "name": "Perbaikan nama kec. semula Blang Pidie menjadi Blangpidie, sesuai:",
-    "regencyCode": "11.12"
-  },
-  {
-    "code": "11.12.07",
-    "name": "Qanun No. 4/2006",
-    "regencyCode": "11.12"
-  },
-  {
-    "code": "11.12.08",
-    "name": "Qanun No. 4/2006",
-    "regencyCode": "11.12"
-  },
-  {
-    "code": "11.12.09",
-    "name": "Qanun No. 5/2006",
-    "regencyCode": "11.12"
-  },
-  {
-    "code": "11.14.03",
-    "name": "Perbaikan nama kec. semula Setia Bhakti menjadi Setia Bakti, sesuai:",
-    "regencyCode": "11.14"
-  },
-  {
-    "code": "11.14.04",
-    "name": "Perbaikan nama kec. semula Sampoiniet menjadi Sampoi Niet, sesuai:",
-    "regencyCode": "11.14"
   },
   {
     "code": "11.14.07",
@@ -228,26 +78,6 @@
     "code": "11.15.10",
     "name": "Pemekaran sebagian wil Kec. Beutong, Qonun No. 2/2011",
     "regencyCode": "11.15"
-  },
-  {
-    "code": "11.16.09",
-    "name": "Qanun No.6/2006",
-    "regencyCode": "11.16"
-  },
-  {
-    "code": "11.16.10",
-    "name": "Qanun No.6/2006",
-    "regencyCode": "11.16"
-  },
-  {
-    "code": "11.16.11",
-    "name": "Qanun No.6/2006",
-    "regencyCode": "11.16"
-  },
-  {
-    "code": "11.16.12",
-    "name": "Qanun No.6/2006",
-    "regencyCode": "11.16"
   },
   {
     "code": "11.17.08",
@@ -308,21 +138,6 @@
     "code": "11.72.03",
     "name": "Pemekaran Kec. Sukakarya dan Kec. Sukajaya sesuai",
     "regencyCode": "11.72"
-  },
-  {
-    "code": "11.73.04",
-    "name": "Qanun No. 1/2006",
-    "regencyCode": "11.73"
-  },
-  {
-    "code": "11.74.04",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.74"
-  },
-  {
-    "code": "11.74.05",
-    "name": "Qanun No. 5/2007",
-    "regencyCode": "11.74"
   },
   {
     "code": "11.75.01",
@@ -710,11 +525,6 @@
     "regencyCode": "12.07"
   },
   {
-    "code": "12.07.07",
-    "name": "Perbaikan nama kec. semula Sibiru-biru menjadi Biru-Biru sesuai Surat",
-    "regencyCode": "12.07"
-  },
-  {
     "code": "12.07.19",
     "name": "10Galang",
     "regencyCode": "12.07"
@@ -1032,11 +842,6 @@
   {
     "code": "12.13.06",
     "name": "6Siabu",
-    "regencyCode": "12.13"
-  },
-  {
-    "code": "12.13.08",
-    "name": "8Kotanopan",
     "regencyCode": "12.13"
   },
   {
@@ -1750,36 +1555,6 @@
     "regencyCode": "12.77"
   },
   {
-    "code": "12.78.01",
-    "name": "Semula wil. Kab. Nias Perda No. 5/2005, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
-    "code": "12.78.02",
-    "name": "Semula wil. Kab. Nias Perda No. 5/2005, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
-    "code": "12.78.03",
-    "name": "Semula wil. Kab. Nias Perda No. 5/2005, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
-    "code": "12.78.04",
-    "name": "Semula wil. Kab. Nias Perda No. 5/2005, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
-    "code": "12.78.05",
-    "name": "Semula wil. Kab. Nias Perda No. 4/2008, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
-    "code": "12.78.06",
-    "name": "Semula wil. Kab. Nias Perda No. 5/2005, Revisi Kode sesuai Surat",
-    "regencyCode": "12.78"
-  },
-  {
     "code": "13.01.12",
     "name": "Perda No. 3/2004",
     "regencyCode": "13.01"
@@ -1798,11 +1573,6 @@
     "code": "13.01.15",
     "name": "Pemekaran sebagian wil Kec. Lunang Silaut, Perda No. 9/2012",
     "regencyCode": "13.01"
-  },
-  {
-    "code": "13.04.10",
-    "name": "Perbaikan nomenklatur sesuai Surat Bup. No.130/795/POD-2019 tgl",
-    "regencyCode": "13.04"
   },
   {
     "code": "13.06.06",
@@ -1995,18 +1765,8 @@
     "regencyCode": "14.01"
   },
   {
-    "code": "14.01.15",
-    "name": "Perda No. 22/2003, Perubahan Nama dari Kec. Bangkinang Seberang",
-    "regencyCode": "14.01"
-  },
-  {
     "code": "14.01.16",
     "name": "Perda No. 22/2003",
-    "regencyCode": "14.01"
-  },
-  {
-    "code": "14.01.17",
-    "name": "Perda No. 22/2003, perubahan nama Kec. Kampar Timur menjadi Kec.",
     "regencyCode": "14.01"
   },
   {
@@ -2580,11 +2340,6 @@
     "regencyCode": "15.01"
   },
   {
-    "code": "Merangin",
-    "name": "Perda No. 15/2012",
-    "regencyCode": "Meran"
-  },
-  {
     "code": "15.01.21",
     "name": "Pemekaran sebagian wil Kec. Air Hangat, Perda No. 16/2012",
     "regencyCode": "15.01"
@@ -2657,11 +2412,6 @@
   {
     "code": "15.02.17",
     "name": "Perda No. 2/2007",
-    "regencyCode": "15.02"
-  },
-  {
-    "code": "15.02.18",
-    "name": "Perda No. 2/2007, Perubahan Nama Kec. Sungai Tenang Menjadi Kec.",
     "regencyCode": "15.02"
   },
   {
@@ -2768,11 +2518,6 @@
     "code": "15.04.08",
     "name": "8Maro Sebo Ilir",
     "regencyCode": "15.04"
-  },
-  {
-    "code": "15.05.01",
-    "name": "1Jambi Luar Kota",
-    "regencyCode": "15.05"
   },
   {
     "code": "15.05.02",
@@ -3003,11 +2748,6 @@
     "code": "15.09.12",
     "name": "Perda No.17 / 2004",
     "regencyCode": "15.09"
-  },
-  {
-    "code": "15.71.09",
-    "name": "Pemekaran sebagian wil Kec Kota Baru, Perda No. 13/2014",
-    "regencyCode": "15.71"
   },
   {
     "code": "15.71.10",
@@ -3875,19 +3615,9 @@
     "regencyCode": "17.01"
   },
   {
-    "code": "17.01.05",
-    "name": "5Kota Manna",
-    "regencyCode": "17.01"
-  },
-  {
     "code": "17.01.11",
     "name": "11Pasar Manna",
     "regencyCode": "17.01"
-  },
-  {
-    "code": "17.02.06",
-    "name": "1Kota Padang",
-    "regencyCode": "17.02"
   },
   {
     "code": "17.02.07",
@@ -4355,16 +4085,6 @@
     "regencyCode": "18.03"
   },
   {
-    "code": "18.03.02",
-    "name": "2Kotabumi",
-    "regencyCode": "18.03"
-  },
-  {
-    "code": "18.03.10",
-    "name": "10Kotabumi Selatan",
-    "regencyCode": "18.03"
-  },
-  {
     "code": "18.03.17",
     "name": "Perda No. 8/2006",
     "regencyCode": "18.03"
@@ -4498,21 +4218,6 @@
     "code": "18.05.30",
     "name": "Perda No. 4/2009, Rekomendasi Gubernur No. 138/3060.A/02/2009,",
     "regencyCode": "18.05"
-  },
-  {
-    "code": "18.06.01",
-    "name": "1Kota Agung",
-    "regencyCode": "18.06"
-  },
-  {
-    "code": "18.06.13",
-    "name": "Perbaikan nama kec. semula Sumber Rejo menjadi Sumberejo, sesuai:",
-    "regencyCode": "18.06"
-  },
-  {
-    "code": "18.06.17",
-    "name": "Perbaikan nama kec. semula Klumbayan menjadi Kelumbayan, sesuai:",
-    "regencyCode": "18.06"
   },
   {
     "code": "18.06.18",
@@ -4825,16 +4530,6 @@
     "regencyCode": "18.13"
   },
   {
-    "code": "18.13.10",
-    "name": "Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013, Perubahan",
-    "regencyCode": "18.13"
-  },
-  {
-    "code": "18.13.11",
-    "name": "Semula wil Kab. Lampung Barat, sesuai UU No. 18/2013, Perubahan",
-    "regencyCode": "18.13"
-  },
-  {
     "code": "18.71.14",
     "name": "Pemekaran sebagian Kec. Kedaton, Perda No. 4/2012",
     "regencyCode": "18.71"
@@ -4890,11 +4585,6 @@
     "regencyCode": "19.03"
   },
   {
-    "code": "19.03.03",
-    "name": "Perbaikan nama kec. semula Air Gegas menjadi Airgegas, sesuai:",
-    "regencyCode": "19.03"
-  },
-  {
     "code": "19.03.06",
     "name": "Perda No. 26/2007",
     "regencyCode": "19.03"
@@ -4935,18 +4625,8 @@
     "regencyCode": "19.04"
   },
   {
-    "code": "19.05.01",
-    "name": "Perbaikan nama Kec. Mentok, sesuai Surat Bup. No.",
-    "regencyCode": "19.05"
-  },
-  {
     "code": "19.05.04",
     "name": "4Kelapa",
-    "regencyCode": "19.05"
-  },
-  {
-    "code": "19.05.06",
-    "name": "Nama Kec sesuai Surat Bup. No. 120/743/4.1.3.1/2018 tgl 28 Nov",
     "regencyCode": "19.05"
   },
   {
@@ -4963,11 +4643,6 @@
     "code": "19.06.07",
     "name": "Pemekaran sebagian Kec. Manggar & Kelapa Kampit Perda No.",
     "regencyCode": "19.06"
-  },
-  {
-    "code": "19.71.01",
-    "name": "Perbaikan nama kec. semula Bukitintan menjadi Bukit Intan, sesuai:",
-    "regencyCode": "19.71"
   },
   {
     "code": "19.71.06",
@@ -5070,16 +4745,6 @@
     "regencyCode": "21.02"
   },
   {
-    "code": "21.02.13",
-    "name": "Pemekaran sebagian wil. Kec. Karimun, sesuai:",
-    "regencyCode": "21.02"
-  },
-  {
-    "code": "21.02.14",
-    "name": "Pemekaran sebagian wil. Kec. Moro, sesuai:",
-    "regencyCode": "21.02"
-  },
-  {
     "code": "21.03.04",
     "name": "1Midai",
     "regencyCode": "21.03"
@@ -5142,16 +4807,6 @@
   {
     "code": "21.03.22",
     "name": "Pemekaran sebagian wil Kec. Midai, Perda No. 14/2014 dan Nomor",
-    "regencyCode": "21.03"
-  },
-  {
-    "code": "21.03.23",
-    "name": "Pemekaran sebagian wil. Kec. Subi, sesuai:",
-    "regencyCode": "21.03"
-  },
-  {
-    "code": "21.03.24",
-    "name": "Pemekaran sebagian wil. Kec. Bunguran Utara, sesuai:",
     "regencyCode": "21.03"
   },
   {
@@ -5467,11 +5122,6 @@
   {
     "code": "32.07.01",
     "name": "1Ciamis",
-    "regencyCode": "32.07"
-  },
-  {
-    "code": "32.07.33",
-    "name": "Perubahan Nama Kec. Panjalu Utara, Perda No. 24/2004",
     "regencyCode": "32.07"
   },
   {
@@ -6415,11 +6065,6 @@
     "regencyCode": "33.18"
   },
   {
-    "code": "33.19.02",
-    "name": "2Kota Kudus",
-    "regencyCode": "33.19"
-  },
-  {
     "code": "33.20.06",
     "name": "6Jepara",
     "regencyCode": "33.20"
@@ -6697,16 +6342,6 @@
   {
     "code": "35.07.13",
     "name": "13Kepanjen",
-    "regencyCode": "35.07"
-  },
-  {
-    "code": "35.07.20",
-    "name": "perbaikan nama, Perbub no 35/2015,Surat Sekda kab malang no",
-    "regencyCode": "35.07"
-  },
-  {
-    "code": "35.07.23",
-    "name": "perbaikan nama dari Karang Ploso menjadi Karangploso, Surat Sekda",
     "regencyCode": "35.07"
   },
   {
@@ -7088,11 +6723,6 @@
     "code": "35.28.06",
     "name": "Koreksi nama Perbub No. 2/2013.",
     "regencyCode": "35.28"
-  },
-  {
-    "code": "35.29.01",
-    "name": "1Kota Sumenep",
-    "regencyCode": "35.29"
   },
   {
     "code": "35.74.04",
@@ -7480,11 +7110,6 @@
     "regencyCode": "51.08"
   },
   {
-    "code": "51.08.03",
-    "name": "Koreksi penulisan sesuai surat Bup. No. 100/5763/Pem tgl. 3 Okt'",
-    "regencyCode": "51.08"
-  },
-  {
     "code": "51.08.05",
     "name": "5Sukasada",
     "regencyCode": "51.08"
@@ -7758,11 +7383,6 @@
     "code": "53.01.30",
     "name": "Perda No. 5/2007",
     "regencyCode": "53.01"
-  },
-  {
-    "code": "53.02.01",
-    "name": "1Kota Soe",
-    "regencyCode": "53.02"
   },
   {
     "code": "53.02.05",
@@ -8255,11 +7875,6 @@
     "regencyCode": "53.10"
   },
   {
-    "code": "53.11.01",
-    "name": "1Kota Waingapu",
-    "regencyCode": "53.11"
-  },
-  {
     "code": "53.11.03",
     "name": "3Lewa",
     "regencyCode": "53.11"
@@ -8312,11 +7927,6 @@
   {
     "code": "53.12.10",
     "name": "2Loli",
-    "regencyCode": "53.12"
-  },
-  {
-    "code": "53.12.15",
-    "name": "5Kota Waikabubak",
     "regencyCode": "53.12"
   },
   {
@@ -8560,11 +8170,6 @@
     "regencyCode": "53.19"
   },
   {
-    "code": "53.19.02",
-    "name": "Semula wil. Kab. Manggarai. Perubahan Nama Kecamatan Semula",
-    "regencyCode": "53.19"
-  },
-  {
     "code": "53.19.03",
     "name": "Semula wil. Kab. Manggarai",
     "regencyCode": "53.19"
@@ -8590,18 +8195,8 @@
     "regencyCode": "53.19"
   },
   {
-    "code": "53.19.08",
-    "name": "Pemekaran Kec. Poco Ranaka Perda No. 7/2012. Perubahan Nama",
-    "regencyCode": "53.19"
-  },
-  {
     "code": "53.19.09",
     "name": "Pemekaran Kec. Elar Perda No. 7/2012",
-    "regencyCode": "53.19"
-  },
-  {
-    "code": "53.19.10",
-    "name": "Pemekaran wil dari Kec. Kota Komba sesuai Perda No. 3/2020",
     "regencyCode": "53.19"
   },
   {
@@ -8800,11 +8395,6 @@
     "regencyCode": "61.11"
   },
   {
-    "code": "Karimata",
-    "name": "Perda No. 4/2011",
-    "regencyCode": "Karim"
-  },
-  {
     "code": "61.11.05",
     "name": "Semula wil. Kab. Ketapang",
     "regencyCode": "61.11"
@@ -8900,11 +8490,6 @@
     "regencyCode": "62.01"
   },
   {
-    "code": "62.01.03",
-    "name": "3Kotawaringin Lama",
-    "regencyCode": "62.01"
-  },
-  {
     "code": "62.01.04",
     "name": "4Arut Utara",
     "regencyCode": "62.01"
@@ -8918,11 +8503,6 @@
     "code": "62.01.06",
     "name": "Perda 10/2003",
     "regencyCode": "62.01"
-  },
-  {
-    "code": "62.02.01",
-    "name": "1Kota Besi",
-    "regencyCode": "62.02"
   },
   {
     "code": "62.02.03",
@@ -9665,11 +9245,6 @@
     "regencyCode": "63.72"
   },
   {
-    "code": "64.01.03",
-    "name": "Perubahan Nama Kec, Perda No. 2/2015",
-    "regencyCode": "64.01"
-  },
-  {
     "code": "64.01.04",
     "name": "4Tanah Grogot",
     "regencyCode": "64.01"
@@ -9702,11 +9277,6 @@
   {
     "code": "64.02.13",
     "name": "13Samboja",
-    "regencyCode": "64.02"
-  },
-  {
-    "code": "64.02.19",
-    "name": "Pemekaran Sebagian wil. Kec. Kota Bangun sesuai Perda No. 5/2020",
     "regencyCode": "64.02"
   },
   {
@@ -10385,11 +9955,6 @@
     "regencyCode": "71.11"
   },
   {
-    "code": "71.71.02",
-    "name": "Perbaikan nama semula Tuminiting, Perda Kota Manado No.2/2012",
-    "regencyCode": "71.71"
-  },
-  {
     "code": "71.71.10",
     "name": "Pemekaran Kec. Bunaken Perda No. 2/2012",
     "regencyCode": "71.71"
@@ -10580,18 +10145,8 @@
     "regencyCode": "72.03"
   },
   {
-    "code": "72.03.06",
-    "name": "Perubahan Nama Kec. Dampelas Sojol menjadi Kec. Dampelas Perda",
-    "regencyCode": "72.03"
-  },
-  {
     "code": "72.03.08",
     "name": "3Banawa",
-    "regencyCode": "72.03"
-  },
-  {
-    "code": "72.03.09",
-    "name": "Perubahan Nama Kec. Tawaeli, Perda No. 3/2005",
     "regencyCode": "72.03"
   },
   {
@@ -10860,11 +10415,6 @@
     "regencyCode": "72.09"
   },
   {
-    "code": "72.09.10",
-    "name": "Pemeakran Kec. Ampana Kota Perda No. 15/2014",
-    "regencyCode": "72.09"
-  },
-  {
     "code": "72.09.11",
     "name": "Pemeakran Kec. Una Una Perda No. 16/2014",
     "regencyCode": "72.09"
@@ -10955,11 +10505,6 @@
     "regencyCode": "72.12"
   },
   {
-    "code": "oleh Gub",
-    "name": "Kep.KPU No.117/KPTS/KPU/2013 Kec Petasia Barat (Dapil",
-    "regencyCode": "oleh "
-  },
-  {
     "code": "72.71.05",
     "name": "Pemekaran Kec. Palu Barat Perda No. 4/2012",
     "regencyCode": "72.71"
@@ -10993,11 +10538,6 @@
     "code": "73.01.11",
     "name": "Perda Nomor 16 Tahun 2007",
     "regencyCode": "73.01"
-  },
-  {
-    "code": "73.02.01",
-    "name": "Perbaikan nama kec. semula Gantorang menjadi Gantarang, sesuai:",
-    "regencyCode": "73.02"
   },
   {
     "code": "73.02.03",
@@ -11630,16 +11170,6 @@
     "regencyCode": "73.15"
   },
   {
-    "code": "73.15.10",
-    "name": "perbaikan nama dari Lansirang menjadi Lanrisang,surat sekda Prov",
-    "regencyCode": "73.15"
-  },
-  {
-    "code": "73.15.12",
-    "name": "Perbaikan nama kec. semula Batu Lappa menjadi Batulappa, sesuai:",
-    "regencyCode": "73.15"
-  },
-  {
     "code": "73.16.01",
     "name": "1Maiwa",
     "regencyCode": "73.16"
@@ -11662,26 +11192,6 @@
   {
     "code": "73.16.05",
     "name": "5Alla",
-    "regencyCode": "73.16"
-  },
-  {
-    "code": "73.16.06",
-    "name": "Perubahan Nama Kec. Maiwa Atas, Perda No.5/2002",
-    "regencyCode": "73.16"
-  },
-  {
-    "code": "73.16.07",
-    "name": "Perubahan Nama Kec. Enrekang Selatan, Perda No.4/2002",
-    "regencyCode": "73.16"
-  },
-  {
-    "code": "73.16.08",
-    "name": "Perubahan Nama Kec. Alla Timur, Perda No.7/2002",
-    "regencyCode": "73.16"
-  },
-  {
-    "code": "73.16.09",
-    "name": "Perubahan Nama Kec.Anggeraja Timur, Perda No.6/2002",
     "regencyCode": "73.16"
   },
   {
@@ -14265,11 +13775,6 @@
     "regencyCode": "82.08"
   },
   {
-    "code": "82.71.04",
-    "name": "Perda No 10/2001. Koreksi nama Surat Dukcapil Kota Ternate No",
-    "regencyCode": "82.71"
-  },
-  {
     "code": "82.71.05",
     "name": "Perda No. 6/2007",
     "regencyCode": "82.71"
@@ -14388,11 +13893,6 @@
     "code": "91.05.17",
     "name": "Pembentukan Distrik Nusawani hasil pemekaran dari sebagian",
     "regencyCode": "91.05"
-  },
-  {
-    "code": "91.06.01",
-    "name": "1Biak Kota",
-    "regencyCode": "91.06"
   },
   {
     "code": "91.06.12",
@@ -14950,11 +14450,6 @@
     "regencyCode": "92.06"
   },
   {
-    "code": "92.06.07",
-    "name": "Perubahan Kec. Idoor, Perda No. 3/2007",
-    "regencyCode": "92.06"
-  },
-  {
     "code": "92.06.09",
     "name": "Perda No. 3/2007",
     "regencyCode": "92.06"
@@ -15285,71 +14780,6 @@
     "regencyCode": "92.10"
   },
   {
-    "code": "92.10.12",
-    "name": "Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.13",
-    "name": "Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.14",
-    "name": "Pemekaran Kec. Aifat Timur Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.15",
-    "name": "Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.16",
-    "name": "Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.17",
-    "name": "Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.18",
-    "name": "Pemekaran Kec. Ayamaru Utara Perda No. 3/2012 Tentang",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.19",
-    "name": "Pemekaran Kec. Ayamaru Utara Perda No. 3/2012 Tentang",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.20",
-    "name": "Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.21",
-    "name": "Pemekaran Kec. Ayamaru Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.22",
-    "name": "Pemekaran Kec. Aitinyo Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.23",
-    "name": "Pemekaran Kec. Aitonyo Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
-    "code": "92.10.24",
-    "name": "Pemekaran Kec. Mare Perda No. 3/2012 Tentang Pembentukan",
-    "regencyCode": "92.10"
-  },
-  {
     "code": "92.12.01",
     "name": "Semula wil Kab. Manokwari UU No. 24 Tahun 2012",
     "regencyCode": "92.12"
@@ -15430,406 +14860,6 @@
     "regencyCode": "92.71"
   },
   {
-    "code": "93.01.01",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.02",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.03",
-    "name": "Semula wil. Prov Papua; UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.04",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.05",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.06",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.07",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.08",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.09",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.10",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.11",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.12",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.13",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.14",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.15",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.16",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.17",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.18",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.19",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.20",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.21",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.01.22",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.01"
-  },
-  {
-    "code": "93.02.01",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.02",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.03",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.04",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.05",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.06",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.07",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.08",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.09",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.10",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.11",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.12",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.13",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.14",
-    "name": "Semula wil. Prov Papua; UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.15",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.16",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.17",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.18",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.19",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.02.20",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.02"
-  },
-  {
-    "code": "93.03.01",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.02",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.03",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.04",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.05",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.06",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.07",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.08",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.09",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.10",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.11",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.12",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.13",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.14",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.03.15",
-    "name": "Semula wil. Prov Papua; UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.03"
-  },
-  {
-    "code": "93.04.01",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.02",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.03",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.04",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.05",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.06",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.07",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.08",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.09",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.10",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.11",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.12",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.13",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.14",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.15",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.16",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.17",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.18",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.19",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.20",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.21",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.22",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
-    "code": "93.04.23",
-    "name": "Semula wil. Prov Papua, UU No. 14 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "93.04"
-  },
-  {
     "code": "93.04.24",
     "name": "Pemekaran sebagian Kec. Unir Sirau dan Kec. Suru-Suru",
     "regencyCode": "93.04"
@@ -15840,439 +14870,9 @@
     "regencyCode": "93.04"
   },
   {
-    "code": "94.01.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.11",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.12",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.13",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.14",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.01.15",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.01"
-  },
-  {
-    "code": "94.02.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.11",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.12",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.13",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.14",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.15",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.16",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.17",
-    "name": "Semula wil. Prov. Papua; UU No 15 Tahun 2022 Tentang Pembentukan",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.18",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.19",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.20",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.21",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.22",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.23",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.24",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.25",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.02.26",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.02"
-  },
-  {
-    "code": "94.03.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.11",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.12",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.13",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.14",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.15",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.16",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.17",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.18",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.19",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.20",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.21",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.22",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
-    "code": "94.03.23",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.03"
-  },
-  {
     "code": "94.03.24",
     "name": "Pembentukan Distrik Fajar Timur, pemekaran dari sebagian wilayah",
     "regencyCode": "94.03"
-  },
-  {
-    "code": "94.04.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.11",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.12",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.13",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.14",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.15",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.16",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.17",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.04.18",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.04"
-  },
-  {
-    "code": "94.05.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
   },
   {
     "code": "94.05.05",
@@ -16280,1478 +14880,8 @@
     "regencyCode": "94.05"
   },
   {
-    "code": "94.05.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.11",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.12",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.13",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.14",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.15",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.16",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.17",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.18",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.19",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.20",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.21",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.22",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.23",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.24",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.05.25",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.05"
-  },
-  {
-    "code": "94.06.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.09",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.06.10",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.06"
-  },
-  {
-    "code": "94.07.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.06",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.07",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.07.08",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.07"
-  },
-  {
-    "code": "94.08.01",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.08"
-  },
-  {
-    "code": "94.08.02",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.08"
-  },
-  {
-    "code": "94.08.03",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.08"
-  },
-  {
-    "code": "94.08.04",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.08"
-  },
-  {
-    "code": "94.08.05",
-    "name": "Semula Wil. Prov. Papua; UU No 15 Tahun 2022 Tentang",
-    "regencyCode": "94.08"
-  },
-  {
-    "code": "95.01.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.33",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.34",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.35",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.36",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.37",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.38",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.39",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.01.40",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.01"
-  },
-  {
-    "code": "95.02.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.33",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.02.34",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.02"
-  },
-  {
-    "code": "95.03.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.33",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.34",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.35",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.36",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.37",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.38",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.39",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.40",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.41",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.42",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.43",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.44",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.45",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.46",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.47",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.48",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.49",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.50",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.03.51",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.03"
-  },
-  {
-    "code": "95.04.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.33",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.34",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.35",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.36",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.37",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.38",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.39",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.40",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.41",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.42",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.43",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.44",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.45",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
-    "code": "95.04.46",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.04"
-  },
-  {
     "code": "95.05.01",
     "name": "Perbaikan nama kecamatan semula Kobagma menjadi Kobakma",
     "regencyCode": "95.05"
-  },
-  {
-    "code": "95.05.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.05"
-  },
-  {
-    "code": "95.05.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.05"
-  },
-  {
-    "code": "95.05.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.05"
-  },
-  {
-    "code": "95.05.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.05"
-  },
-  {
-    "code": "95.06.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.06"
-  },
-  {
-    "code": "95.06.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.06"
-  },
-  {
-    "code": "95.06.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.06"
-  },
-  {
-    "code": "95.06.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.06"
-  },
-  {
-    "code": "95.06.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.06"
-  },
-  {
-    "code": "95.07.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.33",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.34",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.35",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.36",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.37",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.38",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.07.39",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.07"
-  },
-  {
-    "code": "95.08.01",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.02",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.03",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.04",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.05",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.06",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.07",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.08",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.09",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.10",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.11",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.12",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.13",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.14",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.15",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.16",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.17",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.18",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.19",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.20",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.21",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.22",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.23",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.24",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.25",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.26",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.27",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.28",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.29",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.30",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.31",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
-  },
-  {
-    "code": "95.08.32",
-    "name": "Semula wil Prov. Papua; UU No. 16 Tahun 2022 tentang Pembentukan",
-    "regencyCode": "95.08"
   }
 ]
