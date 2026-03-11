@@ -7,7 +7,7 @@
   },
   {
     "code": "11.03",
-    "name": "PP No. 5/2007 tentang Pemindahan Ibukota Kab. Aceh Timur dari",
+    "name": "ACEH TIMUR",
     "provinceCode": "11",
     "type": "KABUPATEN"
   },
@@ -54,16 +54,28 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "11.18",
-    "name": "UU No. 7/2007.",
+    "code": "11.71",
+    "name": "BANDA ACEH",
     "provinceCode": "11",
-    "type": "KABUPATEN"
+    "type": "KOTA"
+  },
+  {
+    "code": "11.72",
+    "name": "SABANG",
+    "provinceCode": "11",
+    "type": "KOTA"
+  },
+  {
+    "code": "11.74",
+    "name": "LANGSA",
+    "provinceCode": "11",
+    "type": "KOTA"
   },
   {
     "code": "11.75",
-    "name": "UU No.8/2007.",
+    "name": "SUBULUSSALAM",
     "provinceCode": "11",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "12.01",
@@ -144,26 +156,8 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "12.20",
-    "name": "UU No. 37/2007.",
-    "provinceCode": "12",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "12.21",
-    "name": "UU No. 38/2007.",
-    "provinceCode": "12",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "12.22",
-    "name": "UU No. 22/2008.",
-    "provinceCode": "12",
-    "type": "KABUPATEN"
-  },
-  {
     "code": "12.23",
-    "name": "UU No. 23/2008.",
+    "name": "LABUHANBATU UTARA",
     "provinceCode": "12",
     "type": "KABUPATEN"
   },
@@ -175,9 +169,15 @@
   },
   {
     "code": "12.25",
-    "name": "UU No. 46/2008.",
+    "name": "NIAS BARAT",
     "provinceCode": "12",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "12.71",
+    "name": "MEDAN",
+    "provinceCode": "12",
+    "type": "KOTA"
   },
   {
     "code": "12.72",
@@ -186,16 +186,16 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "12.77",
-    "name": "UU No. 4 Tahun 2001.",
+    "code": "12.73",
+    "name": "SIBOLGA",
     "provinceCode": "12",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
-    "code": "12.78",
-    "name": "UU No. 46/2008.",
+    "code": "12.74",
+    "name": "TANJUNG BALAI",
     "provinceCode": "12",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "13.01",
@@ -226,6 +226,18 @@
     "name": "PASAMAN BARAT",
     "provinceCode": "13",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "13.71",
+    "name": "PADANG",
+    "provinceCode": "13",
+    "type": "KOTA"
+  },
+  {
+    "code": "13.77",
+    "name": "PARIAMAN",
+    "provinceCode": "13",
+    "type": "KOTA"
   },
   {
     "code": "14.01",
@@ -276,12 +288,6 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "15.01",
-    "name": "PP No. 27/2011 Pemindahan Ibukota Kab.",
-    "provinceCode": "15",
-    "type": "KABUPATEN"
-  },
-  {
     "code": "15.04",
     "name": "BATANGHARI",
     "provinceCode": "15",
@@ -296,12 +302,6 @@
   {
     "code": "15.07",
     "name": "TANJUNG JABUNG TIMUR",
-    "provinceCode": "15",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "15.72",
-    "name": "UU No. 25/2008.",
     "provinceCode": "15",
     "type": "KABUPATEN"
   },
@@ -324,10 +324,10 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "16.11",
-    "name": "UU No. 1/2007.",
+    "code": "16.71",
+    "name": "PALEMBANG",
     "provinceCode": "16",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "17.03",
@@ -336,10 +336,10 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "17.09",
-    "name": "UU No. 24/2008.",
+    "code": "17.71",
+    "name": "BENGKULU",
     "provinceCode": "17",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "18.01",
@@ -367,27 +367,15 @@
   },
   {
     "code": "18.09",
-    "name": "UU No. 33/2007.",
+    "name": "PESAWARAN",
     "provinceCode": "18",
     "type": "KABUPATEN"
   },
   {
-    "code": "18.10",
-    "name": "UU No. 48/2008.",
+    "code": "18.71",
+    "name": "BANDAR LAMPUNG",
     "provinceCode": "18",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "18.11",
-    "name": "UU No. 49/2008.",
-    "provinceCode": "18",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "18.12",
-    "name": "UU No. 50/2008.",
-    "provinceCode": "18",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "19.01",
@@ -451,19 +439,61 @@
   },
   {
     "code": "21.05",
-    "name": "UU No. 33/2008.",
+    "name": "KEPULAUAN ANAMBAS",
     "provinceCode": "21",
     "type": "KABUPATEN"
   },
   {
+    "code": "21.71",
+    "name": "BATAM",
+    "provinceCode": "21",
+    "type": "KOTA"
+  },
+  {
+    "code": "21.72",
+    "name": "TANJUNG PINANG",
+    "provinceCode": "21",
+    "type": "KOTA"
+  },
+  {
     "code": "31.01",
-    "name": "ADM. KEP. SERIBU",
+    "name": "KABUPATEN ADM. KEPULAUAN SERIBU",
     "provinceCode": "31",
     "type": "KABUPATEN"
   },
   {
+    "code": "31.71",
+    "name": "KOTA ADM. JAKARTA PUSAT",
+    "provinceCode": "31",
+    "type": "KOTA"
+  },
+  {
+    "code": "31.72",
+    "name": "KOTA ADM. JAKARTA UTARA",
+    "provinceCode": "31",
+    "type": "KOTA"
+  },
+  {
+    "code": "31.73",
+    "name": "KOTA ADM. JAKARTA BARAT",
+    "provinceCode": "31",
+    "type": "KOTA"
+  },
+  {
+    "code": "31.74",
+    "name": "KOTA ADM. JAKARTA SELATAN",
+    "provinceCode": "31",
+    "type": "KOTA"
+  },
+  {
+    "code": "31.75",
+    "name": "KOTA ADM. JAKARTA TIMUR",
+    "provinceCode": "31",
+    "type": "KOTA"
+  },
+  {
     "code": "32.02",
-    "name": "PP Mo. 66/1998",
+    "name": "SUKABUMI",
     "provinceCode": "32",
     "type": "KABUPATEN"
   },
@@ -488,12 +518,6 @@
   {
     "code": "32.12",
     "name": "INDRAMAYU",
-    "provinceCode": "32",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "32.17",
-    "name": "UU No. 12/2007",
     "provinceCode": "32",
     "type": "KABUPATEN"
   },
@@ -636,16 +660,10 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "36.73",
-    "name": "UU No. 32/2007 - PP. 32/2012 Pemindahan Ibukota.",
+    "code": "36.72",
+    "name": "CILEGON",
     "provinceCode": "36",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "36.74",
-    "name": "UU No. 51/2008.",
-    "provinceCode": "36",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "51.01",
@@ -670,6 +688,12 @@
     "name": "KARANGASEM",
     "provinceCode": "51",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "51.71",
+    "name": "DENPASAR",
+    "provinceCode": "51",
+    "type": "KOTA"
   },
   {
     "code": "52.01",
@@ -799,7 +823,7 @@
   },
   {
     "code": "53.16",
-    "name": "UU No. 2/2007.",
+    "name": "NAGEKEO",
     "provinceCode": "53",
     "type": "KABUPATEN"
   },
@@ -810,20 +834,8 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "53.18",
-    "name": "UU No. 16/2007.",
-    "provinceCode": "53",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "53.19",
-    "name": "UU No. 36/2007.",
-    "provinceCode": "53",
-    "type": "KABUPATEN"
-  },
-  {
     "code": "53.20",
-    "name": "UU No. 51/2008.",
+    "name": "SABU RAIJUA",
     "provinceCode": "53",
     "type": "KABUPATEN"
   },
@@ -865,7 +877,7 @@
   },
   {
     "code": "61.11",
-    "name": "UU No. 6 /2007.",
+    "name": "KAYONG UTARA",
     "provinceCode": "61",
     "type": "KABUPATEN"
   },
@@ -874,6 +886,18 @@
     "name": "UU No 35/2007.",
     "provinceCode": "61",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "61.71",
+    "name": "PONTIANAK",
+    "provinceCode": "61",
+    "type": "KOTA"
+  },
+  {
+    "code": "61.72",
+    "name": "SINGKAWANG",
+    "provinceCode": "61",
+    "type": "KOTA"
   },
   {
     "code": "62.01",
@@ -924,6 +948,12 @@
     "type": "KABUPATEN"
   },
   {
+    "code": "62.71",
+    "name": "PALANGKARAYA",
+    "provinceCode": "62",
+    "type": "KOTA"
+  },
+  {
     "code": "63.01",
     "name": "TANAH LAUT",
     "provinceCode": "63",
@@ -954,6 +984,12 @@
     "type": "KABUPATEN"
   },
   {
+    "code": "63.71",
+    "name": "BANJARMASIN",
+    "provinceCode": "63",
+    "type": "KOTA"
+  },
+  {
     "code": "64.01",
     "name": "PASER",
     "provinceCode": "64",
@@ -961,7 +997,7 @@
   },
   {
     "code": "64.02",
-    "name": "PP No. 8/2002 tentang Perubahan nama Kabupaten Kutai menjadi",
+    "name": "KUTAI KARTANEGARA",
     "provinceCode": "64",
     "type": "KABUPATEN"
   },
@@ -990,10 +1026,22 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "64.11",
-    "name": "UU No. 2 Tahun 2013.",
+    "code": "64.71",
+    "name": "BALIKPAPAN",
     "provinceCode": "64",
-    "type": "KABUPATEN"
+    "type": "KOTA"
+  },
+  {
+    "code": "64.72",
+    "name": "SAMARINDA",
+    "provinceCode": "64",
+    "type": "KOTA"
+  },
+  {
+    "code": "64.74",
+    "name": "BONTANG",
+    "provinceCode": "64",
+    "type": "KOTA"
   },
   {
     "code": "65.01",
@@ -1021,9 +1069,9 @@
   },
   {
     "code": "65.71",
-    "name": "Semula wil. Prov. Kalimantan Timur.",
+    "name": "TARAKAN",
     "provinceCode": "65",
-    "type": "KABUPATEN"
+    "type": "KOTA"
   },
   {
     "code": "71.01",
@@ -1084,6 +1132,18 @@
     "name": "BOLAANG MONGONDOW SELATAN",
     "provinceCode": "71",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "71.71",
+    "name": "MANADO",
+    "provinceCode": "71",
+    "type": "KOTA"
+  },
+  {
+    "code": "71.72",
+    "name": "BITUNG",
+    "provinceCode": "71",
+    "type": "KOTA"
   },
   {
     "code": "72.01",
@@ -1224,10 +1284,16 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "73.26",
-    "name": "UU No. 28/2008,",
+    "code": "73.71",
+    "name": "MAKASSAR",
     "provinceCode": "73",
-    "type": "KABUPATEN"
+    "type": "KOTA"
+  },
+  {
+    "code": "73.73",
+    "name": "PALOPO",
+    "provinceCode": "73",
+    "type": "KOTA"
   },
   {
     "code": "74.01",
@@ -1279,13 +1345,7 @@
   },
   {
     "code": "74.09",
-    "name": "UU No. 13/2007.",
-    "provinceCode": "74",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "74.10",
-    "name": "UU No. 14/2007.",
+    "name": "KONAWE UTARA",
     "provinceCode": "74",
     "type": "KABUPATEN"
   },
@@ -1306,6 +1366,18 @@
     "name": "BUTON TENGAH",
     "provinceCode": "74",
     "type": "KABUPATEN"
+  },
+  {
+    "code": "74.71",
+    "name": "KENDARI",
+    "provinceCode": "74",
+    "type": "KOTA"
+  },
+  {
+    "code": "74.72",
+    "name": "BAU BAU",
+    "provinceCode": "74",
+    "type": "KOTA"
   },
   {
     "code": "75.02",
@@ -1370,12 +1442,6 @@
   {
     "code": "81.03",
     "name": "KEPULAUAN TANIMBAR",
-    "provinceCode": "81",
-    "type": "KABUPATEN"
-  },
-  {
-    "code": "81.72",
-    "name": "UU No. 31/2007.",
     "provinceCode": "81",
     "type": "KABUPATEN"
   }

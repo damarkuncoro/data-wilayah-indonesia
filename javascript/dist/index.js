@@ -23,20 +23,39 @@ const json_regency_repository_1 = require("./infrastructure/repositories/json-re
 const json_district_repository_1 = require("./infrastructure/repositories/json-district-repository");
 const json_village_repository_1 = require("./infrastructure/repositories/json-village-repository");
 // Load data (In a real package, this might be handled by a factory or dependency injection)
-const provinces_json_1 = __importDefault(require("../data/provinces.json"));
-const regencies_json_1 = __importDefault(require("../data/regencies.json"));
-const districts_json_1 = __importDefault(require("../data/districts.json"));
-const villages_json_1 = __importDefault(require("../data/villages.json"));
+const provinces_json_1 = __importDefault(require("@damarkuncoro/data-wilayah-indonesia/data/provinces.json"));
+const regencies_json_1 = __importDefault(require("@damarkuncoro/data-wilayah-indonesia/data/regencies.json"));
+const districts_json_1 = __importDefault(require("@damarkuncoro/data-wilayah-indonesia/data/districts.json"));
+const villages_json_1 = __importDefault(require("@damarkuncoro/data-wilayah-indonesia/data/villages.json"));
 /**
  * DataWilayahService - Facade class for Data Wilayah Indonesia.
- * Follows Clean Architecture (Composition Root).
+ * Follows Clean Architecture (Composition Root) with Lazy Initialization.
  */
 class DataWilayahService {
-    constructor() {
-        this.provinceRepo = new json_province_repository_1.JSONProvinceRepository(provinces_json_1.default);
-        this.regencyRepo = new json_regency_repository_1.JSONRegencyRepository(regencies_json_1.default);
-        this.districtRepo = new json_district_repository_1.JSONDistrictRepository(districts_json_1.default);
-        this.villageRepo = new json_village_repository_1.JSONVillageRepository(villages_json_1.default);
+    constructor() { }
+    get provinceRepo() {
+        if (!this._provinceRepo) {
+            this._provinceRepo = new json_province_repository_1.JSONProvinceRepository(provinces_json_1.default);
+        }
+        return this._provinceRepo;
+    }
+    get regencyRepo() {
+        if (!this._regencyRepo) {
+            this._regencyRepo = new json_regency_repository_1.JSONRegencyRepository(regencies_json_1.default);
+        }
+        return this._regencyRepo;
+    }
+    get districtRepo() {
+        if (!this._districtRepo) {
+            this._districtRepo = new json_district_repository_1.JSONDistrictRepository(districts_json_1.default);
+        }
+        return this._districtRepo;
+    }
+    get villageRepo() {
+        if (!this._villageRepo) {
+            this._villageRepo = new json_village_repository_1.JSONVillageRepository(villages_json_1.default);
+        }
+        return this._villageRepo;
     }
     /**
      * Get all provinces.
@@ -91,6 +110,17 @@ class DataWilayahService {
      */
     findProvincesByName(name) {
         return this.provinceRepo.findByName(name);
+    }
+    /**
+     * Global search for any administrative unit by name.
+     */
+    search(name) {
+        const results = [];
+        this.provinceRepo.findByName(name).forEach(p => results.push({ type: 'PROVINCE', item: p }));
+        this.regencyRepo.findByName(name).forEach(r => results.push({ type: 'REGENCY', item: r }));
+        this.districtRepo.findByName(name).forEach(d => results.push({ type: 'DISTRICT', item: d }));
+        this.villageRepo.findByName(name).forEach(v => results.push({ type: 'VILLAGE', item: v }));
+        return results;
     }
 }
 exports.DataWilayahService = DataWilayahService;

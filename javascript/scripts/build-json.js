@@ -59,10 +59,11 @@ function processData(csvData) {
   const districts = [];
   const villages = [];
   
-  // Known patterns to exclude
+  // Known patterns to exclude (metadata, headers, etc.)
   const excludePatterns = [
     'Luas Wilayah',
     'UU. No.',
+    'UU No.',
     'Perubahan nama',
     'Sesuai Surat',
     'Surat Sekda',
@@ -74,8 +75,14 @@ function processData(csvData) {
     'perubahan',
     'tidak ada',
     'district',
-    'kabupaten',
-    'kota'
+    'kode',
+    'nama',
+    'PP No.',
+    'PP Mo.',
+    'Kepmendagri',
+    'Luas wilayah',
+    'Perda',
+    'Pemekaran'
   ];
   
   // Check if name should be excluded
@@ -93,16 +100,64 @@ function processData(csvData) {
     return /^\d{2}(\.\d{2}){0,2}(\.\d{4})?$/.test(code);
   }
   
+  const provinceNames = {
+    '11': 'ACEH',
+    '12': 'SUMATERA UTARA',
+    '13': 'SUMATERA BARAT',
+    '14': 'RIAU',
+    '15': 'JAMBI',
+    '16': 'SUMATERA SELATAN',
+    '17': 'BENGKULU',
+    '18': 'LAMPUNG',
+    '19': 'KEPULAUAN BANGKA BELITUNG',
+    '21': 'KEPULAUAN RIAU',
+    '31': 'DKI JAKARTA',
+    '32': 'JAWA BARAT',
+    '33': 'JAWA TENGAH',
+    '34': 'DAERAH ISTIMEWA YOGYAKARTA',
+    '35': 'JAWA TIMUR',
+    '36': 'BANTEN',
+    '51': 'BALI',
+    '52': 'NUSA TENGGARA BARAT',
+    '53': 'NUSA TENGGARA TIMUR',
+    '61': 'KALIMANTAN BARAT',
+    '62': 'KALIMANTAN TENGAH',
+    '63': 'KALIMANTAN SELATAN',
+    '64': 'KALIMANTAN TIMUR',
+    '65': 'KALIMANTAN UTARA',
+    '71': 'SULAWESI UTARA',
+    '72': 'SULAWESI TENGAH',
+    '73': 'SULAWESI SELATAN',
+    '74': 'SULAWESI TENGGARA',
+    '75': 'GORONTALO',
+    '76': 'SULAWESI BARAT',
+    '81': 'MALUKU',
+    '82': 'MALUKU UTARA',
+    '91': 'PAPUA',
+    '92': 'PAPUA BARAT',
+    '93': 'PAPUA SELATAN',
+    '94': 'PAPUA TENGAH',
+    '95': 'PAPUA PEGUNUNGAN',
+    '96': 'PAPUA BARAT DAYA'
+  };
+
   const regencyNames = {
+    '31.01': 'KABUPATEN ADM. KEPULAUAN SERIBU',
     '31.71': 'KOTA ADM. JAKARTA PUSAT',
     '31.72': 'KOTA ADM. JAKARTA UTARA',
     '31.73': 'KOTA ADM. JAKARTA BARAT',
     '31.74': 'KOTA ADM. JAKARTA SELATAN',
-    '31.75': 'KOTA ADM. JAKARTA TIMUR',
-    '31.01': 'KAB. ADM. KEP. SERIBU'
+    '31.75': 'KOTA ADM. JAKARTA TIMUR'
   };
 
-  const districtNames = {};
+  let districtNames = {};
+  
+  // Load corrected Aceh districts if available
+  const acehDistrictsPath = path.join(__dirname, 'aceh_districts_corrected.json');
+  if (fs.existsSync(acehDistrictsPath)) {
+    console.log('[INFO] Loading corrected Aceh district names.');
+    districtNames = JSON.parse(fs.readFileSync(acehDistrictsPath, 'utf-8'));
+  }
 
   for (const row of csvData) {
     const code = row.code;
@@ -115,10 +170,21 @@ function processData(csvData) {
     const cleanName = name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim();
     const codeParts = code.split('.');
     
-    if (codeParts.length === 4) { // Process villages first to get district names
+    if (codeParts.length === 3) {
+      // If the name contains "Kecamatan" or "Kec", extract the real name
+      const match = cleanName.match(/(?:Kecamatan|Kec\.?)\s+(.+)/i);
+      if (match) {
+        districtNames[code] = match[1].toUpperCase();
+      } else if (cleanName !== '-' && !districtNames[code]) {
+        districtNames[code] = cleanName.toUpperCase();
+      }
+    }
+    
+    if (codeParts.length === 4) { // Process villages last as fallback for district names
       const districtCode = `${codeParts[0]}.${codeParts[1]}.${codeParts[2]}`;
-      if (!districtNames[districtCode]) {
-        districtNames[districtCode] = cleanName; // Use first village name as a proxy for district
+      // ONLY use village name as fallback for NON-ACEH districts where name is still missing
+      if (!districtNames[districtCode] && !districtCode.startsWith('11.')) {
+        districtNames[districtCode] = cleanName; 
       }
     }
   }
@@ -134,16 +200,20 @@ function processData(csvData) {
     const cleanName = name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim();
     const codeParts = code.split('.');
 
-    if (codeParts.length === 1 && !shouldExclude(name)) {
-      provinces.push({ code, name: cleanName });
+    if (codeParts.length === 1) {
+      const provinceName = provinceNames[code];
+      if (provinceName) {
+        provinces.push({ code, name: provinceName });
+      }
     } else if (codeParts.length === 2) {
       const regencyName = regencyNames[code] || cleanName;
       if (shouldExclude(regencyName)) continue;
       const provinceCode = codeParts[0];
       const type = regencyName.toUpperCase().startsWith('KOTA') ? 'KOTA' : 'KABUPATEN';
+      const isHardcoded = !!regencyNames[code];
       regencies.push({
         code,
-        name: regencyName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim(),
+        name: isHardcoded ? regencyName : regencyName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim(),
         provinceCode,
         type
       });

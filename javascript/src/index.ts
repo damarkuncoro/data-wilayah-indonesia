@@ -8,26 +8,49 @@ import { JSONDistrictRepository } from "./infrastructure/repositories/json-distr
 import { JSONVillageRepository } from "./infrastructure/repositories/json-village-repository";
 
 // Load data (In a real package, this might be handled by a factory or dependency injection)
-import provincesData from "../data/provinces.json";
-import regenciesData from "../data/regencies.json";
-import districtsData from "../data/districts.json";
-import villagesData from "../data/villages.json";
+import provincesData from '@damarkuncoro/data-wilayah-indonesia/data/provinces.json';
+import regenciesData from '@damarkuncoro/data-wilayah-indonesia/data/regencies.json';
+import districtsData from '@damarkuncoro/data-wilayah-indonesia/data/districts.json';
+import villagesData from '@damarkuncoro/data-wilayah-indonesia/data/villages.json';
 
 /**
  * DataWilayahService - Facade class for Data Wilayah Indonesia.
- * Follows Clean Architecture (Composition Root).
+ * Follows Clean Architecture (Composition Root) with Lazy Initialization.
  */
 export class DataWilayahService {
-  private provinceRepo: JSONProvinceRepository;
-  private regencyRepo: JSONRegencyRepository;
-  private districtRepo: JSONDistrictRepository;
-  private villageRepo: JSONVillageRepository;
+  private _provinceRepo?: JSONProvinceRepository;
+  private _regencyRepo?: JSONRegencyRepository;
+  private _districtRepo?: JSONDistrictRepository;
+  private _villageRepo?: JSONVillageRepository;
 
-  constructor() {
-    this.provinceRepo = new JSONProvinceRepository(provincesData as Province[]);
-    this.regencyRepo = new JSONRegencyRepository(regenciesData as Regency[]);
-    this.districtRepo = new JSONDistrictRepository(districtsData as District[]);
-    this.villageRepo = new JSONVillageRepository(villagesData as Village[]);
+  constructor() {}
+
+  private get provinceRepo(): JSONProvinceRepository {
+    if (!this._provinceRepo) {
+      this._provinceRepo = new JSONProvinceRepository(provincesData as Province[]);
+    }
+    return this._provinceRepo;
+  }
+
+  private get regencyRepo(): JSONRegencyRepository {
+    if (!this._regencyRepo) {
+      this._regencyRepo = new JSONRegencyRepository(regenciesData as Regency[]);
+    }
+    return this._regencyRepo;
+  }
+
+  private get districtRepo(): JSONDistrictRepository {
+    if (!this._districtRepo) {
+      this._districtRepo = new JSONDistrictRepository(districtsData as District[]);
+    }
+    return this._districtRepo;
+  }
+
+  private get villageRepo(): JSONVillageRepository {
+    if (!this._villageRepo) {
+      this._villageRepo = new JSONVillageRepository(villagesData as Village[]);
+    }
+    return this._villageRepo;
   }
 
   /**
@@ -91,6 +114,20 @@ export class DataWilayahService {
    */
   findProvincesByName(name: string): Province[] {
     return this.provinceRepo.findByName(name);
+  }
+
+  /**
+   * Global search for any administrative unit by name.
+   */
+  search(name: string): { type: string; item: any }[] {
+    const results: { type: string; item: any }[] = [];
+    
+    this.provinceRepo.findByName(name).forEach(p => results.push({ type: 'PROVINCE', item: p }));
+    this.regencyRepo.findByName(name).forEach(r => results.push({ type: 'REGENCY', item: r }));
+    this.districtRepo.findByName(name).forEach(d => results.push({ type: 'DISTRICT', item: d }));
+    this.villageRepo.findByName(name).forEach(v => results.push({ type: 'VILLAGE', item: v }));
+    
+    return results;
   }
 }
 

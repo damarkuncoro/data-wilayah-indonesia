@@ -4,14 +4,18 @@ import { District } from "./core/entities/district";
 import { Village } from "./core/entities/village";
 /**
  * DataWilayahService - Facade class for Data Wilayah Indonesia.
- * Follows Clean Architecture (Composition Root).
+ * Follows Clean Architecture (Composition Root) with Lazy Initialization.
  */
 export declare class DataWilayahService {
-    private provinceRepo;
-    private regencyRepo;
-    private districtRepo;
-    private villageRepo;
+    private _provinceRepo?;
+    private _regencyRepo?;
+    private _districtRepo?;
+    private _villageRepo?;
     constructor();
+    private get provinceRepo();
+    private get regencyRepo();
+    private get districtRepo();
+    private get villageRepo();
     /**
      * Get all provinces.
      */
@@ -48,6 +52,13 @@ export declare class DataWilayahService {
      * Find provinces by name.
      */
     findProvincesByName(name: string): Province[];
+    /**
+     * Global search for any administrative unit by name.
+     */
+    search(name: string): {
+        type: string;
+        item: any;
+    }[];
 }
 export * from "./core/entities/administrative-unit";
 export * from "./core/entities/province";

@@ -1,128 +1,82 @@
-# Data Wilayah Indonesia
+# Data Wilayah Indonesia (JavaScript/TypeScript)
 
-Package JavaScript/TypeScript untuk data wilayah administratif Indonesia yang mencakup Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan.
+[![npm version](https://img.shields.io/npm/v/@damarkuncoro/data-wilayah-indonesia.svg)](https://www.npmjs.com/package/@damarkuncoro/data-wilayah-indonesia)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Package JavaScript/TypeScript untuk mengakses data wilayah administratif Indonesia yang mencakup **Provinsi**, **Kabupaten/Kota**, **Kecamatan**, dan **Desa/Kelurahan**. Data ini diekstrak secara otomatis dari dokumen resmi pemerintah dan diatur mengikuti prinsip arsitektur bersih (*Clean Architecture*).
+
+## Fitur Utama
+
+- **Lengkap**: Mencakup 4 level wilayah administratif di seluruh Indonesia.
+- **Ringan & Cepat**: Menggunakan penyimpanan JSON yang dioptimalkan.
+- **Tipe Data Kuat**: Ditulis dalam TypeScript untuk pengalaman pengembangan yang lebih baik.
+- **Fleksibel**: Mendukung pencarian berdasarkan kode, nama, dan pencarian global.
+- **Cascading Support**: Memudahkan pembuatan dropdown bertingkat.
 
 ## Instalasi
 
 ```bash
-npm install data-wilayah-indonesia
+npm install @damarkuncoro/data-wilayah-indonesia
 # atau
-yarn add data-wilayah-indonesia
+yarn add @damarkuncoro/data-wilayah-indonesia
 ```
 
-## Penggunaan
+## Penggunaan Cepat
 
-### TypeScript/JavaScript
+### Inisialisasi Service
 
 ```typescript
-import { DataWilayahService, Province, Regency, District } from 'data-wilayah-indonesia';
+import { DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
 
-// Inisialisasi service
 const service = new DataWilayahService();
-
-// Mendapatkan semua provinsi
-const provinces: Province[] = service.getAllProvinces();
-provinces.forEach(province => {
-  console.log(`${province.code}: ${province.name}`);
-});
-
-// Mendapatkan kabupaten/kota berdasarkan kode provinsi
-const regencies: Regency[] = service.getRegenciesByProvince("11"); // DKI Jakarta
-regencies.forEach(regency => {
-  console.log(`  ${regency.code}: ${regency.name} (${regency.type})`);
-});
-
-// Mendapatkan kecamatan berdasarkan kode kabupaten/kota
-const districts: District[] = service.getDistrictsByRegency("11.01");
-districts.forEach(district => {
-  console.log(`    ${district.code}: ${district.name}`);
-});
-
-// Pencarian
-const results = service.findProvincesByName("jawa");
-console.log(results);
 ```
 
-### Browser (UMD)
+### Navigasi Wilayah (Cascading)
 
-```html
-<script src="https://unpkg.com/data-wilayah-indonesia/dist/index.umd.js"></script>
-<script>
-  const service = new DataWilayahIndonesia.DataWilayahService();
-  const provinces = service.getAllProvinces();
-  console.log(provinces);
-</script>
-```
-
-## API
-
-### DataWilayahService
-
-Kelas utama untuk mengakses data wilayah Indonesia.
-
-#### Metode
-
-- `getAllProvinces(): Province[]` - Mendapatkan semua provinsi
-- `getProvinceByCode(code: string): Province | undefined` - Mendapatkan provinsi berdasarkan kode
-- `findProvincesByName(name: string): Province[]` - Mencari provinsi berdasarkan nama
-- `getRegenciesByProvince(provinceCode: string): Regency[]` - Mendapatkan kabupaten/kota berdasarkan kode provinsi
-- `getRegencyByCode(code: string): Regency | undefined` - Mendapatkan kabupaten/kota berdasarkan kode
-- `findRegenciesByName(name: string): Regency[]` - Mencari kabupaten/kota berdasarkan nama
-- `getDistrictsByRegency(regencyCode: string): District[]` - Mendapatkan kecamatan berdasarkan kode kabupaten/kota
-- `getDistrictByCode(code: string): District | undefined` - Mendapatkan kecamatan berdasarkan kode
-- `findDistrictsByName(name: string): District[]` - Mencari kecamatan berdasarkan nama
-- `getVillagesByDistrict(districtCode: string): Village[]` - Mendapatkan desa/kelurahan berdasarkan kode kecamatan
-- `getVillageByCode(code: string): Village | undefined` - Mendapatkan desa/kelurahan berdasarkan kode
-
-### Tipe Data
-
-#### Province
 ```typescript
-interface Province {
-  code: string;  // Kode provinsi (misal: "11")
-  name: string;  // Nama provinsi
-}
+// 1. Dapatkan semua Provinsi
+const provinces = service.getAllProvinces();
+
+// 2. Dapatkan Kabupaten/Kota di Jawa Barat (Kode: "32")
+const regencies = service.getRegenciesByProvince("32");
+
+// 3. Dapatkan Kecamatan di Kota Bandung (Kode: "32.73")
+const districts = service.getDistrictsByRegency("32.73");
+
+// 4. Dapatkan Desa/Kelurahan di Coblong (Kode: "32.73.08")
+const villages = service.getVillagesByDistrict("32.73.08");
 ```
 
-#### Regency
+### Pencarian Global
+
+Fitur baru untuk mencari wilayah di semua level sekaligus:
+
 ```typescript
-interface Regency {
-  code: string;           // Kode kabupaten/kota
-  name: string;           // Nama kabupaten/kota
-  provinceCode: string;   // Kode provinsi parent
-  type: RegencyType;      // Tipe: "KABUPATEN" atau "KOTA"
-}
-
-enum RegencyType {
-  KABUPATEN = "KABUPATEN",
-  KOTA = "KOTA"
-}
+const searchResults = service.search("Gambir");
+// Output: [
+//   { type: 'DISTRICT', item: { code: '31.71.01', name: 'GAMBIR', ... } },
+//   { type: 'VILLAGE', item: { code: '31.71.01.1001', name: 'GAMBIR', ... } }
+// ]
 ```
 
-#### District
-```typescript
-interface District {
-  code: string;        // Kode kecamatan
-  name: string;         // Nama kecamatan
-  regencyCode: string;  // Kode kabupaten/kota parent
-}
-```
+## Contoh Implementasi (Vite)
 
-#### Village
-```typescript
-interface Village {
-  code: string;         // Kode desa/kelurahan
-  name: string;         // Nama desa/kelurahan
-  districtCode: string; // Kode kecamatan parent
-  type: VillageType;    // Tipe: "DESA" atau "KELURAHAN"
-}
+Anda bisa melihat contoh implementasi dropdown bertingkat yang interaktif di direktori `examples/vite`.
 
-enum VillageType {
-  DESA = "DESA",
-  KELURAHAN = "KELURAHAN"
-}
-```
+## API Reference
+
+### `DataWilayahService`
+
+| Metode | Deskripsi |
+| :--- | :--- |
+| `getAllProvinces()` | Mengambil semua daftar provinsi |
+| `getProvinceByCode(code)` | Mengambil satu provinsi berdasarkan kodenya |
+| `getRegenciesByProvince(provinceCode)` | Mengambil kabupaten/kota dalam suatu provinsi |
+| `getDistrictsByRegency(regencyCode)` | Mengambil kecamatan dalam suatu kabupaten/kota |
+| `getVillagesByDistrict(districtCode)` | Mengambil desa/kelurahan dalam suatu kecamatan |
+| `search(name)` | Melakukan pencarian nama di seluruh level administratif |
+| `findProvincesByName(name)` | Mencari provinsi berdasarkan nama |
 
 ## Lisensi
 
-MIT License
+[MIT](LICENSE) © Damar Kuncoro

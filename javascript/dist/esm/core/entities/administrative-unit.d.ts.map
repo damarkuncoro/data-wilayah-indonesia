@@ -1,0 +1,1 @@
+{"version":3,"file":"administrative-unit.d.ts","sourceRoot":"","sources":["../../../../src/core/entities/administrative-unit.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,8BAAsB,kBAAkB;aAEpB,IAAI,EAAE,MAAM;aACZ,IAAI,EAAE,MAAM;gBADZ,IAAI,EAAE,MAAM,EACZ,IAAI,EAAE,MAAM;CAK/B;AAED,oBAAY,WAAW;IACrB,SAAS,cAAc;IACvB,IAAI,SAAS;CACd;AAED,oBAAY,WAAW;IACrB,IAAI,SAAS;IACb,SAAS,cAAc;CACxB"}

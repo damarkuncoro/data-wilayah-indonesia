@@ -1,7 +1,7 @@
 [
   {
     "code": "11",
-    "name": "DKI JAKARTA"
+    "name": "ACEH"
   },
   {
     "code": "12",
@@ -13,7 +13,7 @@
   },
   {
     "code": "14",
-    "name": "DAERAH ISTIMEWA YOGYAKARTA"
+    "name": "RIAU"
   },
   {
     "code": "15",
@@ -36,28 +36,8 @@
     "name": "KEPULAUAN BANGKA BELITUNG"
   },
   {
-    "code": "20",
-    "name": "KALIMANTAN BARAT"
-  },
-  {
     "code": "21",
-    "name": "KALIMANTAN TENGAH"
-  },
-  {
-    "code": "22",
-    "name": "KALIMANTAN SELATAN"
-  },
-  {
-    "code": "23",
-    "name": "KALIMANTAN TIMUR"
-  },
-  {
-    "code": "24",
-    "name": "KALIMANTAN UTARA"
-  },
-  {
-    "code": "25",
-    "name": "SULAWESI UTARA"
+    "name": "KEPULAUAN RIAU"
   },
   {
     "code": "31",
@@ -149,7 +129,7 @@
   },
   {
     "code": "91",
-    "name": "P A P U A"
+    "name": "PAPUA"
   },
   {
     "code": "92",
