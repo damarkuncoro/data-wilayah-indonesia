@@ -38,6 +38,27 @@ export class DataWilayahService {
   }
 
   /**
+   * Get all regencies.
+   */
+  getAllRegencies(): Regency[] {
+    return this.regencyRepo.getAll();
+  }
+
+  /**
+   * Get all districts.
+   */
+  getAllDistricts(): District[] {
+    return this.districtRepo.getAll();
+  }
+
+  /**
+   * Get all villages.
+   */
+  getAllVillages(): Village[] {
+    return this.villageRepo.getAll();
+  }
+
+  /**
    * Get regencies by province code.
    */
   getRegenciesByProvince(provinceCode: string): Regency[] {

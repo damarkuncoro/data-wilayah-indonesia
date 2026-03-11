@@ -1,9 +1,13 @@
-import { AdministrativeUnit } from "./administrative-unit";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Province = void 0;
+const administrative_unit_1 = require("./administrative-unit");
 /**
  * Province entity.
  */
-export class Province extends AdministrativeUnit {
+class Province extends administrative_unit_1.AdministrativeUnit {
     constructor(code, name) {
         super(code, name);
     }
 }
+exports.Province = Province;

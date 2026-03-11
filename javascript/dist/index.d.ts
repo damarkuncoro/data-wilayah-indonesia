@@ -17,6 +17,18 @@ export declare class DataWilayahService {
      */
     getAllProvinces(): Province[];
     /**
+     * Get all regencies.
+     */
+    getAllRegencies(): Regency[];
+    /**
+     * Get all districts.
+     */
+    getAllDistricts(): District[];
+    /**
+     * Get all villages.
+     */
+    getAllVillages(): Village[];
+    /**
      * Get regencies by province code.
      */
     getRegenciesByProvince(provinceCode: string): Regency[];

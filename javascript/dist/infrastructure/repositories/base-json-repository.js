@@ -1,8 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.BaseJSONRepository = void 0;
 /**
  * Base implementation for JSON-based repositories.
  * Follows DRY principles.
  */
-export class BaseJSONRepository {
+class BaseJSONRepository {
     constructor(data) {
         this.data = data;
     }
@@ -17,3 +20,4 @@ export class BaseJSONRepository {
         return this.data.filter(item => item.name.toLowerCase().includes(lowerName));
     }
 }
+exports.BaseJSONRepository = BaseJSONRepository;

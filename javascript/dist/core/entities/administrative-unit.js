@@ -1,8 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.VillageType = exports.RegencyType = exports.AdministrativeUnit = void 0;
 /**
  * Base class for all administrative units in Indonesia.
  * Follows SRP by only holding basic data.
  */
-export class AdministrativeUnit {
+class AdministrativeUnit {
     constructor(code, name) {
         this.code = code;
         this.name = name;
@@ -12,13 +15,14 @@ export class AdministrativeUnit {
             throw new Error("Administrative name cannot be empty.");
     }
 }
-export var RegencyType;
+exports.AdministrativeUnit = AdministrativeUnit;
+var RegencyType;
 (function (RegencyType) {
     RegencyType["KABUPATEN"] = "KABUPATEN";
     RegencyType["KOTA"] = "KOTA";
-})(RegencyType || (RegencyType = {}));
-export var VillageType;
+})(RegencyType || (exports.RegencyType = RegencyType = {}));
+var VillageType;
 (function (VillageType) {
     VillageType["DESA"] = "DESA";
     VillageType["KELURAHAN"] = "KELURAHAN";
-})(VillageType || (VillageType = {}));
+})(VillageType || (exports.VillageType = VillageType = {}));

@@ -81,69 +81,91 @@ function processData(csvData) {
   // Check if name should be excluded
   function shouldExclude(name) {
     if (!name || name === '-' || name.trim() === '') return true;
-    const lowerName = name.toLowerCase();
     // Also exclude if name is purely numeric (like "2,028")
     if (/^[\d,\.]+$/.test(name)) return true;
-    return excludePatterns.some(pattern => lowerName.includes(pattern.toLowerCase()));
+    return excludePatterns.some(pattern => name.toLowerCase().startsWith(pattern.toLowerCase()));
   }
   
-  // Check if code is valid (should match pattern XX, XX.XX, XX.XX.XX, XX.XX.XX.XXXX or more)
+  // Check if code is valid (should match pattern XX, XX.XX, XX.XX.XX, XX.XX.XX.XXXX)
   function isValidCode(code) {
     if (!code) return false;
-    // Must match pattern like: 11, 11.01, 11.01.01, 11.01.01.1001, 11.01.01.1001.2002
-    return /^(\d{2}|\d{2}\.\d{2}|\d{2}\.\d{2}\.\d{2}|\d{2}\.\d{2}\.\d{2}\.\d+)$/.test(code);
+    // Must match pattern like: 11, 11.01, 11.01.01, 11.01.01.1001
+    return /^\d{2}(\.\d{2}){0,2}(\.\d{4})?$/.test(code);
   }
   
+  const regencyNames = {
+    '31.71': 'KOTA ADM. JAKARTA PUSAT',
+    '31.72': 'KOTA ADM. JAKARTA UTARA',
+    '31.73': 'KOTA ADM. JAKARTA BARAT',
+    '31.74': 'KOTA ADM. JAKARTA SELATAN',
+    '31.75': 'KOTA ADM. JAKARTA TIMUR',
+    '31.01': 'KAB. ADM. KEP. SERIBU'
+  };
+
+  const districtNames = {};
+
   for (const row of csvData) {
     const code = row.code;
     const name = row.name;
     
-    // Skip invalid entries
     if (!isValidCode(code) || shouldExclude(name)) {
       continue;
     }
     
-    // Clean name - remove extra whitespace
-    const cleanName = name.replace(/\s+/g, ' ').trim();
-    
+    const cleanName = name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim();
     const codeParts = code.split('.');
     
-    if (codeParts.length === 1) {
-      // Province (e.g., "11")
-      // Check for duplicate province codes
-      const existing = provinces.find(p => p.code === code);
-      if (!existing) {
-        provinces.push({ code, name: cleanName });
+    if (codeParts.length === 4) { // Process villages first to get district names
+      const districtCode = `${codeParts[0]}.${codeParts[1]}.${codeParts[2]}`;
+      if (!districtNames[districtCode]) {
+        districtNames[districtCode] = cleanName; // Use first village name as a proxy for district
       }
+    }
+  }
+
+  for (const row of csvData) {
+    const code = row.code;
+    const name = row.name;
+    
+    if (!isValidCode(code)) {
+      continue;
+    }
+
+    const cleanName = name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim();
+    const codeParts = code.split('.');
+
+    if (codeParts.length === 1 && !shouldExclude(name)) {
+      provinces.push({ code, name: cleanName });
     } else if (codeParts.length === 2) {
-      // Regency (Kabupaten/Kota) - e.g., "11.01"
+      const regencyName = regencyNames[code] || cleanName;
+      if (shouldExclude(regencyName)) continue;
       const provinceCode = codeParts[0];
-      const type = cleanName.toUpperCase().startsWith('KABUPATEN') || cleanName.toUpperCase().startsWith('KAB.')
-        ? 'KABUPATEN'
-        : 'KOTA';
-      const regencyName = cleanName.replace(/^(KABUPATEN|KAB\.|KOTA)\s*/i, '').trim();
+      const type = regencyName.toUpperCase().startsWith('KOTA') ? 'KOTA' : 'KABUPATEN';
       regencies.push({
         code,
-        name: regencyName,
+        name: regencyName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim(),
         provinceCode,
         type
       });
     } else if (codeParts.length === 3) {
-      // District - e.g., "11.01.01"
+      const districtName = districtNames[code] || cleanName;
+      if (shouldExclude(districtName)) continue;
       const regencyCode = `${codeParts[0]}.${codeParts[1]}`;
-      districts.push({ code, name: cleanName, regencyCode });
-    } else if (codeParts.length === 4) {
-      // Village - e.g., "11.01.01.1001"
+      districts.push({ code, name: districtName, regencyCode });
+    } else if (codeParts.length === 4 && !shouldExclude(name)) {
       const districtCode = `${codeParts[0]}.${codeParts[1]}.${codeParts[2]}`;
-      const type = cleanName.toUpperCase().startsWith('KELURAHAN') || cleanName.toUpperCase().startsWith('KEL.')
-        ? 'KELURAHAN'
-        : 'DESA';
-      const villageName = cleanName.replace(/^(KELURAHAN|KEL\.|DESA)\s*/i, '').trim();
-      villages.push({ code, name: villageName, districtCode, type });
+      const type = codeParts[3].startsWith('1') ? 'KELURAHAN' : 'DESA';
+      villages.push({ code, name: cleanName, districtCode, type });
     }
   }
   
-  return { provinces, regencies, districts, villages };
+  // Remove duplicates
+  const uniqueProvinces = Array.from(new Map(provinces.map(p => [p.code, p])).values());
+  const uniqueRegencies = Array.from(new Map(regencies.map(r => [r.code, r])).values());
+  const uniqueDistricts = Array.from(new Map(districts.map(d => [d.code, d])).values());
+  const uniqueVillages = Array.from(new Map(villages.map(v => [v.code, v])).values());
+
+  return { provinces: uniqueProvinces, regencies: uniqueRegencies, districts: uniqueDistricts, villages: uniqueVillages };
 }
 
 // Main

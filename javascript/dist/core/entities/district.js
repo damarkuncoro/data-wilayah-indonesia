@@ -1,8 +1,11 @@
-import { AdministrativeUnit } from "./administrative-unit";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.District = void 0;
+const administrative_unit_1 = require("./administrative-unit");
 /**
  * District entity.
  */
-export class District extends AdministrativeUnit {
+class District extends administrative_unit_1.AdministrativeUnit {
     constructor(code, name, regencyCode) {
         super(code, name);
         this.regencyCode = regencyCode;
@@ -10,3 +13,4 @@ export class District extends AdministrativeUnit {
             throw new Error("Regency code cannot be empty.");
     }
 }
+exports.District = District;

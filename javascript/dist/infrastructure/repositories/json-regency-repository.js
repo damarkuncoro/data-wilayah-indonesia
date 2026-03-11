@@ -1,8 +1,11 @@
-import { BaseJSONRepository } from "./base-json-repository";
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.JSONRegencyRepository = void 0;
+const base_json_repository_1 = require("./base-json-repository");
 /**
  * JSON implementation for Regency repository.
  */
-export class JSONRegencyRepository extends BaseJSONRepository {
+class JSONRegencyRepository extends base_json_repository_1.BaseJSONRepository {
     constructor(data) {
         super(data);
     }
@@ -10,3 +13,4 @@ export class JSONRegencyRepository extends BaseJSONRepository {
         return this.data.filter(r => r.provinceCode === provinceCode);
     }
 }
+exports.JSONRegencyRepository = JSONRegencyRepository;

@@ -1,19 +1,22 @@
+"use strict";
 /**
  * Tipe data untuk wilayah administratif Indonesia
  */
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.VillageType = exports.RegencyType = void 0;
 /**
  * Jenis Kabupaten/Kota
  */
-export var RegencyType;
+var RegencyType;
 (function (RegencyType) {
     RegencyType["KABUPATEN"] = "KABUPATEN";
     RegencyType["KOTA"] = "KOTA";
-})(RegencyType || (RegencyType = {}));
+})(RegencyType || (exports.RegencyType = RegencyType = {}));
 /**
  * Jenis Desa/Kelurahan
  */
-export var VillageType;
+var VillageType;
 (function (VillageType) {
     VillageType["DESA"] = "DESA";
     VillageType["KELURAHAN"] = "KELURAHAN";
-})(VillageType || (VillageType = {}));
+})(VillageType || (exports.VillageType = VillageType = {}));
