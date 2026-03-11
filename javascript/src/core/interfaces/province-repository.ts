@@ -1,4 +1,4 @@
-import { Province } from "../entities/province";
+import { Province } from '../entities';
 import { Repository } from "./repository";
 
 /**

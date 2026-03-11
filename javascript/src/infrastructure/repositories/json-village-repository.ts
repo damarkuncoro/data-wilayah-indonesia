@@ -1,4 +1,4 @@
-import { Village } from "../../core/entities/village";
+import { Village } from '../../core/entities';
 import { VillageRepository } from "../../core/interfaces/village-repository";
 import { BaseJSONRepository } from "./base-json-repository";
 

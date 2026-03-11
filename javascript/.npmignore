@@ -1,0 +1,17 @@
+# Config files
+tsconfig.json
+tsconfig.cjs.json
+tsconfig.esm.json
+jest.config.js
+
+# Test files
+**/*.test.ts
+
+# Scripts
+scripts/
+
+# Development files
+examples/
+
+# Ignore source maps from being published
+**/*.map

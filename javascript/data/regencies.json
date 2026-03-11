@@ -180,12 +180,6 @@
     "type": "KOTA"
   },
   {
-    "code": "12.72",
-    "name": "Perbaikan nama sesuai BA No. 2826.a/BP/2017 Rapat Penyusunan &",
-    "provinceCode": "12",
-    "type": "KABUPATEN"
-  },
-  {
     "code": "12.73",
     "name": "SIBOLGA",
     "provinceCode": "12",
@@ -205,7 +199,7 @@
   },
   {
     "code": "13.05",
-    "name": "Pemindahan Ibukota PP No. 79/2008.",
+    "name": "PADANG PARIAMAN",
     "provinceCode": "13",
     "type": "KABUPATEN"
   },
@@ -673,7 +667,7 @@
   },
   {
     "code": "51.03",
-    "name": "Pemindahan Ibukota PP No. 67/2009.",
+    "name": "BADUNG",
     "provinceCode": "51",
     "type": "KABUPATEN"
   },
@@ -727,7 +721,7 @@
   },
   {
     "code": "52.06",
-    "name": "Pemindahan ibukota PP No. 31/2008.",
+    "name": "BIMA",
     "provinceCode": "52",
     "type": "KABUPATEN"
   },
@@ -840,8 +834,8 @@
     "type": "KABUPATEN"
   },
   {
-    "code": "53.71",
-    "name": "Data luas wil. berdasarkan GIS Pusat, 2007.",
+    "code": "53.21",
+    "name": "UU. No. 3 Tahun 2013.",
     "provinceCode": "53",
     "type": "KABUPATEN"
   },
@@ -853,7 +847,7 @@
   },
   {
     "code": "61.02",
-    "name": "Semula bernama Kabupaten Pontianak, PP No. 58 Tahun 2014.",
+    "name": "MEMPAWAH",
     "provinceCode": "61",
     "type": "KABUPATEN"
   },
@@ -883,7 +877,7 @@
   },
   {
     "code": "61.12",
-    "name": "UU No 35/2007.",
+    "name": "KUBU RAYA",
     "provinceCode": "61",
     "type": "KABUPATEN"
   },
@@ -1051,7 +1045,7 @@
   },
   {
     "code": "65.02",
-    "name": "Semula wil. Prov. Kalimantan Timur.",
+    "name": "MALINAU",
     "provinceCode": "65",
     "type": "KABUPATEN"
   },
@@ -1387,7 +1381,7 @@
   },
   {
     "code": "75.04",
-    "name": "Perbaikan nama semula Kab. Pahuwato menjadi Kab. Pohuwato",
+    "name": "POHUWATO",
     "provinceCode": "75",
     "type": "KABUPATEN"
   },

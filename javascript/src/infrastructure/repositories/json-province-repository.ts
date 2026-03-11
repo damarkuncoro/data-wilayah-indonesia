@@ -1,4 +1,4 @@
-import { Province } from "../../core/entities/province";
+import { Province } from '../../core/entities';
 import { ProvinceRepository } from "../../core/interfaces/province-repository";
 import { BaseJSONRepository } from "./base-json-repository";
 

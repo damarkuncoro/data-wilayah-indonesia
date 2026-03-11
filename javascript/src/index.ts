@@ -1,17 +1,11 @@
-import { Province } from "./core/entities/province";
-import { Regency } from "./core/entities/regency";
-import { District } from "./core/entities/district";
-import { Village } from "./core/entities/village";
+import { Province, Regency, District, Village } from "./core/entities";
+import { DataProvider } from "./core/provider";
+import { DataPlugin } from "./core/plugin";
+import { JsonDataProvider } from "./infrastructure/provider/json-provider";
 import { JSONProvinceRepository } from "./infrastructure/repositories/json-province-repository";
 import { JSONRegencyRepository } from "./infrastructure/repositories/json-regency-repository";
 import { JSONDistrictRepository } from "./infrastructure/repositories/json-district-repository";
 import { JSONVillageRepository } from "./infrastructure/repositories/json-village-repository";
-
-// Load data (In a real package, this might be handled by a factory or dependency injection)
-import provincesData from '@damarkuncoro/data-wilayah-indonesia/data/provinces.json';
-import regenciesData from '@damarkuncoro/data-wilayah-indonesia/data/regencies.json';
-import districtsData from '@damarkuncoro/data-wilayah-indonesia/data/districts.json';
-import villagesData from '@damarkuncoro/data-wilayah-indonesia/data/villages.json';
 
 /**
  * DataWilayahService - Facade class for Data Wilayah Indonesia.
@@ -23,32 +17,62 @@ export class DataWilayahService {
   private _districtRepo?: JSONDistrictRepository;
   private _villageRepo?: JSONVillageRepository;
 
-  constructor() {}
+  private provider: DataProvider;
+  private plugins: DataPlugin[];
+
+  constructor(provider?: DataProvider, plugins: DataPlugin[] = []) {
+    this.provider = provider || new JsonDataProvider();
+    this.plugins = plugins;
+  }
 
   private get provinceRepo(): JSONProvinceRepository {
     if (!this._provinceRepo) {
-      this._provinceRepo = new JSONProvinceRepository(provincesData as Province[]);
+      let data = this.provider.getProvinces();
+      for (const plugin of this.plugins) {
+        if (plugin.enrichProvinces) {
+          data = plugin.enrichProvinces(data);
+        }
+      }
+      this._provinceRepo = new JSONProvinceRepository(data);
     }
     return this._provinceRepo;
   }
 
   private get regencyRepo(): JSONRegencyRepository {
     if (!this._regencyRepo) {
-      this._regencyRepo = new JSONRegencyRepository(regenciesData as Regency[]);
+      let data = this.provider.getRegencies();
+      for (const plugin of this.plugins) {
+        if (plugin.enrichRegencies) {
+          data = plugin.enrichRegencies(data);
+        }
+      }
+      this._regencyRepo = new JSONRegencyRepository(data);
     }
     return this._regencyRepo;
   }
 
   private get districtRepo(): JSONDistrictRepository {
     if (!this._districtRepo) {
-      this._districtRepo = new JSONDistrictRepository(districtsData as District[]);
+      let data = this.provider.getDistricts();
+      for (const plugin of this.plugins) {
+        if (plugin.enrichDistricts) {
+          data = plugin.enrichDistricts(data);
+        }
+      }
+      this._districtRepo = new JSONDistrictRepository(data);
     }
     return this._districtRepo;
   }
 
   private get villageRepo(): JSONVillageRepository {
     if (!this._villageRepo) {
-      this._villageRepo = new JSONVillageRepository(villagesData as Village[]);
+      let data = this.provider.getVillages();
+      for (const plugin of this.plugins) {
+        if (plugin.enrichVillages) {
+          data = plugin.enrichVillages(data);
+        }
+      }
+      this._villageRepo = new JSONVillageRepository(data);
     }
     return this._villageRepo;
   }
@@ -107,6 +131,27 @@ export class DataWilayahService {
    */
   getProvinceByCode(code: string): Province | undefined {
     return this.provinceRepo.getByCode(code);
+  }
+
+  /**
+   * Get regency by code.
+   */
+  getRegencyByCode(code: string): Regency | undefined {
+    return this.regencyRepo.getByCode(code);
+  }
+
+  /**
+   * Get district by code.
+   */
+  getDistrictByCode(code: string): District | undefined {
+    return this.districtRepo.getByCode(code);
+  }
+
+  /**
+   * Get village by code.
+   */
+  getVillageByCode(code: string): Village | undefined {
+    return this.villageRepo.getByCode(code);
   }
 
   /**

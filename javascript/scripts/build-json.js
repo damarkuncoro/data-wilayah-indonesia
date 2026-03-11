@@ -61,28 +61,11 @@ function processData(csvData) {
   
   // Known patterns to exclude (metadata, headers, etc.)
   const excludePatterns = [
-    'Luas Wilayah',
-    'UU. No.',
-    'UU No.',
-    'Perubahan nama',
-    'Sesuai Surat',
-    'Surat Sekda',
-    'luas',
-    'tentang',
-    'sesuai:',
-    'qanun',
-    'peraturan',
-    'perubahan',
-    'tidak ada',
-    'district',
-    'kode',
-    'nama',
-    'PP No.',
-    'PP Mo.',
-    'Kepmendagri',
-    'Luas wilayah',
-    'Perda',
-    'Pemekaran'
+    'luas wilayah', 'uu no', 'perubahan nama', 'sesuai surat', 'surat sekda',
+    'luas', 'tentang', 'sesuai:', 'qanun', 'peraturan', 'perubahan',
+    'tidak ada', 'district', 'kode', 'nama', 'pp no', 'pp mo', 'kepmendagri',
+    'perda', 'pemekaran', 'perbaikan nama', 'semula wil', 'validasi ditjen',
+    'rakernis', 'hasil pemetaan'
   ];
   
   // Check if name should be excluded
@@ -90,7 +73,8 @@ function processData(csvData) {
     if (!name || name === '-' || name.trim() === '') return true;
     // Also exclude if name is purely numeric (like "2,028")
     if (/^[\d,\.]+$/.test(name)) return true;
-    return excludePatterns.some(pattern => name.toLowerCase().startsWith(pattern.toLowerCase()));
+    const lowerCaseName = name.toLowerCase();
+    return excludePatterns.some(pattern => lowerCaseName.includes(pattern));
   }
   
   // Check if code is valid (should match pattern XX, XX.XX, XX.XX.XX, XX.XX.XX.XXXX)
@@ -152,11 +136,22 @@ function processData(csvData) {
 
   let districtNames = {};
   
-  // Load corrected Aceh districts if available
+  // Load corrected Aceh data if available
   const acehDistrictsPath = path.join(__dirname, 'aceh_districts_corrected.json');
   if (fs.existsSync(acehDistrictsPath)) {
     console.log('[INFO] Loading corrected Aceh district names.');
     districtNames = JSON.parse(fs.readFileSync(acehDistrictsPath, 'utf-8'));
+  }
+  const acehVillagesPath = path.join(__dirname, 'aceh_villages_corrected.json');
+  if (fs.existsSync(acehVillagesPath)) {
+    console.log('[INFO] Loading corrected Aceh village names.');
+    const acehVillages = JSON.parse(fs.readFileSync(acehVillagesPath, 'utf-8'));
+    for (const code in acehVillages) {
+      const name = acehVillages[code];
+      if (!shouldExclude(name)) {
+        villages.push({ code, name, districtCode: code.substring(0, 8), type: 'DESA' });
+      }
+    }
   }
 
   for (const row of csvData) {
@@ -240,11 +235,17 @@ function processData(csvData) {
 
 // Main
 const dataDir = path.join(__dirname, '..', 'data');
+const tsDataDir = path.join(__dirname, '..', 'src', 'data');
 const csvPath = path.join(__dirname, '..', '..', 'data', 'indonesia_administrative_data.csv');
 
 // Create data directory if not exists
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
+}
+
+// Create TS data directory if not exists
+if (!fs.existsSync(tsDataDir)) {
+  fs.mkdirSync(tsDataDir, { recursive: true });
 }
 
 console.log('Reading CSV data...');
@@ -264,5 +265,18 @@ fs.writeFileSync(path.join(dataDir, 'provinces.json'), JSON.stringify(provinces,
 fs.writeFileSync(path.join(dataDir, 'regencies.json'), JSON.stringify(regencies, null, 2));
 fs.writeFileSync(path.join(dataDir, 'districts.json'), JSON.stringify(districts, null, 2));
 fs.writeFileSync(path.join(dataDir, 'villages.json'), JSON.stringify(villages, null, 2));
+
+// Write TS files
+console.log('Writing TS files...');
+function writeTSFile(fileName, data, interfaceName) {
+  const tsPath = path.join(tsDataDir, `${fileName}.ts`);
+  const content = `import { ${interfaceName} } from '../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  fs.writeFileSync(tsPath, content);
+}
+
+writeTSFile('provinces', provinces, 'Province');
+writeTSFile('regencies', regencies, 'Regency');
+writeTSFile('districts', districts, 'District');
+writeTSFile('villages', villages, 'Village');
 
 console.log('Done!');

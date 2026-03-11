@@ -1,1 +1,0 @@
-{"version":3,"file":"district.d.ts","sourceRoot":"","sources":["../../../src/core/entities/district.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,MAAM,uBAAuB,CAAC;AAE3D;;GAEG;AACH,qBAAa,QAAS,SAAQ,kBAAkB;aAI5B,WAAW,EAAE,MAAM;gBAFnC,IAAI,EAAE,MAAM,EACZ,IAAI,EAAE,MAAM,EACI,WAAW,EAAE,MAAM;CAKtC"}

@@ -1,29 +1,30 @@
 {
   "name": "@damarkuncoro/data-wilayah-indonesia",
-  "version": "1.0.0",
-  "description": "Package JavaScript/TypeScript untuk data wilayah administratif Indonesia",
+  "version": "1.1.0",
+  "description": "Package JavaScript/TypeScript untuk data wilayah administratif Indonesia dengan arsitektur pluginable",
   "exports": {
     ".": {
-      "import": "./dist/esm/index.js",
-      "require": "./dist/index.js",
-      "types": "./dist/index.d.ts"
+      "import": "./lib/esm/index.js",
+      "require": "./lib/cjs/index.js",
+      "types": "./lib/index.d.ts"
     },
     "./data/provinces.json": "./data/provinces.json",
     "./data/regencies.json": "./data/regencies.json",
     "./data/districts.json": "./data/districts.json",
     "./data/villages.json": "./data/villages.json"
   },
-  "main": "./dist/index.js",
-  "module": "./dist/esm/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./lib/cjs/index.js",
+  "module": "./lib/esm/index.js",
+  "types": "./lib/index.d.ts",
   "files": [
-    "dist",
-    "data"
+    "lib",
+    "data",
+    "src"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json && node scripts/build-json.js",
     "test": "jest",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm test && npm run build"
   },
   "keywords": [
     "indonesia",

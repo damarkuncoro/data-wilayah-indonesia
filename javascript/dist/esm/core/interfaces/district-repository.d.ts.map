@@ -1,1 +1,0 @@
-{"version":3,"file":"district-repository.d.ts","sourceRoot":"","sources":["../../../../src/core/interfaces/district-repository.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,sBAAsB,CAAC;AAChD,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C;;GAEG;AACH,MAAM,WAAW,kBAAmB,SAAQ,UAAU,CAAC,QAAQ,CAAC;IAC9D,iBAAiB,CAAC,WAAW,EAAE,MAAM,GAAG,QAAQ,EAAE,CAAC;CACpD"}

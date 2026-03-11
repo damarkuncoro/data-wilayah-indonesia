@@ -1,4 +1,4 @@
-import { District } from "../entities/district";
+import { District } from '../entities';
 import { Repository } from "./repository";
 
 /**

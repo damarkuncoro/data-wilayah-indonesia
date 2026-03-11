@@ -1,4 +1,4 @@
-import { District } from "../../core/entities/district";
+import { District } from '../../core/entities';
 import { DistrictRepository } from "../../core/interfaces/district-repository";
 import { BaseJSONRepository } from "./base-json-repository";
 

@@ -1,82 +1,107 @@
-# Data Wilayah Indonesia (JavaScript/TypeScript)
+# Data Wilayah Administratif Indonesia
 
-[![npm version](https://img.shields.io/npm/v/@damarkuncoro/data-wilayah-indonesia.svg)](https://www.npmjs.com/package/@damarkuncoro/data-wilayah-indonesia)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![NPM version](https://img.shields.io/npm/v/@damarkuncoro/data-wilayah-indonesia.svg)](https://www.npmjs.com/package/@damarkuncoro/data-wilayah-indonesia)
 
-Package JavaScript/TypeScript untuk mengakses data wilayah administratif Indonesia yang mencakup **Provinsi**, **Kabupaten/Kota**, **Kecamatan**, dan **Desa/Kelurahan**. Data ini diekstrak secara otomatis dari dokumen resmi pemerintah dan diatur mengikuti prinsip arsitektur bersih (*Clean Architecture*).
+Package JavaScript/TypeScript yang ringan, modern, dan dapat diperluas (*pluginable*) untuk mengakses data wilayah administratif Indonesia (Provinsi, Kabupaten/Kota, Kecamatan, dan Desa/Kelurahan).
 
 ## Fitur Utama
 
-- **Lengkap**: Mencakup 4 level wilayah administratif di seluruh Indonesia.
-- **Ringan & Cepat**: Menggunakan penyimpanan JSON yang dioptimalkan.
-- **Tipe Data Kuat**: Ditulis dalam TypeScript untuk pengalaman pengembangan yang lebih baik.
-- **Fleksibel**: Mendukung pencarian berdasarkan kode, nama, dan pencarian global.
-- **Cascading Support**: Memudahkan pembuatan dropdown bertingkat.
+- **Data Lengkap & Terverifikasi**: Mencakup 37 Provinsi, 500+ Kabupaten/Kota, 7,000+ Kecamatan, dan 80,000+ Desa/Kelurahan.
+- **Modern & Type-Safe**: Ditulis sepenuhnya dalam TypeScript, menyediakan definisi tipe yang kaya.
+- **Arsitektur Pluginable**: Perkaya data wilayah dengan mudah menggunakan sistem provider dan plugin. Tambahkan kodepos, data geografis, atau data kustom lainnya tanpa mengubah kode inti.
+- **Zero Dependency**: Tidak ada dependensi runtime, memastikan package tetap ringan.
+- **ESM & CJS Support**: Mendukung modul ES dan CommonJS secara native.
 
 ## Instalasi
 
 ```bash
 npm install @damarkuncoro/data-wilayah-indonesia
-# atau
-yarn add @damarkuncoro/data-wilayah-indonesia
 ```
 
-## Penggunaan Cepat
-
-### Inisialisasi Service
+## Penggunaan Dasar
 
 ```typescript
 import { DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
 
 const service = new DataWilayahService();
-```
 
-### Navigasi Wilayah (Cascading)
-
-```typescript
-// 1. Dapatkan semua Provinsi
+// Mendapatkan semua provinsi
 const provinces = service.getAllProvinces();
+console.log(provinces[0]); // { code: '11', name: 'ACEH' }
 
-// 2. Dapatkan Kabupaten/Kota di Jawa Barat (Kode: "32")
-const regencies = service.getRegenciesByProvince("32");
+// Mendapatkan kabupaten/kota di sebuah provinsi (contoh: Jawa Barat)
+const regencies = service.getRegenciesByProvince('32');
+console.log(regencies[0]); // { code: '32.01', name: 'BOGOR', ... }
 
-// 3. Dapatkan Kecamatan di Kota Bandung (Kode: "32.73")
-const districts = service.getDistrictsByRegency("32.73");
+// Mendapatkan kecamatan di sebuah kabupaten/kota (contoh: Kota Bandung)
+const districts = service.getDistrictsByRegency('32.73');
+console.log(districts[0]); // { code: '32.73.01', name: 'ANDIR', ... }
 
-// 4. Dapatkan Desa/Kelurahan di Coblong (Kode: "32.73.08")
-const villages = service.getVillagesByDistrict("32.73.08");
+// Mendapatkan desa/kelurahan di sebuah kecamatan (contoh: Kecamatan Andir)
+const villages = service.getVillagesByDistrict('32.73.01');
+console.log(villages[0]); // { code: '32.73.01.1001', name: 'CAMPAKA', ... }
 ```
 
-### Pencarian Global
+## Arsitektur Pluginable
 
-Fitur baru untuk mencari wilayah di semua level sekaligus:
+Fitur paling kuat dari package ini adalah kemampuannya untuk diperluas. Anda bisa mengganti cara data dimuat (*DataProvider*) atau memperkaya data yang ada (*DataPlugin*).
+
+### 1. Menggunakan DataProvider Kustom
+
+Secara default, data dimuat dari file JSON yang disertakan. Namun, Anda bisa membuat provider sendiri untuk memuat data dari database, API, atau sumber lain.
 
 ```typescript
-const searchResults = service.search("Gambir");
-// Output: [
-//   { type: 'DISTRICT', item: { code: '31.71.01', name: 'GAMBIR', ... } },
-//   { type: 'VILLAGE', item: { code: '31.71.01.1001', name: 'GAMBIR', ... } }
-// ]
+import { DataProvider, Province, DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
+
+// 1. Buat provider Anda sendiri
+class MyApiProvider implements DataProvider {
+  getProvinces(): Province[] {
+    // Logika untuk mengambil data provinsi dari API Anda
+    // return fetch('https://my-api.com/provinces')...
+    return [{ code: '99', name: 'PROVINSI KUSTOM' }];
+  }
+  // ... implementasi getRegencies, getDistricts, getVillages
+}
+
+// 2. Inisialisasi service dengan provider kustom
+const myProvider = new MyApiProvider();
+const service = new DataWilayahService(myProvider);
+
+// Service sekarang akan menggunakan data dari API Anda
+const provinces = service.getAllProvinces();
+console.log(provinces[0].name); // "PROVINSI KUSTOM"
 ```
 
-## Contoh Implementasi (Vite)
+### 2. Menggunakan DataPlugin untuk Memperkaya Data
 
-Anda bisa melihat contoh implementasi dropdown bertingkat yang interaktif di direktori `examples/vite`.
+Plugin memungkinkan Anda untuk "menempelkan" data tambahan ke data wilayah yang ada, seperti kodepos, koordinat, atau data demografis.
 
-## API Reference
+```typescript
+import { DataPlugin, Village, DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
 
-### `DataWilayahService`
+// 1. Buat plugin Anda
+class PostalCodePlugin implements DataPlugin {
+  name = 'postal-code-plugin';
 
-| Metode | Deskripsi |
-| :--- | :--- |
-| `getAllProvinces()` | Mengambil semua daftar provinsi |
-| `getProvinceByCode(code)` | Mengambil satu provinsi berdasarkan kodenya |
-| `getRegenciesByProvince(provinceCode)` | Mengambil kabupaten/kota dalam suatu provinsi |
-| `getDistrictsByRegency(regencyCode)` | Mengambil kecamatan dalam suatu kabupaten/kota |
-| `getVillagesByDistrict(districtCode)` | Mengambil desa/kelurahan dalam suatu kecamatan |
-| `search(name)` | Melakukan pencarian nama di seluruh level administratif |
-| `findProvincesByName(name)` | Mencari provinsi berdasarkan nama |
+  enrichVillages(villages: Village[]): Village[] {
+    return villages.map(village => ({
+      ...village,
+      // Logika untuk menambahkan kodepos (bisa dari map atau API lain)
+      postalCode: `KODE_${village.code}`
+    }));
+  }
+}
+
+// 2. Inisialisasi service dengan plugin
+const postalCodePlugin = new PostalCodePlugin();
+const service = new DataWilayahService(undefined, [postalCodePlugin]);
+
+// 3. Data desa sekarang memiliki properti `postalCode`
+const village = service.getVillageByCode('32.73.01.1001');
+console.log(village.name); // "CAMPAKA"
+console.log(village.postalCode); // "KODE_32.73.01.1001"
+```
 
 ## Lisensi
 
-[MIT](LICENSE) © Damar Kuncoro
+[MIT](LICENSE)

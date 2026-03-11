@@ -1,1 +1,0 @@
-{"version":3,"file":"regency.d.ts","sourceRoot":"","sources":["../../../../src/core/entities/regency.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,WAAW,EAAE,MAAM,uBAAuB,CAAC;AAExE;;GAEG;AACH,qBAAa,OAAQ,SAAQ,kBAAkB;aAI3B,YAAY,EAAE,MAAM;aACpB,IAAI,EAAE,WAAW;gBAHjC,IAAI,EAAE,MAAM,EACZ,IAAI,EAAE,MAAM,EACI,YAAY,EAAE,MAAM,EACpB,IAAI,EAAE,WAAW;CAKpC"}

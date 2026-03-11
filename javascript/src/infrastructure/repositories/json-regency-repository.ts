@@ -1,4 +1,4 @@
-import { Regency } from "../../core/entities/regency";
+import { Regency } from '../../core/entities';
 import { RegencyRepository } from "../../core/interfaces/regency-repository";
 import { BaseJSONRepository } from "./base-json-repository";
 

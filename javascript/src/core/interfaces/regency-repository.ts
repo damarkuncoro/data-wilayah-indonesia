@@ -1,4 +1,4 @@
-import { Regency } from "../entities/regency";
+import { Regency } from '../entities';
 import { Repository } from "./repository";
 
 /**

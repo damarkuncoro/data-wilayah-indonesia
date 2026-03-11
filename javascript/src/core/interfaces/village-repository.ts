@@ -1,4 +1,4 @@
-import { Village } from "../entities/village";
+import { Village } from '../entities';
 import { Repository } from "./repository";
 
 /**
