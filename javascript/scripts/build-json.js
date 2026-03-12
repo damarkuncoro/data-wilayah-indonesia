@@ -319,8 +319,8 @@ console.log(`Villages: ${villages.length}`);
 
 // Write JSON files
 console.log('Writing JSON files...');
-fs.writeFileSync(path.join(baseDataDir, 'provinces.json'), JSON.stringify(uniqueProvinces, null, 2));
-fs.writeFileSync(path.join(baseDataDir, 'regencies.json'), JSON.stringify(uniqueRegencies, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'provinces.json'), JSON.stringify(provinces, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'regencies.json'), JSON.stringify(regencies, null, 2));
 fs.writeFileSync(path.join(baseDataDir, 'districts.json'), JSON.stringify(districts, null, 2));
 fs.writeFileSync(path.join(baseDataDir, 'villages.json'), JSON.stringify(villages, null, 2));
 
@@ -346,7 +346,7 @@ for (const provinceCode in villagesByProvince) {
 console.log('Writing TS files...');
 function writeTSFile(fileName, data, interfaceName) {
   const tsPath = path.join(tsDataDir, `${fileName}.ts`);
-  const content = `import type { ${interfaceName} } from '../types';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  const content = `import type { ${interfaceName} } from '../../../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
   fs.writeFileSync(tsPath, content);
 }
 
