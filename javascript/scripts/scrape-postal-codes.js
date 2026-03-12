@@ -43,7 +43,17 @@ async function main() {
   }
 
   // To scrape a sample, add .slice(0, 10)
-  const villagesToScrape = villages;
+  let villagesToScrape = villages;
+
+  // --- RESUME LOGIC ---
+  const resumeFromCode = '11.07.06.2029';
+  const resumeIndex = villages.findIndex(v => v.code === resumeFromCode);
+  if (resumeIndex !== -1) {
+    console.log(`[INFO] Resuming scrape from after village code ${resumeFromCode} (index ${resumeIndex})`);
+    villagesToScrape = villages.slice(resumeIndex + 1);
+  }
+  // --- END RESUME LOGIC ---
+
 
   for (const village of villagesToScrape) {
     if (existingPostalCodes[village.code]) {
