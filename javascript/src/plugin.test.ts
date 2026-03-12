@@ -6,21 +6,20 @@ describe('DataWilayahService with Plugins', () => {
     const postalCodePlugin = new PostalCodePlugin();
     const service = new DataWilayahService(undefined, [postalCodePlugin]);
 
-    // Test a specific village from Aceh (e.g., Keude Bakongan)
-    const villageCode = '11.01.01.2001';
+    // Test a specific village that we know has been scraped
+    const villageCode = '11.06.03.2027';
     const village = service.getVillageByCode(villageCode);
 
     expect(village).toBeDefined();
-    expect(village?.name.toUpperCase()).toBe('KEUDE BAKONGAN');
+    expect(village?.name.toUpperCase()).toBe('SEUREUMO');
     // The plugin should have added this field
     expect(village?.postalCode).toBeDefined();
-    expect(typeof village?.postalCode).toBe('string');
-    expect(village?.postalCode).toMatch(/^23\d+$/);
+    expect(village?.postalCode).toBe('23363');
   });
 
   it('should not have postal codes if plugin is not used', () => {
     const service = new DataWilayahService();
-    const villageCode = '11.01.01.2001';
+    const villageCode = '11.06.03.2027';
     const village = service.getVillageByCode(villageCode);
 
     expect(village).toBeDefined();
