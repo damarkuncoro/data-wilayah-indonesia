@@ -1,23 +1,15 @@
 import { DataPlugin } from '../core/plugin';
 import { Village } from '../core/entities';
 
-// Load the scraped postal codes
-// Using require for JSON to handle different module resolution strategies
-const postalCodes: Record<string, string> = require('../../data/postal-codes.json');
+import postalCodes from '../../data/postal-codes/postal-codes.json';
 
 export class PostalCodePlugin implements DataPlugin {
-  name = 'postal-code-plugin';
+  name = 'postal-code';
 
   enrichVillages(villages: Village[]): Village[] {
-    return villages.map(village => {
-      const postalCode = postalCodes[village.code];
-      if (postalCode) {
-        return {
-          ...village,
-          postalCode: postalCode
-        };
-      }
-      return village;
-    });
+    return villages.map(v => ({
+      ...v,
+      postalCode: (postalCodes as Record<string, string>)[v.code] || ''
+    }));
   }
 }

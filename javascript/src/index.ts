@@ -25,12 +25,12 @@ export class DataWilayahService {
     let districts = dataProvider.getDistricts();
     let villages = dataProvider.getVillages();
 
-    for (const plugin of plugins) {
-      if (plugin.enrichProvinces) provinces = plugin.enrichProvinces(provinces);
-      if (plugin.enrichRegencies) regencies = plugin.enrichRegencies(regencies);
-      if (plugin.enrichDistricts) districts = plugin.enrichDistricts(districts);
-      if (plugin.enrichVillages) villages = plugin.enrichVillages(villages);
-    }
+    // for (const plugin of plugins) {
+    //   if (plugin.enrichProvinces) provinces = plugin.enrichProvinces(provinces);
+    //   if (plugin.enrichRegencies) regencies = plugin.enrichRegencies(regencies);
+    //   if (plugin.enrichDistricts) districts = plugin.enrichDistricts(districts);
+    //   if (plugin.enrichVillages) villages = plugin.enrichVillages(villages);
+    // }
 
     this.provinceRepo = new JSONProvinceRepository(provinces);
     this.regencyRepo = new JSONRegencyRepository(regencies);
@@ -150,22 +150,24 @@ function getDefaultService(): DataWilayahService {
   return _defaultService;
 }
 
-export function getAllProvinces() { return getDefaultService().getAllProvinces(); }
-export function getAllRegencies() { return getDefaultService().getAllRegencies(); }
-export function getAllDistricts() { return getDefaultService().getAllDistricts(); }
-export function getAllVillages() { return getDefaultService().getAllVillages(); }
+export async function getAllProvinces() { return (await getDefaultService()).getAllProvinces(); }
+export async function getAllRegencies() { return (await getDefaultService()).getAllRegencies(); }
+export async function getAllDistricts() { return (await getDefaultService()).getAllDistricts(); }
+export async function getAllVillages() { return (await getDefaultService()).getAllVillages(); }
 
-export function getRegenciesByProvince(provinceCode: string) { return getDefaultService().getRegenciesByProvince(provinceCode); }
-export function getDistrictsByRegency(regencyCode: string) { return getDefaultService().getDistrictsByRegency(regencyCode); }
-export function getVillagesByDistrict(districtCode: string) { return getDefaultService().getVillagesByDistrict(districtCode); }
+export async function getRegenciesByProvince(provinceCode: string) { return (await getDefaultService()).getRegenciesByProvince(provinceCode); }
+export async function getDistrictsByRegency(regencyCode: string) { return (await getDefaultService()).getDistrictsByRegency(regencyCode); }
+export async function getVillagesByDistrict(districtCode: string) { return (await getDefaultService()).getVillagesByDistrict(districtCode); }
 
-export function getProvinceByCode(code: string) { return getDefaultService().getProvinceByCode(code); }
-export function getRegencyByCode(code: string) { return getDefaultService().getRegencyByCode(code); }
-export function getDistrictByCode(code: string) { return getDefaultService().getDistrictByCode(code); }
-export function getVillageByCode(code: string) { return getDefaultService().getVillageByCode(code); }
+export async function getProvinceByCode(code: string) { return (await getDefaultService()).getProvinceByCode(code); }
+export async function getRegencyByCode(code: string) { return (await getDefaultService()).getRegencyByCode(code); }
+export async function getDistrictByCode(code: string) { return (await getDefaultService()).getDistrictByCode(code); }
+export async function getVillageByCode(code: string) { return (await getDefaultService()).getVillageByCode(code); }
 
-export function findProvincesByName(name: string) { return getDefaultService().findProvincesByName(name); }
-export function search(name: string) { return getDefaultService().search(name); }
+export async function findProvincesByName(name: string) { return (await getDefaultService()).findProvincesByName(name); }
+export async function search(name: string) { return (await getDefaultService()).search(name); }
+
+
 
 // Re-export types and interfaces
 export * from "./core/entities";

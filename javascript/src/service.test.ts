@@ -15,7 +15,7 @@ describe('DataWilayahService', () => {
   test('should find DKI Jakarta by code', () => {
     const jakarta = service.getProvinceByCode('31');
     expect(jakarta).toBeDefined();
-    expect(jakarta?.name).toContain('JAKARTA');
+    expect(jakarta?.name).toBe('DKI Jakarta');
   });
 
   test('should find regencies in Jakarta', () => {

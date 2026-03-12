@@ -251,6 +251,35 @@ function processData(csvData) {
     }
   }
 
+  // PASS 1.5: Ensure hierarchy integrity by creating placeholders for missing parents
+  console.log('PASS 1.5: Ensuring hierarchy integrity...');
+  const provinceCodes = new Set(provinces.map(p => p.code));
+  const regencyCodes = new Set(regencies.map(r => r.code));
+
+  districts.forEach(d => {
+    if (!regencyCodes.has(d.regencyCode)) {
+      console.warn(`[WARN] Creating placeholder for missing regency: ${d.regencyCode}`);
+      regencies.push({
+        code: d.regencyCode,
+        name: `Kabupaten ${d.regencyCode}`,
+        provinceCode: d.regencyCode.substring(0, 2),
+        type: 'KABUPATEN'
+      });
+      regencyCodes.add(d.regencyCode);
+    }
+  });
+
+  regencies.forEach(r => {
+    if (!provinceCodes.has(r.provinceCode)) {
+      console.warn(`[WARN] Creating placeholder for missing province: ${r.provinceCode}`);
+      provinces.push({
+        code: r.provinceCode,
+        name: provinceNames[r.provinceCode] || `Provinsi ${r.provinceCode}`
+      });
+      provinceCodes.add(r.provinceCode);
+    }
+  });
+
   // PASS 2: Enrich with hierarchy metadata
   console.log('PASS 2: Enriching data with hierarchy metadata...');
   
