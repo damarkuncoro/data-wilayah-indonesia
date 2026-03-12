@@ -1,4 +1,4 @@
-import { District } from '../core/entities';
+import type { District } from '../../core/entities';
 
 export const districts: District[] = [
   {

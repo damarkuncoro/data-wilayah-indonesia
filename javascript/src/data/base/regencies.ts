@@ -1,4 +1,4 @@
-import { Regency } from '../core/entities';
+import type { Regency } from '../../core/entities';
 
 export const regencies: Regency[] = [
   {

@@ -1,4 +1,4 @@
-import { Province } from '../core/entities';
+import type { Province } from '../../core/entities';
 
 export const provinces: Province[] = [
   {

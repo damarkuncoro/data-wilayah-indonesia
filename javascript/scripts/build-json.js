@@ -346,7 +346,7 @@ for (const provinceCode in villagesByProvince) {
 console.log('Writing TS files...');
 function writeTSFile(fileName, data, interfaceName) {
   const tsPath = path.join(tsDataDir, `${fileName}.ts`);
-  const content = `import type { ${interfaceName} } from '../../../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  const content = `import type { ${interfaceName} } from '../../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
   fs.writeFileSync(tsPath, content);
 }
 
