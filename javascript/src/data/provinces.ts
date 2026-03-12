@@ -3,150 +3,150 @@ import { Province } from '../core/entities';
 export const provinces: Province[] = [
   {
     "code": "11",
-    "name": "ACEH"
+    "name": "Aceh"
   },
   {
     "code": "12",
-    "name": "SUMATERA UTARA"
+    "name": "Sumatera Utara"
   },
   {
     "code": "13",
-    "name": "SUMATERA BARAT"
+    "name": "Sumatera Barat"
   },
   {
     "code": "14",
-    "name": "RIAU"
+    "name": "Riau"
   },
   {
     "code": "15",
-    "name": "JAMBI"
+    "name": "Jambi"
   },
   {
     "code": "16",
-    "name": "SUMATERA SELATAN"
+    "name": "Sumatera Selatan"
   },
   {
     "code": "17",
-    "name": "BENGKULU"
+    "name": "Bengkulu"
   },
   {
     "code": "18",
-    "name": "LAMPUNG"
+    "name": "Lampung"
   },
   {
     "code": "19",
-    "name": "KEPULAUAN BANGKA BELITUNG"
+    "name": "Kepulauan Bangka Belitung"
   },
   {
     "code": "21",
-    "name": "KEPULAUAN RIAU"
+    "name": "Kepulauan Riau"
   },
   {
     "code": "31",
-    "name": "DKI JAKARTA"
+    "name": "DKI Jakarta"
   },
   {
     "code": "32",
-    "name": "JAWA BARAT"
+    "name": "Jawa Barat"
   },
   {
     "code": "33",
-    "name": "JAWA TENGAH"
+    "name": "Jawa Tengah"
   },
   {
     "code": "34",
-    "name": "DAERAH ISTIMEWA YOGYAKARTA"
+    "name": "Daerah Istimewa Yogyakarta"
   },
   {
     "code": "35",
-    "name": "JAWA TIMUR"
+    "name": "Jawa Timur"
   },
   {
     "code": "36",
-    "name": "BANTEN"
+    "name": "Banten"
   },
   {
     "code": "51",
-    "name": "BALI"
+    "name": "Bali"
   },
   {
     "code": "52",
-    "name": "NUSA TENGGARA BARAT"
+    "name": "Nusa Tenggara Barat"
   },
   {
     "code": "53",
-    "name": "NUSA TENGGARA TIMUR"
+    "name": "Nusa Tenggara Timur"
   },
   {
     "code": "61",
-    "name": "KALIMANTAN BARAT"
+    "name": "Kalimantan Barat"
   },
   {
     "code": "62",
-    "name": "KALIMANTAN TENGAH"
+    "name": "Kalimantan Tengah"
   },
   {
     "code": "63",
-    "name": "KALIMANTAN SELATAN"
+    "name": "Kalimantan Selatan"
   },
   {
     "code": "64",
-    "name": "KALIMANTAN TIMUR"
+    "name": "Kalimantan Timur"
   },
   {
     "code": "65",
-    "name": "KALIMANTAN UTARA"
+    "name": "Kalimantan Utara"
   },
   {
     "code": "71",
-    "name": "SULAWESI UTARA"
+    "name": "Sulawesi Utara"
   },
   {
     "code": "72",
-    "name": "SULAWESI TENGAH"
+    "name": "Sulawesi Tengah"
   },
   {
     "code": "73",
-    "name": "SULAWESI SELATAN"
+    "name": "Sulawesi Selatan"
   },
   {
     "code": "74",
-    "name": "SULAWESI TENGGARA"
+    "name": "Sulawesi Tenggara"
   },
   {
     "code": "75",
-    "name": "GORONTALO"
+    "name": "Gorontalo"
   },
   {
     "code": "76",
-    "name": "SULAWESI BARAT"
+    "name": "Sulawesi Barat"
   },
   {
     "code": "81",
-    "name": "MALUKU"
+    "name": "Maluku"
   },
   {
     "code": "82",
-    "name": "MALUKU UTARA"
+    "name": "Maluku Utara"
   },
   {
     "code": "91",
-    "name": "PAPUA"
+    "name": "Papua"
   },
   {
     "code": "92",
-    "name": "PAPUA BARAT"
+    "name": "Papua Barat"
   },
   {
     "code": "93",
-    "name": "PAPUA SELATAN"
+    "name": "Papua Selatan"
   },
   {
     "code": "94",
-    "name": "PAPUA TENGAH"
+    "name": "Papua Tengah"
   },
   {
     "code": "95",
-    "name": "PAPUA PEGUNUNGAN"
+    "name": "Papua Pegunungan"
   }
 ];

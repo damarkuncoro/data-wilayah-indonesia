@@ -6,11 +6,11 @@ Package JavaScript/TypeScript yang ringan, modern, dan dapat diperluas (*plugina
 
 ## Fitur Utama
 
-- **Data Lengkap & Terverifikasi**: Mencakup 37 Provinsi, 500+ Kabupaten/Kota, 7,000+ Kecamatan, dan 80,000+ Desa/Kelurahan.
-- **Modern & Type-Safe**: Ditulis sepenuhnya dalam TypeScript, menyediakan definisi tipe yang kaya.
-- **Arsitektur Pluginable**: Perkaya data wilayah dengan mudah menggunakan sistem provider dan plugin. Tambahkan kodepos, data geografis, atau data kustom lainnya tanpa mengubah kode inti.
-- **Zero Dependency**: Tidak ada dependensi runtime, memastikan package tetap ringan.
-- **ESM & CJS Support**: Mendukung modul ES dan CommonJS secara native.
+- **Data Lengkap & Terverifikasi**: Berdasarkan Kepmendagri No. 050-145 Tahun 2022 (Terupdate 2024).
+- **Optimasi Bundle (Lazy Loading)**: Mendukung pemuatan data desa secara asinkron per provinsi untuk menjaga ukuran bundle aplikasi tetap kecil.
+- **Hierarki Lengkap**: Setiap objek wilayah menyertakan nama induknya (misal: `Village` menyertakan `provinceName` dan `regencyName`).
+- **Modern & Type-Safe**: Ditulis dalam TypeScript dengan dukungan Functional API untuk *tree-shaking* yang maksimal.
+- **Arsitektur Pluginable**: Perkaya data dengan mudah (Kodepos, Koordinat, dll.) tanpa mengubah kode inti.
 
 ## Instalasi
 
@@ -18,89 +18,82 @@ Package JavaScript/TypeScript yang ringan, modern, dan dapat diperluas (*plugina
 npm install @damarkuncoro/data-wilayah-indonesia
 ```
 
-## Penggunaan Dasar
+## Penggunaan
+
+### 1. Functional API (Direkomendasikan)
+
+Gunakan fungsi-fungsi ini untuk mendukung *tree-shaking* yang lebih baik di bundler modern seperti Vite atau Webpack.
+
+```typescript
+import { 
+  getAllProvinces, 
+  getRegenciesByProvince, 
+  getDistrictsByRegency, 
+  fetchVillagesByDistrict 
+} from '@damarkuncoro/data-wilayah-indonesia';
+
+// Mendapatkan semua provinsi
+const provinces = getAllProvinces();
+
+// Mendapatkan kabupaten/kota di Jawa Barat (32)
+const regencies = getRegenciesByProvince('32');
+
+// Lazy Loading data desa (Hanya memuat data untuk provinsi yang dibutuhkan)
+const villages = await fetchVillagesByDistrict('32.73.01');
+console.log(villages[0].provinceName); // "JAWA BARAT"
+console.log(villages[0].regencyName);  // "KOTA BANDUNG"
+```
+
+### 2. Service API (Class-based)
+
+Gunakan jika Anda perlu menyuntikkan *provider* atau *plugin* kustom.
 
 ```typescript
 import { DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
 
 const service = new DataWilayahService();
-
-// Mendapatkan semua provinsi
 const provinces = service.getAllProvinces();
-console.log(provinces[0]); // { code: '11', name: 'ACEH' }
-
-// Mendapatkan kabupaten/kota di sebuah provinsi (contoh: Jawa Barat)
-const regencies = service.getRegenciesByProvince('32');
-console.log(regencies[0]); // { code: '32.01', name: 'BOGOR', ... }
-
-// Mendapatkan kecamatan di sebuah kabupaten/kota (contoh: Kota Bandung)
-const districts = service.getDistrictsByRegency('32.73');
-console.log(districts[0]); // { code: '32.73.01', name: 'ANDIR', ... }
-
-// Mendapatkan desa/kelurahan di sebuah kecamatan (contoh: Kecamatan Andir)
-const villages = service.getVillagesByDistrict('32.73.01');
-console.log(villages[0]); // { code: '32.73.01.1001', name: 'CAMPAKA', ... }
 ```
 
 ## Arsitektur Pluginable
 
-Fitur paling kuat dari package ini adalah kemampuannya untuk diperluas. Anda bisa mengganti cara data dimuat (*DataProvider*) atau memperkaya data yang ada (*DataPlugin*).
+### Menggunakan DataPlugin untuk Memperkaya Data
 
-### 1. Menggunakan DataProvider Kustom
-
-Secara default, data dimuat dari file JSON yang disertakan. Namun, Anda bisa membuat provider sendiri untuk memuat data dari database, API, atau sumber lain.
-
-```typescript
-import { DataProvider, Province, DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
-
-// 1. Buat provider Anda sendiri
-class MyApiProvider implements DataProvider {
-  getProvinces(): Province[] {
-    // Logika untuk mengambil data provinsi dari API Anda
-    // return fetch('https://my-api.com/provinces')...
-    return [{ code: '99', name: 'PROVINSI KUSTOM' }];
-  }
-  // ... implementasi getRegencies, getDistricts, getVillages
-}
-
-// 2. Inisialisasi service dengan provider kustom
-const myProvider = new MyApiProvider();
-const service = new DataWilayahService(myProvider);
-
-// Service sekarang akan menggunakan data dari API Anda
-const provinces = service.getAllProvinces();
-console.log(provinces[0].name); // "PROVINSI KUSTOM"
-```
-
-### 2. Menggunakan DataPlugin untuk Memperkaya Data
-
-Plugin memungkinkan Anda untuk "menempelkan" data tambahan ke data wilayah yang ada, seperti kodepos, koordinat, atau data demografis.
+Plugin memungkinkan Anda untuk menambahkan data tambahan seperti kodepos atau koordinat.
 
 ```typescript
 import { DataPlugin, Village, DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
 
-// 1. Buat plugin Anda
-class PostalCodePlugin implements DataPlugin {
-  name = 'postal-code-plugin';
+class MyCustomPlugin implements DataPlugin {
+  name = 'my-custom-plugin';
 
   enrichVillages(villages: Village[]): Village[] {
-    return villages.map(village => ({
-      ...village,
-      // Logika untuk menambahkan kodepos (bisa dari map atau API lain)
-      postalCode: `KODE_${village.code}`
-    }));
+    return villages.map(v => ({ ...v, customData: 'foo' }));
   }
 }
 
-// 2. Inisialisasi service dengan plugin
-const postalCodePlugin = new PostalCodePlugin();
-const service = new DataWilayahService(undefined, [postalCodePlugin]);
-
-// 3. Data desa sekarang memiliki properti `postalCode`
-const village = service.getVillageByCode('32.73.01.1001');
-console.log(village.name); // "CAMPAKA"
-console.log(village.postalCode); // "KODE_32.73.01.1001"
+const service = new DataWilayahService(undefined, [new MyCustomPlugin()]);
 ```
+
+### Menggunakan DataProvider Kustom
+
+Ganti sumber data (misal: dari API atau Database) dengan mengimplementasikan `DataProvider`.
+
+```typescript
+import { DataProvider, DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
+
+class MyDatabaseProvider implements DataProvider {
+  // Implementasi getProvinces, getRegencies, dll.
+}
+
+const service = new DataWilayahService(new MyDatabaseProvider());
+```
+
+## Metadata & Transparansi
+
+- **Sumber Data**: Kepmendagri No. 050-145 Tahun 2022.
+- **Update Terakhir**: 2024.
+- **Versioning**: Mengikuti Semantic Versioning (SemVer).
 
 ## Lisensi
 

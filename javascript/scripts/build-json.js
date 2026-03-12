@@ -84,54 +84,65 @@ function processData(csvData) {
     return /^\d{2}(\.\d{2}){0,2}(\.\d{4})?$/.test(code);
   }
   
+  // Helper to format name to Title Case
+  function toTitleCase(str) {
+    if (!str) return '';
+    return str.toLowerCase().split(' ').map(word => {
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    }).join(' ');
+  }
+
   const provinceNames = {
-    '11': 'ACEH',
-    '12': 'SUMATERA UTARA',
-    '13': 'SUMATERA BARAT',
-    '14': 'RIAU',
-    '15': 'JAMBI',
-    '16': 'SUMATERA SELATAN',
-    '17': 'BENGKULU',
-    '18': 'LAMPUNG',
-    '19': 'KEPULAUAN BANGKA BELITUNG',
-    '21': 'KEPULAUAN RIAU',
-    '31': 'DKI JAKARTA',
-    '32': 'JAWA BARAT',
-    '33': 'JAWA TENGAH',
-    '34': 'DAERAH ISTIMEWA YOGYAKARTA',
-    '35': 'JAWA TIMUR',
-    '36': 'BANTEN',
-    '51': 'BALI',
-    '52': 'NUSA TENGGARA BARAT',
-    '53': 'NUSA TENGGARA TIMUR',
-    '61': 'KALIMANTAN BARAT',
-    '62': 'KALIMANTAN TENGAH',
-    '63': 'KALIMANTAN SELATAN',
-    '64': 'KALIMANTAN TIMUR',
-    '65': 'KALIMANTAN UTARA',
-    '71': 'SULAWESI UTARA',
-    '72': 'SULAWESI TENGAH',
-    '73': 'SULAWESI SELATAN',
-    '74': 'SULAWESI TENGGARA',
-    '75': 'GORONTALO',
-    '76': 'SULAWESI BARAT',
-    '81': 'MALUKU',
-    '82': 'MALUKU UTARA',
-    '91': 'PAPUA',
-    '92': 'PAPUA BARAT',
-    '93': 'PAPUA SELATAN',
-    '94': 'PAPUA TENGAH',
-    '95': 'PAPUA PEGUNUNGAN',
-    '96': 'PAPUA BARAT DAYA'
+    '11': 'Aceh',
+    '12': 'Sumatera Utara',
+    '13': 'Sumatera Barat',
+    '14': 'Riau',
+    '15': 'Jambi',
+    '16': 'Sumatera Selatan',
+    '17': 'Bengkulu',
+    '18': 'Lampung',
+    '19': 'Kepulauan Bangka Belitung',
+    '21': 'Kepulauan Riau',
+    '31': 'DKI Jakarta',
+    '32': 'Jawa Barat',
+    '33': 'Jawa Tengah',
+    '34': 'Daerah Istimewa Yogyakarta',
+    '35': 'Jawa Timur',
+    '36': 'Banten',
+    '51': 'Bali',
+    '52': 'Nusa Tenggara Barat',
+    '53': 'Nusa Tenggara Timur',
+    '61': 'Kalimantan Barat',
+    '62': 'Kalimantan Tengah',
+    '63': 'Kalimantan Selatan',
+    '64': 'Kalimantan Timur',
+    '65': 'Kalimantan Utara',
+    '71': 'Sulawesi Utara',
+    '72': 'Sulawesi Tengah',
+    '73': 'Sulawesi Selatan',
+    '74': 'Sulawesi Tenggara',
+    '75': 'Gorontalo',
+    '76': 'Sulawesi Barat',
+    '81': 'Maluku',
+    '82': 'Maluku Utara',
+    '91': 'Papua',
+    '92': 'Papua Barat',
+    '93': 'Papua Selatan',
+    '94': 'Papua Tengah',
+    '95': 'Papua Pegunungan',
+    '96': 'Papua Barat Daya'
   };
 
   const regencyNames = {
-    '31.01': 'KABUPATEN ADM. KEPULAUAN SERIBU',
-    '31.71': 'KOTA ADM. JAKARTA PUSAT',
-    '31.72': 'KOTA ADM. JAKARTA UTARA',
-    '31.73': 'KOTA ADM. JAKARTA BARAT',
-    '31.74': 'KOTA ADM. JAKARTA SELATAN',
-    '31.75': 'KOTA ADM. JAKARTA TIMUR'
+    '11.02': 'Aceh Tenggara',
+    '11.04': 'Aceh Tengah',
+    '11.08': 'Aceh Utara',
+    '31.01': 'Kepulauan Seribu',
+    '31.71': 'Jakarta Pusat',
+    '31.72': 'Jakarta Utara',
+    '31.73': 'Jakarta Barat',
+    '31.74': 'Jakarta Selatan',
+    '31.75': 'Jakarta Timur'
   };
 
   let districtNames = {};
@@ -169,9 +180,9 @@ function processData(csvData) {
       // If the name contains "Kecamatan" or "Kec", extract the real name
       const match = cleanName.match(/(?:Kecamatan|Kec\.?)\s+(.+)/i);
       if (match) {
-        districtNames[code] = match[1].toUpperCase();
+        districtNames[code] = toTitleCase(match[1]);
       } else if (cleanName !== '-' && !districtNames[code]) {
-        districtNames[code] = cleanName.toUpperCase();
+        districtNames[code] = toTitleCase(cleanName);
       }
     }
     
@@ -184,6 +195,21 @@ function processData(csvData) {
     }
   }
 
+  // Pre-pass to collect all regency names from CSV
+  console.log('Pre-pass: Collecting all regency names...');
+  const allRegencyNames = new Map();
+  for (const row of csvData) {
+    const codeParts = row.code.split('.');
+    if (codeParts.length === 2) {
+      const cleanName = toTitleCase(row.name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim());
+      if (cleanName.toLowerCase().includes('luas wilayah')) continue; // Skip invalid names
+      const finalName = toTitleCase(cleanName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim());
+      allRegencyNames.set(row.code, finalName);
+    }
+  }
+
+  // PASS 1: Collect all raw data
+  console.log('PASS 1: Collecting raw data...');
   for (const row of csvData) {
     const code = row.code;
     const name = row.name;
@@ -192,7 +218,7 @@ function processData(csvData) {
       continue;
     }
 
-    const cleanName = name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim();
+    const cleanName = toTitleCase(name.replace(/^\d+\s*/, '').replace(/\s+/g, ' ').trim());
     const codeParts = code.split('.');
 
     if (codeParts.length === 1) {
@@ -208,7 +234,7 @@ function processData(csvData) {
       const isHardcoded = !!regencyNames[code];
       regencies.push({
         code,
-        name: isHardcoded ? regencyName : regencyName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim(),
+        name: isHardcoded ? regencyName : toTitleCase(regencyName.replace(/^(KABUPATEN|KAB\.|KOTA ADM\.|KOTA)\s*/i, '').trim()),
         provinceCode,
         type
       });
@@ -216,31 +242,63 @@ function processData(csvData) {
       const districtName = districtNames[code] || cleanName;
       if (shouldExclude(districtName)) continue;
       const regencyCode = `${codeParts[0]}.${codeParts[1]}`;
-      districts.push({ code, name: districtName, regencyCode });
+      const finalName = toTitleCase(districtName.replace(/^(KECAMATAN|KEC\.)\s*/i, '').trim());
+      districts.push({ code, name: finalName, regencyCode });
     } else if (codeParts.length === 4 && !shouldExclude(name)) {
       const districtCode = `${codeParts[0]}.${codeParts[1]}.${codeParts[2]}`;
       const type = codeParts[3].startsWith('1') ? 'KELURAHAN' : 'DESA';
       villages.push({ code, name: cleanName, districtCode, type });
     }
   }
+
+  // PASS 2: Enrich with hierarchy metadata
+  console.log('PASS 2: Enriching data with hierarchy metadata...');
+  
+  const provinceMap = new Map(provinces.map(p => [p.code, p.name]));
+
+  const enrichedRegencies = regencies.map(r => ({
+    ...r,
+    provinceName: provinceMap.get(r.provinceCode) || ''
+  }));
+
+  const regencyMap = new Map(regencies.map(r => [r.code, r.name]));
+  const districtMap = new Map(districts.map(d => [d.code, d.name]));
+
+  const enrichedDistricts = districts.map(d => ({
+    ...d,
+    provinceName: provinceMap.get(d.regencyCode.substring(0, 2)) || '',
+    regencyName: regencyMap.get(d.regencyCode) || ''
+  }));
+
+  const enrichedVillages = villages.map(v => ({
+    ...v,
+    provinceName: provinceMap.get(v.districtCode.substring(0, 2)) || '',
+    regencyName: regencyMap.get(v.districtCode.substring(0, 5)) || '',
+    districtName: districtMap.get(v.districtCode) || ''
+  }));
   
   // Remove duplicates
   const uniqueProvinces = Array.from(new Map(provinces.map(p => [p.code, p])).values());
-  const uniqueRegencies = Array.from(new Map(regencies.map(r => [r.code, r])).values());
-  const uniqueDistricts = Array.from(new Map(districts.map(d => [d.code, d])).values());
-  const uniqueVillages = Array.from(new Map(villages.map(v => [v.code, v])).values());
+  const uniqueRegencies = Array.from(new Map(enrichedRegencies.map(r => [r.code, r])).values());
+  const uniqueDistricts = Array.from(new Map(enrichedDistricts.map(d => [d.code, d])).values());
+  const uniqueVillages = Array.from(new Map(enrichedVillages.map(v => [v.code, v])).values());
 
   return { provinces: uniqueProvinces, regencies: uniqueRegencies, districts: uniqueDistricts, villages: uniqueVillages };
 }
 
 // Main
-const dataDir = path.join(__dirname, '..', 'data');
-const tsDataDir = path.join(__dirname, '..', 'src', 'data');
+const baseDataDir = path.join(__dirname, '..', 'data', 'base');
+const tsDataDir = path.join(__dirname, '..', 'src', 'data', 'base');
 const csvPath = path.join(__dirname, '..', '..', 'data', 'indonesia_administrative_data.csv');
 
 // Create data directory if not exists
-if (!fs.existsSync(dataDir)) {
-  fs.mkdirSync(dataDir, { recursive: true });
+if (!fs.existsSync(baseDataDir)) {
+  fs.mkdirSync(baseDataDir, { recursive: true });
+}
+
+const villagesDataDir = path.join(__dirname, '..', 'data', 'villages');
+if (!fs.existsSync(villagesDataDir)) {
+  fs.mkdirSync(villagesDataDir, { recursive: true });
 }
 
 // Create TS data directory if not exists
@@ -261,16 +319,34 @@ console.log(`Villages: ${villages.length}`);
 
 // Write JSON files
 console.log('Writing JSON files...');
-fs.writeFileSync(path.join(dataDir, 'provinces.json'), JSON.stringify(provinces, null, 2));
-fs.writeFileSync(path.join(dataDir, 'regencies.json'), JSON.stringify(regencies, null, 2));
-fs.writeFileSync(path.join(dataDir, 'districts.json'), JSON.stringify(districts, null, 2));
-fs.writeFileSync(path.join(dataDir, 'villages.json'), JSON.stringify(villages, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'provinces.json'), JSON.stringify(uniqueProvinces, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'regencies.json'), JSON.stringify(uniqueRegencies, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'districts.json'), JSON.stringify(districts, null, 2));
+fs.writeFileSync(path.join(baseDataDir, 'villages.json'), JSON.stringify(villages, null, 2));
+
+// Write split village JSON files by province
+console.log('Writing split village JSON files...');
+const villagesByProvince = {};
+villages.forEach(v => {
+  const provinceCode = v.code.substring(0, 2);
+  if (!villagesByProvince[provinceCode]) {
+    villagesByProvince[provinceCode] = [];
+  }
+  villagesByProvince[provinceCode].push(v);
+});
+
+for (const provinceCode in villagesByProvince) {
+  fs.writeFileSync(
+    path.join(villagesDataDir, `${provinceCode}.json`),
+    JSON.stringify(villagesByProvince[provinceCode], null, 2)
+  );
+}
 
 // Write TS files
 console.log('Writing TS files...');
 function writeTSFile(fileName, data, interfaceName) {
   const tsPath = path.join(tsDataDir, `${fileName}.ts`);
-  const content = `import { ${interfaceName} } from '../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  const content = `import type { ${interfaceName} } from '../types';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
   fs.writeFileSync(tsPath, content);
 }
 

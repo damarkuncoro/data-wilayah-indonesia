@@ -3,83 +3,135 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 
-const villages = require('../data/villages.json');
-const postalCodesPath = path.join(__dirname, '..', 'data', 'postal-codes.json');
+// --- 1. Configuration Object ---
+const CONFIG = {
+  BASE_URL: 'https://kodepos.posindonesia.co.id/CariKodepos',
+  USER_AGENT: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  MIN_DELAY: 1000, // ms
+  MAX_DELAY: 3000, // ms
+  DATA_DIR: path.join(__dirname, '..', 'data'),
+  VILLAGES_PATH: path.join(__dirname, '..', 'data', 'villages.json'),
+  DISTRICTS_PATH: path.join(__dirname, '..', 'data', 'districts.json'),
+  POSTAL_CODES_PATH: path.join(__dirname, '..', 'data', 'postal-codes.json'),
+};
 
-const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36';
-const BASE_URL = 'https://kodepos.posindonesia.co.id/CariKodepos';
+// --- 2. Structured Logger ---
+const logger = {
+  log: (level, message) => {
+    const timestamp = new Date().toISOString();
+    console.log(`[${timestamp}] [${level.toUpperCase()}] ${message}`);
+  },
+  info: (message) => logger.log('info', message),
+  warn: (message) => logger.log('warn', message),
+  error: (message) => logger.log('error', message),
+};
 
-// Helper function to add delay
+// --- Data Loading ---
+const villages = require(CONFIG.VILLAGES_PATH);
+const districts = require(CONFIG.DISTRICTS_PATH);
+const districtMap = new Map(districts.map(d => [d.code, d.name]));
+
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-async function fetchPostalCode(villageName) {
+async function fetchPostalCode(query) {
   try {
-    const response = await axios.post(BASE_URL, `kodepos=${encodeURIComponent(villageName)}`, {
+    const response = await axios.post(CONFIG.BASE_URL, `kodepos=${encodeURIComponent(query)}`, {
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html',
-        'Referer': BASE_URL
+        'User-Agent': CONFIG.USER_AGENT,
       }
     });
-
     const $ = cheerio.load(response.data);
-    const postalCode = $('#list-data tbody tr:first-child td:nth-child(2)').text().trim();
-
-    if (postalCode && postalCode.length === 5) {
-      return postalCode;
-    }
-    return null;
-  } catch (error) {
-    console.error(`Error fetching for ${villageName}:`, error.message);
+    return $('#list-data tbody tr:first-child td:nth-child(2)').text().trim();
+  } catch (err) {
+    logger.error(`Network error while fetching for "${query}": ${err.message}`);
     return null;
   }
 }
 
+// --- 3. Fallback Search Logic ---
+async function findPostalCode(village) {
+  // Strategy 1: Search by exact village name
+  let postalCode = await fetchPostalCode(village.name);
+  if (postalCode) {
+    logger.info(`Strategy 1 (Exact Match) successful for ${village.name}`);
+    return postalCode;
+  }
+  await sleep(500); // Small delay between strategies
+
+  // Strategy 2: Search by cleaned village name
+  const cleanedName = village.name.replace(/^(Desa|Kelurahan|Gampong)\s+/i, '');
+  if (cleanedName !== village.name) {
+    postalCode = await fetchPostalCode(cleanedName);
+    if (postalCode) {
+      logger.info(`Strategy 2 (Cleaned Name) successful for ${village.name}`);
+      return postalCode;
+    }
+    await sleep(500);
+  }
+
+  // Strategy 3: Fallback to district name
+  const districtName = districtMap.get(village.districtCode);
+  if (districtName) {
+    postalCode = await fetchPostalCode(districtName);
+    if (postalCode) {
+      logger.warn(`Strategy 3 (District Fallback) used for ${village.name}. Found code: ${postalCode}`);
+      return postalCode;
+    }
+  }
+
+  return null;
+}
+
 async function main() {
-  let existingPostalCodes = {};
-  if (fs.existsSync(postalCodesPath)) {
-    existingPostalCodes = JSON.parse(fs.readFileSync(postalCodesPath, 'utf-8'));
-  }
+  // --- 4. Flexible CLI ---
+  const args = process.argv.slice(2).reduce((acc, arg) => {
+    const [key, value] = arg.split('=');
+    acc[key.replace(/^--/, '')] = value || true;
+    return acc;
+  }, {});
 
-  // To scrape a sample, add .slice(0, 10)
   let villagesToScrape = villages;
-
-  // --- RESUME LOGIC ---
-  const resumeFromCode = '11.07.06.2029';
-  const resumeIndex = villages.findIndex(v => v.code === resumeFromCode);
-  if (resumeIndex !== -1) {
-    console.log(`[INFO] Resuming scrape from after village code ${resumeFromCode} (index ${resumeIndex})`);
-    villagesToScrape = villages.slice(resumeIndex + 1);
+  if (args.sample) {
+    villagesToScrape = villages.slice(0, parseInt(args.sample, 10));
+    logger.info(`Running in sample mode for ${args.sample} villages.`);
   }
-  // --- END RESUME LOGIC ---
+  if (args['resume-from']) {
+    const resumeIndex = villages.findIndex(v => v.code === args['resume-from']);
+    if (resumeIndex !== -1) {
+      villagesToScrape = villages.slice(resumeIndex + 1);
+      logger.info(`Resuming scrape from after village code ${args['resume-from']}.`);
+    }
+  }
 
+  let existingPostalCodes = {};
+  if (fs.existsSync(CONFIG.POSTAL_CODES_PATH)) {
+    existingPostalCodes = JSON.parse(fs.readFileSync(CONFIG.POSTAL_CODES_PATH, 'utf-8'));
+  }
 
   for (const village of villagesToScrape) {
     if (existingPostalCodes[village.code]) {
-      console.log(`[SKIP] Postal code for ${village.name} (${village.code}) already exists.`);
+      logger.info(`[SKIP] Postal code for ${village.name} (${village.code}) already exists.`);
       continue;
     }
 
-    console.log(`[FETCH] Scraping postal code for ${village.name} (${village.code})...`);
-    const postalCode = await fetchPostalCode(village.name);
+    logger.info(`[FETCH] Scraping for ${village.name} (${village.code})...`);
+    const postalCode = await findPostalCode(village);
 
-    if (postalCode) {
+    if (postalCode && postalCode.length === 5) {
       existingPostalCodes[village.code] = postalCode;
-      console.log(`[SUCCESS] Found postal code: ${postalCode}`);
+      logger.info(`[SUCCESS] Found postal code: ${postalCode}`);
     } else {
-      console.log(`[FAIL] Could not find postal code for ${village.name}.`);
+      logger.warn(`[FAIL] Could not find postal code for ${village.name}.`);
     }
 
-    // Save progress after each fetch
-    fs.writeFileSync(postalCodesPath, JSON.stringify(existingPostalCodes, null, 2));
+    fs.writeFileSync(CONFIG.POSTAL_CODES_PATH, JSON.stringify(existingPostalCodes, null, 2));
 
-    // Be respectful to the server, add a random delay
-    const delay = Math.floor(Math.random() * (3000 - 1000 + 1) + 1000);
+    const delay = Math.random() * (CONFIG.MAX_DELAY - CONFIG.MIN_DELAY) + CONFIG.MIN_DELAY;
     await sleep(delay);
   }
 
-  console.log('Scraping finished.');
+  logger.info('Scraping finished.');
 }
 
 main();

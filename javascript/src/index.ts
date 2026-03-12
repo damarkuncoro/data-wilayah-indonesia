@@ -12,69 +12,30 @@ import { JSONVillageRepository } from "./infrastructure/repositories/json-villag
  * Follows Clean Architecture (Composition Root) with Lazy Initialization.
  */
 export class DataWilayahService {
-  private _provinceRepo?: JSONProvinceRepository;
-  private _regencyRepo?: JSONRegencyRepository;
-  private _districtRepo?: JSONDistrictRepository;
-  private _villageRepo?: JSONVillageRepository;
-
-  private provider: DataProvider;
-  private plugins: DataPlugin[];
+  private provinceRepo: JSONProvinceRepository;
+  private regencyRepo: JSONRegencyRepository;
+  private districtRepo: JSONDistrictRepository;
+  private villageRepo: JSONVillageRepository;
 
   constructor(provider?: DataProvider, plugins: DataPlugin[] = []) {
-    this.provider = provider || new JsonDataProvider();
-    this.plugins = plugins;
-  }
+    const dataProvider = provider || new JsonDataProvider();
 
-  private get provinceRepo(): JSONProvinceRepository {
-    if (!this._provinceRepo) {
-      let data = this.provider.getProvinces();
-      for (const plugin of this.plugins) {
-        if (plugin.enrichProvinces) {
-          data = plugin.enrichProvinces(data);
-        }
-      }
-      this._provinceRepo = new JSONProvinceRepository(data);
-    }
-    return this._provinceRepo;
-  }
+    let provinces = dataProvider.getProvinces();
+    let regencies = dataProvider.getRegencies();
+    let districts = dataProvider.getDistricts();
+    let villages = dataProvider.getVillages();
 
-  private get regencyRepo(): JSONRegencyRepository {
-    if (!this._regencyRepo) {
-      let data = this.provider.getRegencies();
-      for (const plugin of this.plugins) {
-        if (plugin.enrichRegencies) {
-          data = plugin.enrichRegencies(data);
-        }
-      }
-      this._regencyRepo = new JSONRegencyRepository(data);
+    for (const plugin of plugins) {
+      if (plugin.enrichProvinces) provinces = plugin.enrichProvinces(provinces);
+      if (plugin.enrichRegencies) regencies = plugin.enrichRegencies(regencies);
+      if (plugin.enrichDistricts) districts = plugin.enrichDistricts(districts);
+      if (plugin.enrichVillages) villages = plugin.enrichVillages(villages);
     }
-    return this._regencyRepo;
-  }
 
-  private get districtRepo(): JSONDistrictRepository {
-    if (!this._districtRepo) {
-      let data = this.provider.getDistricts();
-      for (const plugin of this.plugins) {
-        if (plugin.enrichDistricts) {
-          data = plugin.enrichDistricts(data);
-        }
-      }
-      this._districtRepo = new JSONDistrictRepository(data);
-    }
-    return this._districtRepo;
-  }
-
-  private get villageRepo(): JSONVillageRepository {
-    if (!this._villageRepo) {
-      let data = this.provider.getVillages();
-      for (const plugin of this.plugins) {
-        if (plugin.enrichVillages) {
-          data = plugin.enrichVillages(data);
-        }
-      }
-      this._villageRepo = new JSONVillageRepository(data);
-    }
-    return this._villageRepo;
+    this.provinceRepo = new JSONProvinceRepository(provinces);
+    this.regencyRepo = new JSONRegencyRepository(regencies);
+    this.districtRepo = new JSONDistrictRepository(districts);
+    this.villageRepo = new JSONVillageRepository(villages);
   }
 
   /**
@@ -166,19 +127,54 @@ export class DataWilayahService {
    */
   search(name: string): { type: string; item: any }[] {
     const results: { type: string; item: any }[] = [];
-    
+
     this.provinceRepo.findByName(name).forEach(p => results.push({ type: 'PROVINCE', item: p }));
     this.regencyRepo.findByName(name).forEach(r => results.push({ type: 'REGENCY', item: r }));
     this.districtRepo.findByName(name).forEach(d => results.push({ type: 'DISTRICT', item: d }));
     this.villageRepo.findByName(name).forEach(v => results.push({ type: 'VILLAGE', item: v }));
-    
+
     return results;
   }
 }
 
-// Re-export types for convenience
-export * from "./core/entities/administrative-unit";
-export * from "./core/entities/province";
-export * from "./core/entities/regency";
-export * from "./core/entities/district";
-export * from "./core/entities/village";
+/**
+ * Functional API - Wrapper for DataWilayahService
+ * This allows for better tree-shaking and easier usage.
+ */
+let _defaultService: DataWilayahService | undefined;
+
+function getDefaultService(): DataWilayahService {
+  if (!_defaultService) {
+    _defaultService = new DataWilayahService();
+  }
+  return _defaultService;
+}
+
+export function getAllProvinces() { return getDefaultService().getAllProvinces(); }
+export function getAllRegencies() { return getDefaultService().getAllRegencies(); }
+export function getAllDistricts() { return getDefaultService().getAllDistricts(); }
+export function getAllVillages() { return getDefaultService().getAllVillages(); }
+
+export function getRegenciesByProvince(provinceCode: string) { return getDefaultService().getRegenciesByProvince(provinceCode); }
+export function getDistrictsByRegency(regencyCode: string) { return getDefaultService().getDistrictsByRegency(regencyCode); }
+export function getVillagesByDistrict(districtCode: string) { return getDefaultService().getVillagesByDistrict(districtCode); }
+
+export function getProvinceByCode(code: string) { return getDefaultService().getProvinceByCode(code); }
+export function getRegencyByCode(code: string) { return getDefaultService().getRegencyByCode(code); }
+export function getDistrictByCode(code: string) { return getDefaultService().getDistrictByCode(code); }
+export function getVillageByCode(code: string) { return getDefaultService().getVillageByCode(code); }
+
+export function findProvincesByName(name: string) { return getDefaultService().findProvincesByName(name); }
+export function search(name: string) { return getDefaultService().search(name); }
+
+// Re-export types and interfaces
+export * from "./core/entities";
+export { DataProvider } from "./core/provider";
+export { DataPlugin } from "./core/plugin";
+export { JsonDataProvider } from "./infrastructure/provider/json-provider";
+
+/**
+ * Data Source Information
+ */
+export const DATA_SOURCE = "Kepmendagri No. 050-145 Tahun 2022 (Terakhir Diperbarui 2024)";
+export const DATA_VERSION = "1.1.1";

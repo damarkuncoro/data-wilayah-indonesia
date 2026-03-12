@@ -1,0 +1,4655 @@
+[
+  {
+    "code": "92.01.01.2002",
+    "name": "Asbaken",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.01.2004",
+    "name": "Malaumkarta",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.01.2005",
+    "name": "Batu Lubang",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.01.2007",
+    "name": "Batu Lubang Pantai",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.01.2008",
+    "name": "Kwadas",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.01.2009",
+    "name": "Bainkete",
+    "districtCode": "92.01.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Makbon"
+  },
+  {
+    "code": "92.01.04.2001",
+    "name": "Klabra",
+    "districtCode": "92.01.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klabra"
+  },
+  {
+    "code": "92.01.04.2002",
+    "name": "Wanurian",
+    "districtCode": "92.01.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klabra"
+  },
+  {
+    "code": "92.01.04.2009",
+    "name": "Klarion",
+    "districtCode": "92.01.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klabra"
+  },
+  {
+    "code": "92.01.04.2011",
+    "name": "Kaas",
+    "districtCode": "92.01.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klabra"
+  },
+  {
+    "code": "92.01.05.2011",
+    "name": "Walal",
+    "districtCode": "92.01.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Salawati"
+  },
+  {
+    "code": "92.01.05.2012",
+    "name": "Malaus",
+    "districtCode": "92.01.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Salawati"
+  },
+  {
+    "code": "92.01.06.2001",
+    "name": "Seget",
+    "districtCode": "92.01.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Seget"
+  },
+  {
+    "code": "92.01.06.2004",
+    "name": "Malabam",
+    "districtCode": "92.01.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Seget"
+  },
+  {
+    "code": "92.01.06.2010",
+    "name": "Kasimle",
+    "districtCode": "92.01.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Seget"
+  },
+  {
+    "code": "92.01.07.1001",
+    "name": "Aimas",
+    "districtCode": "92.01.07",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aimas"
+  },
+  {
+    "code": "92.01.08.2001",
+    "name": "Klawana",
+    "districtCode": "92.01.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawana"
+  },
+  {
+    "code": "92.01.08.2002",
+    "name": "Klamono",
+    "districtCode": "92.01.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawana"
+  },
+  {
+    "code": "92.01.08.2003",
+    "name": "Wariayau",
+    "districtCode": "92.01.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawana"
+  },
+  {
+    "code": "92.01.10.2001",
+    "name": "Sayosa",
+    "districtCode": "92.01.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sayosa"
+  },
+  {
+    "code": "92.01.12.2001",
+    "name": "Segun",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.12.2002",
+    "name": "Gisim",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.12.2003",
+    "name": "Waimon",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.12.2004",
+    "name": "Klasegun",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.12.2005",
+    "name": "Waimlabat",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.12.2006",
+    "name": "Majemau",
+    "districtCode": "92.01.12",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Segun"
+  },
+  {
+    "code": "92.01.20.2001",
+    "name": "Luwelala",
+    "districtCode": "92.01.20",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Luwelala"
+  },
+  {
+    "code": "92.01.39.1004",
+    "name": "Klamasen",
+    "districtCode": "92.01.39",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klamasen"
+  },
+  {
+    "code": "92.01.40.2002",
+    "name": "Klawuluh",
+    "districtCode": "92.01.40",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawuluh"
+  },
+  {
+    "code": "92.01.40.2003",
+    "name": "Malakobutu",
+    "districtCode": "92.01.40",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawuluh"
+  },
+  {
+    "code": "92.01.40.2004",
+    "name": "Kwakeik",
+    "districtCode": "92.01.40",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawuluh"
+  },
+  {
+    "code": "92.01.40.2005",
+    "name": "Klasowoh",
+    "districtCode": "92.01.40",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawuluh"
+  },
+  {
+    "code": "92.01.40.2006",
+    "name": "Malalilis",
+    "districtCode": "92.01.40",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Klawuluh"
+  },
+  {
+    "code": "92.01.54.2005",
+    "name": "Penataan Desa Akibat Penetapan Batas Daerah, Semua Wilayah Kab.",
+    "districtCode": "92.01.54",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Penataan Desa Akibat Penetapan Batas Daerah, Semua Wilayah Kab."
+  },
+  {
+    "code": "92.02.03.2001",
+    "name": "Dindey",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2002",
+    "name": "Indisey",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2003",
+    "name": "Hingk",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2004",
+    "name": "Warmare",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2005",
+    "name": "Nimbay",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2006",
+    "name": "Meny",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2007",
+    "name": "Tanah Merah",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2009",
+    "name": "Subsay",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2010",
+    "name": "Madrat",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2011",
+    "name": "Snaimboy",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2012",
+    "name": "Guentuy",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2013",
+    "name": "Ngungguen",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2014",
+    "name": "Sotea",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2015",
+    "name": "Duwin",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2016",
+    "name": "Ibuwau",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2017",
+    "name": "Iboisrati",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2019",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2020",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2021",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2024",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2028",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.03.2029",
+    "name": "Uu. No. 24/2012 Tidak Mangokomodir 13 Desa/kampung Di Distrik",
+    "districtCode": "92.02.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dindey"
+  },
+  {
+    "code": "92.02.04.2001",
+    "name": "Prafi Mulya",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2002",
+    "name": "Umbuy",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2003",
+    "name": "Desay",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2004",
+    "name": "Aimasi",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2007",
+    "name": "Wasegi Indah",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2009",
+    "name": "Bogor",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2012",
+    "name": "Kali Amin",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.04.2015",
+    "name": "Kerenu",
+    "districtCode": "92.02.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Prafi Mulya"
+  },
+  {
+    "code": "92.02.05.2001",
+    "name": "Masni",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2002",
+    "name": "Sumber Boga",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2003",
+    "name": "Prafi Barat",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2004",
+    "name": "Muara Prafi",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2006",
+    "name": "Macuan",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2008",
+    "name": "Wariori",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2009",
+    "name": "Bowi Subur",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2010",
+    "name": "Makwan",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2011",
+    "name": "Kali Merah",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2012",
+    "name": "Meiforga",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2013",
+    "name": "Sibuni",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2014",
+    "name": "Yensum",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2015",
+    "name": "Mansaburi",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2016",
+    "name": "Igor",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2017",
+    "name": "Merejemeg",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2018",
+    "name": "Aurmios",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2020",
+    "name": "Sembab",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2024",
+    "name": "Membowi",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2027",
+    "name": "Yonsoribo",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2028",
+    "name": "Meyof Ii",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2030",
+    "name": "Moubja",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2031",
+    "name": "Ririnfos",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2032",
+    "name": "Muara Wariori",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2036",
+    "name": "Inyei",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2037",
+    "name": "Undi",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2038",
+    "name": "Jowen",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2039",
+    "name": "Aska",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2040",
+    "name": "Mantedi",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.05.2042",
+    "name": "Wariori Indah",
+    "districtCode": "92.02.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Masni"
+  },
+  {
+    "code": "92.02.14.2023",
+    "name": "Mubraidiba",
+    "districtCode": "92.02.14",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mubraidiba"
+  },
+  {
+    "code": "92.02.17.2017",
+    "name": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu",
+    "districtCode": "92.02.17",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu"
+  },
+  {
+    "code": "92.02.17.2020",
+    "name": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu",
+    "districtCode": "92.02.17",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu"
+  },
+  {
+    "code": "92.02.17.2022",
+    "name": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu",
+    "districtCode": "92.02.17",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu"
+  },
+  {
+    "code": "92.02.17.2024",
+    "name": "Warnyeti",
+    "districtCode": "92.02.17",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Letak Kampung Masih Di Kab. Manokwari, Sambil Menunggu"
+  },
+  {
+    "code": "92.03.01.1001",
+    "name": "Fak Fak Selatan",
+    "districtCode": "92.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak"
+  },
+  {
+    "code": "92.03.01.1002",
+    "name": "Fak Fak Utara",
+    "districtCode": "92.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak"
+  },
+  {
+    "code": "92.03.01.2007",
+    "name": "Gewerpe",
+    "districtCode": "92.03.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak"
+  },
+  {
+    "code": "92.03.02.2001",
+    "name": "Werba",
+    "districtCode": "92.03.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Werba"
+  },
+  {
+    "code": "92.03.02.2002",
+    "name": "Kiat",
+    "districtCode": "92.03.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Werba"
+  },
+  {
+    "code": "92.03.02.2003",
+    "name": "Purwasak",
+    "districtCode": "92.03.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Werba"
+  },
+  {
+    "code": "92.03.02.2008",
+    "name": "Wurkendik",
+    "districtCode": "92.03.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Werba"
+  },
+  {
+    "code": "92.03.03.2001",
+    "name": "Tunas Gain",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.03.2003",
+    "name": "Urat",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.03.2004",
+    "name": "Sanggram",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.03.2010",
+    "name": "Weri",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.03.2012",
+    "name": "Kiria Bisa",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.03.2013",
+    "name": "Saharei",
+    "districtCode": "92.03.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tunas Gain"
+  },
+  {
+    "code": "92.03.04.1001",
+    "name": "Kokas Kota",
+    "districtCode": "92.03.04",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2003",
+    "name": "Mandoni",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2008",
+    "name": "Sekar",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2009",
+    "name": "Ugar",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2010",
+    "name": "Sisir",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2011",
+    "name": "Kampung Baru",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2012",
+    "name": "Patimburak",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2013",
+    "name": "Batufiafas",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2014",
+    "name": "Kinam",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.04.2021",
+    "name": "Mambunibuni",
+    "districtCode": "92.03.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kokas"
+  },
+  {
+    "code": "92.03.05.1001",
+    "name": "Danaweria",
+    "districtCode": "92.03.05",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2002",
+    "name": "Kayu Merah",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2003",
+    "name": "Katemba",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2004",
+    "name": "Nemewikarya",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2005",
+    "name": "Raduria",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2006",
+    "name": "Brongkendik",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2007",
+    "name": "Air Besar",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2008",
+    "name": "Mandopma",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2009",
+    "name": "Kanantare",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2010",
+    "name": "Pasir Putih",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2011",
+    "name": "Pirma",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.05.2012",
+    "name": "Sakartemin",
+    "districtCode": "92.03.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fak-fak Tengah"
+  },
+  {
+    "code": "92.03.06.2001",
+    "name": "Malakuli",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2002",
+    "name": "Faur",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2003",
+    "name": "Kiaba",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2004",
+    "name": "Antalisa",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2005",
+    "name": "Tarak",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2006",
+    "name": "Tuberwasak",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.06.2007",
+    "name": "Mas",
+    "districtCode": "92.03.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Malakuli"
+  },
+  {
+    "code": "92.03.07.2007",
+    "name": "Onimsari",
+    "districtCode": "92.03.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Onimsari"
+  },
+  {
+    "code": "92.03.07.2008",
+    "name": "Mekarsari",
+    "districtCode": "92.03.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Onimsari"
+  },
+  {
+    "code": "92.03.07.2009",
+    "name": "Pinang Agung",
+    "districtCode": "92.03.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Onimsari"
+  },
+  {
+    "code": "92.03.07.2010",
+    "name": "Bumi Moroh Indah",
+    "districtCode": "92.03.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Onimsari"
+  },
+  {
+    "code": "92.03.08.2001",
+    "name": "Kramongmongga",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2007",
+    "name": "Wargep",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2008",
+    "name": "Mamur",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2009",
+    "name": "Nembukteb",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2010",
+    "name": "Pikpik",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2011",
+    "name": "Kwamkwamur",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.08.2012",
+    "name": "Bahbadan",
+    "districtCode": "92.03.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kramongmongga"
+  },
+  {
+    "code": "92.03.09.2001",
+    "name": "Puar",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2002",
+    "name": "Degen",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2003",
+    "name": "Tetar",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2005",
+    "name": "Sum",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2011",
+    "name": "Adora",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2012",
+    "name": "Us",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2014",
+    "name": "Patipi Pasir",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2015",
+    "name": "Patipi Pulau",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2017",
+    "name": "Mawar",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2018",
+    "name": "Tibatibananam",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.03.09.2020",
+    "name": "Offie",
+    "districtCode": "92.03.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Puar"
+  },
+  {
+    "code": "92.04.01.1005",
+    "name": "Kaibus",
+    "districtCode": "92.04.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.1006",
+    "name": "Kohoin",
+    "districtCode": "92.04.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2004",
+    "name": "Wersar",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2009",
+    "name": "Wehali",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2010",
+    "name": "Aibobor",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2017",
+    "name": "Wermit",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2018",
+    "name": "Keyen",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2021",
+    "name": "Siribau",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2025",
+    "name": "Magis",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2026",
+    "name": "Tegirolo",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2034",
+    "name": "Wernas",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2035",
+    "name": "Tapiri",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2040",
+    "name": "Gorolo",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2041",
+    "name": "Nambro",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.01.2044",
+    "name": "Seyolo",
+    "districtCode": "92.04.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Teminabuan"
+  },
+  {
+    "code": "92.04.04.2001",
+    "name": "Mate",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2004",
+    "name": "Serkos",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2006",
+    "name": "Solta Baru",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2008",
+    "name": "Wadoi",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2009",
+    "name": "Isogo",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2013",
+    "name": "Sibae",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.04.2020",
+    "name": "Mogibi",
+    "districtCode": "92.04.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Mate"
+  },
+  {
+    "code": "92.04.06.2001",
+    "name": "Sawiat",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2008",
+    "name": "Sasnek",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2009",
+    "name": "Elles",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2011",
+    "name": "Sodrofoyo",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2012",
+    "name": "Sfakyo",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2013",
+    "name": "Wensough",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2014",
+    "name": "Ween",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.06.2015",
+    "name": "Wendi",
+    "districtCode": "92.04.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sawiat"
+  },
+  {
+    "code": "92.04.09.2001",
+    "name": "Tarof",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2002",
+    "name": "Negeri Besar",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2003",
+    "name": "Siwatori",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2004",
+    "name": "Kasuweri",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2005",
+    "name": "Migori",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2006",
+    "name": "Tambani",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2010",
+    "name": "Daubak",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2014",
+    "name": "Arbasina",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2015",
+    "name": "Birawaku",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2016",
+    "name": "Korewatara",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.09.2020",
+    "name": "Migrito",
+    "districtCode": "92.04.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tarof"
+  },
+  {
+    "code": "92.04.10.2001",
+    "name": "Moswaren",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.04.10.2002",
+    "name": "Johsiro",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.04.10.2003",
+    "name": "Hararo",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.04.10.2004",
+    "name": "Bumi Ajo",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.04.10.2005",
+    "name": "Hasik Jaya",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.04.10.2006",
+    "name": "Kamisabe",
+    "districtCode": "92.04.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moswaren"
+  },
+  {
+    "code": "92.05.01.2001",
+    "name": "Waigama",
+    "districtCode": "92.05.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Waigama"
+  },
+  {
+    "code": "92.05.01.2005",
+    "name": "Salafen",
+    "districtCode": "92.05.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Waigama"
+  },
+  {
+    "code": "92.05.01.2006",
+    "name": "Aduwei",
+    "districtCode": "92.05.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Waigama"
+  },
+  {
+    "code": "92.05.01.2007",
+    "name": "Atkari",
+    "districtCode": "92.05.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Waigama"
+  },
+  {
+    "code": "92.05.01.2014",
+    "name": "Solal",
+    "districtCode": "92.05.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Waigama"
+  },
+  {
+    "code": "92.05.02.2003",
+    "name": "Kabare",
+    "districtCode": "92.05.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kabare"
+  },
+  {
+    "code": "92.05.02.2010",
+    "name": "Andey",
+    "districtCode": "92.05.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kabare"
+  },
+  {
+    "code": "92.05.02.2011",
+    "name": "Asukweri",
+    "districtCode": "92.05.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kabare"
+  },
+  {
+    "code": "92.05.02.2013",
+    "name": "Bonsayor",
+    "districtCode": "92.05.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kabare"
+  },
+  {
+    "code": "92.05.03.2004",
+    "name": "Saonek",
+    "districtCode": "92.05.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Saonek"
+  },
+  {
+    "code": "92.05.03.2014",
+    "name": "Saporkren",
+    "districtCode": "92.05.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Saonek"
+  },
+  {
+    "code": "92.05.03.2015",
+    "name": "Yenbeser",
+    "districtCode": "92.05.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Saonek"
+  },
+  {
+    "code": "92.05.03.2016",
+    "name": "Friwen",
+    "districtCode": "92.05.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Saonek"
+  },
+  {
+    "code": "92.05.03.2017",
+    "name": "Wawiyai",
+    "districtCode": "92.05.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Saonek"
+  },
+  {
+    "code": "92.05.04.2001",
+    "name": "Samate",
+    "districtCode": "92.05.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Samate"
+  },
+  {
+    "code": "92.05.04.2002",
+    "name": "Kapatlap",
+    "districtCode": "92.05.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Samate"
+  },
+  {
+    "code": "92.05.06.2003",
+    "name": "Tomolol",
+    "districtCode": "92.05.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tomolol"
+  },
+  {
+    "code": "92.05.06.2011",
+    "name": "Usaha Jaya",
+    "districtCode": "92.05.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Tomolol"
+  },
+  {
+    "code": "92.05.07.2001",
+    "name": "Selpele",
+    "districtCode": "92.05.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Selpele"
+  },
+  {
+    "code": "92.05.07.2005",
+    "name": "Mutus",
+    "districtCode": "92.05.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Selpele"
+  },
+  {
+    "code": "92.05.07.2007",
+    "name": "Bianci",
+    "districtCode": "92.05.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Selpele"
+  },
+  {
+    "code": "92.05.07.2011",
+    "name": "Saleo",
+    "districtCode": "92.05.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Selpele"
+  },
+  {
+    "code": "92.05.07.2012",
+    "name": "Waisilip",
+    "districtCode": "92.05.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Selpele"
+  },
+  {
+    "code": "92.05.13.2010",
+    "name": "Dabatan",
+    "districtCode": "92.05.13",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dabatan"
+  },
+  {
+    "code": "92.06.01.1001",
+    "name": "Bintuni Timur",
+    "districtCode": "92.06.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.1002",
+    "name": "Bintuni Barat",
+    "districtCode": "92.06.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2004",
+    "name": "Tuasai",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2005",
+    "name": "Argosigemerai",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2009",
+    "name": "Beimes",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2010",
+    "name": "Iguriji",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2022",
+    "name": "Masina",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.01.2026",
+    "name": "Wesiri",
+    "districtCode": "92.06.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Bintuni"
+  },
+  {
+    "code": "92.06.02.2001",
+    "name": "Merdey",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2002",
+    "name": "Meryeb",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2004",
+    "name": "Meyom",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2007",
+    "name": "Menggerba",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2008",
+    "name": "Anajero",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2010",
+    "name": "Mogromus",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2011",
+    "name": "Morombuy",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2014",
+    "name": "Mekiesefeb",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.02.2020",
+    "name": "Meyetga",
+    "districtCode": "92.06.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Merdey"
+  },
+  {
+    "code": "92.06.03.2020",
+    "name": "Irarutu Iii",
+    "districtCode": "92.06.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Irarutu Iii"
+  },
+  {
+    "code": "92.06.03.2021",
+    "name": "Amutu",
+    "districtCode": "92.06.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Irarutu Iii"
+  },
+  {
+    "code": "92.06.03.2022",
+    "name": "Nusei",
+    "districtCode": "92.06.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Irarutu Iii"
+  },
+  {
+    "code": "92.06.03.2023",
+    "name": "Kasira",
+    "districtCode": "92.06.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Irarutu Iii"
+  },
+  {
+    "code": "92.06.04.2001",
+    "name": "Aranday",
+    "districtCode": "92.06.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aranday"
+  },
+  {
+    "code": "92.06.04.2007",
+    "name": "Kampung Baru",
+    "districtCode": "92.06.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aranday"
+  },
+  {
+    "code": "92.06.04.2008",
+    "name": "Kecap",
+    "districtCode": "92.06.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aranday"
+  },
+  {
+    "code": "92.06.04.2009",
+    "name": "Manunggal Karya",
+    "districtCode": "92.06.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aranday"
+  },
+  {
+    "code": "92.06.05.2001",
+    "name": "Jagiro",
+    "districtCode": "92.06.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Jagiro"
+  },
+  {
+    "code": "92.06.05.2004",
+    "name": "Meyenda",
+    "districtCode": "92.06.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Jagiro"
+  },
+  {
+    "code": "92.06.05.2005",
+    "name": "Rawara",
+    "districtCode": "92.06.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Jagiro"
+  },
+  {
+    "code": "92.06.05.2006",
+    "name": "Barma Barat",
+    "districtCode": "92.06.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Jagiro"
+  },
+  {
+    "code": "92.06.05.2011",
+    "name": "Inggof",
+    "districtCode": "92.06.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Jagiro"
+  },
+  {
+    "code": "92.06.06.2001",
+    "name": "Moyeba",
+    "districtCode": "92.06.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moyeba"
+  },
+  {
+    "code": "92.06.06.2004",
+    "name": "Merestim",
+    "districtCode": "92.06.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moyeba"
+  },
+  {
+    "code": "92.06.06.2005",
+    "name": "Inofina",
+    "districtCode": "92.06.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moyeba"
+  },
+  {
+    "code": "92.06.06.2006",
+    "name": "Mosum",
+    "districtCode": "92.06.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Moyeba"
+  },
+  {
+    "code": "92.06.07.2001",
+    "name": "Wamesa I / Idoor",
+    "districtCode": "92.06.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa I / Idoor"
+  },
+  {
+    "code": "92.06.07.2002",
+    "name": "Wamesa Ii / Yakati",
+    "districtCode": "92.06.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa I / Idoor"
+  },
+  {
+    "code": "92.06.07.2003",
+    "name": "Yansei",
+    "districtCode": "92.06.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa I / Idoor"
+  },
+  {
+    "code": "92.06.07.2004",
+    "name": "Mamuranu",
+    "districtCode": "92.06.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa I / Idoor"
+  },
+  {
+    "code": "92.06.08.2001",
+    "name": "Fruata/irowutu Ii",
+    "districtCode": "92.06.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fruata/irowutu Ii"
+  },
+  {
+    "code": "92.06.08.2002",
+    "name": "Meryedi",
+    "districtCode": "92.06.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fruata/irowutu Ii"
+  },
+  {
+    "code": "92.06.08.2003",
+    "name": "Riendo",
+    "districtCode": "92.06.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fruata/irowutu Ii"
+  },
+  {
+    "code": "92.06.24.2001",
+    "name": "Semula Wl Kec. Moskona Utara",
+    "districtCode": "92.06.24",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Semula Wl Kec. Moskona Utara"
+  },
+  {
+    "code": "92.06.24.2002",
+    "name": "Semula Wl Kec. Moskona Utara",
+    "districtCode": "92.06.24",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Semula Wl Kec. Moskona Utara"
+  },
+  {
+    "code": "92.06.24.2003",
+    "name": "Semula Wl Kec. Moskona Utara",
+    "districtCode": "92.06.24",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Semula Wl Kec. Moskona Utara"
+  },
+  {
+    "code": "92.07.01.2002",
+    "name": "Rado",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2003",
+    "name": "Dotir",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2004",
+    "name": "Maniwak",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2005",
+    "name": "Wasior Ii",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2006",
+    "name": "Maimari",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2007",
+    "name": "Moru",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.01.2011",
+    "name": "Iriati",
+    "districtCode": "92.07.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wasior"
+  },
+  {
+    "code": "92.07.02.2001",
+    "name": "Wamesa Tengah",
+    "districtCode": "92.07.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa Tengah"
+  },
+  {
+    "code": "92.07.02.2004",
+    "name": "Sombokoro",
+    "districtCode": "92.07.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wamesa Tengah"
+  },
+  {
+    "code": "92.07.03.2001",
+    "name": "Aisandami",
+    "districtCode": "92.07.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisandami"
+  },
+  {
+    "code": "92.07.03.2002",
+    "name": "Sobey",
+    "districtCode": "92.07.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisandami"
+  },
+  {
+    "code": "92.07.03.2006",
+    "name": "Yopanggar",
+    "districtCode": "92.07.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisandami"
+  },
+  {
+    "code": "92.07.04.2002",
+    "name": "Wondiboy",
+    "districtCode": "92.07.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wondiboy"
+  },
+  {
+    "code": "92.07.04.2009",
+    "name": "Kabouw",
+    "districtCode": "92.07.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wondiboy"
+  },
+  {
+    "code": "92.07.04.2010",
+    "name": "Issui",
+    "districtCode": "92.07.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wondiboy"
+  },
+  {
+    "code": "92.07.04.2015",
+    "name": "Kaibi",
+    "districtCode": "92.07.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wondiboy"
+  },
+  {
+    "code": "92.07.05.2002",
+    "name": "Ambuar",
+    "districtCode": "92.07.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ambuar"
+  },
+  {
+    "code": "92.07.05.2003",
+    "name": "Karuan",
+    "districtCode": "92.07.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ambuar"
+  },
+  {
+    "code": "92.07.06.2001",
+    "name": "Yombekiri I",
+    "districtCode": "92.07.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yombekiri I"
+  },
+  {
+    "code": "92.07.06.2002",
+    "name": "Isenebuay",
+    "districtCode": "92.07.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yombekiri I"
+  },
+  {
+    "code": "92.07.06.2003",
+    "name": "Yomakan",
+    "districtCode": "92.07.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yombekiri I"
+  },
+  {
+    "code": "92.07.06.2005",
+    "name": "Iseren",
+    "districtCode": "92.07.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yombekiri I"
+  },
+  {
+    "code": "92.08.01.1001",
+    "name": "Kaimana Kota",
+    "districtCode": "92.08.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.1014",
+    "name": "Krooy",
+    "districtCode": "92.08.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2002",
+    "name": "Marsi",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2004",
+    "name": "Lobo",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2005",
+    "name": "Trikora",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2006",
+    "name": "Tanggaromi",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2007",
+    "name": "Sisir",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2008",
+    "name": "Foroma Jaya",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2009",
+    "name": "Murano",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2010",
+    "name": "Mai Mai",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2011",
+    "name": "Lumira",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2012",
+    "name": "Kamaka",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2013",
+    "name": "Coa",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.01.2015",
+    "name": "Saria",
+    "districtCode": "92.08.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kaimana"
+  },
+  {
+    "code": "92.08.02.2001",
+    "name": "Kambala",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2002",
+    "name": "Yarona",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2003",
+    "name": "Edor",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2004",
+    "name": "Tairi",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2005",
+    "name": "Gaka",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2006",
+    "name": "Guriasa",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2007",
+    "name": "Adi Jaya",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2008",
+    "name": "Nusaulan",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2009",
+    "name": "Esania",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.02.2010",
+    "name": "Hia",
+    "districtCode": "92.08.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambala"
+  },
+  {
+    "code": "92.08.03.2001",
+    "name": "Furnusu",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2003",
+    "name": "Sawi",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2012",
+    "name": "Bofuwer",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2014",
+    "name": "Wanggita",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2016",
+    "name": "Fudima",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2017",
+    "name": "Weswasa",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2018",
+    "name": "Borogerba",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2019",
+    "name": "Afu Afu",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2020",
+    "name": "Bayeda",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2021",
+    "name": "Moyana",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2022",
+    "name": "Kokoroba",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2023",
+    "name": "Wainaga",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2024",
+    "name": "Maskur",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2025",
+    "name": "Kensi",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2027",
+    "name": "Erigara",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2028",
+    "name": "Pigo",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2029",
+    "name": "Tugumawa",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2030",
+    "name": "Tiwara",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2031",
+    "name": "Gusi",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.03.2032",
+    "name": "Warua",
+    "districtCode": "92.08.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Furnusu"
+  },
+  {
+    "code": "92.08.04.2001",
+    "name": "Rurumo",
+    "districtCode": "92.08.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rurumo"
+  },
+  {
+    "code": "92.08.04.2002",
+    "name": "Boiya",
+    "districtCode": "92.08.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rurumo"
+  },
+  {
+    "code": "92.08.04.2003",
+    "name": "Nariki",
+    "districtCode": "92.08.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rurumo"
+  },
+  {
+    "code": "92.08.04.2004",
+    "name": "Bamana",
+    "districtCode": "92.08.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rurumo"
+  },
+  {
+    "code": "92.08.04.2005",
+    "name": "Siawatan",
+    "districtCode": "92.08.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rurumo"
+  },
+  {
+    "code": "92.08.06.2012",
+    "name": "Nagura",
+    "districtCode": "92.08.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Nagura"
+  },
+  {
+    "code": "92.09.01.2001",
+    "name": "Fef",
+    "districtCode": "92.09.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fef"
+  },
+  {
+    "code": "92.09.01.2003",
+    "name": "Wayo",
+    "districtCode": "92.09.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fef"
+  },
+  {
+    "code": "92.09.02.2001",
+    "name": "Siakwa",
+    "districtCode": "92.09.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Siakwa"
+  },
+  {
+    "code": "92.09.03.2001",
+    "name": "Baun",
+    "districtCode": "92.09.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Baun"
+  },
+  {
+    "code": "92.09.03.2002",
+    "name": "Sumbekas",
+    "districtCode": "92.09.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Baun"
+  },
+  {
+    "code": "92.09.03.2003",
+    "name": "Metnayam",
+    "districtCode": "92.09.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Baun"
+  },
+  {
+    "code": "92.09.04.2001",
+    "name": "Kwoor",
+    "districtCode": "92.09.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kwoor"
+  },
+  {
+    "code": "92.09.04.2002",
+    "name": "Hopmare",
+    "districtCode": "92.09.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kwoor"
+  },
+  {
+    "code": "92.09.05.2001",
+    "name": "Sausapor",
+    "districtCode": "92.09.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sausapor"
+  },
+  {
+    "code": "92.09.06.2001",
+    "name": "Wau",
+    "districtCode": "92.09.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wau"
+  },
+  {
+    "code": "92.09.06.2003",
+    "name": "Waibem",
+    "districtCode": "92.09.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Wau"
+  },
+  {
+    "code": "92.09.26.2008",
+    "name": "Smla Wilkab Manokwari Putusan Mk No.127/puu-vii/2009 Tgl 25",
+    "districtCode": "92.09.26",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Smla Wilkab Manokwari Putusan Mk No.127/puu-vii/2009 Tgl 25"
+  },
+  {
+    "code": "92.10.01.2001",
+    "name": "Kumurkek",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2002",
+    "name": "Susumuk",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2003",
+    "name": "Kokas",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2005",
+    "name": "Kocuwer",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2006",
+    "name": "Bori",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2007",
+    "name": "Werjaya",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2009",
+    "name": "Faitmayaf",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2010",
+    "name": "Aisyo",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.01.2011",
+    "name": "Futon",
+    "districtCode": "92.10.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kumurkek"
+  },
+  {
+    "code": "92.10.02.2001",
+    "name": "Ayawasi",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2002",
+    "name": "Ayawasi Selatan",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2003",
+    "name": "Ayawasi Timur",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2004",
+    "name": "Susai",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2005",
+    "name": "Fonatu",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2006",
+    "name": "Mosun",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2007",
+    "name": "Wayane",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2008",
+    "name": "Konja",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2009",
+    "name": "Yarat",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.02.2010",
+    "name": "Man",
+    "districtCode": "92.10.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayawasi"
+  },
+  {
+    "code": "92.10.03.2001",
+    "name": "Aisa",
+    "districtCode": "92.10.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisa"
+  },
+  {
+    "code": "92.10.03.2004",
+    "name": "Aikrer",
+    "districtCode": "92.10.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisa"
+  },
+  {
+    "code": "92.10.03.2005",
+    "name": "Aitrem",
+    "districtCode": "92.10.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisa"
+  },
+  {
+    "code": "92.10.03.2006",
+    "name": "Sawin",
+    "districtCode": "92.10.03",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aisa"
+  },
+  {
+    "code": "92.10.04.2001",
+    "name": "Kisor",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.04.2002",
+    "name": "Sorry",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.04.2003",
+    "name": "Imsun",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.04.2004",
+    "name": "Sabah",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.04.2005",
+    "name": "Tahsimara",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.04.2006",
+    "name": "Fuog",
+    "districtCode": "92.10.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kisor"
+  },
+  {
+    "code": "92.10.05.2001",
+    "name": "Kambufatem",
+    "districtCode": "92.10.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambufatem"
+  },
+  {
+    "code": "92.10.05.2002",
+    "name": "Kambufatem Utara",
+    "districtCode": "92.10.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambufatem"
+  },
+  {
+    "code": "92.10.05.2003",
+    "name": "Fatase",
+    "districtCode": "92.10.05",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambufatem"
+  },
+  {
+    "code": "92.10.06.2001",
+    "name": "Aitinyo",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2003",
+    "name": "Sris",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2005",
+    "name": "Kamro",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2007",
+    "name": "Karsu",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2008",
+    "name": "Tehak Kecil",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2009",
+    "name": "Sira Aya",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2010",
+    "name": "Korom",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.06.2011",
+    "name": "Sumanis",
+    "districtCode": "92.10.06",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Aitinyo"
+  },
+  {
+    "code": "92.10.07.2001",
+    "name": "Fategomi",
+    "districtCode": "92.10.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fategomi"
+  },
+  {
+    "code": "92.10.07.2002",
+    "name": "Tehak Besar",
+    "districtCode": "92.10.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fategomi"
+  },
+  {
+    "code": "92.10.07.2003",
+    "name": "Fan",
+    "districtCode": "92.10.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fategomi"
+  },
+  {
+    "code": "92.10.07.2004",
+    "name": "Gohsames",
+    "districtCode": "92.10.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fategomi"
+  },
+  {
+    "code": "92.10.07.2005",
+    "name": "Asmuruf U",
+    "districtCode": "92.10.07",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Fategomi"
+  },
+  {
+    "code": "92.10.08.1001",
+    "name": "Ayamaru",
+    "districtCode": "92.10.08",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayamaru"
+  },
+  {
+    "code": "92.10.08.2010",
+    "name": "Framu",
+    "districtCode": "92.10.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayamaru"
+  },
+  {
+    "code": "92.10.08.2011",
+    "name": "Mefkajim Ii",
+    "districtCode": "92.10.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayamaru"
+  },
+  {
+    "code": "92.10.08.2017",
+    "name": "Fraharo",
+    "districtCode": "92.10.08",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Ayamaru"
+  },
+  {
+    "code": "92.10.09.2001",
+    "name": "Yubiah",
+    "districtCode": "92.10.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yubiah"
+  },
+  {
+    "code": "92.10.09.2003",
+    "name": "Karetubun",
+    "districtCode": "92.10.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yubiah"
+  },
+  {
+    "code": "92.10.09.2004",
+    "name": "Setta",
+    "districtCode": "92.10.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yubiah"
+  },
+  {
+    "code": "92.10.09.2006",
+    "name": "Hohoyor",
+    "districtCode": "92.10.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yubiah"
+  },
+  {
+    "code": "92.10.09.2007",
+    "name": "Arne",
+    "districtCode": "92.10.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Yubiah"
+  },
+  {
+    "code": "92.10.10.2001",
+    "name": "Kambuaya",
+    "districtCode": "92.10.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambuaya"
+  },
+  {
+    "code": "92.10.10.2002",
+    "name": "Huberita",
+    "districtCode": "92.10.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambuaya"
+  },
+  {
+    "code": "92.10.10.2003",
+    "name": "Faitmajin",
+    "districtCode": "92.10.10",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Kambuaya"
+  },
+  {
+    "code": "92.10.11.2001",
+    "name": "Suswa",
+    "districtCode": "92.10.11",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Suswa"
+  },
+  {
+    "code": "92.10.11.2002",
+    "name": "Seya",
+    "districtCode": "92.10.11",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Suswa"
+  },
+  {
+    "code": "92.10.11.2006",
+    "name": "Kombif",
+    "districtCode": "92.10.11",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Suswa"
+  },
+  {
+    "code": "92.11.01.2001",
+    "name": "Ransiki",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2002",
+    "name": "Nuhuwei",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2003",
+    "name": "Yamboi",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2004",
+    "name": "Tobou",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2005",
+    "name": "Sabri",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2006",
+    "name": "Bamaha",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2007",
+    "name": "Abreso",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2008",
+    "name": "Hamawi",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2009",
+    "name": "Kobrey",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2010",
+    "name": "Wamcei",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2011",
+    "name": "Hamor",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.01.2012",
+    "name": "Susmorof",
+    "districtCode": "92.11.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2001",
+    "name": "Oransbari",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2002",
+    "name": "Sidomulyo",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2003",
+    "name": "Waroser",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2004",
+    "name": "Margo Rukun",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2005",
+    "name": "Muari",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2006",
+    "name": "Watariri",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2007",
+    "name": "Masabui",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2008",
+    "name": "Warbiadi",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2009",
+    "name": "Margomulyo",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2010",
+    "name": "Warkwandi",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2011",
+    "name": "Sindang Jaya",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2012",
+    "name": "Wandoki",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2013",
+    "name": "Akeju",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.11.02.2014",
+    "name": "Masabui Ii",
+    "districtCode": "92.11.02",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Uu. No. 23 Tahun 2012"
+  },
+  {
+    "code": "92.12.01.2001",
+    "name": "Iraiweri",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2002",
+    "name": "Igembai",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2003",
+    "name": "Imbai",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2004",
+    "name": "Suteibey",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2005",
+    "name": "Susi",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2006",
+    "name": "Ullong",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2007",
+    "name": "Mentubey",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2008",
+    "name": "Ayaubey",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2009",
+    "name": "Testega Pamaha",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2010",
+    "name": "Pamaha",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2011",
+    "name": "Uper",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2012",
+    "name": "Hungku",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.01.2013",
+    "name": "Srubey",
+    "districtCode": "92.12.01",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Iraiweri"
+  },
+  {
+    "code": "92.12.04.2001",
+    "name": "Sururey",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2002",
+    "name": "Tuhubea",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2003",
+    "name": "Sungedes",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2004",
+    "name": "Inyaub",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2005",
+    "name": "Saugemeba",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2006",
+    "name": "Kobrey",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2007",
+    "name": "Kopo",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2008",
+    "name": "Dugahani",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2009",
+    "name": "Tomstera",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2010",
+    "name": "Kostera",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2011",
+    "name": "Anuk",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.04.2012",
+    "name": "Menesrij",
+    "districtCode": "92.12.04",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Sururey"
+  },
+  {
+    "code": "92.12.09.2001",
+    "name": "Minyambouw",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2002",
+    "name": "Demaisi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2003",
+    "name": "Awaibehel",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2004",
+    "name": "Indabri",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2005",
+    "name": "Coisi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2006",
+    "name": "Imbenti",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2007",
+    "name": "Sigim",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2008",
+    "name": "Imbonggun",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2009",
+    "name": "Aduer",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2010",
+    "name": "Ugjeheg",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2011",
+    "name": "Micadiwor",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2012",
+    "name": "Ungga",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2013",
+    "name": "Mitiede",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2014",
+    "name": "Simerbei",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2015",
+    "name": "Driye",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2016",
+    "name": "Wamminda",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2017",
+    "name": "Umpug",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2018",
+    "name": "Handuk",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2019",
+    "name": "Ninsimoi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2020",
+    "name": "Anggra",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2021",
+    "name": "Inggramhim",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2022",
+    "name": "Mbingma",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2023",
+    "name": "Injuar",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2024",
+    "name": "Apul",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2025",
+    "name": "Memangker",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2026",
+    "name": "Mainda",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2027",
+    "name": "Imbrekti",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2028",
+    "name": "Ipingosi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2029",
+    "name": "Pinyausi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2030",
+    "name": "Sinaltousi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2031",
+    "name": "Misangoisi",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2032",
+    "name": "Smanggei",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2033",
+    "name": "Nimbiau",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2034",
+    "name": "Bingwoyut",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2035",
+    "name": "Ayau",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2036",
+    "name": "Andang",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.12.09.2039",
+    "name": "Miconti",
+    "districtCode": "92.12.09",
+    "type": "DESA",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Minyambouw"
+  },
+  {
+    "code": "92.71.01.1001",
+    "name": "Remu Utara",
+    "districtCode": "92.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Remu Utara"
+  },
+  {
+    "code": "92.71.01.1002",
+    "name": "Klademak",
+    "districtCode": "92.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Remu Utara"
+  },
+  {
+    "code": "92.71.03.1002",
+    "name": "Rufei",
+    "districtCode": "92.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rufei"
+  },
+  {
+    "code": "92.71.03.1005",
+    "name": "Klawasi",
+    "districtCode": "92.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Rufei"
+  },
+  {
+    "code": "92.71.04.1001",
+    "name": "Dum Barat",
+    "districtCode": "92.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dum Barat"
+  },
+  {
+    "code": "92.71.04.1002",
+    "name": "Dum Timur",
+    "districtCode": "92.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dum Barat"
+  },
+  {
+    "code": "92.71.04.1003",
+    "name": "Soop",
+    "districtCode": "92.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dum Barat"
+  },
+  {
+    "code": "92.71.04.1004",
+    "name": "Raam",
+    "districtCode": "92.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Papua Barat",
+    "regencyName": "",
+    "districtName": "Dum Barat"
+  }
+]
