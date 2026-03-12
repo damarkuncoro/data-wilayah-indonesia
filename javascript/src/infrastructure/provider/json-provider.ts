@@ -23,25 +23,26 @@ export class JsonDataProvider implements DataProvider {
     return villages;
   }
 
-  /**
-   * Lazy load villages by province code.
-   * Note: This works best in bundlers like Vite or Webpack.
-   */
-  async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
+  private async fetchJson<T>(url: string): Promise<T | null> {
     try {
-      // Use dynamic import for bundle splitting. 
-      // The bundler will create a separate chunk for each province.
-      const data = await import(`@damarkuncoro/data-wilayah-indonesia/data/villages/${provinceCode}.json`);
-      return data.default || data;
-    } catch (e) {
-      // Fallback to local file if path alias fails (e.g. in tests)
-      try {
-        const data = await import(`../../../data/villages/${provinceCode}.json`);
-        return data.default || data;
-      } catch (err) {
-        console.warn(`[DataWilayah] Could not lazy-load villages for province ${provinceCode}. Falling back to main bundle.`);
-        return villages.filter(v => v.code.startsWith(provinceCode));
+      const response = await fetch(url);
+      if (!response.ok) {
+        return null;
       }
+      return await response.json();
+    } catch (e) {
+      return null;
     }
+  }
+
+  async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
+    const villages = await this.fetchJson<Village[]>(`/data/villages/${provinceCode}.json`);
+    return villages || [];
+  }
+
+  async getVillagesByDistrict(districtCode: string): Promise<Village[]> {
+    const provinceCode = districtCode.substring(0, 2);
+    const villages = await this.fetchJson<Village[]>(`/data/villages/${provinceCode}.json`);
+    return (villages || []).filter(v => v.districtCode === districtCode);
   }
 }

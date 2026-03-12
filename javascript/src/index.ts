@@ -17,7 +17,10 @@ export class DataWilayahService {
   private districtRepo: JSONDistrictRepository;
   private villageRepo: JSONVillageRepository;
 
+  private plugins: DataPlugin[];
+
   constructor(provider?: DataProvider, plugins: DataPlugin[] = []) {
+    this.plugins = plugins;
     const dataProvider = provider || new JsonDataProvider();
 
     let provinces = dataProvider.getProvinces();
@@ -25,17 +28,18 @@ export class DataWilayahService {
     let districts = dataProvider.getDistricts();
     let villages = dataProvider.getVillages();
 
-    // for (const plugin of plugins) {
-    //   if (plugin.enrichProvinces) provinces = plugin.enrichProvinces(provinces);
-    //   if (plugin.enrichRegencies) regencies = plugin.enrichRegencies(regencies);
-    //   if (plugin.enrichDistricts) districts = plugin.enrichDistricts(districts);
-    //   if (plugin.enrichVillages) villages = plugin.enrichVillages(villages);
-    // }
-
     this.provinceRepo = new JSONProvinceRepository(provinces);
     this.regencyRepo = new JSONRegencyRepository(regencies);
     this.districtRepo = new JSONDistrictRepository(districts);
     this.villageRepo = new JSONVillageRepository(villages);
+  }
+
+  private async applyPlugins<T>(data: T[], enricher: (plugin: DataPlugin, data: T[]) => Promise<T[]> | T[]): Promise<T[]> {
+    let enrichedData = data;
+    for (const plugin of this.plugins) {
+      enrichedData = await enricher(plugin, enrichedData);
+    }
+    return enrichedData;
   }
 
   /**
@@ -172,7 +176,8 @@ export async function search(name: string) { return (await getDefaultService()).
 // Re-export types and interfaces
 export * from "./core/entities";
 export { DataProvider } from "./core/provider";
-export { DataPlugin } from "./core/plugin";
+export * from './core/plugin';
+export * from './plugins/postal-code-plugin';
 export { JsonDataProvider } from "./infrastructure/provider/json-provider";
 
 /**

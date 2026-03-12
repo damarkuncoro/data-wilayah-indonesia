@@ -1,6 +1,6 @@
 {
   "name": "@damarkuncoro/data-wilayah-indonesia",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Package JavaScript/TypeScript untuk data wilayah administratif Indonesia dengan arsitektur pluginable",
   "exports": {
     ".": {
@@ -18,8 +18,7 @@
   "types": "./lib/index.d.ts",
   "files": [
     "lib",
-    "data",
-    "src"
+    "lib/data"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json && node scripts/build-json.js",
