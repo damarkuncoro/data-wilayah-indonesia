@@ -1,6 +1,9 @@
 src/
 results/
 data/
+lib/
 tsconfig.json
+tsconfig.build.json
+jest.config.js
 .DS_Store
 *.log

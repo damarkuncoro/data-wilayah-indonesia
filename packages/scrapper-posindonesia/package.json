@@ -2,14 +2,33 @@
   "name": "@damarkuncoro/posindonesia",
   "version": "1.0.0",
   "description": "Indonesian Postal Code Scraper from Pos Indonesia Official Website",
-  "main": "dist/main.js",
-  "types": "dist/main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damarkuncoro/posindonesia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/damarkuncoro/posindonesia/issues"
+  },
+  "homepage": "https://github.com/damarkuncoro/posindonesia#readme",
+  "main": "lib/cjs/main.js",
+  "module": "lib/esm/main.js",
+  "types": "lib/cjs/main.d.ts",
+  "exports": {
+    ".": {
+      "import": "./lib/esm/main.js",
+      "require": "./lib/cjs/main.js",
+      "types": "./lib/cjs/main.d.ts"
+    }
+  },
   "bin": {
-    "scrape-pos": "dist/index.js"
+    "scrape-pos": "lib/cjs/index.js"
   },
   "scripts": {
     "start": "ts-node src/index.ts",
-    "build": "tsc",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "build": "rm -rf lib && npm run build:cjs && npm run build:esm",
+    "prepublishOnly": "npm run build && npm test",
     "scrape": "ts-node src/index.ts",
     "test": "jest"
   },
@@ -23,7 +42,7 @@
   ],
   "author": "damarkuncoro",
   "files": [
-    "dist",
+    "lib",
     "README.md",
     "LICENSE"
   ],
@@ -38,7 +57,9 @@
     "cli-progress": "^3.12.0",
     "commander": "^14.0.3",
     "puppeteer": "^24.39.0",
-    "qs": "^6.15.0"
+    "qs": "^6.15.0",
+    "fuse.js": "^7.1.0",
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "@types/axios": "^0.9.36",
@@ -48,11 +69,9 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^25.5.0",
     "@types/qs": "^6.15.0",
-    "fuse.js": "^7.1.0",
     "jest": "^30.3.0",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3",
-    "winston": "^3.19.0"
+    "typescript": "^5.9.3"
   }
 }
