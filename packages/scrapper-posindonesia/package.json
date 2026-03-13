@@ -11,7 +11,7 @@
     "start": "ts-node src/index.ts",
     "build": "tsc",
     "scrape": "ts-node src/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "indonesia",
@@ -45,9 +45,14 @@
     "@types/chalk": "^0.4.31",
     "@types/cheerio": "^0.22.35",
     "@types/cli-progress": "^3.11.6",
+    "@types/jest": "^30.0.0",
     "@types/node": "^25.5.0",
     "@types/qs": "^6.15.0",
+    "fuse.js": "^7.1.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "winston": "^3.19.0"
   }
 }
