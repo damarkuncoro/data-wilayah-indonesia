@@ -119,7 +119,7 @@ Berdasarkan rekapitulasi data wilayah administrasi terbaru:
 
 ## Metadata & Transparansi
 
-- **Sumber Data**: Kepmendagri No. 050-145 Tahun 2022.
+- **Sumber Data**: Kepmendagri No. 050-145 Tahun 2022 (Source Document: `docs/1715587369092.pdf`).
 - **Update Terakhir**: 2024.
 - **Versioning**: Mengikuti Semantic Versioning (SemVer).
 
