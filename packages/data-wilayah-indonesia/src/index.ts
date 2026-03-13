@@ -215,7 +215,7 @@ export function search(name: string) { return getDefaultService().search(name); 
 export * from "./core/entities";
 export { DataProvider } from "./core/provider";
 export * from './core/plugin';
-export * from './plugins/postal-code-plugin';
+
 export { JsonDataProvider } from "./infrastructure/provider/json-provider";
 
 /**

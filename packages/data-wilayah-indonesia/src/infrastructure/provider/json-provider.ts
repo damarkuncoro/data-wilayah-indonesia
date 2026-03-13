@@ -43,7 +43,7 @@ export class JsonDataProvider implements DataProvider {
   async getVillagesByDistrict(districtCode: string): Promise<Village[]> {
     const provinceCode = districtCode.substring(0, 2);
     try {
-      const module = await import(`../../data/villages/${provinceCode}`);
+      const module = await import(`../../../data/villages/${provinceCode}`);
       const villages = module.default || [];
       return villages.filter((v: Village) => v.districtCode === districtCode);
     } catch (e) {
