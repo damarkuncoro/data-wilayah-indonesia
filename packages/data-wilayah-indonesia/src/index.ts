@@ -18,15 +18,16 @@ export class DataWilayahService {
   private villageRepo: JSONVillageRepository;
 
   private plugins: DataPlugin[];
+  private dataProvider: DataProvider;
 
   constructor(provider?: DataProvider, plugins: DataPlugin[] = []) {
     this.plugins = plugins;
-    const dataProvider = provider || new JsonDataProvider();
+    this.dataProvider = provider || new JsonDataProvider();
 
-    let provinces = dataProvider.getProvinces();
-    let regencies = dataProvider.getRegencies();
-    let districts = dataProvider.getDistricts();
-    let villages = dataProvider.getVillages();
+    let provinces = this.dataProvider.getProvinces();
+    let regencies = this.dataProvider.getRegencies();
+    let districts = this.dataProvider.getDistricts();
+    let villages = this.dataProvider.getVillages();
 
     this.provinceRepo = new JSONProvinceRepository(provinces);
     this.regencyRepo = new JSONRegencyRepository(regencies);
@@ -92,6 +93,38 @@ export class DataWilayahService {
   }
 
   /**
+   * Fetch regencies by province code (Lazy Loading).
+   */
+  async fetchRegenciesByProvince(provinceCode: string): Promise<Regency[]> {
+    const regencies = await this.dataProvider.getRegenciesByProvince(provinceCode);
+    return this.applyPlugins(regencies, (p, data) => (p.enrichRegencies ? p.enrichRegencies(data) : data));
+  }
+
+  /**
+   * Fetch districts by regency code (Lazy Loading).
+   */
+  async fetchDistrictsByRegency(regencyCode: string): Promise<District[]> {
+    const districts = await this.dataProvider.getDistrictsByRegency(regencyCode);
+    return this.applyPlugins(districts, (p, data) => (p.enrichDistricts ? p.enrichDistricts(data) : data));
+  }
+
+  /**
+   * Fetch villages by province code (Lazy Loading).
+   */
+  async fetchVillagesByProvince(provinceCode: string): Promise<Village[]> {
+    const villages = await this.dataProvider.getVillagesByProvince(provinceCode);
+    return this.applyPlugins(villages, (p, data) => (p.enrichVillages ? p.enrichVillages(data) : data));
+  }
+
+  /**
+   * Fetch villages by district code (Lazy Loading).
+   */
+  async fetchVillagesByDistrict(districtCode: string): Promise<Village[]> {
+    const villages = await this.dataProvider.getVillagesByDistrict(districtCode);
+    return this.applyPlugins(villages, (p, data) => (p.enrichVillages ? p.enrichVillages(data) : data));
+  }
+
+  /**
    * Get province by code.
    */
   getProvinceByCode(code: string): Province | undefined {
@@ -154,22 +187,27 @@ function getDefaultService(): DataWilayahService {
   return _defaultService;
 }
 
-export async function getAllProvinces() { return (await getDefaultService()).getAllProvinces(); }
-export async function getAllRegencies() { return (await getDefaultService()).getAllRegencies(); }
-export async function getAllDistricts() { return (await getDefaultService()).getAllDistricts(); }
-export async function getAllVillages() { return (await getDefaultService()).getAllVillages(); }
+export function getAllProvinces() { return getDefaultService().getAllProvinces(); }
+export function getAllRegencies() { return getDefaultService().getAllRegencies(); }
+export function getAllDistricts() { return getDefaultService().getAllDistricts(); }
+export function getAllVillages() { return getDefaultService().getAllVillages(); }
 
-export async function getRegenciesByProvince(provinceCode: string) { return (await getDefaultService()).getRegenciesByProvince(provinceCode); }
-export async function getDistrictsByRegency(regencyCode: string) { return (await getDefaultService()).getDistrictsByRegency(regencyCode); }
-export async function getVillagesByDistrict(districtCode: string) { return (await getDefaultService()).getVillagesByDistrict(districtCode); }
+export function getRegenciesByProvince(provinceCode: string) { return getDefaultService().getRegenciesByProvince(provinceCode); }
+export function getDistrictsByRegency(regencyCode: string) { return getDefaultService().getDistrictsByRegency(regencyCode); }
+export function getVillagesByDistrict(districtCode: string) { return getDefaultService().getVillagesByDistrict(districtCode); }
 
-export async function getProvinceByCode(code: string) { return (await getDefaultService()).getProvinceByCode(code); }
-export async function getRegencyByCode(code: string) { return (await getDefaultService()).getRegencyByCode(code); }
-export async function getDistrictByCode(code: string) { return (await getDefaultService()).getDistrictByCode(code); }
-export async function getVillageByCode(code: string) { return (await getDefaultService()).getVillageByCode(code); }
+export async function fetchRegenciesByProvince(provinceCode: string) { return getDefaultService().fetchRegenciesByProvince(provinceCode); }
+export async function fetchDistrictsByRegency(regencyCode: string) { return getDefaultService().fetchDistrictsByRegency(regencyCode); }
+export async function fetchVillagesByProvince(provinceCode: string) { return getDefaultService().fetchVillagesByProvince(provinceCode); }
+export async function fetchVillagesByDistrict(districtCode: string) { return getDefaultService().fetchVillagesByDistrict(districtCode); }
 
-export async function findProvincesByName(name: string) { return (await getDefaultService()).findProvincesByName(name); }
-export async function search(name: string) { return (await getDefaultService()).search(name); }
+export function getProvinceByCode(code: string) { return getDefaultService().getProvinceByCode(code); }
+export function getRegencyByCode(code: string) { return getDefaultService().getRegencyByCode(code); }
+export function getDistrictByCode(code: string) { return getDefaultService().getDistrictByCode(code); }
+export function getVillageByCode(code: string) { return getDefaultService().getVillageByCode(code); }
+
+export function findProvincesByName(name: string) { return getDefaultService().findProvincesByName(name); }
+export function search(name: string) { return getDefaultService().search(name); }
 
 
 
@@ -184,4 +222,4 @@ export { JsonDataProvider } from "./infrastructure/provider/json-provider";
  * Data Source Information
  */
 export const DATA_SOURCE = "Kepmendagri No. 050-145 Tahun 2022 (Terakhir Diperbarui 2024)";
-export const DATA_VERSION = "1.1.1";
+export const DATA_VERSION = "1.2.1";

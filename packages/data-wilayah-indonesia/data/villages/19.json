@@ -1,0 +1,2225 @@
+[
+  {
+    "code": "19.01.01.1001",
+    "name": "Sungailiat",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.1002",
+    "name": "Sri Menanti",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.1003",
+    "name": "Kudai",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.1004",
+    "name": "Sinar Baru",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.1005",
+    "name": "Kenanga",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.1006",
+    "name": "Parit Padang",
+    "districtCode": "19.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.01.2007",
+    "name": "Rebo",
+    "districtCode": "19.01.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Sungailiat"
+  },
+  {
+    "code": "19.01.02.1001",
+    "name": "Kuto Panji",
+    "districtCode": "19.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.1002",
+    "name": "Air Jukung",
+    "districtCode": "19.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.1003",
+    "name": "Bukit Ketok",
+    "districtCode": "19.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.2004",
+    "name": "Gunung Muda",
+    "districtCode": "19.01.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.2005",
+    "name": "Gunung Pelawan",
+    "districtCode": "19.01.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.2006",
+    "name": "Riding Panjang",
+    "districtCode": "19.01.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.2007",
+    "name": "Lumut",
+    "districtCode": "19.01.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.02.2008",
+    "name": "Bintet",
+    "districtCode": "19.01.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Belinyu"
+  },
+  {
+    "code": "19.01.03.2001",
+    "name": "Batu Rusa",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2002",
+    "name": "Balun Ijuk",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2003",
+    "name": "Riding Panjang",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2004",
+    "name": "Jurung",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2005",
+    "name": "Kimak",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2006",
+    "name": "Pagarawan",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2007",
+    "name": "Merawang",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2008",
+    "name": "Air Anyir",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2009",
+    "name": "Dwi Makmur",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.03.2010",
+    "name": "Jada Bahrin",
+    "districtCode": "19.01.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Batu Rusa"
+  },
+  {
+    "code": "19.01.04.2001",
+    "name": "Petaling",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2002",
+    "name": "Penagan",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2003",
+    "name": "Zed",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2004",
+    "name": "Mendo",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2005",
+    "name": "Paya Benua",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2006",
+    "name": "Cengkong Abang",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2007",
+    "name": "Kace",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2008",
+    "name": "Kemuja",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2009",
+    "name": "Air Duren",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2010",
+    "name": "Kota Kapur",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2011",
+    "name": "Air Buluh",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2012",
+    "name": "Rukam",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.04.2013",
+    "name": "Labuh Air Pandan",
+    "districtCode": "19.01.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Petaling"
+  },
+  {
+    "code": "19.01.05.2001",
+    "name": "Air Ruai",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.05.2002",
+    "name": "Air Duren",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.05.2003",
+    "name": "Penyamun",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.05.2004",
+    "name": "Sempan",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.05.2005",
+    "name": "Pemali",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.05.2006",
+    "name": "Karya Makmur",
+    "districtCode": "19.01.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Air Ruai"
+  },
+  {
+    "code": "19.01.06.2001",
+    "name": "Bakam",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2002",
+    "name": "Kapuk",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2003",
+    "name": "Dalil",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2004",
+    "name": "Neknang",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2005",
+    "name": "Tiang Tarah",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2006",
+    "name": "Mangka",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2007",
+    "name": "Mabat",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2008",
+    "name": "Bukit Layang",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.06.2009",
+    "name": "Maras Senang",
+    "districtCode": "19.01.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Bakam"
+  },
+  {
+    "code": "19.01.07.2001",
+    "name": "Riau",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2002",
+    "name": "Pangkal Niur",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2003",
+    "name": "Pugul",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2004",
+    "name": "Cit",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2005",
+    "name": "Deniang",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2006",
+    "name": "Silip",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2007",
+    "name": "Mapur",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2008",
+    "name": "Banyu Asin",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.07.2009",
+    "name": "Berbura",
+    "districtCode": "19.01.07",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Riau"
+  },
+  {
+    "code": "19.01.08.2001",
+    "name": "Puding Besar",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2002",
+    "name": "Labu",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2003",
+    "name": "Nibung",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2004",
+    "name": "Tanah Bawah",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2005",
+    "name": "Saing",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2006",
+    "name": "Kota Waringin",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.01.08.2007",
+    "name": "Kayu Besi",
+    "districtCode": "19.01.08",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka",
+    "districtName": "Puding Besar"
+  },
+  {
+    "code": "19.02.01.1001",
+    "name": "Kota",
+    "districtCode": "19.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.1002",
+    "name": "Parit",
+    "districtCode": "19.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2003",
+    "name": "Buluh Tumbang",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2004",
+    "name": "Perawas",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2007",
+    "name": "Dukong",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2008",
+    "name": "Juru Seberang",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2010",
+    "name": "Air Saga",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.01.2012",
+    "name": "Air Merbau",
+    "districtCode": "19.02.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Tanjung Pandan"
+  },
+  {
+    "code": "19.02.02.2001",
+    "name": "Membalong",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2002",
+    "name": "Perpat",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2003",
+    "name": "Lassar",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2004",
+    "name": "Simpang Rusa",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2005",
+    "name": "Kembiri",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2006",
+    "name": "Bantan",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2007",
+    "name": "Tanjungrusa",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2008",
+    "name": "Mentigi",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.02.2012",
+    "name": "Padang Kandis",
+    "districtCode": "19.02.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Membalong"
+  },
+  {
+    "code": "19.02.03.2001",
+    "name": "Selat Nasik",
+    "districtCode": "19.02.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Selat Nasik"
+  },
+  {
+    "code": "19.02.03.2002",
+    "name": "Petaling",
+    "districtCode": "19.02.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Selat Nasik"
+  },
+  {
+    "code": "19.02.03.2003",
+    "name": "Suak Gual",
+    "districtCode": "19.02.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Selat Nasik"
+  },
+  {
+    "code": "19.02.04.2001",
+    "name": "Sijuk",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.04.2002",
+    "name": "Batu Itam",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.04.2003",
+    "name": "Terong",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.04.2004",
+    "name": "Air Seruk",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.04.2006",
+    "name": "Air Selumar",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.04.2008",
+    "name": "Keciput",
+    "districtCode": "19.02.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Sijuk"
+  },
+  {
+    "code": "19.02.05.2001",
+    "name": "Badau",
+    "districtCode": "19.02.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Badau"
+  },
+  {
+    "code": "19.02.05.2002",
+    "name": "Air Batu Buding",
+    "districtCode": "19.02.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Badau"
+  },
+  {
+    "code": "19.02.05.2004",
+    "name": "Kacang Butor",
+    "districtCode": "19.02.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Badau"
+  },
+  {
+    "code": "19.02.05.2005",
+    "name": "Cerucuk",
+    "districtCode": "19.02.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Badau"
+  },
+  {
+    "code": "19.02.05.2006",
+    "name": "Pegantungan",
+    "districtCode": "19.02.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung",
+    "districtName": "Badau"
+  },
+  {
+    "code": "19.03.01.1001",
+    "name": "Toboali",
+    "districtCode": "19.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.1002",
+    "name": "Teladan",
+    "districtCode": "19.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2004",
+    "name": "Serdang",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2005",
+    "name": "Jeriji",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2006",
+    "name": "Bikang",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2007",
+    "name": "Gadung",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2008",
+    "name": "Rias",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2010",
+    "name": "Kepoh",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2012",
+    "name": "Keposang",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.01.2013",
+    "name": "Rindik",
+    "districtCode": "19.03.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Toboali"
+  },
+  {
+    "code": "19.03.02.2004",
+    "name": "Kumbung",
+    "districtCode": "19.03.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Kumbung"
+  },
+  {
+    "code": "19.03.02.2005",
+    "name": "Penutuk",
+    "districtCode": "19.03.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Kumbung"
+  },
+  {
+    "code": "19.03.03.2002",
+    "name": "Delas",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2003",
+    "name": "Pergam",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2004",
+    "name": "Bencah",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2005",
+    "name": "Nyelanding",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2006",
+    "name": "Nangka",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2007",
+    "name": "Ranggas",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2009",
+    "name": "Sidoharjo",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.03.2010",
+    "name": "Tepus",
+    "districtCode": "19.03.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Delas"
+  },
+  {
+    "code": "19.03.04.2001",
+    "name": "Jelutung Ii",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.04.2002",
+    "name": "Gudang",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.04.2003",
+    "name": "Bangka Kota",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.04.2004",
+    "name": "Rajik",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.04.2005",
+    "name": "Sebagin",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.04.2006",
+    "name": "Simpang Rimba",
+    "districtCode": "19.03.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Jelutung Ii"
+  },
+  {
+    "code": "19.03.05.2001",
+    "name": "Payung",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2002",
+    "name": "Malik",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2003",
+    "name": "Sengir",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2004",
+    "name": "Pangkal Buluh",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2005",
+    "name": "Irat",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2006",
+    "name": "Bedengung",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2008",
+    "name": "Nadung",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2009",
+    "name": "Ranggung",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.03.05.2012",
+    "name": "Paku",
+    "districtCode": "19.03.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Selatan",
+    "districtName": "Payung"
+  },
+  {
+    "code": "19.04.01.1001",
+    "name": "Koba",
+    "districtCode": "19.04.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2003",
+    "name": "Nibung",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2005",
+    "name": "Kurau (timur)",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2006",
+    "name": "Guntung",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2007",
+    "name": "Penyak",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2008",
+    "name": "Terentang Iii",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.01.2010",
+    "name": "Kurau Barat",
+    "districtCode": "19.04.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Koba"
+  },
+  {
+    "code": "19.04.02.2004",
+    "name": "Air Mesu",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.02.2006",
+    "name": "Mangkol",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.02.2007",
+    "name": "Tanjung Gunung",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.02.2010",
+    "name": "Benteng",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.02.2012",
+    "name": "Padang Baru",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.02.2013",
+    "name": "Jeruk",
+    "districtCode": "19.04.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Pangkalan Baru"
+  },
+  {
+    "code": "19.04.03.2002",
+    "name": "Kerantai",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.03.2003",
+    "name": "Keretak",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.03.2004",
+    "name": "Lampur",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.03.2005",
+    "name": "Sarang Mandi",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.03.2006",
+    "name": "Munggu",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.03.2007",
+    "name": "Kemingking",
+    "districtCode": "19.04.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Sungai Selan"
+  },
+  {
+    "code": "19.04.04.2001",
+    "name": "Simpang Katis",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2002",
+    "name": "Celuak",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2003",
+    "name": "Sungkap",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2004",
+    "name": "Beruas",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2005",
+    "name": "Puput",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2006",
+    "name": "Teru",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2007",
+    "name": "Terak",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.04.2008",
+    "name": "Pasir Garam",
+    "districtCode": "19.04.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Simpang Katis"
+  },
+  {
+    "code": "19.04.06.2002",
+    "name": "Semuila Wil. Kec. Koba",
+    "districtCode": "19.04.06",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Tengah",
+    "districtName": "Semuila Wil. Kec. Koba"
+  },
+  {
+    "code": "19.05.01.1001",
+    "name": "Tanjung",
+    "districtCode": "19.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.1002",
+    "name": "Sungai Daeng",
+    "districtCode": "19.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.1003",
+    "name": "Sungai Baru",
+    "districtCode": "19.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.2004",
+    "name": "Air Putih",
+    "districtCode": "19.05.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.2005",
+    "name": "Air Belo",
+    "districtCode": "19.05.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.2006",
+    "name": "Belo Laut",
+    "districtCode": "19.05.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.01.2007",
+    "name": "Air Limau",
+    "districtCode": "19.05.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tanjung"
+  },
+  {
+    "code": "19.05.02.2001",
+    "name": "Pelangas",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2002",
+    "name": "Kundi",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2003",
+    "name": "Mayang",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2005",
+    "name": "Air Nyatoh",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2006",
+    "name": "Berang",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2007",
+    "name": "Rambat",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2008",
+    "name": "Simpang Gong",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2009",
+    "name": "Simpang Tiga",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2010",
+    "name": "Ibul",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.02.2011",
+    "name": "Pangek",
+    "districtCode": "19.05.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Pelangas"
+  },
+  {
+    "code": "19.05.03.2001",
+    "name": "Jebus",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2002",
+    "name": "Sungai Buluh",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2003",
+    "name": "Tumbak Petar",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2004",
+    "name": "Limbung",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2005",
+    "name": "Rukam",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2008",
+    "name": "Ranggi Asam",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.03.2009",
+    "name": "Ketap",
+    "districtCode": "19.05.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Jebus"
+  },
+  {
+    "code": "19.05.04.1001",
+    "name": "Kelapa",
+    "districtCode": "19.05.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2002",
+    "name": "Mancung",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2003",
+    "name": "Kayu Arang",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2004",
+    "name": "Pusuk",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2005",
+    "name": "Dendang",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2006",
+    "name": "Kacung",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2007",
+    "name": "Sinar Sari",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2008",
+    "name": "Beruas",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2009",
+    "name": "Tebing",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2010",
+    "name": "Terentang",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2011",
+    "name": "Tuik",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2012",
+    "name": "Tugang",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.04.2013",
+    "name": "Air Bulin",
+    "districtCode": "19.05.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Kelapa"
+  },
+  {
+    "code": "19.05.05.2001",
+    "name": "Tempilang",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2002",
+    "name": "Tanjung Niur",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2003",
+    "name": "Sangku",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2004",
+    "name": "Buyan Kelumbi",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2005",
+    "name": "Penyampak",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2006",
+    "name": "Benteng Kota",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2007",
+    "name": "Air Lintang",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2008",
+    "name": "Sinar Surya",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.05.05.2009",
+    "name": "Simpang Yul",
+    "districtCode": "19.05.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Bangka Barat",
+    "districtName": "Tempilang"
+  },
+  {
+    "code": "19.06.01.2001",
+    "name": "Lalang Jaya",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.01.2002",
+    "name": "Kurnia Jaya",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.01.2003",
+    "name": "Padang",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.01.2004",
+    "name": "Kelubi",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.01.2006",
+    "name": "Lalang",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.01.2007",
+    "name": "Baru",
+    "districtCode": "19.06.01",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Lalang Jaya"
+  },
+  {
+    "code": "19.06.02.2001",
+    "name": "Gantung",
+    "districtCode": "19.06.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Gantung"
+  },
+  {
+    "code": "19.06.02.2003",
+    "name": "Jangkar Asam",
+    "districtCode": "19.06.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Gantung"
+  },
+  {
+    "code": "19.06.02.2004",
+    "name": "Lilangan",
+    "districtCode": "19.06.02",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Gantung"
+  },
+  {
+    "code": "19.06.03.2001",
+    "name": "Dendang",
+    "districtCode": "19.06.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Dendang"
+  },
+  {
+    "code": "19.06.03.2002",
+    "name": "Jangkang",
+    "districtCode": "19.06.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Dendang"
+  },
+  {
+    "code": "19.06.03.2005",
+    "name": "Nyuruk",
+    "districtCode": "19.06.03",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Dendang"
+  },
+  {
+    "code": "19.06.04.2002",
+    "name": "Senyubuk",
+    "districtCode": "19.06.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Senyubuk"
+  },
+  {
+    "code": "19.06.04.2003",
+    "name": "Cendil",
+    "districtCode": "19.06.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Senyubuk"
+  },
+  {
+    "code": "19.06.04.2005",
+    "name": "Buding",
+    "districtCode": "19.06.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Senyubuk"
+  },
+  {
+    "code": "19.06.04.2006",
+    "name": "Mayang",
+    "districtCode": "19.06.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Senyubuk"
+  },
+  {
+    "code": "19.06.04.2007",
+    "name": "Pembaharuan",
+    "districtCode": "19.06.04",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Senyubuk"
+  },
+  {
+    "code": "19.06.05.2001",
+    "name": "Air Kelik",
+    "districtCode": "19.06.05",
+    "type": "DESA",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Belitung Timur",
+    "districtName": "Air Kelik"
+  },
+  {
+    "code": "19.71.01.1004",
+    "name": "Semabung Lama",
+    "districtCode": "19.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Semabung Lama"
+  },
+  {
+    "code": "19.71.01.1006",
+    "name": "Bacang",
+    "districtCode": "19.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Semabung Lama"
+  },
+  {
+    "code": "19.71.01.1007",
+    "name": "Air Itam",
+    "districtCode": "19.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Semabung Lama"
+  },
+  {
+    "code": "19.71.02.1001",
+    "name": "Opas Indah",
+    "districtCode": "19.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Opas Indah"
+  },
+  {
+    "code": "19.71.02.1002",
+    "name": "Gedung Nasional",
+    "districtCode": "19.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Opas Indah"
+  },
+  {
+    "code": "19.71.02.1003",
+    "name": "Batin Tikal",
+    "districtCode": "19.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Opas Indah"
+  },
+  {
+    "code": "19.71.02.1004",
+    "name": "Rawa Bangun",
+    "districtCode": "19.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Opas Indah"
+  },
+  {
+    "code": "19.71.03.1004",
+    "name": "Pasir Garam",
+    "districtCode": "19.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pasir Garam"
+  },
+  {
+    "code": "19.71.03.1005",
+    "name": "Lontong Pancur",
+    "districtCode": "19.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pasir Garam"
+  },
+  {
+    "code": "19.71.03.1006",
+    "name": "Ketapang",
+    "districtCode": "19.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pasir Garam"
+  },
+  {
+    "code": "19.71.03.1007",
+    "name": "Ampui",
+    "districtCode": "19.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pasir Garam"
+  },
+  {
+    "code": "19.71.04.1001",
+    "name": "Pintu Air",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1002",
+    "name": "Bintang",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1005",
+    "name": "Masjid Jamik",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1006",
+    "name": "Asam",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1007",
+    "name": "Melintang",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1008",
+    "name": "Parit Lalang",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.04.1009",
+    "name": "Keramat",
+    "districtCode": "19.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Pintu Air"
+  },
+  {
+    "code": "19.71.05.1001",
+    "name": "Taman Bunga",
+    "districtCode": "19.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Taman Bunga"
+  },
+  {
+    "code": "19.71.05.1006",
+    "name": "Kacang Pedang",
+    "districtCode": "19.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Kepulauan Bangka Belitung",
+    "regencyName": "Kabupaten 19.71",
+    "districtName": "Taman Bunga"
+  }
+]

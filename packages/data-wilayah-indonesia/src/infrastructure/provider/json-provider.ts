@@ -23,6 +23,14 @@ export class JsonDataProvider implements DataProvider {
     return villages;
   }
 
+  async getRegenciesByProvince(provinceCode: string): Promise<Regency[]> {
+    return regencies.filter(r => r.provinceCode === provinceCode);
+  }
+
+  async getDistrictsByRegency(regencyCode: string): Promise<District[]> {
+    return districts.filter(d => d.regencyCode === regencyCode);
+  }
+
   private async fetchJson<T>(url: string): Promise<T | null> {
     try {
       const response = await fetch(url);

@@ -1,0 +1,4772 @@
+[
+  {
+    "code": "14.01.01.1011",
+    "name": "Bangkinang",
+    "districtCode": "14.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Bangkinang"
+  },
+  {
+    "code": "14.01.01.1013",
+    "name": "Langgini",
+    "districtCode": "14.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Bangkinang"
+  },
+  {
+    "code": "14.01.01.2009",
+    "name": "Kumantan",
+    "districtCode": "14.01.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Bangkinang"
+  },
+  {
+    "code": "14.01.02.1027",
+    "name": "Air Tiris",
+    "districtCode": "14.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.02.2006",
+    "name": "Ranah",
+    "districtCode": "14.01.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.02.2007",
+    "name": "Penyasawan",
+    "districtCode": "14.01.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.02.2008",
+    "name": "Rumbio",
+    "districtCode": "14.01.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.02.2030",
+    "name": "Naumbai",
+    "districtCode": "14.01.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.03.2001",
+    "name": "Tambang",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.03.2002",
+    "name": "Kuapan",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.03.2003",
+    "name": "Gobah",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.03.2005",
+    "name": "Aursati",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.03.2007",
+    "name": "Terantang",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.03.2008",
+    "name": "Kualu",
+    "districtCode": "14.01.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Tambang"
+  },
+  {
+    "code": "14.01.04.1018",
+    "name": "Batu Bersurat",
+    "districtCode": "14.01.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Xiii Koto Kampar"
+  },
+  {
+    "code": "14.01.04.2006",
+    "name": "Balung",
+    "districtCode": "14.01.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Xiii Koto Kampar"
+  },
+  {
+    "code": "14.01.05.2001",
+    "name": "Kuok",
+    "districtCode": "14.01.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kuok"
+  },
+  {
+    "code": "14.01.05.2005",
+    "name": "Merangin",
+    "districtCode": "14.01.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kuok"
+  },
+  {
+    "code": "14.01.05.2008",
+    "name": "Silam",
+    "districtCode": "14.01.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kuok"
+  },
+  {
+    "code": "14.01.07.1027",
+    "name": "Lipat Kain",
+    "districtCode": "14.01.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar Kiri"
+  },
+  {
+    "code": "14.01.07.2003",
+    "name": "Kuntu",
+    "districtCode": "14.01.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar Kiri"
+  },
+  {
+    "code": "14.01.07.2005",
+    "name": "Domo",
+    "districtCode": "14.01.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar Kiri"
+  },
+  {
+    "code": "14.01.08.1001",
+    "name": "Sungai Pagar",
+    "districtCode": "14.01.08",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar Kiri Hilir"
+  },
+  {
+    "code": "14.01.08.2002",
+    "name": "Mentulik",
+    "districtCode": "14.01.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar Kiri Hilir"
+  },
+  {
+    "code": "14.01.09.2001",
+    "name": "Gema",
+    "districtCode": "14.01.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Gema"
+  },
+  {
+    "code": "14.01.09.2007",
+    "name": "Ludai",
+    "districtCode": "14.01.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Gema"
+  },
+  {
+    "code": "14.01.09.2017",
+    "name": "Terusan",
+    "districtCode": "14.01.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Gema"
+  },
+  {
+    "code": "14.01.10.2001",
+    "name": "Petapahan",
+    "districtCode": "14.01.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Petapahan"
+  },
+  {
+    "code": "14.01.10.2014",
+    "name": "Pagaruyung",
+    "districtCode": "14.01.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Petapahan"
+  },
+  {
+    "code": "14.01.10.2015",
+    "name": "Sibuak",
+    "districtCode": "14.01.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Petapahan"
+  },
+  {
+    "code": "14.01.10.2017",
+    "name": "Kenantan",
+    "districtCode": "14.01.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Petapahan"
+  },
+  {
+    "code": "14.01.10.2018",
+    "name": "Indrapuri",
+    "districtCode": "14.01.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Petapahan"
+  },
+  {
+    "code": "14.01.11.2002",
+    "name": "Sekijang",
+    "districtCode": "14.01.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Sekijang"
+  },
+  {
+    "code": "14.01.12.2002",
+    "name": "Kasikan",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2005",
+    "name": "Amar Putusan Mahkamah Agung Ri Nomor 395k/tun/2011 Tanggal 10",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2006",
+    "name": "Amar Putusan Mahkamah Agung Ri Nomor 395k/tun/2011 Tanggal 10",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2007",
+    "name": "Amar Putusan Mahkamah Agung Ri Nomor 395k/tun/2011 Tanggal 10",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2008",
+    "name": "Amar Putusan Mahkamah Agung Ri Nomor 395k/tun/2011 Tanggal 10",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2009",
+    "name": "Amar Putusan Mahkamah Agung Ri Nomor 395k/tun/2011 Tanggal 10",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.12.2011",
+    "name": "Sukaramai",
+    "districtCode": "14.01.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kasikan"
+  },
+  {
+    "code": "14.01.13.2001",
+    "name": "Salo",
+    "districtCode": "14.01.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Salo"
+  },
+  {
+    "code": "14.01.13.2002",
+    "name": "Siabu",
+    "districtCode": "14.01.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Salo"
+  },
+  {
+    "code": "14.01.13.2003",
+    "name": "Salo Timur",
+    "districtCode": "14.01.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Salo"
+  },
+  {
+    "code": "14.01.13.2006",
+    "name": "Ganting",
+    "districtCode": "14.01.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Salo"
+  },
+  {
+    "code": "14.01.14.2002",
+    "name": "Teratak",
+    "districtCode": "14.01.14",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Teratak"
+  },
+  {
+    "code": "14.01.14.2006",
+    "name": "Tambusai",
+    "districtCode": "14.01.14",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Teratak"
+  },
+  {
+    "code": "14.01.15.1007",
+    "name": "Pulau",
+    "districtCode": "14.01.15",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Pulau"
+  },
+  {
+    "code": "14.01.15.1008",
+    "name": "Pasir Sialang",
+    "districtCode": "14.01.15",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Pulau"
+  },
+  {
+    "code": "14.01.15.2009",
+    "name": "Binuang",
+    "districtCode": "14.01.15",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Pulau"
+  },
+  {
+    "code": "14.01.16.2003",
+    "name": "Hangtuah",
+    "districtCode": "14.01.16",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Hangtuah"
+  },
+  {
+    "code": "14.01.17.2003",
+    "name": "Kampar",
+    "districtCode": "14.01.17",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Kampar"
+  },
+  {
+    "code": "14.01.18.2007",
+    "name": "Sendayan",
+    "districtCode": "14.01.18",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kampar",
+    "districtName": "Sendayan"
+  },
+  {
+    "code": "14.02.01.1004",
+    "name": "Kampung Dagang",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.01.1006",
+    "name": "Pasar Kota",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.01.1007",
+    "name": "Kampung Besar Kota",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.01.1008",
+    "name": "Sekip Hulu",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.01.1011",
+    "name": "Kmp Besar Seberang",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.01.1018",
+    "name": "Sekip Hilir",
+    "districtCode": "14.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat"
+  },
+  {
+    "code": "14.02.02.1009",
+    "name": "Pematang Reba",
+    "districtCode": "14.02.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat Barat"
+  },
+  {
+    "code": "14.02.02.2001",
+    "name": "Barangan",
+    "districtCode": "14.02.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat Barat"
+  },
+  {
+    "code": "14.02.02.2004",
+    "name": "Redang",
+    "districtCode": "14.02.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Rengat Barat"
+  },
+  {
+    "code": "14.02.03.1019",
+    "name": "Simpang Kelayang",
+    "districtCode": "14.02.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Kelayang"
+  },
+  {
+    "code": "14.02.03.2018",
+    "name": "Pelangko",
+    "districtCode": "14.02.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Kelayang"
+  },
+  {
+    "code": "14.02.04.1007",
+    "name": "Air Molek",
+    "districtCode": "14.02.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.04.1020",
+    "name": "Kembang Harum",
+    "districtCode": "14.02.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.04.1031",
+    "name": "Tanjung Gading",
+    "districtCode": "14.02.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.04.1032",
+    "name": "Sekar Mawar",
+    "districtCode": "14.02.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.04.1033",
+    "name": "Tanah Merah",
+    "districtCode": "14.02.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.04.2006",
+    "name": "Petalongan",
+    "districtCode": "14.02.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pasir Penyu"
+  },
+  {
+    "code": "14.02.05.1005",
+    "name": "Peranap",
+    "districtCode": "14.02.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peranap"
+  },
+  {
+    "code": "14.02.05.1008",
+    "name": "Batu Rijal Hilir",
+    "districtCode": "14.02.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peranap"
+  },
+  {
+    "code": "14.02.05.2003",
+    "name": "Semelinang Tebing",
+    "districtCode": "14.02.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peranap"
+  },
+  {
+    "code": "14.02.05.2004",
+    "name": "Gumanti",
+    "districtCode": "14.02.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peranap"
+  },
+  {
+    "code": "14.02.05.2009",
+    "name": "Semelinang Darat",
+    "districtCode": "14.02.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peranap"
+  },
+  {
+    "code": "14.02.06.1001",
+    "name": "Pangkalan Kasai",
+    "districtCode": "14.02.06",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siberida"
+  },
+  {
+    "code": "14.02.06.2002",
+    "name": "Kelesa",
+    "districtCode": "14.02.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siberida"
+  },
+  {
+    "code": "14.02.06.2003",
+    "name": "Beligan",
+    "districtCode": "14.02.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siberida"
+  },
+  {
+    "code": "14.02.06.2004",
+    "name": "Seresam",
+    "districtCode": "14.02.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siberida"
+  },
+  {
+    "code": "14.02.06.2010",
+    "name": "Sibabat",
+    "districtCode": "14.02.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siberida"
+  },
+  {
+    "code": "14.02.07.2009",
+    "name": "Pejangki",
+    "districtCode": "14.02.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pejangki"
+  },
+  {
+    "code": "14.02.07.2011",
+    "name": "Sipang",
+    "districtCode": "14.02.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pejangki"
+  },
+  {
+    "code": "14.02.07.2018",
+    "name": "Alim",
+    "districtCode": "14.02.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pejangki"
+  },
+  {
+    "code": "14.02.07.2023",
+    "name": "Sanglap",
+    "districtCode": "14.02.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Pejangki"
+  },
+  {
+    "code": "14.02.08.2001",
+    "name": "Siambul",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.08.2004",
+    "name": "Usul",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.08.2005",
+    "name": "Seberida",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.08.2007",
+    "name": "Belimbing",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.08.2008",
+    "name": "Ringin",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.08.2010",
+    "name": "Penyaguan",
+    "districtCode": "14.02.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Siambul"
+  },
+  {
+    "code": "14.02.09.2001",
+    "name": "Japura",
+    "districtCode": "14.02.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Japura"
+  },
+  {
+    "code": "14.02.09.2002",
+    "name": "Sidomulyo",
+    "districtCode": "14.02.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Japura"
+  },
+  {
+    "code": "14.02.09.2007",
+    "name": "Rejosari",
+    "districtCode": "14.02.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Japura"
+  },
+  {
+    "code": "14.02.09.2011",
+    "name": "Wonosari",
+    "districtCode": "14.02.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Japura"
+  },
+  {
+    "code": "14.02.14.2009",
+    "name": "Peladangan",
+    "districtCode": "14.02.14",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hulu",
+    "districtName": "Peladangan"
+  },
+  {
+    "code": "14.03.01.1002",
+    "name": "Damon",
+    "districtCode": "14.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.1003",
+    "name": "Rimba Sekampung",
+    "districtCode": "14.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2004",
+    "name": "Kelapapati",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2005",
+    "name": "Pedekik",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2007",
+    "name": "Sebauk",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2008",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2009",
+    "name": "Meskom",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2010",
+    "name": "Senggoro",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2013",
+    "name": "Penampi",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2015",
+    "name": "Penebal",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2018",
+    "name": "Kelemantan",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2019",
+    "name": "Sekodi",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.01.2020",
+    "name": "Wonosari",
+    "districtCode": "14.03.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bengkalis"
+  },
+  {
+    "code": "14.03.02.2001",
+    "name": "Bantan Tengah",
+    "districtCode": "14.03.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bantan Tengah"
+  },
+  {
+    "code": "14.03.02.2006",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bantan Tengah"
+  },
+  {
+    "code": "14.03.02.2008",
+    "name": "Jangkang",
+    "districtCode": "14.03.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bantan Tengah"
+  },
+  {
+    "code": "14.03.02.2009",
+    "name": "Muntai",
+    "districtCode": "14.03.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bantan Tengah"
+  },
+  {
+    "code": "14.03.03.1010",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bukit Batu"
+  },
+  {
+    "code": "14.03.03.2001",
+    "name": "Sejangat",
+    "districtCode": "14.03.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bukit Batu"
+  },
+  {
+    "code": "14.03.03.2002",
+    "name": "Dompas",
+    "districtCode": "14.03.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bukit Batu"
+  },
+  {
+    "code": "14.03.03.2004",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bukit Batu"
+  },
+  {
+    "code": "14.03.03.2007",
+    "name": "Sukajadi",
+    "districtCode": "14.03.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Bukit Batu"
+  },
+  {
+    "code": "14.03.09.1001",
+    "name": "Air Jamban",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1002",
+    "name": "Babussalam",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1003",
+    "name": "Batang Serosa",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1004",
+    "name": "Balik Alam",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1006",
+    "name": "Duri Barat",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1007",
+    "name": "Duri Timur",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1008",
+    "name": "Gajah Sakti",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1009",
+    "name": "Talang Mandi",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.09.1010",
+    "name": "Pematang Pudu",
+    "districtCode": "14.03.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Mandau"
+  },
+  {
+    "code": "14.03.10.1001",
+    "name": "Batu Panjang",
+    "districtCode": "14.03.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.1002",
+    "name": "Pergam",
+    "districtCode": "14.03.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.1003",
+    "name": "Terkul",
+    "districtCode": "14.03.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.1004",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.2005",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.2006",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.10.2007",
+    "name": "Makeruh",
+    "districtCode": "14.03.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Rupat"
+  },
+  {
+    "code": "14.03.11.2001",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.11.2002",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.11.2003",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2002",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2003",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2004",
+    "name": "Sepotong",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2006",
+    "name": "Langkat",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2008",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.12.2011",
+    "name": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat",
+    "districtCode": "14.03.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Perbaikan Spasi, Berdasarka Ketua Kpu Bengkalis No Surat"
+  },
+  {
+    "code": "14.03.13.1001",
+    "name": "Titian Antui",
+    "districtCode": "14.03.13",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Pinggir"
+  },
+  {
+    "code": "14.03.13.1012",
+    "name": "Balai Raja",
+    "districtCode": "14.03.13",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Pinggir"
+  },
+  {
+    "code": "14.03.13.2007",
+    "name": "Pinggir",
+    "districtCode": "14.03.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Pinggir"
+  },
+  {
+    "code": "14.03.13.2008",
+    "name": "Semunai",
+    "districtCode": "14.03.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Pinggir"
+  },
+  {
+    "code": "14.03.13.2011",
+    "name": "Tengganau",
+    "districtCode": "14.03.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Bengkalis",
+    "districtName": "Pinggir"
+  },
+  {
+    "code": "14.04.01.1001",
+    "name": "Pulaukijang",
+    "districtCode": "14.04.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2002",
+    "name": "Sanglar",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2003",
+    "name": "Pulaukecil",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2004",
+    "name": "Sungaiterap",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2009",
+    "name": "Sungaiundan",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2010",
+    "name": "Seberang Sanglar",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2013",
+    "name": "Sungaiasam",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.01.2014",
+    "name": "Pulauruku",
+    "districtCode": "14.04.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Reteh"
+  },
+  {
+    "code": "14.04.02.1001",
+    "name": "Enok",
+    "districtCode": "14.04.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.1002",
+    "name": "Pusaran",
+    "districtCode": "14.04.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.1003",
+    "name": "Telukmedan",
+    "districtCode": "14.04.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.2005",
+    "name": "Sungaiambat",
+    "districtCode": "14.04.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.2008",
+    "name": "Sungairukam",
+    "districtCode": "14.04.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.2010",
+    "name": "Suhada",
+    "districtCode": "14.04.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.02.2012",
+    "name": "Sungailokan",
+    "districtCode": "14.04.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Enok"
+  },
+  {
+    "code": "14.04.03.1007",
+    "name": "Sapat",
+    "districtCode": "14.04.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2001",
+    "name": "Sungaibuluh",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2002",
+    "name": "Tanjunglajau",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2003",
+    "name": "Sungaibela",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2006",
+    "name": "Telukdalam",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2008",
+    "name": "Sungaipiyai",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.03.2010",
+    "name": "Tanjungmelayu",
+    "districtCode": "14.04.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kuala Indragiri"
+  },
+  {
+    "code": "14.04.04.1001",
+    "name": "Tembilahan Kota",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.04.1002",
+    "name": "Tembilahan Hilir",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.04.1003",
+    "name": "Seberang Tembilahan",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.04.1004",
+    "name": "Sungaiperak",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.04.1005",
+    "name": "Sungaiberingin",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.04.1006",
+    "name": "Pekan Arba",
+    "districtCode": "14.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Kota"
+  },
+  {
+    "code": "14.04.05.1004",
+    "name": "Sungaisalak",
+    "districtCode": "14.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tempuling"
+  },
+  {
+    "code": "14.04.05.1005",
+    "name": "Tempuling",
+    "districtCode": "14.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tempuling"
+  },
+  {
+    "code": "14.04.05.2002",
+    "name": "Telukkiambang",
+    "districtCode": "14.04.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tempuling"
+  },
+  {
+    "code": "14.04.05.2003",
+    "name": "Mumpa",
+    "districtCode": "14.04.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tempuling"
+  },
+  {
+    "code": "14.04.05.2007",
+    "name": "Telukjira",
+    "districtCode": "14.04.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tempuling"
+  },
+  {
+    "code": "14.04.06.1005",
+    "name": "Telukpinang",
+    "districtCode": "14.04.06",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.06.2002",
+    "name": "Telukpantaian",
+    "districtCode": "14.04.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.06.2003",
+    "name": "Teluksungka",
+    "districtCode": "14.04.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.06.2006",
+    "name": "Sungaiiliran",
+    "districtCode": "14.04.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.06.2007",
+    "name": "Teluktuasan",
+    "districtCode": "14.04.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.06.2008",
+    "name": "Rambaian",
+    "districtCode": "14.04.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung Anak Serka"
+  },
+  {
+    "code": "14.04.07.1004",
+    "name": "Khairiah Mandah",
+    "districtCode": "14.04.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2001",
+    "name": "Pulaucawan",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2002",
+    "name": "Belaras",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2003",
+    "name": "Bente",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2005",
+    "name": "Igal",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2006",
+    "name": "Pelanduk",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2009",
+    "name": "Bekawan",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.07.2010",
+    "name": "Bantayan",
+    "districtCode": "14.04.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Mandah"
+  },
+  {
+    "code": "14.04.08.1001",
+    "name": "Tegaraja",
+    "districtCode": "14.04.08",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kateman"
+  },
+  {
+    "code": "14.04.08.2003",
+    "name": "Sungaisimbar",
+    "districtCode": "14.04.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kateman"
+  },
+  {
+    "code": "14.04.08.2004",
+    "name": "Penjuru",
+    "districtCode": "14.04.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kateman"
+  },
+  {
+    "code": "14.04.08.2007",
+    "name": "Tanjungraja",
+    "districtCode": "14.04.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kateman"
+  },
+  {
+    "code": "14.04.08.2008",
+    "name": "Sungaiteritip",
+    "districtCode": "14.04.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kateman"
+  },
+  {
+    "code": "14.04.09.2001",
+    "name": "Pebenaan",
+    "districtCode": "14.04.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Keritang"
+  },
+  {
+    "code": "14.04.09.2010",
+    "name": "Telukkelasa",
+    "districtCode": "14.04.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Keritang"
+  },
+  {
+    "code": "14.04.09.2012",
+    "name": "Pancur",
+    "districtCode": "14.04.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Keritang"
+  },
+  {
+    "code": "14.04.09.2013",
+    "name": "Sencalang",
+    "districtCode": "14.04.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Keritang"
+  },
+  {
+    "code": "14.04.10.2003",
+    "name": "Sungainyiur",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.10.2004",
+    "name": "Tanjungbaru",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.10.2005",
+    "name": "Tekulai Hilir",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.10.2006",
+    "name": "Tekulai Hulu",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.10.2008",
+    "name": "Tanjungpasir",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.10.2010",
+    "name": "Sungailaut",
+    "districtCode": "14.04.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tanah Merah"
+  },
+  {
+    "code": "14.04.11.2002",
+    "name": "Sungailuar",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.11.2003",
+    "name": "Sungaidusun",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.11.2004",
+    "name": "Sungaijunjangan",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.11.2005",
+    "name": "Sungairaya",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.11.2007",
+    "name": "Tanjungsiantar",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.11.2008",
+    "name": "Sungairawa",
+    "districtCode": "14.04.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Batang Tuaka"
+  },
+  {
+    "code": "14.04.12.2004",
+    "name": "Belantaraya",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2005",
+    "name": "Sungaibaru",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2007",
+    "name": "Lahang Tengah",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2008",
+    "name": "Lahang Hulu",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2009",
+    "name": "Pungkat",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2010",
+    "name": "Jerambang",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.12.2011",
+    "name": "Telukkabung",
+    "districtCode": "14.04.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gaung"
+  },
+  {
+    "code": "14.04.13.1001",
+    "name": "Tembilahan Hulu",
+    "districtCode": "14.04.13",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Hulu"
+  },
+  {
+    "code": "14.04.13.2003",
+    "name": "Pulaupalas",
+    "districtCode": "14.04.13",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Tembilahan Hulu"
+  },
+  {
+    "code": "14.04.14.2003",
+    "name": "Keritang",
+    "districtCode": "14.04.14",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kemuning"
+  },
+  {
+    "code": "14.04.14.2010",
+    "name": "Sekara",
+    "districtCode": "14.04.14",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Kemuning"
+  },
+  {
+    "code": "14.04.15.2004",
+    "name": "Tanjungsimpang",
+    "districtCode": "14.04.15",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pelangiran"
+  },
+  {
+    "code": "14.04.15.2008",
+    "name": "Wonosari",
+    "districtCode": "14.04.15",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pelangiran"
+  },
+  {
+    "code": "14.04.15.2014",
+    "name": "Pmd",
+    "districtCode": "14.04.15",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pelangiran"
+  },
+  {
+    "code": "14.04.16.2013",
+    "name": "Gembaran",
+    "districtCode": "14.04.16",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Gembaran"
+  },
+  {
+    "code": "14.04.17.2001",
+    "name": "Pulauburung",
+    "districtCode": "14.04.17",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pulauburung"
+  },
+  {
+    "code": "14.04.17.2002",
+    "name": "Teluknibung",
+    "districtCode": "14.04.17",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pulauburung"
+  },
+  {
+    "code": "14.04.17.2003",
+    "name": "Sungaidanai",
+    "districtCode": "14.04.17",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Indragiri Hilir",
+    "districtName": "Pulauburung"
+  },
+  {
+    "code": "14.05.01.2008",
+    "name": "Silikuan Hulu",
+    "districtCode": "14.05.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Ukui"
+  },
+  {
+    "code": "14.05.01.2011",
+    "name": "Ukui Dua",
+    "districtCode": "14.05.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Ukui"
+  },
+  {
+    "code": "14.05.02.2003",
+    "name": "Makmur",
+    "districtCode": "14.05.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Makmur"
+  },
+  {
+    "code": "14.05.03.1001",
+    "name": "Sorek I",
+    "districtCode": "14.05.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2003",
+    "name": "Dundangan",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2004",
+    "name": "Palas",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2006",
+    "name": "Kemang",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2007",
+    "name": "Talau",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2009",
+    "name": "Betung",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2010",
+    "name": "Kesuma",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2014",
+    "name": "Meranti",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.03.2017",
+    "name": "Pmd",
+    "districtCode": "14.05.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Kuras"
+  },
+  {
+    "code": "14.05.04.2003",
+    "name": "Genduang",
+    "districtCode": "14.05.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Lesung"
+  },
+  {
+    "code": "14.05.04.2010",
+    "name": "Pmd",
+    "districtCode": "14.05.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Lesung"
+  },
+  {
+    "code": "14.05.05.1001",
+    "name": "Langgam",
+    "districtCode": "14.05.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.05.2002",
+    "name": "Tambak",
+    "districtCode": "14.05.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.05.2003",
+    "name": "Penarikan",
+    "districtCode": "14.05.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.05.2004",
+    "name": "Segati",
+    "districtCode": "14.05.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.05.2005",
+    "name": "Sotol",
+    "districtCode": "14.05.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.05.2007",
+    "name": "Langkan",
+    "districtCode": "14.05.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Langgam"
+  },
+  {
+    "code": "14.05.06.2003",
+    "name": "Ransang",
+    "districtCode": "14.05.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pelalawan"
+  },
+  {
+    "code": "14.05.06.2005",
+    "name": "Sering",
+    "districtCode": "14.05.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pelalawan"
+  },
+  {
+    "code": "14.05.06.2006",
+    "name": "Telayap",
+    "districtCode": "14.05.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pelalawan"
+  },
+  {
+    "code": "14.05.06.2008",
+    "name": "Delik",
+    "districtCode": "14.05.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pelalawan"
+  },
+  {
+    "code": "14.05.08.1011",
+    "name": "Pangkalan Bunut",
+    "districtCode": "14.05.08",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Bunut"
+  },
+  {
+    "code": "14.05.08.2001",
+    "name": "Petani",
+    "districtCode": "14.05.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Bunut"
+  },
+  {
+    "code": "14.05.08.2002",
+    "name": "Merbau",
+    "districtCode": "14.05.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Bunut"
+  },
+  {
+    "code": "14.05.08.2017",
+    "name": "Pmd",
+    "districtCode": "14.05.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pangkalan Bunut"
+  },
+  {
+    "code": "14.05.09.2003",
+    "name": "Petodaan",
+    "districtCode": "14.05.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Teluk Meranti"
+  },
+  {
+    "code": "14.05.09.2009",
+    "name": "Segamai",
+    "districtCode": "14.05.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Teluk Meranti"
+  },
+  {
+    "code": "14.05.10.1001",
+    "name": "Teluk Dalam",
+    "districtCode": "14.05.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Kuala Kampar"
+  },
+  {
+    "code": "14.05.10.2005",
+    "name": "Teluk",
+    "districtCode": "14.05.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Kuala Kampar"
+  },
+  {
+    "code": "14.05.10.2006",
+    "name": "Serapung",
+    "districtCode": "14.05.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Kuala Kampar"
+  },
+  {
+    "code": "14.05.10.2008",
+    "name": "Sokoi",
+    "districtCode": "14.05.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Kuala Kampar"
+  },
+  {
+    "code": "14.05.12.2010",
+    "name": "Pmd",
+    "districtCode": "14.05.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Pelalawan",
+    "districtName": "Pmd"
+  },
+  {
+    "code": "14.06.01.1001",
+    "name": "Ujung Batu",
+    "districtCode": "14.06.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Ujung Batu"
+  },
+  {
+    "code": "14.06.01.2003",
+    "name": "Ngaso",
+    "districtCode": "14.06.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Ujung Batu"
+  },
+  {
+    "code": "14.06.02.1001",
+    "name": "Rokan",
+    "districtCode": "14.06.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rokan Iv Koto"
+  },
+  {
+    "code": "14.06.02.2014",
+    "name": "Rokan Timur",
+    "districtCode": "14.06.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rokan Iv Koto"
+  },
+  {
+    "code": "14.06.03.1001",
+    "name": "Pasir Pengarayan",
+    "districtCode": "14.06.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah"
+  },
+  {
+    "code": "14.06.03.2006",
+    "name": "Menaming",
+    "districtCode": "14.06.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah"
+  },
+  {
+    "code": "14.06.03.2013",
+    "name": "Babussalam",
+    "districtCode": "14.06.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah"
+  },
+  {
+    "code": "14.06.04.1001",
+    "name": "Tambusai Tengah",
+    "districtCode": "14.06.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai"
+  },
+  {
+    "code": "14.06.04.2002",
+    "name": "Tambusai Barat",
+    "districtCode": "14.06.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai"
+  },
+  {
+    "code": "14.06.04.2003",
+    "name": "Tambusai Timur",
+    "districtCode": "14.06.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai"
+  },
+  {
+    "code": "14.06.04.2004",
+    "name": "Batas",
+    "districtCode": "14.06.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai"
+  },
+  {
+    "code": "14.06.04.2005",
+    "name": "Talikumain",
+    "districtCode": "14.06.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai"
+  },
+  {
+    "code": "14.06.05.1001",
+    "name": "Kepenuhantengah",
+    "districtCode": "14.06.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kepenuhan"
+  },
+  {
+    "code": "14.06.05.2003",
+    "name": "Kepenuhan Barat",
+    "districtCode": "14.06.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kepenuhan"
+  },
+  {
+    "code": "14.06.05.2004",
+    "name": "Kepenuhan Hilir",
+    "districtCode": "14.06.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kepenuhan"
+  },
+  {
+    "code": "14.06.05.2005",
+    "name": "Kepenuhan Timur",
+    "districtCode": "14.06.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kepenuhan"
+  },
+  {
+    "code": "14.06.05.2007",
+    "name": "Kepenuhan Raya",
+    "districtCode": "14.06.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kepenuhan"
+  },
+  {
+    "code": "14.06.06.1001",
+    "name": "Kota Lama",
+    "districtCode": "14.06.06",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kunto Darussalam"
+  },
+  {
+    "code": "14.06.07.2004",
+    "name": "Rambah Utama",
+    "districtCode": "14.06.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah Utama"
+  },
+  {
+    "code": "14.06.08.2001",
+    "name": "Rambah Hilir",
+    "districtCode": "14.06.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah Hilir"
+  },
+  {
+    "code": "14.06.08.2009",
+    "name": "Rambah",
+    "districtCode": "14.06.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Rambah Hilir"
+  },
+  {
+    "code": "14.06.09.2001",
+    "name": "Tambusai Utara",
+    "districtCode": "14.06.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai Utara"
+  },
+  {
+    "code": "14.06.09.2002",
+    "name": "Mahato",
+    "districtCode": "14.06.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tambusai Utara"
+  },
+  {
+    "code": "14.06.11.2001",
+    "name": "Tandun",
+    "districtCode": "14.06.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tandun"
+  },
+  {
+    "code": "14.06.11.2002",
+    "name": "Kumain",
+    "districtCode": "14.06.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tandun"
+  },
+  {
+    "code": "14.06.11.2004",
+    "name": "Dayo",
+    "districtCode": "14.06.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Tandun"
+  },
+  {
+    "code": "14.06.12.2001",
+    "name": "Kabun",
+    "districtCode": "14.06.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kabun"
+  },
+  {
+    "code": "14.06.12.2002",
+    "name": "Aliantan",
+    "districtCode": "14.06.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kabun"
+  },
+  {
+    "code": "14.06.12.2006",
+    "name": "Giti",
+    "districtCode": "14.06.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.06",
+    "districtName": "Kabun"
+  },
+  {
+    "code": "14.07.01.1010",
+    "name": "Telukmerbau",
+    "districtCode": "14.07.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Kubu"
+  },
+  {
+    "code": "14.07.01.2002",
+    "name": "Tanjungleban",
+    "districtCode": "14.07.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Kubu"
+  },
+  {
+    "code": "14.07.01.2003",
+    "name": "Sungaikubu",
+    "districtCode": "14.07.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Kubu"
+  },
+  {
+    "code": "14.07.01.2012",
+    "name": "Telukpiyai",
+    "districtCode": "14.07.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Kubu"
+  },
+  {
+    "code": "14.07.01.2013",
+    "name": "Sungaisegajah",
+    "districtCode": "14.07.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Kubu"
+  },
+  {
+    "code": "14.07.02.1012",
+    "name": "Bagan Kota",
+    "districtCode": "14.07.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bangko"
+  },
+  {
+    "code": "14.07.02.1015",
+    "name": "Bagan Hulu",
+    "districtCode": "14.07.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bangko"
+  },
+  {
+    "code": "14.07.02.1016",
+    "name": "Bagan Barat",
+    "districtCode": "14.07.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bangko"
+  },
+  {
+    "code": "14.07.02.1017",
+    "name": "Bagan Timur",
+    "districtCode": "14.07.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bangko"
+  },
+  {
+    "code": "14.07.03.1007",
+    "name": "Sedinginan",
+    "districtCode": "14.07.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih"
+  },
+  {
+    "code": "14.07.03.1010",
+    "name": "Banjar Xii",
+    "districtCode": "14.07.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih"
+  },
+  {
+    "code": "14.07.03.2005",
+    "name": "Sekeladi",
+    "districtCode": "14.07.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih"
+  },
+  {
+    "code": "14.07.03.2008",
+    "name": "Putat",
+    "districtCode": "14.07.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih"
+  },
+  {
+    "code": "14.07.03.2009",
+    "name": "Sintong",
+    "districtCode": "14.07.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih"
+  },
+  {
+    "code": "14.07.04.2002",
+    "name": "Jumrah",
+    "districtCode": "14.07.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Rimba Melintang"
+  },
+  {
+    "code": "14.07.04.2003",
+    "name": "Telukpulau Hilir",
+    "districtCode": "14.07.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Rimba Melintang"
+  },
+  {
+    "code": "14.07.04.2004",
+    "name": "Telukpulau Hulu",
+    "districtCode": "14.07.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Rimba Melintang"
+  },
+  {
+    "code": "14.07.04.2005",
+    "name": "Langgadai Hulu",
+    "districtCode": "14.07.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Rimba Melintang"
+  },
+  {
+    "code": "14.07.04.2006",
+    "name": "Lenggadai Hilir",
+    "districtCode": "14.07.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Rimba Melintang"
+  },
+  {
+    "code": "14.07.05.2007",
+    "name": "Pelita",
+    "districtCode": "14.07.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bagansinembah"
+  },
+  {
+    "code": "14.07.05.2008",
+    "name": "Gelora",
+    "districtCode": "14.07.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Bagansinembah"
+  },
+  {
+    "code": "14.07.06.2001",
+    "name": "Panipahan",
+    "districtCode": "14.07.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Pasir Limau Kapas"
+  },
+  {
+    "code": "14.07.06.2002",
+    "name": "Telukpulai",
+    "districtCode": "14.07.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Pasir Limau Kapas"
+  },
+  {
+    "code": "14.07.07.2001",
+    "name": "Sinaboi",
+    "districtCode": "14.07.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Sinaboi"
+  },
+  {
+    "code": "14.07.08.2002",
+    "name": "Pujud",
+    "districtCode": "14.07.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Pujud"
+  },
+  {
+    "code": "14.07.08.2005",
+    "name": "Sungaipinang",
+    "districtCode": "14.07.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Pujud"
+  },
+  {
+    "code": "14.07.08.2008",
+    "name": "Pmd",
+    "districtCode": "14.07.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Pujud"
+  },
+  {
+    "code": "14.07.09.2004",
+    "name": "Mesah",
+    "districtCode": "14.07.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Rokan Hilir",
+    "districtName": "Tanah Putih Tanjung"
+  },
+  {
+    "code": "14.08.01.1001",
+    "name": "Kampung Dalam",
+    "districtCode": "14.08.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Siak"
+  },
+  {
+    "code": "14.08.01.1002",
+    "name": "Kampung Rempak",
+    "districtCode": "14.08.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Siak"
+  },
+  {
+    "code": "14.08.01.2003",
+    "name": "Langkai",
+    "districtCode": "14.08.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Siak"
+  },
+  {
+    "code": "14.08.01.2011",
+    "name": "Tumang",
+    "districtCode": "14.08.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Siak"
+  },
+  {
+    "code": "14.08.02.1001",
+    "name": "Sungai Apit",
+    "districtCode": "14.08.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sungai Apit"
+  },
+  {
+    "code": "14.08.02.2009",
+    "name": "Lalang",
+    "districtCode": "14.08.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sungai Apit"
+  },
+  {
+    "code": "14.08.02.2010",
+    "name": "Mengkapan",
+    "districtCode": "14.08.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sungai Apit"
+  },
+  {
+    "code": "14.08.02.2012",
+    "name": "Penyengat",
+    "districtCode": "14.08.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sungai Apit"
+  },
+  {
+    "code": "14.08.02.2017",
+    "name": "Harapan",
+    "districtCode": "14.08.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sungai Apit"
+  },
+  {
+    "code": "14.08.03.1001",
+    "name": "Minas Jaya",
+    "districtCode": "14.08.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Minas"
+  },
+  {
+    "code": "14.08.03.2002",
+    "name": "Minas Timur",
+    "districtCode": "14.08.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Minas"
+  },
+  {
+    "code": "14.08.03.2003",
+    "name": "Minas Barat",
+    "districtCode": "14.08.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Minas"
+  },
+  {
+    "code": "14.08.04.1001",
+    "name": "Perawang",
+    "districtCode": "14.08.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Tualang"
+  },
+  {
+    "code": "14.08.04.2002",
+    "name": "Tualang",
+    "districtCode": "14.08.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Tualang"
+  },
+  {
+    "code": "14.08.04.2004",
+    "name": "Meredan",
+    "districtCode": "14.08.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Tualang"
+  },
+  {
+    "code": "14.08.04.2007",
+    "name": "Meredan Barat",
+    "districtCode": "14.08.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Tualang"
+  },
+  {
+    "code": "14.08.04.2008",
+    "name": "Perawang Barat",
+    "districtCode": "14.08.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Tualang"
+  },
+  {
+    "code": "14.08.05.2004",
+    "name": "Olak",
+    "districtCode": "14.08.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Olak"
+  },
+  {
+    "code": "14.08.06.2001",
+    "name": "Dayun",
+    "districtCode": "14.08.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Dayun"
+  },
+  {
+    "code": "14.08.06.2004",
+    "name": "Merangkai",
+    "districtCode": "14.08.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Dayun"
+  },
+  {
+    "code": "14.08.07.2001",
+    "name": "Kerinci Kanan",
+    "districtCode": "14.08.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kerinci Kanan"
+  },
+  {
+    "code": "14.08.07.2002",
+    "name": "Kerinci Kiri",
+    "districtCode": "14.08.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kerinci Kanan"
+  },
+  {
+    "code": "14.08.07.2012",
+    "name": "Seminai",
+    "districtCode": "14.08.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kerinci Kanan"
+  },
+  {
+    "code": "14.08.09.2006",
+    "name": "Sengkemang",
+    "districtCode": "14.08.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sengkemang"
+  },
+  {
+    "code": "14.08.10.1001",
+    "name": "Simpang Belutu",
+    "districtCode": "14.08.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kandis"
+  },
+  {
+    "code": "14.08.10.1002",
+    "name": "Telaga Sam-sam",
+    "districtCode": "14.08.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kandis"
+  },
+  {
+    "code": "14.08.10.1003",
+    "name": "Kandis Kota",
+    "districtCode": "14.08.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kandis"
+  },
+  {
+    "code": "14.08.10.2004",
+    "name": "Belutu",
+    "districtCode": "14.08.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kandis"
+  },
+  {
+    "code": "14.08.10.2005",
+    "name": "Kandis",
+    "districtCode": "14.08.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Kandis"
+  },
+  {
+    "code": "14.08.11.2003",
+    "name": "Sri Gading",
+    "districtCode": "14.08.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Siak",
+    "districtName": "Sri Gading"
+  },
+  {
+    "code": "14.09.01.1012",
+    "name": "Pasar Lubuk Jambi",
+    "districtCode": "14.09.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2005",
+    "name": "Pantai",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2010",
+    "name": "Sangau",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2013",
+    "name": "Kasang",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2015",
+    "name": "Pulaubinjai",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2018",
+    "name": "Luai",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2020",
+    "name": "Bukitpedusunan",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2021",
+    "name": "Saik",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2022",
+    "name": "Pebaun Hulu",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2023",
+    "name": "Pebaun Hilir",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2024",
+    "name": "Kinali",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.01.2027",
+    "name": "Sungaimanau",
+    "districtCode": "14.09.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Mudik"
+  },
+  {
+    "code": "14.09.02.1016",
+    "name": "Pasar Teluk",
+    "districtCode": "14.09.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.1018",
+    "name": "Simpang Tiga",
+    "districtCode": "14.09.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.1025",
+    "name": "Sungaijering",
+    "districtCode": "14.09.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2002",
+    "name": "Pulaukedundung",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2003",
+    "name": "Pulauaro",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2007",
+    "name": "Kopah",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2008",
+    "name": "Munsalo",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2014",
+    "name": "Sawah",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2020",
+    "name": "Jake",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2022",
+    "name": "Jaya",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.02.2024",
+    "name": "Sitorajo",
+    "districtCode": "14.09.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Tengah"
+  },
+  {
+    "code": "14.09.03.1003",
+    "name": "Muara Lembu",
+    "districtCode": "14.09.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2002",
+    "name": "Pulaupadang",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2004",
+    "name": "Logas",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2006",
+    "name": "Sungaikuning",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2007",
+    "name": "Sungaisirih",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2008",
+    "name": "Sungaibawang",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.03.2012",
+    "name": "Sungaikeranji",
+    "districtCode": "14.09.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Singingi"
+  },
+  {
+    "code": "14.09.04.1001",
+    "name": "Pasar Usang",
+    "districtCode": "14.09.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Hilir"
+  },
+  {
+    "code": "14.09.04.1002",
+    "name": "Pasar Baru",
+    "districtCode": "14.09.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Hilir"
+  },
+  {
+    "code": "14.09.04.2006",
+    "name": "Banuaran",
+    "districtCode": "14.09.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Hilir"
+  },
+  {
+    "code": "14.09.04.2015",
+    "name": "Pulaumadinah",
+    "districtCode": "14.09.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Hilir"
+  },
+  {
+    "code": "14.09.04.2028",
+    "name": "Gunungmelintang",
+    "districtCode": "14.09.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Kuantan Hilir"
+  },
+  {
+    "code": "14.09.05.1001",
+    "name": "Pasar Cerenti",
+    "districtCode": "14.09.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.1002",
+    "name": "Koto Peraku",
+    "districtCode": "14.09.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2004",
+    "name": "Sikakak",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2006",
+    "name": "Pulaujambu",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2008",
+    "name": "Pulaubayur",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2010",
+    "name": "Pesikaian",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2011",
+    "name": "Telukpauh",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.05.2012",
+    "name": "Tanjungmedan",
+    "districtCode": "14.09.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Cerenti"
+  },
+  {
+    "code": "14.09.06.1001",
+    "name": "Benai",
+    "districtCode": "14.09.06",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2004",
+    "name": "Talontom",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2005",
+    "name": "Gunungkesiangan",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2006",
+    "name": "Pulaukalimanting",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2008",
+    "name": "Tanjungsimandolak",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2009",
+    "name": "Siberakun",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2012",
+    "name": "Pulauingu",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2013",
+    "name": "Simandolak",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.06.2015",
+    "name": "Pulaulancang",
+    "districtCode": "14.09.06",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Benai"
+  },
+  {
+    "code": "14.09.07.2001",
+    "name": "Pulaumungkur",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2002",
+    "name": "Telukberingin",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2003",
+    "name": "Pulaurumput",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2007",
+    "name": "Gunung",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2008",
+    "name": "Toar",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2009",
+    "name": "Petapahan",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.07.2013",
+    "name": "Siberobah",
+    "districtCode": "14.09.07",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaumungkur"
+  },
+  {
+    "code": "14.09.08.2002",
+    "name": "Petai",
+    "districtCode": "14.09.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Petai"
+  },
+  {
+    "code": "14.09.08.2003",
+    "name": "Sungaipaku",
+    "districtCode": "14.09.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Petai"
+  },
+  {
+    "code": "14.09.08.2004",
+    "name": "Tanjungpauh",
+    "districtCode": "14.09.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Petai"
+  },
+  {
+    "code": "14.09.08.2006",
+    "name": "Sungaibuluh",
+    "districtCode": "14.09.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Petai"
+  },
+  {
+    "code": "14.09.08.2010",
+    "name": "Bukitraya",
+    "districtCode": "14.09.08",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Petai"
+  },
+  {
+    "code": "14.09.09.2003",
+    "name": "Pulaukumpai",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2004",
+    "name": "Pulautongah",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2005",
+    "name": "Pulauderas",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2006",
+    "name": "Telukpauh",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2010",
+    "name": "Pembatang",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2012",
+    "name": "Sukaping",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.09.2013",
+    "name": "Pulaurengas",
+    "districtCode": "14.09.09",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaukumpai"
+  },
+  {
+    "code": "14.09.10.2002",
+    "name": "Logas",
+    "districtCode": "14.09.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Logas"
+  },
+  {
+    "code": "14.09.10.2005",
+    "name": "Situgal",
+    "districtCode": "14.09.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Logas"
+  },
+  {
+    "code": "14.09.10.2006",
+    "name": "Rambahan",
+    "districtCode": "14.09.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Logas"
+  },
+  {
+    "code": "14.09.10.2008",
+    "name": "Sikijang",
+    "districtCode": "14.09.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Logas"
+  },
+  {
+    "code": "14.09.10.2009",
+    "name": "Sukaraja",
+    "districtCode": "14.09.10",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Logas"
+  },
+  {
+    "code": "14.09.11.2003",
+    "name": "Pulaupanjang Hulu",
+    "districtCode": "14.09.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaupanjang Hulu"
+  },
+  {
+    "code": "14.09.11.2004",
+    "name": "Pulaupanjang Hilir",
+    "districtCode": "14.09.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaupanjang Hulu"
+  },
+  {
+    "code": "14.09.11.2005",
+    "name": "Sigaruntang",
+    "districtCode": "14.09.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaupanjang Hulu"
+  },
+  {
+    "code": "14.09.11.2006",
+    "name": "Pulaubusuk",
+    "districtCode": "14.09.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaupanjang Hulu"
+  },
+  {
+    "code": "14.09.11.2009",
+    "name": "Pulausipan",
+    "districtCode": "14.09.11",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Pulaupanjang Hulu"
+  },
+  {
+    "code": "14.09.12.2002",
+    "name": "Sungaikelelawar",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2003",
+    "name": "Tanjung",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2004",
+    "name": "Sungaipinang",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2005",
+    "name": "Sungaialah",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2007",
+    "name": "Sumpu",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2009",
+    "name": "Inuman",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2010",
+    "name": "Tanjungmedang",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.09.12.2011",
+    "name": "Serosa",
+    "districtCode": "14.09.12",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.09",
+    "districtName": "Sungaikelelawar"
+  },
+  {
+    "code": "14.10.01.1001",
+    "name": "Selatpanjang Kota",
+    "districtCode": "14.10.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.1002",
+    "name": "Selatpanjang Barat",
+    "districtCode": "14.10.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.1003",
+    "name": "Selatpanjang Selatan",
+    "districtCode": "14.10.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.1004",
+    "name": "Selatpanjang Timur",
+    "districtCode": "14.10.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.2005",
+    "name": "Banglas",
+    "districtCode": "14.10.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.2008",
+    "name": "Sesap",
+    "districtCode": "14.10.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.01.2016",
+    "name": "Banglas Barat",
+    "districtCode": "14.10.01",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Selatpanjang Kota"
+  },
+  {
+    "code": "14.10.02.2001",
+    "name": "Segomeng",
+    "districtCode": "14.10.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Segomeng"
+  },
+  {
+    "code": "14.10.02.2002",
+    "name": "Bantar",
+    "districtCode": "14.10.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Segomeng"
+  },
+  {
+    "code": "14.10.02.2004",
+    "name": "Lemang",
+    "districtCode": "14.10.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Segomeng"
+  },
+  {
+    "code": "14.10.02.2005",
+    "name": "Bokor",
+    "districtCode": "14.10.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Segomeng"
+  },
+  {
+    "code": "14.10.02.2007",
+    "name": "Melai",
+    "districtCode": "14.10.02",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Segomeng"
+  },
+  {
+    "code": "14.10.03.2007",
+    "name": "Topang",
+    "districtCode": "14.10.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Topang"
+  },
+  {
+    "code": "14.10.03.2008",
+    "name": "Penyagun",
+    "districtCode": "14.10.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Topang"
+  },
+  {
+    "code": "14.10.03.2010",
+    "name": "Repan",
+    "districtCode": "14.10.03",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Topang"
+  },
+  {
+    "code": "14.10.04.2001",
+    "name": "Alai",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.04.2002",
+    "name": "Tenan",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.04.2003",
+    "name": "Insit",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.04.2004",
+    "name": "Tanjung",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.04.2006",
+    "name": "Kundur",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.04.2007",
+    "name": "Mekong",
+    "districtCode": "14.10.04",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Alai"
+  },
+  {
+    "code": "14.10.05.1001",
+    "name": "Teluk Belitung",
+    "districtCode": "14.10.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Teluk Belitung"
+  },
+  {
+    "code": "14.10.05.2003",
+    "name": "Lukit",
+    "districtCode": "14.10.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Teluk Belitung"
+  },
+  {
+    "code": "14.10.05.2018",
+    "name": "Pelantai",
+    "districtCode": "14.10.05",
+    "type": "DESA",
+    "provinceName": "Riau",
+    "regencyName": "Kepulauan Meranti",
+    "districtName": "Teluk Belitung"
+  },
+  {
+    "code": "14.71.01.1002",
+    "name": "Jadirejo",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.01.1003",
+    "name": "Kampung Tengah",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.01.1004",
+    "name": "Kampung Melayu",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.01.1005",
+    "name": "Kedung Sari",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.01.1006",
+    "name": "Harjosari",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.01.1007",
+    "name": "Sukajadi",
+    "districtCode": "14.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Jadirejo"
+  },
+  {
+    "code": "14.71.02.1001",
+    "name": "Simpang Empat",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.02.1002",
+    "name": "Sumahilang",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.02.1003",
+    "name": "Tanah Datar",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.02.1004",
+    "name": "Kota Baru",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.02.1005",
+    "name": "Sukaramai",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.02.1006",
+    "name": "Kota Tinggi",
+    "districtCode": "14.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Empat"
+  },
+  {
+    "code": "14.71.03.1001",
+    "name": "Cinta Raja",
+    "districtCode": "14.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Cinta Raja"
+  },
+  {
+    "code": "14.71.03.1002",
+    "name": "Sukamulya",
+    "districtCode": "14.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Cinta Raja"
+  },
+  {
+    "code": "14.71.03.1003",
+    "name": "Sukamaju",
+    "districtCode": "14.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Cinta Raja"
+  },
+  {
+    "code": "14.71.04.1001",
+    "name": "Rintis",
+    "districtCode": "14.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Rintis"
+  },
+  {
+    "code": "14.71.04.1002",
+    "name": "Tanjung Rhu",
+    "districtCode": "14.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Rintis"
+  },
+  {
+    "code": "14.71.04.1003",
+    "name": "Pesisir",
+    "districtCode": "14.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Rintis"
+  },
+  {
+    "code": "14.71.04.1004",
+    "name": "Sekip",
+    "districtCode": "14.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Rintis"
+  },
+  {
+    "code": "14.71.05.1001",
+    "name": "Padang Bulan",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.05.1002",
+    "name": "Sago",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.05.1003",
+    "name": "Kampung Baru",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.05.1004",
+    "name": "Kampung Dalam",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.05.1005",
+    "name": "Kampung Bandar",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.05.1006",
+    "name": "Padang Terubuk",
+    "districtCode": "14.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Padang Bulan"
+  },
+  {
+    "code": "14.71.06.1003",
+    "name": "Rumbai Bukit",
+    "districtCode": "14.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Rumbai Bukit"
+  },
+  {
+    "code": "14.71.07.1005",
+    "name": "Simpang Tiga",
+    "districtCode": "14.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Tiga"
+  },
+  {
+    "code": "14.71.07.1006",
+    "name": "Tangkerang Selatan",
+    "districtCode": "14.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Tiga"
+  },
+  {
+    "code": "14.71.07.1008",
+    "name": "Tangkerang Utara",
+    "districtCode": "14.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Tiga"
+  },
+  {
+    "code": "14.71.07.1011",
+    "name": "Tangkerang Labuai",
+    "districtCode": "14.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpang Tiga"
+  },
+  {
+    "code": "14.71.08.1001",
+    "name": "Simpangbaru",
+    "districtCode": "14.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpangbaru"
+  },
+  {
+    "code": "14.71.08.1008",
+    "name": "Delima",
+    "districtCode": "14.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Simpangbaru"
+  },
+  {
+    "code": "14.71.09.1001",
+    "name": "Tangkerang Barat",
+    "districtCode": "14.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Barat"
+  },
+  {
+    "code": "14.71.09.1002",
+    "name": "Tangkerang Tengah",
+    "districtCode": "14.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Barat"
+  },
+  {
+    "code": "14.71.09.1003",
+    "name": "Sidomulyo Timur",
+    "districtCode": "14.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Barat"
+  },
+  {
+    "code": "14.71.09.1004",
+    "name": "Wonorejo",
+    "districtCode": "14.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Barat"
+  },
+  {
+    "code": "14.71.09.1005",
+    "name": "Maharatu",
+    "districtCode": "14.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Barat"
+  },
+  {
+    "code": "14.71.10.1003",
+    "name": "Tangkerang Timur",
+    "districtCode": "14.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Timur"
+  },
+  {
+    "code": "14.71.10.1004",
+    "name": "Rejosari",
+    "districtCode": "14.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tangkerang Timur"
+  },
+  {
+    "code": "14.71.11.1001",
+    "name": "Tampan",
+    "districtCode": "14.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tampan"
+  },
+  {
+    "code": "14.71.11.1002",
+    "name": "Labuh Baru Timur",
+    "districtCode": "14.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tampan"
+  },
+  {
+    "code": "14.71.11.1003",
+    "name": "Labuh Baru Barat",
+    "districtCode": "14.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tampan"
+  },
+  {
+    "code": "14.71.11.1004",
+    "name": "Air Hitam",
+    "districtCode": "14.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Tampan"
+  },
+  {
+    "code": "14.71.12.1001",
+    "name": "Meranti Pandak",
+    "districtCode": "14.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Meranti Pandak"
+  },
+  {
+    "code": "14.71.12.1004",
+    "name": "Lembah Damai",
+    "districtCode": "14.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Meranti Pandak"
+  },
+  {
+    "code": "14.71.12.1006",
+    "name": "Limbungan Baru",
+    "districtCode": "14.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.71",
+    "districtName": "Meranti Pandak"
+  },
+  {
+    "code": "14.72.01.1003",
+    "name": "Pangkalan Sesai",
+    "districtCode": "14.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Pangkalan Sesai"
+  },
+  {
+    "code": "14.72.01.1008",
+    "name": "Bagan Keladi",
+    "districtCode": "14.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Pangkalan Sesai"
+  },
+  {
+    "code": "14.72.02.1002",
+    "name": "Teluk Binjai",
+    "districtCode": "14.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Binjai"
+  },
+  {
+    "code": "14.72.02.1003",
+    "name": "Tanjung Palas",
+    "districtCode": "14.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Binjai"
+  },
+  {
+    "code": "14.72.02.1004",
+    "name": "Jaya Mukti",
+    "districtCode": "14.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Binjai"
+  },
+  {
+    "code": "14.72.02.1006",
+    "name": "Buluh Kasap",
+    "districtCode": "14.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Binjai"
+  },
+  {
+    "code": "14.72.02.1009",
+    "name": "Bukit Batrem",
+    "districtCode": "14.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Binjai"
+  },
+  {
+    "code": "14.72.03.1003",
+    "name": "Gurun Panjang",
+    "districtCode": "14.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Gurun Panjang"
+  },
+  {
+    "code": "14.72.03.1004",
+    "name": "Bagan Besar",
+    "districtCode": "14.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Gurun Panjang"
+  },
+  {
+    "code": "14.72.04.1001",
+    "name": "Lubuk Gaung",
+    "districtCode": "14.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Lubuk Gaung"
+  },
+  {
+    "code": "14.72.04.1003",
+    "name": "Bangsal Aceh",
+    "districtCode": "14.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Lubuk Gaung"
+  },
+  {
+    "code": "14.72.04.1004",
+    "name": "Basilam Baru",
+    "districtCode": "14.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Lubuk Gaung"
+  },
+  {
+    "code": "14.72.04.1005",
+    "name": "Batu Teritip",
+    "districtCode": "14.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Lubuk Gaung"
+  },
+  {
+    "code": "14.72.05.1001",
+    "name": "Teluk Makmur",
+    "districtCode": "14.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Makmur"
+  },
+  {
+    "code": "14.72.05.1002",
+    "name": "Mundam",
+    "districtCode": "14.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Makmur"
+  },
+  {
+    "code": "14.72.05.1003",
+    "name": "Guntung",
+    "districtCode": "14.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Makmur"
+  },
+  {
+    "code": "14.72.05.1004",
+    "name": "Pelintung",
+    "districtCode": "14.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "Riau",
+    "regencyName": "Kabupaten 14.72",
+    "districtName": "Teluk Makmur"
+  }
+]
