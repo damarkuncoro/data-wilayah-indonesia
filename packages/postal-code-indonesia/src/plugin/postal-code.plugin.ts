@@ -1,5 +1,5 @@
-import type { DataPlugin, Village } from '@damarkuncoro/data-wilayah-indonesia';
-import { postalCodes } from '../data';
+import { DataPlugin, Village } from '@damarkuncoro/data-wilayah-indonesia';
+
 
 /**
  * PostalCodePlugin - Plugin untuk menambahkan kode pos pada data villages
@@ -19,33 +19,62 @@ import { postalCodes } from '../data';
  */
 export class PostalCodePlugin implements DataPlugin {
   name = 'postal-code';
-  private postalCodes: Record<string, string>;
+  // Cache now stores data per regency, keyed by regency code (e.g., "11.01")
+  private cache: Record<string, Record<string, string>> = {};
 
-  constructor() {
-    this.postalCodes = postalCodes as Record<string, string>;
+  /**
+   * Loads postal code data for a specific regency on-demand.
+   */
+  private async loadRegencyData(regencyFullCode: string): Promise<Record<string, string>> {
+    if (this.cache[regencyFullCode]) {
+      return this.cache[regencyFullCode];
+    }
+
+    const provinceCode = regencyFullCode.substring(0, 2);
+    const regencyCode = regencyFullCode.substring(3, 5);
+
+    try {
+      const module = await import(`../data/postal-codes/${provinceCode}/${regencyCode}.ts`);
+      this.cache[regencyFullCode] = module.default || {};
+      return this.cache[regencyFullCode];
+    } catch (e) {
+      // If data for a regency doesn't exist, cache an empty object to avoid re-fetching.
+      this.cache[regencyFullCode] = {};
+      return {};
+    }
   }
 
   /**
    * Menambahkan kode pos pada data villages
    */
   async enrichVillages(villages: Village[]): Promise<Village[]> {
-    return villages.map(v => ({
-      ...v,
-      postalCode: this.postalCodes[v.code] || ''
-    }));
-  }
+    if (!villages || villages.length === 0) {
+      return [];
+    }
 
-  /**
-   * Mendapatkan kode pos berdasarkan kode village
-   */
-  getPostalCode(villageCode: string): string {
-    return this.postalCodes[villageCode] || '';
-  }
+    // Group unique regency codes to load data efficiently
+    const regencyCodesToLoad = new Set<string>();
+    for (const village of villages) {
+      const regencyFullCode = village.code.substring(0, 5);
+      regencyCodesToLoad.add(regencyFullCode);
+    }
 
-  /**
-   * Mendapatkan semua data kode pos
-   */
-  getAllPostalCodes(): Record<string, string> {
-    return { ...this.postalCodes };
+    // Load data for all required regencies in parallel
+    const regencyDataPromises = Array.from(regencyCodesToLoad).map(regencyCode =>
+      this.loadRegencyData(regencyCode)
+    );
+    await Promise.all(regencyDataPromises);
+
+    // Enrich the villages with the loaded data
+    const enrichedVillages = villages.map(v => {
+      const regencyFullCode = v.code.substring(0, 5);
+      const postalCode = this.cache[regencyFullCode]?.[v.code] || '';
+      return {
+        ...v,
+        postalCode,
+      };
+    });
+
+    return enrichedVillages;
   }
 }
