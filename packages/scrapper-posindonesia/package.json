@@ -1,16 +1,53 @@
 {
-  "name": "scrapper-posindonesia",
+  "name": "@damarkuncoro/posindonesia",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Indonesian Postal Code Scraper from Pos Indonesia Official Website",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+  "bin": {
+    "scrape-pos": "dist/index.js"
+  },
   "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "scrape": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "indonesia",
+    "postal-code",
+    "kodepos",
+    "scraper",
+    "pos-indonesia",
+    "typescript"
+  ],
+  "author": "damarkuncoro",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
+    "axios": "^1.13.6",
+    "chalk": "^4.1.2",
     "cheerio": "^1.2.0",
-    "puppeteer": "^24.39.0"
+    "cli-progress": "^3.12.0",
+    "commander": "^14.0.3",
+    "puppeteer": "^24.39.0",
+    "qs": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/chalk": "^0.4.31",
+    "@types/cheerio": "^0.22.35",
+    "@types/cli-progress": "^3.11.6",
+    "@types/node": "^25.5.0",
+    "@types/qs": "^6.15.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
