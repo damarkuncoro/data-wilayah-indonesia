@@ -1,25 +1,12 @@
 import type { DataPlugin, Village } from '@damarkuncoro/data-wilayah-indonesia';
-
+import * as path from 'path';
+import * as fs from 'fs';
 
 /**
  * PostalCodePlugin - Plugin untuk menambahkan kode pos pada data villages
- * 
- * Berguna untuk menghubungkan data wilayah administratif Indonesia dengan
- * kode pos yang valid.
- * 
- * @example
- * ```typescript
- * import { DataWilayahService } from '@damarkuncoro/data-wilayah-indonesia';
- * import { PostalCodePlugin } from '@damarkuncoro/postal-code-plugin';
- * 
- * const service = new DataWilayahService(undefined, [new PostalCodePlugin()]);
- * const villages = await service.fetchVillagesByDistrict('11.06.03');
- * // villages akan memiliki properti postalCode
- * ```
  */
 export class PostalCodePlugin implements DataPlugin {
   name = 'postal-code';
-  // Cache now stores data per regency, keyed by regency code (e.g., "11.01")
   private cache: Record<string, Record<string, string>> = {};
 
   /**
@@ -34,11 +21,34 @@ export class PostalCodePlugin implements DataPlugin {
     const regencyCode = regencyFullCode.substring(3, 5);
 
     try {
-      const module = await import(`../../data/postal-codes/${provinceCode}/${regencyCode}.ts`);
-      this.cache[regencyFullCode] = module.default || {};
-      return this.cache[regencyFullCode];
+      // Find the correct path to data files
+      const possiblePaths = [
+        // Development path (from src/plugin)
+        path.join(__dirname, '..', 'data', 'postal-codes', provinceCode, `${regencyCode}.ts`),
+        // Production path (from lib/esm/plugin or lib/cjs/plugin)
+        path.join(__dirname, '..', '..', 'data', 'postal-codes', provinceCode, `${regencyCode}.js`),
+        // Fallback production path (lib/plugin)
+        path.join(__dirname, '..', 'data', 'postal-codes', provinceCode, `${regencyCode}.js`),
+      ];
+
+      let dataPath = '';
+      for (const p of possiblePaths) {
+        if (fs.existsSync(p)) {
+          dataPath = p;
+          break;
+        }
+      }
+
+      if (dataPath) {
+        const module = await import(dataPath);
+        this.cache[regencyFullCode] = module.default || module || {};
+        return this.cache[regencyFullCode];
+      }
+
+      this.cache[regencyFullCode] = {};
+      return {};
     } catch (e) {
-      // If data for a regency doesn't exist, cache an empty object to avoid re-fetching.
+      console.error(`Failed to load postal code data for ${regencyFullCode}:`, e);
       this.cache[regencyFullCode] = {};
       return {};
     }
@@ -52,20 +62,17 @@ export class PostalCodePlugin implements DataPlugin {
       return [];
     }
 
-    // Group unique regency codes to load data efficiently
     const regencyCodesToLoad = new Set<string>();
     for (const village of villages) {
       const regencyFullCode = village.code.substring(0, 5);
       regencyCodesToLoad.add(regencyFullCode);
     }
 
-    // Load data for all required regencies in parallel
     const regencyDataPromises = Array.from(regencyCodesToLoad).map(regencyCode =>
       this.loadRegencyData(regencyCode)
     );
     await Promise.all(regencyDataPromises);
 
-    // Enrich the villages with the loaded data
     const enrichedVillages = villages.map(v => {
       const regencyFullCode = v.code.substring(0, 5);
       const postalCode = this.cache[regencyFullCode]?.[v.code] || '';
