@@ -660,6 +660,13 @@ export const districts: District[] = [
     "regencyName": "Pidie"
   },
   {
+    "code": "11.07.07",
+    "name": "Indrajaya",
+    "regencyCode": "11.07",
+    "provinceName": "Aceh",
+    "regencyName": "Pidie"
+  },
+  {
     "code": "11.07.08",
     "name": "Kembang Tanjong",
     "regencyCode": "11.07",
@@ -738,7 +745,14 @@ export const districts: District[] = [
   },
   {
     "code": "11.07.21",
-    "name": "Tiro/truseb",
+    "name": "Tiro / Truseb",
+    "regencyCode": "11.07",
+    "provinceName": "Aceh",
+    "regencyName": "Pidie"
+  },
+  {
+    "code": "11.07.22",
+    "name": "Keumala",
     "regencyCode": "11.07",
     "provinceName": "Aceh",
     "regencyName": "Pidie"
@@ -767,6 +781,13 @@ export const districts: District[] = [
   {
     "code": "11.07.29",
     "name": "Glumpang Baro",
+    "regencyCode": "11.07",
+    "provinceName": "Aceh",
+    "regencyName": "Pidie"
+  },
+  {
+    "code": "11.07.31",
+    "name": "Titeue",
     "regencyCode": "11.07",
     "provinceName": "Aceh",
     "regencyName": "Pidie"

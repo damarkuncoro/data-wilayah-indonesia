@@ -5,7 +5,7 @@ import { fetchVillagesByDistrict } from '@damarkuncoro/data-wilayah-indonesia';
 // yang bersangkutan yang akan dimuat, bukan seluruh data desa di Indonesia.
 
 async function main() {
-  const districtCode = '32.73.01'; // Kecamatan Coblong, Kota Bandung
+  const districtCode = '11.07.03'; // Kecamatan Batee, Kabupaten Pidie
   console.log(`Mencari desa untuk Kecamatan dengan kode: ${districtCode}...`);
 
   const villages = await fetchVillagesByDistrict(districtCode);

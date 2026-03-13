@@ -13,7 +13,7 @@ async function main() {
 
   // 3. Panggil metode `fetch` seperti biasa.
   // Plugin akan secara otomatis dipanggil untuk memperkaya data.
-  const districtCode = '32.73.01'; // Kecamatan Coblong, Kota Bandung
+  const districtCode = '11.01.01'; // Kecamatan Batee, Kabupaten Pidie
   console.log(`Mencari desa dengan kode pos untuk Kecamatan ${districtCode}...`);
 
   const villages = await service.fetchVillagesByDistrict(districtCode);

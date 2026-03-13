@@ -101,6 +101,22 @@ class MyDatabaseProvider implements DataProvider {
 const service = new DataWilayahService(new MyDatabaseProvider());
 ```
 
+## Statistik Data
+
+Berdasarkan rekapitulasi data wilayah administrasi terbaru:
+
+| Wilayah      | Jumlah            |
+| ------------ | ----------------- |
+| Provinsi     | 38                |
+| Kabupaten    | 416               |
+| Kota         | 98                |
+| Kecamatan    | 7.277             |
+| Kelurahan    | 8.498             |
+| Desa         | 75.265            |
+| Luas Wilayah | 1.892.410,091 Km² |
+| Penduduk     | 275.361.267       |
+| Pulau        | 17.001            |
+
 ## Metadata & Transparansi
 
 - **Sumber Data**: Kepmendagri No. 050-145 Tahun 2022.
