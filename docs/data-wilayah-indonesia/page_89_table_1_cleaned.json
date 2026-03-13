@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"11.05.04.2026",
+    "nama_desa":"Keuleumbah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2027",
+    "nama_desa":"Jawa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2028",
+    "nama_desa":"Pulo Ie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2029",
+    "nama_desa":"Alue Panyang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2030",
+    "nama_desa":"Cot Keumude",
+    "keterangan":"Perbaikan nama dari Cot Keumudai menjadi Cot Keumude, surat Bupati  Aceh Barat No 140\/456\/I\/2020 tgl 12 Agustus 2020,Surat Sesditjen  Bina Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2031",
+    "nama_desa":"Seumantok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2032",
+    "nama_desa":"Cot Situah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2033",
+    "nama_desa":"Jawi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2034",
+    "nama_desa":"Panton",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2035",
+    "nama_desa":"Pasi Birah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2036",
+    "nama_desa":"Alue Sundak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2037",
+    "nama_desa":"Teumarom",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2038",
+    "nama_desa":"Cot Murong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2039",
+    "nama_desa":"Glee Siblah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2040",
+    "nama_desa":"Suak Trieng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2041",
+    "nama_desa":"Cot Lagan Bubon",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2042",
+    "nama_desa":"Bakat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2043",
+    "nama_desa":"Lueng Buloh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05",
+    "nama_desa":"32",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2001",
+    "nama_desa":"Alue Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2002",
+    "nama_desa":"Cot Darat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2003",
+    "nama_desa":"Cot Pluh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2004",
+    "nama_desa":"Cot Seumeureung",
+    "keterangan":"Perbaikan nama desa semula Cot Seumeurung menjadi Cot  Seumeureung, sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2005",
+    "nama_desa":"Cot Mesjid",
+    "keterangan":"Perbaikan nama desa semula Cot Masjid menjadi Cot Mesjid, sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2006",
+    "nama_desa":"Cot Lampise",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2007",
+    "nama_desa":"Cot Seulamat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2008",
+    "nama_desa":"Cot Amun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2009",
+    "nama_desa":"Deuah",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2010",
+    "nama_desa":"Gampong Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2011",
+    "nama_desa":"Gampong Ladang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2012",
+    "nama_desa":"Gampong Cot",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2013",
+    "nama_desa":"Keureuseng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.05.2014",
+    "nama_desa":"Krueng Tinggai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

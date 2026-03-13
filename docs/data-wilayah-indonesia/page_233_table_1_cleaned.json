@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"11.12.05.2020",
+    "nama_desa":"Rumoh Panyang",
+    "keterangan":"Pemekaran sebagian wil Desa Krueng Batee, Perda No. 5\/2015,  Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.05.2021",
+    "nama_desa":"Krueng Panto",
+    "keterangan":"Pemekaran sebagian wil Desa Blang Makmur, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06",
+    "nama_desa":"14",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2001",
+    "nama_desa":"Pante Rakyat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2002",
+    "nama_desa":"Ie Mirah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2003",
+    "nama_desa":"Gunung Samarinda",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2004",
+    "nama_desa":"Alue Jeurejak",
+    "keterangan":"Perbaikan nama sesuai Srt Ditjen Pemdes No. 145\/1820\/SET tgl 15 Nov  2018 hal penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2005",
+    "nama_desa":"Blang Dalam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2006",
+    "nama_desa":"Alue Peunawa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2007",
+    "nama_desa":"Pante Cermin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2008",
+    "nama_desa":"Blang Raja",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Rakyat, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2009",
+    "nama_desa":"Rukoen Dame",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Rakyat, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2010",
+    "nama_desa":"Simpang Gadeng",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Cermin, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2011",
+    "nama_desa":"Teladan Jaya",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Cermin, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2012",
+    "nama_desa":"Lhok Gayo",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Rakyat, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2013",
+    "nama_desa":"Alue Dawah",
+    "keterangan":"Pemekaran sebagian wil Desa Pante Rakyat, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06.2014",
+    "nama_desa":"Cot Seumantok",
+    "keterangan":"Pemekaran sebagian wil Desa Alue Jeuruejak, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07",
+    "nama_desa":"9",
+    "keterangan":"Qanun No. 4\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2001",
+    "nama_desa":"Lhang",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan,",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2002",
+    "nama_desa":"Rambong",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2003",
+    "nama_desa":"Pisang",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2004",
+    "nama_desa":"Ujung Tanah",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan. Perbaikan nama desa semula Ujong Tanoh menjadi Ujung Tanah  sesuai Qanun No. 5 Tahun 2015.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2005",
+    "nama_desa":"Alue Dama",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2007",
+    "nama_desa":"Tangan-Tangan Cut",
+    "keterangan":"Semula wil. Kec. Tangan-Tangan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2008",
+    "nama_desa":"Mon Mameh",
+    "keterangan":"Pemekaran sebagian wil Desa IE Lhob, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2009",
+    "nama_desa":"Cinta Makmur",
+    "keterangan":"Pemekaran sebagian wil Desa Tangan-Tangan Cut, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07.2010",
+    "nama_desa":"Kuta Murni",
+    "keterangan":"Pemekaran sebagian wil Desa Ujong Tanoh, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08",
+    "nama_desa":"12",
+    "keterangan":"Qanun No. 4\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2001",
+    "nama_desa":"Baru",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2002",
+    "nama_desa":"Alue Rambot",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"12.17.01",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simanindo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.02",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Onan Runggu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nainggolan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Palipi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.05",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Harian",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sianjar Mula Mula",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.07",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ronggur Nihuta",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.08",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangururan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.09",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitio-tio",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18",
+    "jumlah_desa":237,
+    "luas_wilayah":1949.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SERDANG BEDAGAI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.01",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pantai Cermin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.02",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Perbaungan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.03",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Mengkudu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.04",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Rampah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.05",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Beringin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.06",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Bandar Khalifah, sesuai UU 36\/2003 dan BA  No. 02\/BAD I\/I\/2018 tgl 29 Jan 2018",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Khalipah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.07",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolok Merawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.08",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipispis",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.09",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolok Masihul",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.10",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kotarih",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.11",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama  Kec. Bangun Purba, Perda No. 6\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Silinda",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.12",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Galang, Perda No. 6 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Serba Jadi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.13",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil.  Kab. Deli Serdang, Perda No. 6 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Tinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.14",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Pegajahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.15",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Bamban",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.16",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Syahbandar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.18.17",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Bintang Bayu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SERDANG BEDAGAI"
+  },
+  {
+    "kode":"12.19",
+    "jumlah_desa":141,
+    "luas_wilayah":888.0,
+    "keterangan":"UU No. 5 \/2007.  Luas Wilayah Definitif, PGP sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. BATU BARA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATU BARA"
+  },
+  {
+    "kode":"12.19.01",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Medang Deras",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATU BARA"
+  },
+  {
+    "kode":"12.19.02",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Suka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATU BARA"
+  }
+]

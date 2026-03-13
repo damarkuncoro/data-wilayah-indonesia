@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"11.05.11.2021",
+    "nama_desa":"Rambong Pinto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11.2022",
+    "nama_desa":"Tuwi Eumpeuk",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11.2023",
+    "nama_desa":"Blang Luah KB",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11.2024",
+    "nama_desa":"Seuneubok Dalam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11.2025",
+    "nama_desa":"Paya Meugendrang",
+    "keterangan":"Perbaikan nama dari Paya Meugenderang menjadi Paya  Meugendrang,Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni 2016,surat  Bupati Aceh Barat No 140\/456\/I\/2020 tgl 12 Agustus 2020,Surat  Sesditjen Bina Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11.2026",
+    "nama_desa":"Gunong Panyang",
+    "keterangan":"Perbaikan nama desa semula Gunong Payang menjadi Gunong  Panyang, sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12",
+    "nama_desa":"19",
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2001",
+    "nama_desa":"Meutulang",
+    "keterangan":"Semula wil. Kec. Kaway XVI. Perbaikan nama desa semula Mentulang menjadi Meutulang, sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2002",
+    "nama_desa":"Mugo Cut",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2003",
+    "nama_desa":"Mugo Rayeuk",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2004",
+    "nama_desa":"Baro Paya",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2005",
+    "nama_desa":"Sibintang",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2006",
+    "nama_desa":"Blang Teungoh",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2007",
+    "nama_desa":"Antong",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2008",
+    "nama_desa":"Ujong Raja",
+    "keterangan":"Semula wil. Kec. Kaway XVI, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2009",
+    "nama_desa":"Paya Baro Meuko",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2010",
+    "nama_desa":"Tuwi Buya",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2011",
+    "nama_desa":"Kuala Manyeu",
+    "keterangan":"Semula wil. Kec. Kaway XVI. Perbaikan nama desa semula Kuala Manyeue menjadi Kuala Manyeu,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2012",
+    "nama_desa":"Manggie",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2013",
+    "nama_desa":"Gampong Baro",
+    "keterangan":"Semula wil. Kec. Kaway XVI, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2014",
+    "nama_desa":"Tamping",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2015",
+    "nama_desa":"Cot Manggie",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2016",
+    "nama_desa":"Blang Balee",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2017",
+    "nama_desa":"Babah Krueng  Manggie",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12.2018",
+    "nama_desa":"Gunong Mata Ie",
+    "keterangan":"Semula wil. Kec. Kaway XVI",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"11.08.23.2002",
+    "nama_desa":"Lueng Baro",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2003",
+    "nama_desa":"Merbo Jurong",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2004",
+    "nama_desa":"Merbo Lama",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2005",
+    "nama_desa":"Tanjong Dama",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2006",
+    "nama_desa":"Geulanggang Baro",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2007",
+    "nama_desa":"Matang Tunong",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2008",
+    "nama_desa":"Keude Lapang",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2009",
+    "nama_desa":"Matang Baroh",
+    "keterangan":"Semula wil. Kec. Tanah Pasir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2010",
+    "nama_desa":"Kuala Kereuto",
+    "keterangan":"Semula wil. Kec. Tanah Pasir, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23.2011",
+    "nama_desa":"Kuala Cangkoy",
+    "keterangan":"Semula wil. Kec. Tanah Pasir, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24",
+    "nama_desa":"23",
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2001",
+    "nama_desa":"Rayeuk Pange",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2002",
+    "nama_desa":"Bungong",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2003",
+    "nama_desa":"Geulumpang",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2004",
+    "nama_desa":"Asan Krueng Kreh",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2005",
+    "nama_desa":"Beuracan Rata",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2006",
+    "nama_desa":"Reungkam",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2007",
+    "nama_desa":"Trieng Krueng Kreh",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2008",
+    "nama_desa":"Keutapang",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2009",
+    "nama_desa":"Bili Baro",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2010",
+    "nama_desa":"Paya Lueng Jalo",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2011",
+    "nama_desa":"Alue Rimee",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2012",
+    "nama_desa":"Serdang",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2013",
+    "nama_desa":"Ara Ton-Ton  Moncrang",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Validasi  Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi  Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2014",
+    "nama_desa":"Tanjong Seureukuy",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2015",
+    "nama_desa":"Ulee Blang",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2016",
+    "nama_desa":"Krueng Pirak",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

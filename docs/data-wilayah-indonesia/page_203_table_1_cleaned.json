@@ -1,0 +1,20 @@
+[
+  {
+    "kode":"11.11.01.2044",
+    "jumlah_desa":null,
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.01.2045",
+    "jumlah_desa":null,
+    "keterangan":"Perbaikan nama desa semula Tonjongan Idem menjadi Tanjongan Idem,  sesuai:  Qanun No. 35 Tahun 2004; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"11.16.08.2001",
+    "nama_desa":"Benua Raja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2002",
+    "nama_desa":"Landuh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2003",
+    "nama_desa":"Paya Bedi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2004",
+    "nama_desa":"Ingin Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2005",
+    "nama_desa":"Suka Rahmat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2006",
+    "nama_desa":"Suka Jadi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2007",
+    "nama_desa":"Durian",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2008",
+    "nama_desa":"Rantau Pauh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2009",
+    "nama_desa":"Alur Cucur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2010",
+    "nama_desa":"Pertamina",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2011",
+    "nama_desa":"Kebun Rantau",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2012",
+    "nama_desa":"Alur Manis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2013",
+    "nama_desa":"Jamur Jelatang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2014",
+    "nama_desa":"Suka Rakyat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2015",
+    "nama_desa":"Jamur Labu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2016",
+    "nama_desa":"Suka Mulia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.08.2017",
+    "nama_desa":"Mekar Jaya",
+    "keterangan":"Pemekaran sebagian wil. Desa Rantau Pauh, Desa Alur Cucur dan  Desa Durian, sesuai: Perda No. 6 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09",
+    "nama_desa":"10",
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2001",
+    "nama_desa":"Telaga Meuku Sa",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2002",
+    "nama_desa":"Telaga Meuku Dua",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2003",
+    "nama_desa":"Alur Nunang",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2004",
+    "nama_desa":"Tanjung Keramat",
+    "keterangan":"Semula wil. Kec. Bendahara, Perbaikan nama sesuai Surat Pem Aceh  No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2005",
+    "nama_desa":"Matang Seping",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2006",
+    "nama_desa":"Besar",
+    "keterangan":"Semula wil. Kec. Bendahara, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2007",
+    "nama_desa":"Paya Rahat",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2008",
+    "nama_desa":"Suka Jadi",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2009",
+    "nama_desa":"Suka Mulia Upah",
+    "keterangan":"Semula wil. Kec. Bendahara, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.09.2010",
+    "nama_desa":"Suka Damai",
+    "keterangan":"Semula wil. Kec. Bendahara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.10",
+    "nama_desa":"15",
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.10.2001",
+    "nama_desa":"Aras Sembilan",
+    "keterangan":"Semula wil. Kec. Tamiang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

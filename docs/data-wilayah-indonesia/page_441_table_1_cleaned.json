@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.08.02.2008",
+    "nama_desa":"Bandar Siantar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2009",
+    "nama_desa":"Pamatang Gajing",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2010",
+    "nama_desa":"Bangun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2011",
+    "nama_desa":"Malela",
+    "keterangan":"Perubahan nama desa semula Nagori Malela menjadi Malela sesuai  Perda No. 9 Tahun 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2012",
+    "nama_desa":"Bukit Maraja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2013",
+    "nama_desa":"Pamatang Sahkuda",
+    "keterangan":"Perbaikan nama desa semula Pamatang Syahkuda menjadi Pamatang  Sahkuda, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2014",
+    "nama_desa":"Marihat Bukit",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2015",
+    "nama_desa":"Sahkuda Bayu",
+    "keterangan":"Perbaikan nama desa semula Syahkuda Bayu menjadi Sahkuda Bayu,  sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.02.2016",
+    "nama_desa":"Lingga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2001",
+    "nama_desa":"Silou Bayu",
+    "keterangan":"Perbaikan nama desa semula Silau Bayu menjadi Silou Bayu, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2002",
+    "nama_desa":"Karang Anyer",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2003",
+    "nama_desa":"Karang Rejo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2004",
+    "nama_desa":"Karang Sari",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2005",
+    "nama_desa":"Tumorang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2006",
+    "nama_desa":"Rabuhit",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2007",
+    "nama_desa":"Huta Dipar",
+    "keterangan":"Perbaikan nama desa semula Hutadipar menjadi Huta Dipar, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2008",
+    "nama_desa":"Ganjing",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.03.2009",
+    "nama_desa":"Bandar Malela",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04",
+    "nama_desa":"16",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2001",
+    "nama_desa":"Janggir Leto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2002",
+    "nama_desa":"Simpang Pane Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2003",
+    "nama_desa":"Siborna",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2004",
+    "nama_desa":"Sipoldas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2005",
+    "nama_desa":"Bangun Rakyat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

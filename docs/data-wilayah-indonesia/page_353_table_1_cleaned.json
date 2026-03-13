@@ -1,0 +1,74 @@
+[
+  {
+    "kode":"12.03.07.2005",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2016",
+    "jumlah_desa":null,
+    "keterangan":"Perubahan nama Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2018",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2020",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Simatorat dan Desa Sitampa, Perda No. 5\/2008,  Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2021",
+    "jumlah_desa":null,
+    "keterangan":"Perubahan nama Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2027",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Padang Togu, Benteng Huraba, dan Desa Purba  Tua PP., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2029",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.2030",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"12.08.12.2009",
+    "nama_desa":"Jawa Tongah II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13",
+    "nama_desa":"15",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2001",
+    "nama_desa":"Negeri Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2002",
+    "nama_desa":"Dolok Parmonangan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2003",
+    "nama_desa":"Dolok Tomuan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2004",
+    "nama_desa":"Marihat Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2005",
+    "nama_desa":"Tiga Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2006",
+    "nama_desa":"Ujung Bondar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2007",
+    "nama_desa":"Marihat Raja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2008",
+    "nama_desa":"Bandar Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2009",
+    "nama_desa":"Gunung Mariah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2010",
+    "nama_desa":"Siatasan",
+    "keterangan":"Perda 2\/2012, Pemekaran dari wil. sebagian Banda Dolok",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2011",
+    "nama_desa":"Marihat Marsada",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Marihat Raja",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2012",
+    "nama_desa":"Pondok Buluh",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dolok Parmonangan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2013",
+    "nama_desa":"Marihat Pondok",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Marihat Dolok",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2014",
+    "nama_desa":"Lumban Gorat",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Ujung Bondar",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.13.2015",
+    "nama_desa":"Palia Naopat",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Tiga Dolok. Perbaikan nama desa semula Palianopat menjadi Palia Naopat sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14",
+    "nama_desa":"13",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2001",
+    "nama_desa":"Purba Tongah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2002",
+    "nama_desa":"Pematang Purba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2003",
+    "nama_desa":"Urung Purba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2004",
+    "nama_desa":"Purba Sipinggan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2005",
+    "nama_desa":"Hinalang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2006",
+    "nama_desa":"Purba Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2007",
+    "nama_desa":"Tano Tinggir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.1008",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2009",
+    "nama_desa":"Saribu Jandi",
+    "keterangan":"Perbaikan nama desa semula Seribu Jandi menjadi Saribu Jandi sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2010",
+    "nama_desa":"Huta Raja",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Pamatang Purba",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2011",
+    "nama_desa":"Bandar Sauhur",
+    "keterangan":"Pemekaran sebagian dari wil. Urung Purba Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2012",
+    "nama_desa":"Bunga Sampang",
+    "keterangan":"Pemekaran sebagian dari wil. Purba Sipinggan Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2013",
+    "nama_desa":"Nagori Tongah",
+    "keterangan":"Perda No. 6\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.14.2014",
+    "nama_desa":"Urung Pane",
+    "keterangan":"Perda No. 6\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

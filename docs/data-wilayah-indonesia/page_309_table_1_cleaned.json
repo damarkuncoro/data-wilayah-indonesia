@@ -1,0 +1,242 @@
+[
+  {
+    "kode":"12.06.04",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tigapanah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.05",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Merek",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.06",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Munte",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Juhar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tigabinanga",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.09",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Laubaleng",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.10",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mardingding",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.11",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.12",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Empat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.13",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kutabuluh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolat Rayat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Merdeka",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Naman Teran",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Tiganderket",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07",
+    "jumlah_desa":380,
+    "luas_wilayah":2581.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. DELI SERDANG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.01",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Meriah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.02",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Morawa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.03",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibolangit",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.04",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kutalimbaru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.05",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pancur Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.06",
+    "jumlah_desa":36,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Namorambe menjadi Namo Rambe sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Namo Rambe",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.07",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Sibiru-biru menjadi Biru-Biru sesuai Surat  Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Biru-Biru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.08",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"STM Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  },
+  {
+    "kode":"12.07.09",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangun Purba",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DELI SERDANG"
+  }
+]

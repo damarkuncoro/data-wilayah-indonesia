@@ -1,0 +1,155 @@
+[
+  {
+    "kode":"11.11.07.2022",
+    "nama_desa":"Paya Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2023",
+    "nama_desa":"Paloh Kaye Kunyet",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2024",
+    "nama_desa":"Cot Jabet",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2025",
+    "nama_desa":"Cot Tube",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2026",
+    "nama_desa":"Pante Sikumbong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2027",
+    "nama_desa":"Blang Guron",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2028",
+    "nama_desa":"Dama Kawan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2029",
+    "nama_desa":"Paya Seupat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2030",
+    "nama_desa":"Cot Rambat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2031",
+    "nama_desa":"Paya Kareung",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2032",
+    "nama_desa":"Mon Jeurujak",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2033",
+    "nama_desa":"Tanjong Raya",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2034",
+    "nama_desa":"Tanjong Mesjid",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2035",
+    "nama_desa":"Blang Kubu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2036",
+    "nama_desa":"Tanjong Bungong",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2037",
+    "nama_desa":"Pulo Gisa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.11.07.2038",
+    "nama_desa":"Ujong Bayu",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

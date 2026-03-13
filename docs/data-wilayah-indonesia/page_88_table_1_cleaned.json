@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"11.05.03.2015",
+    "nama_desa":"Gleng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.03.2016",
+    "nama_desa":"Tanoh Mirah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.03.2017",
+    "nama_desa":"Gaseu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.03.2018",
+    "nama_desa":"Lueng Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04",
+    "nama_desa":"43",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2001",
+    "nama_desa":"Kuala Bhee",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2002",
+    "nama_desa":"Pasi Lunak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2003",
+    "nama_desa":"Pasi Aceh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2004",
+    "nama_desa":"Aron Tunong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2005",
+    "nama_desa":"Aron Baroh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2006",
+    "nama_desa":"Pasi Pandan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2007",
+    "nama_desa":"Ranto Panyang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2008",
+    "nama_desa":"Geumpa Raya",
+    "keterangan":"Perbaikan nama desa semula Gempa Raya menjadi Geumpa Raya,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2009",
+    "nama_desa":"Padang Jawa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2010",
+    "nama_desa":"Ie Itam Tunong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2011",
+    "nama_desa":"Ie Itam Baroh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2012",
+    "nama_desa":"Tingkeum Panyang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2013",
+    "nama_desa":"Lueng Teungku Yah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2014",
+    "nama_desa":"Lueng Tanoh Tho",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2015",
+    "nama_desa":"Gunong Rambong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2016",
+    "nama_desa":"Drien Mangko",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2017",
+    "nama_desa":"Gunong Hampa",
+    "keterangan":"Perbaikan nama desa semula Gunung Hampa menjadi Gunong Hampa,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2018",
+    "nama_desa":"Lueng Jawa",
+    "keterangan":"Perbaikan nama desa semula Lung Jawa menjadi Lueng Jawa,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2019",
+    "nama_desa":"Blang Mee",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2020",
+    "nama_desa":"Alue Blang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2021",
+    "nama_desa":"Paya Dua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2022",
+    "nama_desa":"Paya Luah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2023",
+    "nama_desa":"Pasi Ara",
+    "keterangan":"Perubahan nama desa semula Pasi Ara Kuala Batee menjadi Pasi Ara,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.04.2024",
+    "nama_desa":"Alue Sikaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

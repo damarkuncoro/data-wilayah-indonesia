@@ -1,0 +1,173 @@
+[
+  {
+    "kode":"11.18.06.2039",
+    "nama_desa":"Aki Neungoh",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2040",
+    "nama_desa":"Ujong Leubat",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017. Perbaikan nama desa semula Ujong Lebat menjadi Ujong Leubat,  sesuai: Qanun No. 2 Tahun 2022; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2041",
+    "nama_desa":"Alue",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2042",
+    "nama_desa":"Tanoh Mirah",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2043",
+    "nama_desa":"Paru Cot",
+    "keterangan":"Pemekaran Desa, UU No. 7\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07",
+    "nama_desa":"10",
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2001",
+    "nama_desa":"Keude Panteraja",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2002",
+    "nama_desa":"Tu",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2003",
+    "nama_desa":"Hagu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2004",
+    "nama_desa":"Muka Blang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2005",
+    "nama_desa":"Lhok Puuk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2006",
+    "nama_desa":"Mesjid",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2007",
+    "nama_desa":"Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2008",
+    "nama_desa":"Tunong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2009",
+    "nama_desa":"Peurade",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.07.2010",
+    "nama_desa":"Reudeup",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.08",
+    "nama_desa":"27",
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.08.2001",
+    "nama_desa":"Sagoe",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.08.2002",
+    "nama_desa":"Mee Peuduek",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "kode":"12.03.14.2028",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2032",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Bunga Bondar X, Batu Horpak Julu, dan Desa  Batu Horpak Jae, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2033",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Gunung Manaon, Dolok Sinomba, dan Desa  Napompar, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2034",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Arse Jae Dolok, Hanopan, dan Desa Pagaran  Tulason, Perda No. 5\/2008, Berdasarkan Perda Kabupaten Tapanuli  Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2035",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Huta Padang dan Desa Aek Torop, Perda No.  5\/2008, Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun  2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2036",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Ujung Padang, Huta Tonga, dan Desa Bahap,  Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2037",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Roncitan dan Desa Siantar Tua, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.2038",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Tano Ponggol, Nangguloan, dan Desa Aek  Nabara, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.1039",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Jonggol Jae, Jonggol Julu, Arse Julu, Lumban  Lobu, Pagaran Pisang, dan Desa Gunung Tua Arse, serta peningkatan  status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.14.1040",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Pagaran Siala, Lancat Julu, Gunung Tinggi  Lancat, Lancat Tonga, dan Desa Lancat Jae, serta peningkatan status  Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

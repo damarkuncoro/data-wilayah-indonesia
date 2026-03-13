@@ -1,0 +1,110 @@
+[
+  {
+    "kode":"11.15.09.2005",
+    "nama_desa":"Kabu",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2006",
+    "nama_desa":"Pasie Keube Dom",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2007",
+    "nama_desa":"Neubok Yee PK",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2008",
+    "nama_desa":"Neubok Yee PP",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2009",
+    "nama_desa":"Mon Dua",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2010",
+    "nama_desa":"Ujong Krueng",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2011",
+    "nama_desa":"Panton Pange",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.10",
+    "nama_desa":"4",
+    "keterangan":"Pemekaran sebagian wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.10.2001",
+    "nama_desa":"Blang Puuk",
+    "keterangan":"Semula wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.10.2002",
+    "nama_desa":"Babah Suak",
+    "keterangan":"Semula wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.10.2003",
+    "nama_desa":"Kuta Teungoh",
+    "keterangan":"Semula wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.10.2004",
+    "nama_desa":"Blang Meurandeh",
+    "keterangan":"Semula wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

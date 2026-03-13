@@ -1,0 +1,182 @@
+[
+  {
+    "kode":"11.18.05.2005",
+    "nama_desa":"Meunasah Kulam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2006",
+    "nama_desa":"Meunasah Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2007",
+    "nama_desa":"Meunasah Bie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2008",
+    "nama_desa":"Meunasah Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2009",
+    "nama_desa":"Geunteng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2010",
+    "nama_desa":"Gampong Blang",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2011",
+    "nama_desa":"Blang Cut",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2012",
+    "nama_desa":"Dayah Kruet",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2013",
+    "nama_desa":"Meunasah Mancang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2014",
+    "nama_desa":"Dayah Usen",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2015",
+    "nama_desa":"Lueng Bimba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2016",
+    "nama_desa":"Beuringen",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2017",
+    "nama_desa":"Buangan",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2018",
+    "nama_desa":"Meunasah Jurong",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.05.2019",
+    "nama_desa":"Pante Beureune",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06",
+    "nama_desa":"43",
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2001",
+    "nama_desa":"Cut Nyong",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2002",
+    "nama_desa":"Meunasah Gampong",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2003",
+    "nama_desa":"Baro",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18.06.2004",
+    "nama_desa":"Pulo Rheng",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

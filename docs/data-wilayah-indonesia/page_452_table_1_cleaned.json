@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"12.08.27.2001",
+    "nama_desa":"Simanabun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2002",
+    "nama_desa":"Pardomuan Tongah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2003",
+    "nama_desa":"Nagori Dolok",
+    "keterangan":"Perbaikan nama desa semula Negeri Dolok menjadi Nagori Dolok  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2004",
+    "nama_desa":"Bandar Maruhur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2005",
+    "nama_desa":"Silou Dunia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2006",
+    "nama_desa":"Dolok Marawa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2007",
+    "nama_desa":"Mariah Buttu",
+    "keterangan":"Perbaikan nama desa semula Maria Buttu menjadi Mariah Buttu sesuai  Surat Pernyataan Bup. Simalungun No. 146\/17510\/1.1.1\/2022 tgl 21  September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2008",
+    "nama_desa":"Dolok Saribu Bangun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2009",
+    "nama_desa":"Bandar Nagori",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2010",
+    "nama_desa":"Silou Paribuan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2011",
+    "nama_desa":"Buttu Bayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2012",
+    "nama_desa":"Nagori Tani",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2013",
+    "nama_desa":"Bah Sarimah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2014",
+    "nama_desa":"Damaritang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2015",
+    "nama_desa":"Sinasih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.27.2016",
+    "nama_desa":"Pardomuan Bandar",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Pardomuan Tongah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28",
+    "nama_desa":"10",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2001",
+    "nama_desa":"Batu Silangit",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2002",
+    "nama_desa":"Dolok Maraja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2003",
+    "nama_desa":"Dolok Ulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2004",
+    "nama_desa":"Nagur Usang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2005",
+    "nama_desa":"Dolok Kahean",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2006",
+    "nama_desa":"Naga Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2007",
+    "nama_desa":"Purbasari",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2008",
+    "nama_desa":"Pematang Dolok  Kahean",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.1009",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2010",
+    "nama_desa":"Negeri Bayu Muslimin",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Naga Dolok. Perbaikan nama desa semula Negri Bayu Muslimin menjadi Negeri  Bayu Muslimin sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl  19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.28.2011",
+    "nama_desa":"Dolok Simbolon",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dolok Maraja",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.1001",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status menjadi Kelurahan Perda 3\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.1002",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status menjadi Kelurahan Perda 3\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2004",
+    "nama_desa":"Raya Bayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

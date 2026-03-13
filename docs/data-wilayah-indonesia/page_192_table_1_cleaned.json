@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"11.09.07.2003",
+    "nama_desa":"Alus Alus",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2004",
+    "nama_desa":"Batu Ralang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2005",
+    "nama_desa":"Ulul Mayang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2006",
+    "nama_desa":"Kebun Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2007",
+    "nama_desa":"Badegong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2008",
+    "nama_desa":"Latiung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2009",
+    "nama_desa":"Pasir Tinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2010",
+    "nama_desa":"Labuhan Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2011",
+    "nama_desa":"Labuhan Bajau",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2012",
+    "nama_desa":"Blang Sebel",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2013",
+    "nama_desa":"Ana Ao",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2014",
+    "nama_desa":"Lataling",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2015",
+    "nama_desa":"Pulau Bangkalak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2016",
+    "nama_desa":"Labuhan Bakti",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2017",
+    "nama_desa":"Trans Jernge",
+    "keterangan":"Surat Pemerintah Aceh No. 141\/37154 tanggal 23 November 2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2018",
+    "nama_desa":"Trans Meranti",
+    "keterangan":"Surat Pemerintah Aceh No. 141\/37154 tanggal 23 November 2012,  Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.07.2019",
+    "nama_desa":"Trans Baru",
+    "keterangan":"Surat Pemerintah Aceh No. 141\/37154 tanggal 23 November 2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08",
+    "nama_desa":"8",
+    "keterangan":"Perbaikan nama desa semula Alapan menjadi Alafan, sesuai:  Qanun No. 24 Tahun 2002; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2001",
+    "nama_desa":"Lewak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2002",
+    "nama_desa":"Lamerem",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2003",
+    "nama_desa":"Lhok Pauh",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2004",
+    "nama_desa":"Serafon",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2005",
+    "nama_desa":"Langi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2006",
+    "nama_desa":"Lubuk Baik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2007",
+    "nama_desa":"Lhok Dalam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.08.2008",
+    "nama_desa":"Lafakha",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.09",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.09.2001",
+    "nama_desa":"Matanurung",
+    "keterangan":"Semula wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.09.2002",
+    "nama_desa":"Lasikin",
+    "keterangan":"Semula wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.09.2003",
+    "nama_desa":"Lanting",
+    "keterangan":"Semula wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09.09.2004",
+    "nama_desa":"Busung Indah",
+    "keterangan":"Semula wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

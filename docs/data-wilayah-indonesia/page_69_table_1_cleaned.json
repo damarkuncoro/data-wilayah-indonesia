@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"11.03.13.2004",
+    "nama_desa":"Bandar Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2005",
+    "nama_desa":"Alue Patong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2006",
+    "nama_desa":"Alue Ie Mirah",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2007",
+    "nama_desa":"Suka Makmur",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2008",
+    "nama_desa":"Jambo Balee",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2009",
+    "nama_desa":"Jambo Lubok",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2010",
+    "nama_desa":"Seuneubok Cina",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2011",
+    "nama_desa":"Pelita Sagop Jaya",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2012",
+    "nama_desa":"Perkebunan Julok  Rayeuk Selatan",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.13.2013",
+    "nama_desa":"Perkebunan Julok  Rayeuk Utara",
+    "keterangan":"Qanun No. 6\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14",
+    "nama_desa":"25",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2001",
+    "nama_desa":"Seuneubok Buloh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2002",
+    "nama_desa":"Seuneubok Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2003",
+    "nama_desa":"Seuneubok  Meureudu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2004",
+    "nama_desa":"Seuneubok Teupin  Panah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2005",
+    "nama_desa":"Teupin Panah",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2006",
+    "nama_desa":"Gampong  Keumuneng",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No.146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa  tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2007",
+    "nama_desa":"Keude Keumuneng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2008",
+    "nama_desa":"Keumuneng Lhok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2009",
+    "nama_desa":"Paya Awee",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2010",
+    "nama_desa":"Paya Gaboh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2011",
+    "nama_desa":"Padang Kasah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2012",
+    "nama_desa":"Buket Teukuh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2013",
+    "nama_desa":"Buket Pu'uk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2014",
+    "nama_desa":"Blang Minjei",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2015",
+    "nama_desa":"Alue Kumbang A",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2016",
+    "nama_desa":"Alue Kumbang M",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2017",
+    "nama_desa":"Alue Lhok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2018",
+    "nama_desa":"Seuneubok Buya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2019",
+    "nama_desa":"Seuneubok Drien",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2020",
+    "nama_desa":"Bantayan Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2021",
+    "nama_desa":"Blang Guci",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.14.2022",
+    "nama_desa":"Buket Rumiya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

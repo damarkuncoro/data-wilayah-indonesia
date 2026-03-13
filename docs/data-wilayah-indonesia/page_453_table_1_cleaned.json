@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"12.08.29.2007",
+    "nama_desa":"Bahapal Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2010",
+    "nama_desa":"Siporkas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.1011",
+    "nama_desa":"",
+    "keterangan":"Perbaikan nama desa semula Pematang Raya menjadi Pamatang Raya  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2012",
+    "nama_desa":"Sihubu Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Merek Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2013",
+    "nama_desa":"Raya Bosi",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Merek Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2014",
+    "nama_desa":"Silou Huluan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dalig Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2015",
+    "nama_desa":"Silou Buttu",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dalig Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2016",
+    "nama_desa":"Bongguron Kariahan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dalig Raya. Perbaikan nama desa semula Bongguran Kariahan menjadi Bongguron  Kariahan sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2017",
+    "nama_desa":"Simbou Baru",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Bahapal Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.1018",
+    "nama_desa":"",
+    "keterangan":"Perda 4\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2020",
+    "nama_desa":"Dame Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Bahapal Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2021",
+    "nama_desa":"Limag Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Merek Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.29.2022",
+    "nama_desa":"Lokkung Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dalig Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30",
+    "nama_desa":"19",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2002",
+    "nama_desa":"Huta Parik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2003",
+    "nama_desa":"Dusun Ulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2004",
+    "nama_desa":"Tinjowan",
+    "keterangan":"Perbaikan nama desa semula Tinjoan menjadi Tinjowan sesuai Surat  Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2005",
+    "nama_desa":"Sayur Matinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2006",
+    "nama_desa":"Taratak Nagodang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2007",
+    "nama_desa":"Sordang Bolon",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2008",
+    "nama_desa":"Teluk Lapian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2009",
+    "nama_desa":"Tanjung Rapuan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2010",
+    "nama_desa":"Pagar Bosi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2011",
+    "nama_desa":"Bangun Sordang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2012",
+    "nama_desa":"Aek Gerger Sidodadi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2013",
+    "nama_desa":"Pulo Pitu Marihat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2014",
+    "nama_desa":"Siringan Ringan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2015",
+    "nama_desa":"Riah Na Poso",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Taratak Nagodang Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2016",
+    "nama_desa":"Sei Merbau",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Huta Parik Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

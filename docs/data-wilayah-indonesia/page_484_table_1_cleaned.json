@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"12.12.04.2014",
+    "nama_desa":"Hitetano",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2017",
+    "nama_desa":"Lobu Hole",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2018",
+    "nama_desa":"Batu Nabolon",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2019",
+    "nama_desa":"Lumban Gaol",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2020",
+    "nama_desa":"Tornagodang",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2021",
+    "nama_desa":"Taon Marisi",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2022",
+    "nama_desa":"Pagar Batu",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2023",
+    "nama_desa":"Sibuntuon",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2024",
+    "nama_desa":"Pararungan",
+    "keterangan":"Pemekaran sebagian Desa Panamparan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2025",
+    "nama_desa":"Lumban Lintong",
+    "keterangan":"Pemekaran sebagian Desa Panamparan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2026",
+    "nama_desa":"Pangunjungan",
+    "keterangan":"Pemekaran sebagian Desa Lumban Rau Selatan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2027",
+    "nama_desa":"Lumban Pinasa  Saroha",
+    "keterangan":"Perbaikan nama desa semula Lumban Pinasa Saroba menjadi Lumban  Pinasa Saroha sesuai Perda No. 4 Tahun 2009 dan Surat Ditjen Bina  Pemdes No. 146\/2349\/BPD tgl 13 Mei 2022 Hal Usul  Perubahan\/Perbaikan Nama Desa di Wil. Kab. Toba",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2028",
+    "nama_desa":"Aek Ulok",
+    "keterangan":"Pemekaran sebagian Desa Lumban Rau Barat, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2001",
+    "nama_desa":"Meranti Utara",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2002",
+    "nama_desa":"Meranti Timur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2003",
+    "nama_desa":"Meranti Tengah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2007",
+    "nama_desa":"Pintu Pohan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2008",
+    "nama_desa":"Ambar Halim",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2009",
+    "nama_desa":"Pintu Pohan Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.05.2010",
+    "nama_desa":"Halado",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06",
+    "nama_desa":"15",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2001",
+    "nama_desa":"Natumingka",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2002",
+    "nama_desa":"Pangururan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2003",
+    "nama_desa":"Pardomuan Nauli",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2004",
+    "nama_desa":"Lintong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2005",
+    "nama_desa":"Rianiate",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2006",
+    "nama_desa":"Aek Unsim",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2007",
+    "nama_desa":"Purba Tua",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2008",
+    "nama_desa":"Janji Maria",
+    "keterangan":"Pemekaran sebagian Desa Pangururan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.06.2009",
+    "nama_desa":"Pangururan II",
+    "keterangan":"Pemekaran sebagian Desa Pangururan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

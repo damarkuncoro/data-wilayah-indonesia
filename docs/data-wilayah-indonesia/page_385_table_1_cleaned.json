@@ -1,0 +1,20 @@
+[
+  {
+    "kode":"12.04.05",
+    "jumlah_desa":16.0,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.05.2001",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"12.04.27",
+    "jumlah_desa":14.0,
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Gido",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Gido. Perbaikan nama desa semula Hiliwetogela menjadi Hiliweto Gela  sesuai Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16  Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Gido. Perbaikan nama desa semula Lawalawa Luo menjadi Lawa-lawa Luo,  sesuai:  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2005",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2006",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2007",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2008",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2009",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2010",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo. Perbaikan nama desa semula Sisobahili Ulu Gawo menjadi Sisobahili  Ulugawo, sesuai:  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2011",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Idano Gawo. Perbaikan nama desa semula Sifaro'asi Ulu Gawo menjadi Sifaoroasi  Ulugawo, sesuai;  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2012",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Fatodano, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2013",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Fatodano, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.27.2014",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Hilimbowo, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

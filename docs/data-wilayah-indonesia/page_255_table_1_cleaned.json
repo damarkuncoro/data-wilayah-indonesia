@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"11.15.07.2012",
+    "nama_desa":"Arongan",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2013",
+    "nama_desa":"Jati Rejo",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2014",
+    "nama_desa":"Purwodadi",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2015",
+    "nama_desa":"Lueng Teuku Ben",
+    "keterangan":"Semula wil. Kec. Kuala, Perbaikan nama sesuai Srt Ditjen Pemdes No.  145\/1820\/SET tgl 15 Nov 2018 hal penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2016",
+    "nama_desa":"Purwosari",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08",
+    "nama_desa":"22",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2001",
+    "nama_desa":"Alue Bata",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2002",
+    "nama_desa":"Gunong Sapek",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2003",
+    "nama_desa":"Sarah Mantok",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2004",
+    "nama_desa":"Pasie Luah",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2005",
+    "nama_desa":"Gunong Geulugo",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2006",
+    "nama_desa":"Gunong Kupok",
+    "keterangan":"Semula wil. Kec. Kuala, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2007",
+    "nama_desa":"Gunong Pungki",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2008",
+    "nama_desa":"Alue Siron",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2009",
+    "nama_desa":"Cot Mue",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2010",
+    "nama_desa":"Babah Rot",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2011",
+    "nama_desa":"Babah Dua",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2012",
+    "nama_desa":"Batu Raja",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2013",
+    "nama_desa":"Simpang Jaya",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2014",
+    "nama_desa":"Sumber Daya",
+    "keterangan":"Semula wil. Kec. Kuala, Perbaikan nama sesuai Surat Pem Aceh  No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2015",
+    "nama_desa":"Rantau Selamat",
+    "keterangan":"Semula wil. Kec. Kuala, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2016",
+    "nama_desa":"Alue Seupeung",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2017",
+    "nama_desa":"Krueng Itam",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2018",
+    "nama_desa":"Alue Gajah",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2019",
+    "nama_desa":"Alue Labu",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2020",
+    "nama_desa":"Gapa Garu",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2021",
+    "nama_desa":"Kuala Tadu",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.08.2022",
+    "nama_desa":"Cot Mee",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran Kec Darul Makmur, Qonun No. 3\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2001",
+    "nama_desa":"Kuala Tripa",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2002",
+    "nama_desa":"Babah Lueng",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.09.2003",
+    "nama_desa":"Drien Tujoh",
+    "keterangan":"Semula wil Kec. Darul Makmur Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"64",
+    "jumlah_desa":841,
+    "luas_wilayah":126981.279,
+    "level":"provinsi",
+    "nama_wilayah":"KALIMANTAN TIMUR",
+    "parent_provinsi":"KALIMANTAN TIMUR",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"65",
+    "jumlah_desa":447,
+    "luas_wilayah":70101.184,
+    "level":"provinsi",
+    "nama_wilayah":"KALIMANTAN UTARA",
+    "parent_provinsi":"KALIMANTAN UTARA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"71",
+    "jumlah_desa":1507,
+    "luas_wilayah":14500.275,
+    "level":"provinsi",
+    "nama_wilayah":"SULAWESI UTARA",
+    "parent_provinsi":"SULAWESI UTARA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"72",
+    "jumlah_desa":1842,
+    "luas_wilayah":61605.718,
+    "level":"provinsi",
+    "nama_wilayah":"SULAWESI TENGAH",
+    "parent_provinsi":"SULAWESI TENGAH",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"73",
+    "jumlah_desa":2266,
+    "luas_wilayah":45330.55,
+    "level":"provinsi",
+    "nama_wilayah":"SULAWESI SELATAN",
+    "parent_provinsi":"SULAWESI SELATAN",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"74",
+    "jumlah_desa":1908,
+    "luas_wilayah":36159.713,
+    "level":"provinsi",
+    "nama_wilayah":"SULAWESI TENGGARA",
+    "parent_provinsi":"SULAWESI TENGGARA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"75",
+    "jumlah_desa":657,
+    "luas_wilayah":12025.147,
+    "level":"provinsi",
+    "nama_wilayah":"GORONTALO",
+    "parent_provinsi":"GORONTALO",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"76",
+    "jumlah_desa":575,
+    "luas_wilayah":16594.749,
+    "level":"provinsi",
+    "nama_wilayah":"SULAWESI BARAT",
+    "parent_provinsi":"SULAWESI BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"81",
+    "jumlah_desa":1200,
+    "luas_wilayah":46158.267,
+    "level":"provinsi",
+    "nama_wilayah":"MALUKU",
+    "parent_provinsi":"MALUKU",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"82",
+    "jumlah_desa":1067,
+    "luas_wilayah":32998.696,
+    "level":"provinsi",
+    "nama_wilayah":"MALUKU",
+    "parent_provinsi":"MALUKU",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"91",
+    "jumlah_desa":948,
+    "luas_wilayah":82680.958,
+    "level":"provinsi",
+    "nama_wilayah":"UTARAPAPUA",
+    "parent_provinsi":"UTARAPAPUA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"92",
+    "jumlah_desa":1742,
+    "luas_wilayah":99398.258,
+    "level":"provinsi",
+    "nama_wilayah":"PAPUA",
+    "parent_provinsi":"PAPUA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"93",
+    "jumlah_desa":677,
+    "luas_wilayah":117849.159,
+    "level":"provinsi",
+    "nama_wilayah":"BARAT",
+    "parent_provinsi":"BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"94",
+    "jumlah_desa":1172,
+    "luas_wilayah":61072.913,
+    "level":"provinsi",
+    "nama_wilayah":"PAPUA",
+    "parent_provinsi":"PAPUA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"95",
+    "jumlah_desa":2617,
+    "luas_wilayah":51213.33,
+    "level":"provinsi",
+    "nama_wilayah":"SELATAN",
+    "parent_provinsi":"SELATAN",
+    "parent_kabupaten":""
+  }
+]

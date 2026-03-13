@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.07.05.2020",
+    "nama_desa":"Sembahe Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.05.2021",
+    "nama_desa":"Tanjung Anom",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.05.2022",
+    "nama_desa":"Sei Glugur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.05.2023",
+    "nama_desa":"Suka Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.05.2024",
+    "nama_desa":"Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.05.2025",
+    "nama_desa":"Perumnas  Simalingkar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06",
+    "nama_desa":"36",
+    "keterangan":"Perbaikan nama kec. semula Namorambe menjadi Namo Rambe sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2001",
+    "nama_desa":"Deli Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2002",
+    "nama_desa":"Jati Kesuma",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2003",
+    "nama_desa":"Namo Rambe",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2004",
+    "nama_desa":"Gunung Kelawas",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2005",
+    "nama_desa":"Ujung Labuhan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2006",
+    "nama_desa":"Lubang Ido",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2007",
+    "nama_desa":"Silue-lue",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017. Perbaikan nama desa semula Siluelue menjadi Silue-lue, sesuai: Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022; dan Surat Dirjen Bina Pemdes No. 145\/2979\/BPD tgl 13 Juni 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2008",
+    "nama_desa":"Timbang Lawan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2009",
+    "nama_desa":"Batu Mbelin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2010",
+    "nama_desa":"Namo Batang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2011",
+    "nama_desa":"Tanjung Selamat",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2012",
+    "nama_desa":"Bekukul",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2013",
+    "nama_desa":"Namo Pakam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2014",
+    "nama_desa":"Suka Mulia Hilir",
+    "keterangan":"Perbaikan nama desa semula Sukamulia Hilir menjadi Suka Mulia Hilir  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2015",
+    "nama_desa":"Suka Mulia Hulu",
+    "keterangan":"Perbaikan nama desa semula Sukamulia Hulu menjadi Suka Mulia Hulu  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2016",
+    "nama_desa":"Rumah Mbacang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2017",
+    "nama_desa":"Cinta Rakyat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2018",
+    "nama_desa":"Batu Penjemuran",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "kode":"12.03.04.2034",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2048",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2051",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Pangaribuan, Sialang, dan Desa Gadu, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

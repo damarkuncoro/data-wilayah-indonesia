@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"12.09.11",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Kepayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.12",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Empat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Air Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau Rakyat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.15",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Pulau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.16",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Buntu Pane",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.17",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Pasir Mandoge",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.18",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Kuasan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.19",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Kisaran Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.20",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Kisaran Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.21",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Songsongan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008. Perbaikan nama kec. semula Rahunig menjadi Rahuning, sesuai:  Perda No. 2 Tahun 2008; Surat Sekda Prov. Sumut No. 138\/5043 tgl 17 Mei 2022; dan Surat Bup. Asahan No. 100\/1476.1 tgl 31 Maret 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Rahuning",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Dadap",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Kepayang Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Kepayang Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Tinggi Raja",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Setia Janji",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Silau Laut",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Rawang Panca Arga",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulo Bandring",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Dalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Ledong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.10",
+    "jumlah_desa":75.0,
+    "luas_wilayah":2772.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. LABUHANBATU",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.07",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bilah Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.08",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bilah Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.09",
+    "jumlah_desa":24.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bilah Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.14",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  },
+  {
+    "kode":"12.10.18",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panai Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU"
+  }
+]

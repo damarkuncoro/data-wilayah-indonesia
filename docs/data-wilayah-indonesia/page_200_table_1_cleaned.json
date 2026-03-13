@@ -1,0 +1,101 @@
+[
+  {
+    "kode":"11.10.13.2007",
+    "jumlah_desa":null,
+    "keterangan":"PMD",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.14",
+    "jumlah_desa":4.0,
+    "keterangan":"Qanun No.3\/2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.14.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Singkil, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.14.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Singkil, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.14.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Singkil",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.14.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Singkil",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.16",
+    "jumlah_desa":4.0,
+    "keterangan":"Pemekaran Kec. Pulau Banyak Perda No. 2\/2010",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.16.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Pulau Banyak Perda No. 2\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.16.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Pulau Banyak Perda No. 2\/2010, Perbaikan nama  sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.16.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Pulau Banyak Perda No. 2\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.10.16.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Pulau Banyak Perda No. 2\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

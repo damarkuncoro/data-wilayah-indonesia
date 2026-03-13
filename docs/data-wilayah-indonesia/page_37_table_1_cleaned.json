@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"11.01.09.2014",
+    "nama_desa":"Gampong Teungoh",
+    "keterangan":"Surat Gubernur Aceh No.140\/31091 tgl 19 Okt 2017 hal Rekomendasi  Usulan Pemutakhiran Kode Dan data Wilayah Adm Pemkab Aceh  Selatan dan Perda No.4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2015",
+    "nama_desa":"Seuneubok Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2016",
+    "nama_desa":"Padang Harapan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10",
+    "nama_desa":"21",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2001",
+    "nama_desa":"Ladang Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2002",
+    "nama_desa":"Pucok Krueng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2003",
+    "nama_desa":"Silolo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2004",
+    "nama_desa":"Kampung Baru",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2005",
+    "nama_desa":"Panton Bili",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2006",
+    "nama_desa":"Paya Ateuk",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2007",
+    "nama_desa":"Ladang Tuha",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2008",
+    "nama_desa":"Mata Ie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2009",
+    "nama_desa":"Ujong Batee",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2010",
+    "nama_desa":"Lhok Sialang Cut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2011",
+    "nama_desa":"Seuneubok",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2012",
+    "nama_desa":"Ie Mirah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2013",
+    "nama_desa":"Pasie Rasian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2014",
+    "nama_desa":"Ujung Padang Rasian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2015",
+    "nama_desa":"Krueng Kalee",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2016",
+    "nama_desa":"Lhok Sialang Rayeuk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2017",
+    "nama_desa":"Gampong Baro",
+    "keterangan":"Perbaikan nama Desa Pd. Macan Brs sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Surat Pemkab  Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan Rekomedasi Ditjen  Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2018",
+    "nama_desa":"Teupin Gajah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2019",
+    "nama_desa":"Ujung Padang  Asahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2020",
+    "nama_desa":"Pulo Ie II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.10.2021",
+    "nama_desa":"Pante Raja",
+    "keterangan":"Pemekaran Desa, Qonun No. 6\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.11",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.11.2001",
+    "nama_desa":"Tengah Peulumat",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.11.2002",
+    "nama_desa":"Paya Peulumat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.11.2003",
+    "nama_desa":"Padang Peulumat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

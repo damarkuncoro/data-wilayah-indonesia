@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.07.24.2004",
+    "nama_desa":"Klumpang Kampung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2005",
+    "nama_desa":"Klambir Lima  Kampung",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2006",
+    "nama_desa":"Tandam Hulu II",
+    "keterangan":"Perbaikan nama desa semula Tandem Hulu II menjadi Tandam Hulu II  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2007",
+    "nama_desa":"Klambir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2008",
+    "nama_desa":"Selemak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2009",
+    "nama_desa":"Klambir Lima Kebun",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017. Perbaikan nama desa semula Kelambir Lima Kebun menjadi Klambir  Lima Kebun sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2010",
+    "nama_desa":"Sialang Muda",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2011",
+    "nama_desa":"Paya Bakung",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2012",
+    "nama_desa":"Tandem Hulu I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2013",
+    "nama_desa":"Tandem Hilir I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2014",
+    "nama_desa":"Tandam Hilir II",
+    "keterangan":"Perbaikan nama desa semula Tandem Hilir II menjadi Tandam Hilir II  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2015",
+    "nama_desa":"Kota Datar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2016",
+    "nama_desa":"Bulu Cina",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2017",
+    "nama_desa":"Kota Rantang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2018",
+    "nama_desa":"Paluh Manan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2019",
+    "nama_desa":"Lama",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24.2020",
+    "nama_desa":"Paluh Kurau",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25.2001",
+    "nama_desa":"Helvetia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25.2002",
+    "nama_desa":"Manunggal",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25.2003",
+    "nama_desa":"Pematang Johar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25.2004",
+    "nama_desa":"Karang Gading",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25.2005",
+    "nama_desa":"Telaga Tujuh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.26",
+    "nama_desa":"18",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.26.2001",
+    "nama_desa":"Pematang Lalang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

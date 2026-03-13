@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"12.05.13",
+    "nama_desa":"10",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2002",
+    "nama_desa":"Paluh Manis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2003",
+    "nama_desa":"Pasar Rawa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2004",
+    "nama_desa":"Padang Langkat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2005",
+    "nama_desa":"Air Hitam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2006",
+    "nama_desa":"Paya Bengkuang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2007",
+    "nama_desa":"Dogang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2008",
+    "nama_desa":"Sangga Lima",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2009",
+    "nama_desa":"Kwala Gebang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2010",
+    "nama_desa":"Bukit Mengkirai",
+    "keterangan":"Perbaikan nama sesuai Perda No.16\/2005 dan BA No. 2826.a\/BP\/2017  Rapat Penyusunan dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.13.2011",
+    "nama_desa":"Pasiran",
+    "keterangan":"Perda No. 24\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.2002",
+    "nama_desa":"Securai Utara",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.2003",
+    "nama_desa":"Teluk Meku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.2004",
+    "nama_desa":"Pelawi Selatan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.2005",
+    "nama_desa":"Securai Selatan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.1006",
+    "nama_desa":"",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.1007",
+    "nama_desa":"",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.14.1008",
+    "nama_desa":"",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2001",
+    "nama_desa":"Alur Cempedak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2002",
+    "nama_desa":"Sei Siur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2003",
+    "nama_desa":"Tanjung Pasir",
+    "keterangan":"Perbaikan nama desa sesuai UU Drt No.7 thn 1956 dan Srt Gub  No.120\/9881 tgl 2 Okt 2018 hal pengantar revisi kode dan data wil adm  pem",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2004",
+    "nama_desa":"Paya Tampak",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2005",
+    "nama_desa":"Pintu Air",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2006",
+    "nama_desa":"Sei Meran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2007",
+    "nama_desa":"Pulau Sembilan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2008",
+    "nama_desa":"Pulau Kampai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.1009",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.1010",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.15.2011",
+    "nama_desa":"Pangkalan Siata",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "kode":"12.14",
+    "jumlah_desa":459,
+    "luas_wilayah":2532.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. NIAS SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.01",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lolomatua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.02",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gomo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.03",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lahusa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.04",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hibala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.05",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau-Pulau Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.06",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Dalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.07",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Amandraya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.08",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lolowau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.09",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Susua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.10",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Maniamolo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.11",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Hilimegai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.12",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Toma",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.13",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Mazino",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.14",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Umbunasi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.15",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Aramo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.16",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau-Pulau Batu Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.17",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Mazo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.18",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Fanayama",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.19",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulunoyo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.20",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lolomatua dan Kec. Lolowau, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Huruna",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.21",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lolowau dan Kec. Hilimegai, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"O'o'u",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.22",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lolowau, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Onohazumba",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.23",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lolowau, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Hilisalawa'ahe",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.24",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Amandraya, Kec. Mazo, dan Kec. Susua,  Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulususua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.25",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lahusa, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Sidua'ori",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.26",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lahusa, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Somambawa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.27",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Gomo dan Kec. Mazo, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Boronadu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.28",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Simuk",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.29",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau-Pulau Batu Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  },
+  {
+    "kode":"12.14.30",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau-Pulau Batu Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS SELATAN"
+  }
+]

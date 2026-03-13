@@ -1,0 +1,191 @@
+[
+  {
+    "kode":"11.01.16.2005",
+    "nama_desa":"Pinto Rimba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2006",
+    "nama_desa":"Krueng Luas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2007",
+    "nama_desa":"Jambo Dalem",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2008",
+    "nama_desa":"Kapa Sesak",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2009",
+    "nama_desa":"Seuneubok Punto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2010",
+    "nama_desa":"Seuneubok Pusaka",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2011",
+    "nama_desa":"Alur Bujok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.16.2012",
+    "nama_desa":"Titi Poben",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016, Perbaikan nama sesuai Surat Pemkab Aceh Selatan  No.140\/819\/2016 tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran Kec Perda No. 3\/2010",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2001",
+    "nama_desa":"Buket Gadeng",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010, Perbaikan nama sesuai  Surat Pemkab Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2002",
+    "nama_desa":"Rambong",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2003",
+    "nama_desa":"Seuneubok Keuranji",
+    "keterangan":"Semula wil Kec.Bakongan Perda No.3\/2010, Perbaikan nama Surat  Pem Aceh No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Surat Pemkab Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2004",
+    "nama_desa":"Seuneubok Alur  Buloh",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2005",
+    "nama_desa":"Ujong Tanoh",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2006",
+    "nama_desa":"Ujong Gunong Cut",
+    "keterangan":"Semula wil Kec.Bakongan Perda No.3\/2010, Perbaikan nama Surat  Pem Aceh No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Surat Pemkab Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2007",
+    "nama_desa":"Ujong Gunung  Rayeuk",
+    "keterangan":"Semula wil Kec.Bakongan Perda No.3\/2010, Perbaikan nama Surat  Pem Aceh No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Surat Pemkab Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2008",
+    "nama_desa":"Beutong",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2009",
+    "nama_desa":"Jambo Keupok",
+    "keterangan":"Semula wil Kec. Bakongan Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.17.2010",
+    "nama_desa":"Alurduamas",
+    "keterangan":"Semula wil Kec.Bakongan Perda No.3\/2010, Perbaikan nama Surat  Pem Aceh No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Surat Pemkab Aceh Selatan No.140\/819\/2016 tgl 14 okt 2016 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.18",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran Kec Perda No. 4\/2010",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.18.2001",
+    "nama_desa":"Ladang Rimba",
+    "keterangan":"Semula wil Kec. Trumon Timur Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

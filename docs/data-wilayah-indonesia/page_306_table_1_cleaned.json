@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"12.01",
+    "jumlah_desa":159,
+    "luas_wilayah":2308.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TAPANULI TENGAH",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.01",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Barus",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.02",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sorkam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.03",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Sibolga, Perda No. 8\/2003.",
+    "level":"kecamatan",
+    "nama_wilayah":"Pandan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.04",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Lumut, Perda No. 8\/2003.",
+    "level":"kecamatan",
+    "nama_wilayah":"Pinangsori",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.05",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Manduamas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kolang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.07",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tapian Nauli",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.08",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibabangun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.09",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Sosorgadong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sorkam Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.11",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sirandorung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.12",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Andam Dewi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.13",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitahuis",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.14",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tukka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.15",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Badiri",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.16",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasaribu Tobing",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.17",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Barus Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.18",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Suka Bangun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.19",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Lumut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.01.20",
+    "jumlah_desa":1,
+    "luas_wilayah":null,
+    "keterangan":"Rancangan Perda No. 35\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Sarudik",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI TENGAH"
+  },
+  {
+    "kode":"12.02",
+    "jumlah_desa":241,
+    "luas_wilayah":3896.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TAPANULI UTARA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.01",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tarutung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.02",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siatas Barita",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Adian Koting",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.04",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipoholon",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.05",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pahae Julu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pahae Jae",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  },
+  {
+    "kode":"12.02.07",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simangumban",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI UTARA"
+  }
+]

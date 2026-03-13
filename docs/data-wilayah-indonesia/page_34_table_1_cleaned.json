@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"11.01.05.2007",
+    "nama_desa":"Blang Kuala",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2008",
+    "nama_desa":"Rot Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2009",
+    "nama_desa":"Alue Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2010",
+    "nama_desa":"Ladang Tuha",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2011",
+    "nama_desa":"Lhok Mamplam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2012",
+    "nama_desa":"Arun Tunggai",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2013",
+    "nama_desa":"Blang Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2014",
+    "nama_desa":"Blang Bladeh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2015",
+    "nama_desa":"Ie Buboh",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2016",
+    "nama_desa":"Keude Meukek",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2017",
+    "nama_desa":"Kuta Baro",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2018",
+    "nama_desa":"Tanjung Harapan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2019",
+    "nama_desa":"Labuhan Tarok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2020",
+    "nama_desa":"Lhok Aman",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2021",
+    "nama_desa":"Alue Meutuah",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2022",
+    "nama_desa":"Ladang Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.05.2023",
+    "nama_desa":"Labuhan Tarok II",
+    "keterangan":"Pemekaran Desa, Qonun No. 6\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06",
+    "nama_desa":"28",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2001",
+    "nama_desa":"Dalam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2002",
+    "nama_desa":"Subarang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2003",
+    "nama_desa":"Kuta Baru",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2004",
+    "nama_desa":"Gunung Ketek",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2005",
+    "nama_desa":"Ladang Panton Luas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2006",
+    "nama_desa":"Madat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2007",
+    "nama_desa":"Alur Seumerah",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2008",
+    "nama_desa":"Tengah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.06.2009",
+    "nama_desa":"Gunung Cut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

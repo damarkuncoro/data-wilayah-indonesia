@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"12.04.28",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_wilayah":"Ma'u",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5\/2005..",
+    "level":"kecamatan",
+    "nama_wilayah":"Somolo-molo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.35",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Gido, Perda No. 3\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Sogae'adu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05",
+    "jumlah_desa":240,
+    "luas_wilayah":6140.0,
+    "keterangan":"Luas Wilayah Definitif, PGP sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. LANGKAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.01",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bahorok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.02",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Salapian",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.04",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec sesuai Srt Gub No.120\/9881 tgl 2 Okt 2018 hal  pengantar revisi kode dan data wil adm pem",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Bingai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.05",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Binjai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.06",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Selesai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.07",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Stabat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.08",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Wampu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.09",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Secanggang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.10",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hinai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.11",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Pura",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.12",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Tualang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.13",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gebang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.14",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Babalan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.15",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Susu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.16",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Besitang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.17",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Lepan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.18",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama sesuai PP No.35\/1992 dan BA No. 2826.a\/BP\/2017  Rapat Penyusunan dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Berandan Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.19",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Serangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.20",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sawit Seberang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.21",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Sirapit",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.22",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Kutambaru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.05.23",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pematang Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LANGKAT"
+  },
+  {
+    "kode":"12.06",
+    "jumlah_desa":259,
+    "luas_wilayah":2207.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. KARO",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KARO"
+  },
+  {
+    "kode":"12.06.01",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kabanjahe",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KARO"
+  },
+  {
+    "kode":"12.06.02",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Berastagi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KARO"
+  }
+]

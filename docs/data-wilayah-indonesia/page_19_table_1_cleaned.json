@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"11.01",
+    "jumlah_desa":260,
+    "luas_wilayah":4175.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.01",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bakongan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.02",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kluet Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.03",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kluet Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.04",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec Labuhan Haji, sesuai Surat Gub. No. 140\/5443 tgl  24 Maret 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Labuhanhaji",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.05",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Meukek",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.06",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Samadua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.07",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sawang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.08",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tapaktuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.09",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Trumon",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.10",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasi Raja",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.11",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Labuhan Haji Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.12",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Labuhan Haji Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.13",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kluet Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.14",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kluet Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.15",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bakongan Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.16",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Trumon Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.17",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Perda No. 3\/2010",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Bahagia",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.01.18",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Perda No. 4\/2010",
+    "level":"kecamatan",
+    "nama_wilayah":"Trumon Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH SELATAN"
+  },
+  {
+    "kode":"11.02",
+    "jumlah_desa":385,
+    "luas_wilayah":4179.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH TENGGARA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.01",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lawe Alas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.02",
+    "jumlah_desa":35,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lawe Sigala-Gala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.03",
+    "jumlah_desa":33,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bambel",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.04",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Babussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.05",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Badar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.06",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Babul Makmur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.07",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Hasanah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.08",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lawe Bulan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  },
+  {
+    "kode":"11.02.09",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukit Tusam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGGARA"
+  }
+]

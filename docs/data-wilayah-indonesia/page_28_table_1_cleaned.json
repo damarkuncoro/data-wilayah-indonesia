@@ -1,0 +1,262 @@
+[
+  {
+    "kode":"11.17.06",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Wih Pesam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.07",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Timang gajah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.08",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Bener Kelipah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Mesidah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Gajah Putih",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.18",
+    "jumlah_desa":222,
+    "luas_wilayah":939.0,
+    "keterangan":"UU No. 7\/2007.  Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PIDIE JAYA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.01",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Meureudu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.02",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulim",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.03",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie. Perbaikan nama kec. semula Jangka Buaya menjadi Jangka Buya,  sesuai: Qanun No. 2 Tahun 2022; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Jangka Buya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.04",
+    "jumlah_desa":45,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Dua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.05",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Meurah Dua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.06",
+    "jumlah_desa":43,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.07",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Panteraja",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.18.08",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"Semula  wil. Kab. Pidie",
+    "level":"kecamatan",
+    "nama_wilayah":"Trienggadeng",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PIDIE JAYA"
+  },
+  {
+    "kode":"11.71",
+    "jumlah_desa":90,
+    "luas_wilayah":57.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA BANDA ACEH",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.01",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Baiturrahman",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.02",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuta Alam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Meuraxa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.04",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Syiah Kuala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lueng Bata",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.06",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuta Raja",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.07",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Banda Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.08",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jaya Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.71.09",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulee Kareng",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BANDA ACEH"
+  },
+  {
+    "kode":"11.72",
+    "jumlah_desa":18,
+    "luas_wilayah":122.0,
+    "keterangan":"Luas Wilayah Definitif, PGP sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022 (tidak  ada batas darat dengan kab\/kota lainnya).",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA SABANG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SABANG"
+  },
+  {
+    "kode":"11.72.01",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sukakarya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SABANG"
+  }
+]

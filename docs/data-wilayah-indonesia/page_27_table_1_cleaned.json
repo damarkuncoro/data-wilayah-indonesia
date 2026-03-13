@@ -1,0 +1,312 @@
+[
+  {
+    "kode":"11.14.08",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 3\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Hikmah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.09",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 3\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasie Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15",
+    "jumlah_desa":222,
+    "luas_wilayah":3524.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. NAGAN RAYA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.01",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.02",
+    "jumlah_desa":35,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Seunagan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.03",
+    "jumlah_desa":34,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Seunagan Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.04",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Beutong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.05",
+    "jumlah_desa":40,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Makmur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.06",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Suka Makmue",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.07",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Pesisir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.08",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Tadu Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.09",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Darul Makmur, Qonun No. 3\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Tripa Makmur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.15.10",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Beutong, Qonun No. 2\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Beutong Ateuh Banggalang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NAGAN RAYA"
+  },
+  {
+    "kode":"11.16",
+    "jumlah_desa":216,
+    "luas_wilayah":2188.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH TAMIANG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.01",
+    "jumlah_desa":36,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Manyak Payed",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.02",
+    "jumlah_desa":33,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bendahara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.03",
+    "jumlah_desa":31,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Karang Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.04",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Seruway",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.05",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Kualasinpang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.06",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kejuruan Muda",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tamiang Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.08",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.09",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Banda Mulia",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.10",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Pusaka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.11",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Tenggulun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.16.12",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No.6\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Sekerak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TAMIANG"
+  },
+  {
+    "kode":"11.17",
+    "jumlah_desa":232,
+    "luas_wilayah":1907.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. BENER MERIAH",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENER MERIAH"
+  },
+  {
+    "kode":"11.17.01",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pintu Rime Gayo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENER MERIAH"
+  },
+  {
+    "kode":"11.17.02",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Permata",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENER MERIAH"
+  },
+  {
+    "kode":"11.17.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Syiah Utama",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENER MERIAH"
+  },
+  {
+    "kode":"11.17.04",
+    "jumlah_desa":35,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENER MERIAH"
+  }
+]

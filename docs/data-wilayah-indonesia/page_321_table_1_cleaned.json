@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"12.71.11",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Johor",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.12",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Marelan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.13",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Labuhan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.14",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Tembung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.15",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Maimun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.16",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Polonia",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.17",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.18",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Perjuangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.19",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Petisah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.20",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.71.21",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Selayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.72",
+    "jumlah_desa":0.0,
+    "luas_wilayah":76.0,
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan &  Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017. Luas Wilayah Indikatif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PEMATANGSIANTAR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Marihat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.06",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Martoba",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 3\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Sitalasari",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.72.08",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda  No. 6\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Marimbun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEMATANGSIANTAR"
+  },
+  {
+    "kode":"12.73",
+    "jumlah_desa":0.0,
+    "luas_wilayah":11.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA SIBOLGA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SIBOLGA"
+  },
+  {
+    "kode":"12.73.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibolga Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SIBOLGA"
+  },
+  {
+    "kode":"12.73.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibolga Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SIBOLGA"
+  },
+  {
+    "kode":"12.73.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibolga Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SIBOLGA"
+  },
+  {
+    "kode":"12.73.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sibolga Sambas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SIBOLGA"
+  },
+  {
+    "kode":"12.74",
+    "jumlah_desa":0.0,
+    "luas_wilayah":60.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA TANJUNG BALAI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA TANJUNG BALAI"
+  },
+  {
+    "kode":"12.74.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Tanjung Balai Selatan menjadi  Tanjungbalai Selatan sesuai Surat Plt. Walikota Tanjungbalai No.  100\/12431\/Pem-an tgl 12 Juli 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjungbalai Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA TANJUNG BALAI"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "kode":"12.06.13.2012",
+    "nama_desa":"Rih Tengah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.13.2013",
+    "nama_desa":"Kutabuluh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.13.2014",
+    "nama_desa":"Liang Merdeka",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.13.2015",
+    "nama_desa":"Pola Tebu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.13.2016",
+    "nama_desa":"Mburidi",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2001",
+    "nama_desa":"Kubu Colia",
+    "keterangan":"Semula wil Kec.Tiga Panah, Perbaikan nama sesuai Surat Bupati Karo  No. 130\/0887\/Pemum\/2016  Perihal : Validasi Data Wilayah  Administrasi Pemerintahan, Perbaikan nama desa sesuai Perda  No.4\/2005 dan Srt Gub No.120\/9881 tgl 2 Okt 2018",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2002",
+    "nama_desa":"Ujung Sampun",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2003",
+    "nama_desa":"Bukit",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2004",
+    "nama_desa":"Melas",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2005",
+    "nama_desa":"Sampun",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2006",
+    "nama_desa":"Sugihen",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.14.2007",
+    "nama_desa":"Dolat Rayat",
+    "keterangan":"Semula wil. Kec. Tiga Panah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15",
+    "nama_desa":"9",
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2001",
+    "nama_desa":"Cinta Rakyat",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2002",
+    "nama_desa":"Semangat",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2003",
+    "nama_desa":"Ujung Teran",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2004",
+    "nama_desa":"Gongsol",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2005",
+    "nama_desa":"Jaranguda",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2006",
+    "nama_desa":"Semangat Gunung",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2007",
+    "nama_desa":"Deram",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2008",
+    "nama_desa":"Merdeka",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.15.2009",
+    "nama_desa":"Sada Perarih",
+    "keterangan":"Semula wil. Kec. Simpang Empat, Perbaikan nama desa sesuai Perda  No.4\/2005 dan Srt Gub No.120\/9881 tgl 2 Okt 2018 hal pengantar  revisi kode dan data wil adm pem",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16",
+    "nama_desa":"12",
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2002",
+    "nama_desa":"Kutagugung",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2003",
+    "nama_desa":"Kuta Tonggal",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

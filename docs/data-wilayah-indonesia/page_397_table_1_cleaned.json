@@ -1,0 +1,218 @@
+[
+  {
+    "kode":"12.04.20.2007",
+    "nama_desa":"Dahadano  Botombawo",
+    "keterangan":"Semula wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2008",
+    "nama_desa":"Fadoro Lalai",
+    "keterangan":"Pemekaran sebagian Desa lalai III, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2009",
+    "nama_desa":"Lolowua Hiliwarasi",
+    "keterangan":"Pemekaran sebagian Desa Lolowua, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2010",
+    "nama_desa":"Hilizia Lauru",
+    "keterangan":"Pemekaran sebagian Desa Lawa-Lawa, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2011",
+    "nama_desa":"Ehosakhozi",
+    "keterangan":"Perda No. 9\/2012 tentang Penggabungan Desa Ehosakhozi, Desa  Awela, Desa Onombongi, Desa Orahili Idanoi dan Desa Lolofaoso ke  dalam cakupan wilayah Kec. Hiliserangkai Kabupaten Nias",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2012",
+    "nama_desa":"Awela",
+    "keterangan":"Perda No. 9\/2012 tentang Penggabungan Desa Ehosakhozi, Desa  Awela, Desa Onombongi, Desa Orahili Idanoi dan Desa Lolofaoso ke  dalam cakupan wilayah Kec. Hiliserangkai Kabupaten Nias",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2013",
+    "nama_desa":"Onombongi",
+    "keterangan":"Perda No. 9\/2012 tentang Penggabungan Desa Ehosakhozi, Desa  Awela, Desa Onombongi, Desa Orahili Idanoi dan Desa Lolofaoso ke  dalam cakupan wilayah Kec. Hiliserangkai Kabupaten Nias",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2014",
+    "nama_desa":"Orahili Idanoi",
+    "keterangan":"Perda No. 9\/2012 tentang Penggabungan Desa Ehosakhozi, Desa  Awela, Desa Onombongi, Desa Orahili Idanoi dan Desa Lolofaoso ke  dalam cakupan wilayah Kec. Hiliserangkai Kabupaten Nias",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2015",
+    "nama_desa":"Lolofaoso",
+    "keterangan":"Perda No. 9\/2012 tentang Penggabungan Desa Ehosakhozi, Desa  Awela, Desa Onombongi, Desa Orahili Idanoi dan Desa Lolofaoso ke  dalam cakupan wilayah Kec. Hiliserangkai Kabupaten Nias",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21",
+    "nama_desa":"18",
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2001",
+    "nama_desa":"Hiligodu Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2002",
+    "nama_desa":"Lasara Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2003",
+    "nama_desa":"Hiliwa'ele I",
+    "keterangan":"Semula, wil. Kec. Hiliduho. Perbaikan nama desa semula Hiliwaele I menjadi Hiliwa'ele I, sesuai: Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2004",
+    "nama_desa":"Hilimbowo Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2005",
+    "nama_desa":"Simanaere Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2006",
+    "nama_desa":"Hiliwa'ele II",
+    "keterangan":"Semula, wil. Kec. Hiliduho. Perbaikan nama desa semula Hiliwaele II menjadi Hiliwa'ele II, sesuai: Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2007",
+    "nama_desa":"Tuhegafoa I",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2008",
+    "nama_desa":"Balohili Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2009",
+    "nama_desa":"Hilihambawa  Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2010",
+    "nama_desa":"Fulolo Botomuzoi",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2011",
+    "nama_desa":"Loloana'a",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2012",
+    "nama_desa":"Ononamolo Talafu",
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2013",
+    "nama_desa":"Sisobahili Dola",
+    "keterangan":"Pemekaran sebagian Desa Simanaere Botomuzoi dan Desa  Hilihambawa, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2014",
+    "nama_desa":"Banua Sibohou  Botomuzoi",
+    "keterangan":"Pemekaran sebagian Desa Tuhegafoa I, Desa Lasara Botomuzoi dan  Desa Fulolo Botomuzoi, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

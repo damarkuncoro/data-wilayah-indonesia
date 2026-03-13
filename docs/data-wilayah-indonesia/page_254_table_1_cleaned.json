@@ -1,0 +1,335 @@
+[
+  {
+    "kode":"11.15.05.2046",
+    "nama_desa":"Ladang Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.05.2047",
+    "nama_desa":"Alue Bateung Brok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.05.2048",
+    "nama_desa":"Simpang Deli  Kampong",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.05.2049",
+    "nama_desa":"Blang Luah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.05.2050",
+    "nama_desa":"Sumber Makmur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.05.2051",
+    "nama_desa":"Makarti Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06",
+    "nama_desa":"19",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2001",
+    "nama_desa":"Lueng Baro",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2002",
+    "nama_desa":"Alue Kambuk",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2003",
+    "nama_desa":"Kuta Padang",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2004",
+    "nama_desa":"Suak Bilie",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2005",
+    "nama_desa":"Macah",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2006",
+    "nama_desa":"Seumambek",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2007",
+    "nama_desa":"Cot Kuta",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2008",
+    "nama_desa":"Kabu Blang Sapek",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2009",
+    "nama_desa":"Cot Peuradi",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2010",
+    "nama_desa":"Blang Sapek",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2011",
+    "nama_desa":"Lhok Beutong",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2012",
+    "nama_desa":"Gampong Teungoh",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2013",
+    "nama_desa":"Lhok Rameuan",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2014",
+    "nama_desa":"Blang Muling",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2015",
+    "nama_desa":"Krak Tampai",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2016",
+    "nama_desa":"Meureubo",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2017",
+    "nama_desa":"Kuta Baro Blang  Muling",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2018",
+    "nama_desa":"Alue Peusaja",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.06.2019",
+    "nama_desa":"Alue Gajah",
+    "keterangan":"Semula wil. Kec. Seunagan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07",
+    "nama_desa":"16",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2001",
+    "nama_desa":"Suak Puntong",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2002",
+    "nama_desa":"Gampong Lhok",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2003",
+    "nama_desa":"Kuala Baro",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2004",
+    "nama_desa":"Padang Rubek",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2005",
+    "nama_desa":"Pulo",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2006",
+    "nama_desa":"Langkak",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2007",
+    "nama_desa":"Kuala Tuha",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2008",
+    "nama_desa":"Kubang Gajah",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2009",
+    "nama_desa":"Kuala Trang",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.15.07.2010",
+    "nama_desa":"Cot Rambong",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

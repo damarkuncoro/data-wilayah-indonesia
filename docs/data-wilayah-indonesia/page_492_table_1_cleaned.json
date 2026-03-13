@@ -1,0 +1,209 @@
+[
+  {
+    "kode":"12.13.01.1035",
+    "nama_desa":"",
+    "keterangan":"Pemekaran sebagian wil Kel Panyambungan II Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.01.1036",
+    "nama_desa":"",
+    "keterangan":"Pemekaran sebagian wil Kel Pidoli Dolok Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.01.2037",
+    "nama_desa":"Siobon Jae",
+    "keterangan":"Perda No. 7\/2002",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.01.2038",
+    "nama_desa":"Panggorengan",
+    "keterangan":"Pemekaran sebagian wil Desa Lumban Pasir Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.01.2039",
+    "nama_desa":"Saba Jambu",
+    "keterangan":"Pemekaran sebagian wil Desa Pagaran Tonga Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.01.2040",
+    "nama_desa":"Manyabar Jae",
+    "keterangan":"Pemekaran sebagian wil Desa Manyabar Perda No. 20\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02",
+    "nama_desa":"11",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2002",
+    "nama_desa":"Beringin Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2007",
+    "nama_desa":"Huta damai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2008",
+    "nama_desa":"Jambur Padang  Matinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2009",
+    "nama_desa":"Kampung Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2010",
+    "nama_desa":"Mompang Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.1012",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2014",
+    "nama_desa":"Rumbio",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2015",
+    "nama_desa":"Suka Ramai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2017",
+    "nama_desa":"Sopo Sorik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2018",
+    "nama_desa":"Simanondong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2019",
+    "nama_desa":"Torbanua Raja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.02.2020",
+    "nama_desa":"Tanjung Mompang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.03",
+    "nama_desa":"14",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.03.2001",
+    "nama_desa":"Aek Nabara",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.03.1002",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.03.2003",
+    "nama_desa":"Hutaimbaru",
+    "keterangan":"Perda No. 7\/2002",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

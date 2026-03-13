@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"12.24.01",
+    "jumlah_desa":13.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Lotu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.02",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Sawo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.03",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Tuhemberua",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.04",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitolu Ori",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.05",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Namohalu Esiwa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.06",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Alasa Talumuzoi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.07",
+    "jumlah_desa":14.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Alasa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.08",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Tugala Oyo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.09",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Afulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.10",
+    "jumlah_desa":20.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Lahewa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.24.11",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Lahewa Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.25",
+    "jumlah_desa":105.0,
+    "luas_wilayah":464.0,
+    "keterangan":"UU No. 46\/2008.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. NIAS BARAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.01",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Lahomi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.02",
+    "jumlah_desa":25.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Sirombu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.03",
+    "jumlah_desa":14.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandrehe Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.04",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Moro'o",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.05",
+    "jumlah_desa":20.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandrehe",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.06",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandrehe Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.07",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Lolofitu Moi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.25.08",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Nias",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulu Moro'o",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS BARAT"
+  },
+  {
+    "kode":"12.71",
+    "jumlah_desa":0.0,
+    "luas_wilayah":279.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA MEDAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Sunggal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Helvetia",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Denai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.06",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Deli",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Tuntungan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.08",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Belawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  },
+  {
+    "kode":"12.71.09",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medan Amplas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA MEDAN"
+  }
+]

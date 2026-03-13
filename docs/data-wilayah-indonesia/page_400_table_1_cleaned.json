@@ -1,0 +1,191 @@
+[
+  {
+    "kode":"12.04.28.2001",
+    "nama_desa":"Balodano",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2002",
+    "nama_desa":"Lewuoguru II",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi, Perbaikan nama sesuai BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2003",
+    "nama_desa":"Sihare'o III",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2004",
+    "nama_desa":"Sisarahili Ma'u",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi. Perbaikan nama desa semula Sisarahilima'u menjadi Sisarahili Ma'u,  sesuai:  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2005",
+    "nama_desa":"Lasara Siwalubanua",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi. Perbaikan nama desa semula Lasara Siwalu Banua menjadi Lasara  Siwalubanua, sesuai: Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2006",
+    "nama_desa":"Tuhemberua",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2007",
+    "nama_desa":"Atualuo",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2008",
+    "nama_desa":"Lewa-lewa",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi. Perbaikan nama desa semula Lewa Lewa menjadi Lewa-lewa,  sesuai:  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2009",
+    "nama_desa":"Dekha",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2010",
+    "nama_desa":"Sihare'o III  Bawosalo'o Berua",
+    "keterangan":"Pemekaran sebagian Desa Sihare'o III, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.28.2011",
+    "nama_desa":"Sihare'o III Hilibadalu",
+    "keterangan":"Pemekaran sebagian Desa Sihare'o III, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29",
+    "nama_desa":"11",
+    "keterangan":"Perda No. 5\/2005..",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2001",
+    "nama_desa":"Sisobawino I",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2002",
+    "nama_desa":"I'odano",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2003",
+    "nama_desa":"Huno",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2004",
+    "nama_desa":"Sisaratandrawa",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2005",
+    "nama_desa":"Somolo-molo",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi. Perbaikan nama desa semula Samolo Molo menjadi Somolo-molo,  sesuai: Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2006",
+    "nama_desa":"Lewuoguru I",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi, Perbaikan nama sesuai BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2007",
+    "nama_desa":"Sifaoroasi",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi. Perbaikan nama desa semula Sifaoro Asi menjadi Sifaoroasi, sesuai:  Perda No. 5 Tahun 2005; dan Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16 Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2008",
+    "nama_desa":"Lewuombanua",
+    "keterangan":"Semula wil. Kec. Lalafitu Moi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.29.2009",
+    "nama_desa":"Hiligodu Somolo-Molo",
+    "keterangan":"Pemekaran sebagian Desa Somolo-Molo, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

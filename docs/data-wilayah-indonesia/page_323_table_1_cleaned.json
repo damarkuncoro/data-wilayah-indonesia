@@ -1,0 +1,29 @@
+[
+  {
+    "kode":"12.78.04",
+    "jumlah_desa":26,
+    "keterangan":"Semula wil. Kab. Nias Perda No. 5\/2005, Revisi Kode sesuai Surat  Prov. Sumut No. 136\/10930 tanggal 7 Nov 2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunungsitoli Idanoi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.78.05",
+    "jumlah_desa":9,
+    "keterangan":"Semula wil. Kab. Nias Perda No. 4\/2008, Revisi Kode sesuai Surat  Prov. Sumut No. 136\/10930 tanggal 7 Nov 2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunungsitoli Alo'oa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.78.06",
+    "jumlah_desa":9,
+    "keterangan":"Semula wil. Kab. Nias Perda No. 5\/2005, Revisi Kode sesuai Surat",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunungsitoli Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

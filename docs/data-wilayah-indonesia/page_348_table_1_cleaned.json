@@ -1,0 +1,110 @@
+[
+  {
+    "kode":"12.03.04.2107",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Tanjung Sunge dan Desa Nagasaribu, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2108",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Jambur Batu dan Desa Sabatarutung, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2109",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Sabungan, Tapus. dan Desa Ampolu, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2110",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Silangge, Sigiring Giring Dolok, Sigiring Giring  Lombang, Tanjung Medan, dan Desa Tanjung Tua, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2111",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Anturmangan, Purba Tua, Padang Bulan, Aek  Latong, Huraba, dan Desa Purba Sinombatua, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2112",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Bulu Payung, Pengkolan, Gunung Sari, dan Desa  Hutaimbaru, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2113",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Paske, Dano Lombang, dan Desa Gunung  Hasahatan, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.1114",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Bagas Nagodang, Desa Bagas Nagodang II,  Bagas Nagodang III, Bagas Nagodang IV, dan Desa Banjar Toba,  Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2115",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan desa Batang Miha Jae dan Batang Miha Julu Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.04.2116",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan desa Sabatolang, Kampung Satia, Sidagar Dagar, dan  Garoga Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05",
+    "jumlah_desa":12.0,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05.1001",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Sibatang Kayu, Pasar Sipagimbar, Sipagimbar  Godang, Sigordang Dolok, Berastagi, dan Desa Sigordang Lombang  serta peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

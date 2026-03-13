@@ -1,0 +1,335 @@
+[
+  {
+    "kode":"12.08.06.2007",
+    "nama_desa":"Dolok Marlawan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.1008",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2009",
+    "nama_desa":"Panombean  Hutaurung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2010",
+    "nama_desa":"Dipar Hataran",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Jorlang Hataran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2011",
+    "nama_desa":"Pagar Pinang",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Pinang Ratus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2012",
+    "nama_desa":"Dolok Parriasan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dolok Marlawan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2013",
+    "nama_desa":"Parmonangan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Sibunga Bunga",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07",
+    "nama_desa":"13",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2001",
+    "nama_desa":"Sambosar Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2002",
+    "nama_desa":"Panduman",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2003",
+    "nama_desa":"Ambarokan Panei  Raya",
+    "keterangan":"Perbaikan nama desa semula Ambarokan Pane Raya menjadi  Ambarokan Panei Raya sesuai Surat Sekda Kab. Deli Serdang No.  138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2004",
+    "nama_desa":"Bah Tonang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2005",
+    "nama_desa":"Bah Bulian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2006",
+    "nama_desa":"Bangun Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2007",
+    "nama_desa":"Durian Banggal",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.1008",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2008",
+    "nama_desa":"Sorba Dolog",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Sambosar Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2009",
+    "nama_desa":"Gunung Datas",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Amborokan Pane Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2010",
+    "nama_desa":"Puli Buah",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Bangun Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2011",
+    "nama_desa":"Banu Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Panduman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2012",
+    "nama_desa":"Marubun Siboras",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Bangun Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.07.2013",
+    "nama_desa":"Banjaran",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Sambosar Raya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08",
+    "nama_desa":"16",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2001",
+    "nama_desa":"Parbutaran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2002",
+    "nama_desa":"Mayang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2003",
+    "nama_desa":"Boluk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2004",
+    "nama_desa":"Sei Mangkei",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2005",
+    "nama_desa":"Gunung Bayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2006",
+    "nama_desa":"Talun Saragih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2007",
+    "nama_desa":"Dusun Pengkolan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2008",
+    "nama_desa":"Sei Torop",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2009",
+    "nama_desa":"Marihat Tanjung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2010",
+    "nama_desa":"Marihat Butar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2011",
+    "nama_desa":"Teladan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2012",
+    "nama_desa":"Adil Makmur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.1013",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.08.2014",
+    "nama_desa":"Tempel Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

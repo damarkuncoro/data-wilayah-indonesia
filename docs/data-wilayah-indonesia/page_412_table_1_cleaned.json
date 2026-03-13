@@ -1,0 +1,128 @@
+[
+  {
+    "kode":"12.05.22.2004",
+    "nama_desa":"Kaperas",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2005",
+    "nama_desa":"Namoteras",
+    "keterangan":"Semula wil. Kec.Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2006",
+    "nama_desa":"Rampah",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2007",
+    "nama_desa":"Sulkam",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2008",
+    "nama_desa":"Kutambaru",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23",
+    "nama_desa":"8",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2001",
+    "nama_desa":"Pematang Tengah",
+    "keterangan":"Semula wil. Kec. Pangkalan Susu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2002",
+    "nama_desa":"Damar Condong",
+    "keterangan":"Semula wil. Kec. Pangkalan Susu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2003",
+    "nama_desa":"Perkebunan Damar  Condong",
+    "keterangan":"Semula wil. Kec. Pangkalan Susu, Perbaikan nama sesuai BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2004",
+    "nama_desa":"Perkebunan Perapen",
+    "keterangan":"Semula wil. Kec. Pangkalan Susu, Perbaikan nama sesuai Perda  No.27\/2007 dan BA No. 2826.a\/BP\/2017 Rapat Penyusunan dan  Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2005",
+    "nama_desa":"Limau Mungkur",
+    "keterangan":"Semula wil. Kec. Pangkalan Susu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2006",
+    "nama_desa":"Serang Jaya Hilir",
+    "keterangan":"Semula wil. Kec. Besitang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2007",
+    "nama_desa":"Serang Jaya",
+    "keterangan":"Semula wil. Kec. Besitang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.23.2008",
+    "nama_desa":"Sala Haji",
+    "keterangan":"Semula wil. Kec. Besitang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

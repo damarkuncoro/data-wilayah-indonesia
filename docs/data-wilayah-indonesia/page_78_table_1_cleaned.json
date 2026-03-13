@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"11.04.07.2024",
+    "nama_desa":"Tebuk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2025",
+    "nama_desa":"Terang Ulen",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2026",
+    "nama_desa":"Ujung Gele",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2029",
+    "nama_desa":"Wih Ilang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2030",
+    "nama_desa":"Wih Nareh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2031",
+    "nama_desa":"Wih Lah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2032",
+    "nama_desa":"Jejem",
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2033",
+    "nama_desa":"Jurusen",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2034",
+    "nama_desa":"Kala Pegasing",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2035",
+    "nama_desa":"Linung Ayu",
+    "keterangan":"Qanun No. 1\/2006, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2036",
+    "nama_desa":"Panangan Mata",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2037",
+    "nama_desa":"Pantan Musara",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2038",
+    "nama_desa":"Wih Terjun",
+    "keterangan":"Qanun No. 1\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2039",
+    "nama_desa":"Belang Bebangka",
+    "keterangan":"Qanun No. 1\/2006, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2040",
+    "nama_desa":"Uning",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2041",
+    "nama_desa":"Uring",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.07.2042",
+    "nama_desa":"Suka Damai",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08",
+    "nama_desa":"24",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2001",
+    "nama_desa":"Atu Payung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2002",
+    "nama_desa":"Bale Nosar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2003",
+    "nama_desa":"Bamil Nosar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2004",
+    "nama_desa":"Bewang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2005",
+    "nama_desa":"Dedamar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2006",
+    "nama_desa":"Genuren",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2007",
+    "nama_desa":"Kala Bintang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2008",
+    "nama_desa":"Kala Segi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2009",
+    "nama_desa":"Kejurun Syiah Utama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2010",
+    "nama_desa":"Kelitu Sintep",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2011",
+    "nama_desa":"Kuala I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.08.2012",
+    "nama_desa":"Kuala II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

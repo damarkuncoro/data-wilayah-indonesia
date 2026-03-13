@@ -1,0 +1,242 @@
+[
+  {
+    "kode":"12.14.32",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Fanayama dan Kec. Maniamolo sesuai  Perda No. 3\/2015, dan Nomor Register Perda Kabupaten Nias Selatan  Provinsi Sumatera Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Luahagundre Maniamolo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Teluk Dalam sesuai Perda No. 3\/2015,  dan Nomor Register Perda Kabupaten Nias Selatan Provinsi Sumatera  Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Onolalu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Gomo dan Kec. Umbunasi sesuai Perda  No. 3\/2015, dan Nomor Register Perda Kabupaten Nias Selatan  Provinsi Sumatera Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulu Idanotae",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Gomo sesuai Perda No. 3\/2015, dan  Nomor Register Perda Kabupaten Nias Selatan Provinsi Sumatera  Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Idanotae",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15",
+    "jumlah_desa":52,
+    "luas_wilayah":1366.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PAKPAK BHARAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.01",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitelu Tali Urang Jehe",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.02",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kerajaan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.03",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Salak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.04",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitelu Tali Urang Julu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.05",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pergetteng Getteng Sengkut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.06",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagindar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.07",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Tinada",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.15.08",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Siempat Rube",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PAKPAK BHARAT"
+  },
+  {
+    "kode":"12.16",
+    "jumlah_desa":153,
+    "luas_wilayah":2352.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. HUMBANG  HASUNDUTAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.01",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Parlilitan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.02",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pollung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.03",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Baktiraja",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Paranginan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.05",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lintong Nihuta",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.06",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolok Sanggul",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.07",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sijamapolang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.08",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Onan Ganjang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.09",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pakkat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  },
+  {
+    "kode":"12.16.10",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tarabintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. HUMBANG  HASUNDUTAN"
+  }
+]

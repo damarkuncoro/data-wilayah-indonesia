@@ -1,0 +1,209 @@
+[
+  {
+    "kode":"11.07.21.2002",
+    "nama_desa":"Pulo Siblah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2003",
+    "nama_desa":"Lhok Igeuh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2004",
+    "nama_desa":"Pulo Glumpang",
+    "keterangan":"perbaikan nama dari Pulo Geulumpang menjadi Pulo Glumpang,surat  Bupati Pidie No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina  Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2005",
+    "nama_desa":"Meunasah Mancang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2006",
+    "nama_desa":"Pulo Tambo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2007",
+    "nama_desa":"Pulo Keunari",
+    "keterangan":"Perbaikan nama dari Pulo kenari Menjadi Pulo Keunari,Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016,surat Bupati Pidie No 140\/2364 tgl 13  April 2021,Surat Sesditjen Bina Pemerintahan Desa No 145\/2430\/BPD  tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2008",
+    "nama_desa":"Peunadok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2009",
+    "nama_desa":"Pulo Mesjid",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2010",
+    "nama_desa":"Meunasah Panah",
+    "keterangan":"perbaikan nama Meunasah Dayah menjadi Meunasah Panah,surat  Bupati Pidie No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina  Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2011",
+    "nama_desa":"Trieng Cudo Baroh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2012",
+    "nama_desa":"Trieng Cudo Tunong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2013",
+    "nama_desa":"Mampree",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2014",
+    "nama_desa":"Daya Baroh",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2015",
+    "nama_desa":"Daya Teungoh",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2016",
+    "nama_desa":"Daya Kampong Baro",
+    "keterangan":"perbaikan nama Dayah KP Baro menjadi Daya Kampong Baro,surat  Bupati Pidie No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina  Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2017",
+    "nama_desa":"Daya Cot",
+    "keterangan":"perbaikan nama dari Dayah Cot menjadi Daya Cot,surat Bupati Pidie No  140\/2364 tgl 13 April 2021,Surat Sesditjen Bina Pemerintahan Desa No  145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2018",
+    "nama_desa":"Blang Rikui",
+    "keterangan":"Perbaikan nama sesuai Srt Ditjen BPD No. 145\/1820\/SET tgl 15 Nov  2018 hal penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.21.2019",
+    "nama_desa":"Panton Beunot",
+    "keterangan":"perbaikan nama dari Panton Bunot Menjadi Panton Beunot, surat  Bupati Pidie No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina  Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.22",
+    "nama_desa":"18",
+    "keterangan":"Perubahan nama Kec. Titeue Keumala, Perda No. 9\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.22.2001",
+    "nama_desa":"U Gadeng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.22.2002",
+    "nama_desa":"Kumbang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.22.2003",
+    "nama_desa":"Sagoe",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.22.2004",
+    "nama_desa":"Dayah Keumala",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

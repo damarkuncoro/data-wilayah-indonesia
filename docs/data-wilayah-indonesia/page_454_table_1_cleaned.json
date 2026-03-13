@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.08.30.2018",
+    "nama_desa":"Sordang Baru",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Sordang Bolon Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2019",
+    "nama_desa":"Banjar Hulu",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Dusun Ulu Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.30.2020",
+    "nama_desa":"Rawa Masin",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Teluk Lapian Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31",
+    "nama_desa":"10",
+    "keterangan":"Perda No 11\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2001",
+    "nama_desa":"Ujung Saribu",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2002",
+    "nama_desa":"Silimakuta Barat",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2003",
+    "nama_desa":"Siboras",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2004",
+    "nama_desa":"Mardingding",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2005",
+    "nama_desa":"Naga Saribu",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2007",
+    "nama_desa":"Saribu Jandi",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2008",
+    "nama_desa":"Sinar Naga Mariah",
+    "keterangan":"Semula wil. Kec. Silimakuta",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2009",
+    "nama_desa":"Ujung Mariah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2010",
+    "nama_desa":"Bandar Saribu",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Mardingding Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.31.2011",
+    "nama_desa":"Naga Bosar",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Naga Saribu Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec.Raya dan Kec.Dolok Pardamean, sesuai  Perda No.3\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2001",
+    "nama_desa":"Raya Huluan",
+    "keterangan":"Semula wil Kec.Raya, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2002",
+    "nama_desa":"Dolog Huluan",
+    "keterangan":"Semula wil Kec.Raya, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2003",
+    "nama_desa":"Bintang Mariah",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Raya Bayu, Semula wil  Kec.Raya, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2004",
+    "nama_desa":"Bah Bolon",
+    "keterangan":"Semula wil Kec.Raya, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2005",
+    "nama_desa":"Raya Usang",
+    "keterangan":"Semula wil Kec.Raya, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2006",
+    "nama_desa":"Bangun Pane",
+    "keterangan":"Semula wil Kec.Dolok Pardamean, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2007",
+    "nama_desa":"Parjalangan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Dolok Saribu, Semula wil  Kec.Dolok Pardamean, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2008",
+    "nama_desa":"Partuahan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Silabah Jaya, Semula wil  Kec.Dolok Pardamean, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2009",
+    "nama_desa":"Sinaman Labah",
+    "keterangan":"Semula wil Kec.Dolok Pardamean, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.32.2010",
+    "nama_desa":"Pamatang Sinaman",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Sinaman Labah, Semula  wil Kec.Dolok Pardamean, Perda No.3\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

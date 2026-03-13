@@ -1,0 +1,209 @@
+[
+  {
+    "kode":"12.03.01.2035",
+    "nama_desa":"Panobasan Lombang",
+    "keterangan":"Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02",
+    "nama_desa":"18",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.1002",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2003",
+    "nama_desa":"Garoga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2004",
+    "nama_desa":"Huta Godang",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2005",
+    "nama_desa":"Batu Horing",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2008",
+    "nama_desa":"Batu Hula",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2009",
+    "nama_desa":"Sumuran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.1011",
+    "nama_desa":"",
+    "keterangan":"Penggabungan Desa Perkebunan Btg. Toru & Desa Aek Pahu serta  Peningkatan status Kel., Perda No. 5\/2008, Perbaikan nama sesuai BA  No. 2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl  30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2015",
+    "nama_desa":"Napa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2016",
+    "nama_desa":"Wek IV",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2017",
+    "nama_desa":"Hapesong Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2018",
+    "nama_desa":"Telo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2019",
+    "nama_desa":"Wek III",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2020",
+    "nama_desa":"Perkebunan  Sigala-Gala",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2021",
+    "nama_desa":"Perkebunan  Hapesong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2022",
+    "nama_desa":"Hapesong Lama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2023",
+    "nama_desa":"Sipenggeng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2025",
+    "nama_desa":"Sianggunan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.2026",
+    "nama_desa":"Huta Baru",
+    "keterangan":"Penggabungan Desa Huta Baru & Desa Siagian, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.1030",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.02.1032",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

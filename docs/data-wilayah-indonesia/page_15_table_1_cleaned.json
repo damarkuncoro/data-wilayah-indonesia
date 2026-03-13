@@ -1,0 +1,200 @@
+[
+  {
+    "kode":"11",
+    "jumlah_desa":6500,
+    "luas_wilayah":56834.746,
+    "level":"provinsi",
+    "nama_wilayah":"ACEH",
+    "parent_provinsi":"ACEH",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12",
+    "jumlah_desa":5417,
+    "luas_wilayah":72460.744,
+    "level":"provinsi",
+    "nama_wilayah":"SUMATERA UTARA",
+    "parent_provinsi":"SUMATERA UTARA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13",
+    "jumlah_desa":1035,
+    "luas_wilayah":42119.542,
+    "level":"provinsi",
+    "nama_wilayah":"SUMATERA BARAT",
+    "parent_provinsi":"SUMATERA BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14",
+    "jumlah_desa":1591,
+    "luas_wilayah":89935.896,
+    "level":"provinsi",
+    "nama_wilayah":"RIAU",
+    "parent_provinsi":"RIAU",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15",
+    "jumlah_desa":1414,
+    "luas_wilayah":49026.579,
+    "level":"provinsi",
+    "nama_wilayah":"JAMBI",
+    "parent_provinsi":"JAMBI",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"16",
+    "jumlah_desa":2855,
+    "luas_wilayah":86771.684,
+    "level":"provinsi",
+    "nama_wilayah":"SUMATERA SELATAN",
+    "parent_provinsi":"SUMATERA SELATAN",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"17",
+    "jumlah_desa":1341,
+    "luas_wilayah":20128.34,
+    "level":"provinsi",
+    "nama_wilayah":"BENGKULU",
+    "parent_provinsi":"BENGKULU",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"18",
+    "jumlah_desa":2446,
+    "luas_wilayah":33570.264,
+    "level":"provinsi",
+    "nama_wilayah":"LAMPUNG",
+    "parent_provinsi":"LAMPUNG",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"19",
+    "jumlah_desa":309,
+    "luas_wilayah":16690.129,
+    "level":"provinsi",
+    "nama_wilayah":"KEPULAUAN BANGKA BELITUNG",
+    "parent_provinsi":"KEPULAUAN BANGKA BELITUNG",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"21",
+    "jumlah_desa":275,
+    "luas_wilayah":8269.708,
+    "level":"provinsi",
+    "nama_wilayah":"KEPULAUAN RIAU",
+    "parent_provinsi":"KEPULAUAN RIAU",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"31",
+    "jumlah_desa":0,
+    "luas_wilayah":660.982,
+    "level":"provinsi",
+    "nama_wilayah":"DKI JAKARTA",
+    "parent_provinsi":"DKI JAKARTA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"32",
+    "jumlah_desa":5311,
+    "luas_wilayah":37044.858,
+    "level":"provinsi",
+    "nama_wilayah":"JAWA BARAT",
+    "parent_provinsi":"JAWA BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"33",
+    "jumlah_desa":7810,
+    "luas_wilayah":34337.489,
+    "level":"provinsi",
+    "nama_wilayah":"JAWA TENGAH",
+    "parent_provinsi":"JAWA TENGAH",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"34",
+    "jumlah_desa":392,
+    "luas_wilayah":3170.645,
+    "level":"provinsi",
+    "nama_wilayah":"DAERAH ISTIMEWA YOGYAKARTA",
+    "parent_provinsi":"DAERAH ISTIMEWA YOGYAKARTA",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"35",
+    "jumlah_desa":7721,
+    "luas_wilayah":48036.84,
+    "level":"provinsi",
+    "nama_wilayah":"JAWA TIMUR",
+    "parent_provinsi":"JAWA TIMUR",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"36",
+    "jumlah_desa":1238,
+    "luas_wilayah":9352.767,
+    "level":"provinsi",
+    "nama_wilayah":"BANTEN",
+    "parent_provinsi":"BANTEN",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"51",
+    "jumlah_desa":636,
+    "luas_wilayah":5590.15,
+    "level":"provinsi",
+    "nama_wilayah":"BALI",
+    "parent_provinsi":"BALI",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"52",
+    "jumlah_desa":1021,
+    "luas_wilayah":19675.889,
+    "level":"provinsi",
+    "nama_wilayah":"NUSA TENGGARA BARAT",
+    "parent_provinsi":"NUSA TENGGARA BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"53",
+    "jumlah_desa":3137,
+    "luas_wilayah":46446.644,
+    "level":"provinsi",
+    "nama_wilayah":"NUSA TENGGARA TIMUR",
+    "parent_provinsi":"NUSA TENGGARA TIMUR",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"61",
+    "jumlah_desa":2046,
+    "luas_wilayah":147037.037,
+    "level":"provinsi",
+    "nama_wilayah":"KALIMANTAN BARAT",
+    "parent_provinsi":"KALIMANTAN BARAT",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"62",
+    "jumlah_desa":1432,
+    "luas_wilayah":153443.908,
+    "level":"provinsi",
+    "nama_wilayah":"KALIMANTAN TENGAH",
+    "parent_provinsi":"KALIMANTAN TENGAH",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"63",
+    "jumlah_desa":1872,
+    "luas_wilayah":37135.054,
+    "level":"provinsi",
+    "nama_wilayah":"KALIMANTAN SELATAN",
+    "parent_provinsi":"KALIMANTAN SELATAN",
+    "parent_kabupaten":""
+  }
+]

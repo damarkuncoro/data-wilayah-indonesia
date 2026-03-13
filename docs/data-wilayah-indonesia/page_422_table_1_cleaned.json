@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"12.06.16.2005",
+    "nama_desa":"Sukanalu",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2006",
+    "nama_desa":"Kebayaken",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2007",
+    "nama_desa":"Kutarayat",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2009",
+    "nama_desa":"Sukandebi",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2010",
+    "nama_desa":"Gung Pinto",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2011",
+    "nama_desa":"Kutambelin",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2012",
+    "nama_desa":"Ndeskati",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2013",
+    "nama_desa":"Sukatepu",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.16.2014",
+    "nama_desa":"Sigarang-garang",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17",
+    "nama_desa":"17",
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2001",
+    "nama_desa":"Sukatendel",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2002",
+    "nama_desa":"Mardingding",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2003",
+    "nama_desa":"Kutagaluh",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2004",
+    "nama_desa":"Kutambaru",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2005",
+    "nama_desa":"Jandimeriah",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2006",
+    "nama_desa":"Tiganderket",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2007",
+    "nama_desa":"Tanjung Pulo",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2008",
+    "nama_desa":"Tanjung Merawa",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2009",
+    "nama_desa":"Perbaji",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2010",
+    "nama_desa":"Temburun",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2011",
+    "nama_desa":"Kutakepar",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2012",
+    "nama_desa":"Penampen",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2013",
+    "nama_desa":"Tanjung Mbelang",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2014",
+    "nama_desa":"Narigunung I",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2015",
+    "nama_desa":"Narigunung II",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2016",
+    "nama_desa":"Gunung Merlawan",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.17.2017",
+    "nama_desa":"Susuk",
+    "keterangan":"Semula wil. Kec. Payung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

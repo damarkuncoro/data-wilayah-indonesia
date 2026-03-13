@@ -1,0 +1,164 @@
+[
+  {
+    "kode":"11.02.04.2012",
+    "nama_desa":"Terutung Pedi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2013",
+    "nama_desa":"Kute Rih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2014",
+    "nama_desa":"Gumpang Jaya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2015",
+    "nama_desa":"Pulo Latong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2016",
+    "nama_desa":"Kutacane Lama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2017",
+    "nama_desa":"Batu Mbulan Mbaru",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2018",
+    "nama_desa":"Pulo Peding",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2019",
+    "nama_desa":"Mendabe",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2020",
+    "nama_desa":"Ujung Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2021",
+    "nama_desa":"Pekhapat Titi Panjang",
+    "keterangan":"Qanun No. 30\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2022",
+    "nama_desa":"Pekhapat Sepakat",
+    "keterangan":"Qanun No. 30\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2023",
+    "nama_desa":"Alas Marancar",
+    "keterangan":"Qanun No. 30\/2006, Perbaikan nama Surat Pem Aceh No. 146.1\/10560  tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017. Perbaikan nama desa semula Alas Marantcar menjadi Alas Marancar,  sesuai: Qanun No. 30 Tahun 2006; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2024",
+    "nama_desa":"Batu Mbulan Sepakat",
+    "keterangan":"Qanun No. 30\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2025",
+    "nama_desa":"Pulo Sanggakh",
+    "keterangan":"Qanun No. 30\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2026",
+    "nama_desa":"Melayu I",
+    "keterangan":"Qanun No. 30\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.04.2027",
+    "nama_desa":"Mbarung Datuk  Saudane",
+    "keterangan":"Qanun No. 30\/2006, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.05",
+    "nama_desa":"18",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.05.2005",
+    "nama_desa":"Salang Alas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

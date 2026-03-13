@@ -1,0 +1,200 @@
+[
+  {
+    "kode":"11.02.14.2007",
+    "nama_desa":"Berandang",
+    "keterangan":"Semula wil. Kec. Bambel",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2008",
+    "nama_desa":"Kute Bunin",
+    "keterangan":"Semula wil. Kec. Bambel, Perbaikan nama Surat Pem Aceh  No.146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2009",
+    "nama_desa":"Buah Pala",
+    "keterangan":"Semula wil. Kec. Bambel",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2010",
+    "nama_desa":"Panosan",
+    "keterangan":"Semula wil. Kec. Bambel, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2011",
+    "nama_desa":"Lawe Pasaran  Tengku Mbelin",
+    "keterangan":"Qanun No. 24\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2012",
+    "nama_desa":"Terutung Megahke  MBakhu",
+    "keterangan":"Qanun No. 24\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2013",
+    "nama_desa":"Kisam Lestari",
+    "keterangan":"Qanun No. 24\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2014",
+    "nama_desa":"Kisam Kute Rambe",
+    "keterangan":"Qanun No. 24\/2006, Perbaikan nama Surat Pem Aceh No.146.1\/10560  tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2015",
+    "nama_desa":"Lawe Polak",
+    "keterangan":"Qanun No. 24\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2016",
+    "nama_desa":"Lawes Sumur  Sepakat",
+    "keterangan":"Qanun No. 24\/2006, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2017",
+    "nama_desa":"Setia Baru",
+    "keterangan":"Qanun No. 24\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14.2018",
+    "nama_desa":"Teger Miko",
+    "keterangan":"Qanun No. 24\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15",
+    "nama_desa":"14",
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2001",
+    "nama_desa":"Salim Pinim I",
+    "keterangan":"Semula wil. Kec. Babul Rahmah, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2002",
+    "nama_desa":"Jambur Damar",
+    "keterangan":"Semula wil. Kec. Babul Rahmah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2003",
+    "nama_desa":"Alur Langsat",
+    "keterangan":"Semula wil. Kec. Lawe Alas",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2004",
+    "nama_desa":"Rambah Sayang",
+    "keterangan":"Qanun No. 19\/2006, Perbaikan nama Surat Pem Aceh No.146.1\/10560  tgl 13 Juni 2016, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2006",
+    "nama_desa":"Rumah Luar",
+    "keterangan":"Semula wil. Kec. Lawe Alas",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2007",
+    "nama_desa":"Tenembak Alas",
+    "keterangan":"Semula wil. Kec. Babul Rahmah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2008",
+    "nama_desa":"Lawe Tungkal",
+    "keterangan":"Semula wil. Kec. Lawe Alas",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2009",
+    "nama_desa":"Salim Pinim II",
+    "keterangan":"Qanun No. 23\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15.2010",
+    "nama_desa":"Jambukh Pekhmate",
+    "keterangan":"Qanun No. 23\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

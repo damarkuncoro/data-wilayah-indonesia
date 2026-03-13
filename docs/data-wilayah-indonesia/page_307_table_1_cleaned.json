@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"12.02.09",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siborong-Borong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.10",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagaran",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.11",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Parmonangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.12",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipahutar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.13",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangaribuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.14",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Garoga",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.02.15",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03",
+    "jumlah_desa":211,
+    "luas_wilayah":4201.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TAPANULI SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.01",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Padang Sidempuan Barat, Perda No. 13\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Angkola Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.02",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Toru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec.Padang Sidempuan Timur, Perda No. 13\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Angkola Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.04",
+    "jumlah_desa":34,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipirok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.05",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Saipar Dolok Hole",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.06",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Siais, Perda No. 13\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Angkola Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.07",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Angkola",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.14",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Arse",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.20",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Marancar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.21",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sayur Matinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.22",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Bilah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.29",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Batang Toru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.30",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. sebagian Kec. Sayur Matinggi Perda No. 5\/2010",
+    "level":"kecamatan",
+    "nama_wilayah":"Tano Tombangan Angkola",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.31",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil. Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"kecamatan",
+    "nama_wilayah":"Angkola Sangkunur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.03.32",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Batang Angkola sesuai Perda 1\/2017,  Surat Gub No. 138\/7085 tgl 9-8-2017 hal Permohonan Pemberian  Kode Kec. Angkola Muara Tais, BA Rpt Penyusunan Kebijakan ttg  Batas Daerah No. 07\/BAD I\/VII\/2018 tgl 17 Juli 2018",
+    "level":"kecamatan",
+    "nama_wilayah":"Angkola Muara Tais",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TAPANULI SELATAN"
+  },
+  {
+    "kode":"12.04",
+    "jumlah_desa":170,
+    "luas_wilayah":902.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. NIAS",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.05",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hiliduho",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.06",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gido",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.10",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Idanogawo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.11",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bawolato",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.20",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_wilayah":"Hiliserangkai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  },
+  {
+    "kode":"12.04.21",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_wilayah":"Botomuzoi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. NIAS"
+  }
+]

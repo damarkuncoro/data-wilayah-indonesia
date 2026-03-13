@@ -1,0 +1,308 @@
+[
+  {
+    "kode":"12.01.02.2017",
+    "nama_desa":"Sorkam Kiri",
+    "keterangan":"Pemekaran sebagian wil Kel. Sorkam Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2018",
+    "nama_desa":"Pananggahan",
+    "keterangan":"Pemekaran sebagian wil Desa Naipospos Barat Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2019",
+    "nama_desa":"Pagaran Julu",
+    "keterangan":"Pemekaran sebagian wil Kel. Naipospos Barat Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2020",
+    "nama_desa":"Hite Urat",
+    "keterangan":"Pemekaran sebagian wil Kel. Naipospos Barat Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2021",
+    "nama_desa":"Sihapas",
+    "keterangan":"Pemekaran sebagian wil Desa Pearaja Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2022",
+    "nama_desa":"Nauli",
+    "keterangan":"Pemekaran sebagian wil Desa Gonting Mahe Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.02.2023",
+    "nama_desa":"Muara Nauli",
+    "keterangan":"Pemekaran sebagian wil Desa Horlang Muara Nauli Kec. Kolang Perda  No 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03",
+    "nama_desa":"2",
+    "keterangan":"Perubahan nama Kec. Sibolga, Perda No. 8\/2003.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1001",
+    "nama_desa":"",
+    "keterangan":"Menjadi Kel. perda No. 5\/2002",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1002",
+    "nama_desa":"",
+    "keterangan":"Peningkatan Status Menjadi Kelurahan Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1003",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1004",
+    "nama_desa":"",
+    "keterangan":"Menjadi Kel.  Perda No. 7\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1005",
+    "nama_desa":"",
+    "keterangan":"Menjadi Kel. perubahan nama Sibuluan I, Perda No. 7\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1006",
+    "nama_desa":"",
+    "keterangan":"Menjadi Kel. perubahan nama Sibuluan II Perda No. 7\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1011",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1012",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1013",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.2014",
+    "nama_desa":"Aek Garut",
+    "keterangan":"Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.2015",
+    "nama_desa":"Sitio-Tio Hilir",
+    "keterangan":"Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1016",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1017",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1018",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1019",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1020",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1021",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1022",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1023",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1024",
+    "nama_desa":"",
+    "keterangan":"Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1025",
+    "nama_desa":"",
+    "keterangan":"Pemekaran dari Kel Hajoran Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.03.1026",
+    "nama_desa":"",
+    "keterangan":"Pemekaran dari Kel Hajoran Perda 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.04",
+    "nama_desa":"5",
+    "keterangan":"Perubahan nama Kec. Lumut, Perda No. 8\/2003.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.04.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.04.2002",
+    "nama_desa":"Gunung Marijo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.04.2003",
+    "nama_desa":"Sihaporas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

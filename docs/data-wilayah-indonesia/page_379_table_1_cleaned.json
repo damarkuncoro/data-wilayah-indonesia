@@ -1,0 +1,47 @@
+[
+  {
+    "kode":"12.03.29",
+    "jumlah_desa":6.0,
+    "keterangan":"Perda No. 12\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Batang Toru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.1002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Batang Toru, Peningkatan status menjadi Kel. Perda  No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Batang Toru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Batang Toru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

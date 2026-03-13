@@ -1,0 +1,254 @@
+[
+  {
+    "kode":"12.12.03.2005",
+    "nama_desa":"Silaen",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2006",
+    "nama_desa":"Ombur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2008",
+    "nama_desa":"Natolutali",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2009",
+    "nama_desa":"Dalihan Natolu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2010",
+    "nama_desa":"Sigodang Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2014",
+    "nama_desa":"Sinta Dame",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2015",
+    "nama_desa":"Hutanamora",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2017",
+    "nama_desa":"Pardomuan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2018",
+    "nama_desa":"Huta Gur-Gur I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2022",
+    "nama_desa":"Lumban Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2023",
+    "nama_desa":"Napitupulu",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2024",
+    "nama_desa":"Hutagaol Sihujur",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2025",
+    "nama_desa":"Meranti Barat",
+    "keterangan":"Semula wil. Kec. Pintu Pohan Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2026",
+    "nama_desa":"Sibide Barat",
+    "keterangan":"Semula wil. Kec. Pintu Pohan Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2027",
+    "nama_desa":"Sibide",
+    "keterangan":"Semula wil. Kec. Pintu Pohan Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2028",
+    "nama_desa":"Simanobak",
+    "keterangan":"Pemekaran sebagian Desa Pardomuan, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2029",
+    "nama_desa":"Panindi",
+    "keterangan":"Pemekaran sebagian Desa Dalihan Natolu, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2030",
+    "nama_desa":"Siringkiron",
+    "keterangan":"Pemekaran sebagian Desa Sinta Dame, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.03.2031",
+    "nama_desa":"Marbulang",
+    "keterangan":"Pemekaran sebagian Desa Sigondang Tua, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04",
+    "nama_desa":"21",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2002",
+    "nama_desa":"Lumban Rau Selatan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2004",
+    "nama_desa":"Lumban Rau Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2006",
+    "nama_desa":"Lumban Balik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2007",
+    "nama_desa":"Panamparan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2008",
+    "nama_desa":"Lumban Pinasa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.1009",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2010",
+    "nama_desa":"Parsoburan Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.04.2011",
+    "nama_desa":"Lumban Ruhap",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

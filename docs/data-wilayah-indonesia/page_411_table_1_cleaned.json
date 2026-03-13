@@ -1,0 +1,308 @@
+[
+  {
+    "kode":"12.05.18.2005",
+    "nama_desa":"Lubuk Kertang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.18.2006",
+    "nama_desa":"Perlis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.18.2007",
+    "nama_desa":"Kelantan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2002",
+    "nama_desa":"Sei Bamban",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2003",
+    "nama_desa":"Sei Musam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2004",
+    "nama_desa":"Sei Serdang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2005",
+    "nama_desa":"Namo Sialang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2006",
+    "nama_desa":"Kwala Musam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2007",
+    "nama_desa":"Karya Jadi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.19.2008",
+    "nama_desa":"Paluh Pakeh  Babussalam",
+    "keterangan":"Perbaikan nama sesuai Perda 16\/2005 dan BA No. 2826.a\/BP\/2017  Rapat Penyusunan dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2002",
+    "nama_desa":"Alur Gadung",
+    "keterangan":"Perbaikan Nama sesuai PP 43\/1999, Surat Bupati No.  138-1221\/Pem\/2017 tgl 12 Juni 2017 hal verifikasi nama wila adm pem  kec, desa dan kel se Kab. Langkat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2003",
+    "nama_desa":"Simpang Tiga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2004",
+    "nama_desa":"Sei Litur Tasik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2005",
+    "nama_desa":"Sawit Hulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2006",
+    "nama_desa":"Mekar Sawit",
+    "keterangan":"Perda No. 24\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.20.2007",
+    "nama_desa":"Alur Melati",
+    "keterangan":"Perda No. 24\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2001",
+    "nama_desa":"Serapit",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2002",
+    "nama_desa":"Gunung Tinggi",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2003",
+    "nama_desa":"Sidorejo",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2004",
+    "nama_desa":"Suka Pulung",
+    "keterangan":"Semula  wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2005",
+    "nama_desa":"Aman Damai",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2006",
+    "nama_desa":"Tanjung Kariahan",
+    "keterangan":"Semula wil. Kec. Kuala",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2007",
+    "nama_desa":"Sebertung",
+    "keterangan":"Semula wil. Kec. Bahorok",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2008",
+    "nama_desa":"Pulau Semikat",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2009",
+    "nama_desa":"Sumber Jaya",
+    "keterangan":"Semula wil. Kec. Bahorok",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.21.2010",
+    "nama_desa":"Perkebunan Amal  Tani",
+    "keterangan":"Semula wil. Kec. Bahorok",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22",
+    "nama_desa":"8",
+    "keterangan":"Perda No. 27\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2001",
+    "nama_desa":"Namotogan",
+    "keterangan":"Semula wil. Kec. Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.05.22.2002",
+    "nama_desa":"Kuta Gajah",
+    "keterangan":"Semula wil. Kec.Salapian",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

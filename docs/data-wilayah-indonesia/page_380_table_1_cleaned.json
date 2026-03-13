@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"12.03.29.2007",
+    "nama_desa":"Muara Opu",
+    "keterangan":"Semula wil. Kec. Angkola Barat, Berdasarkan Perda Kabupaten  Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.1008",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Desa Rianate I menjadi Kel. Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.1009",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Desa Rianate II menjadi Kel. Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.2010",
+    "nama_desa":"Simarlelan",
+    "keterangan":"Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.29.2011",
+    "nama_desa":"Muara Huta Raja",
+    "keterangan":"Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30",
+    "nama_desa":"16",
+    "keterangan":"Pemekaran Kec. sebagian Kec. Sayur Matinggi Perda No. 5\/2010",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.1001",
+    "nama_desa":"",
+    "keterangan":"Penggabungan Desa Panabari, Huta Tonga TT, dan Desa Padang  Bujur, serta peningkatan status Kel., Perda No. 5\/2008 - Semula  berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2002",
+    "nama_desa":"Aek Uncim",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2003",
+    "nama_desa":"Panindoan",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2004",
+    "nama_desa":"Aek Kahombu",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2005",
+    "nama_desa":"Batu Horpak",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2006",
+    "nama_desa":"Situmba",
+    "keterangan":"Penggabungan Desa Aek Sulum, Desa Gunung Tua Baringin, Desa  Baringin TT, Desa Janji Mauli TT, Perda No. 5\/2008 Semula berada di  wil. Sayur Matinggi Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2007",
+    "nama_desa":"Purba Tua",
+    "keterangan":"Penggabungan Desa Purba Tua TT dan Desa Lumban Sihubil, Perda  No. 5\/2008, Semula berada di wil. Kec. Sayur Matinggi Perda No.  5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2008",
+    "nama_desa":"Lumban Jabi-jabi",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010,  Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2009",
+    "nama_desa":"Ingul Jae",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2010",
+    "nama_desa":"Sisoma",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2011",
+    "nama_desa":"Lumban Ratus",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2012",
+    "nama_desa":"Kota Tua",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2013",
+    "nama_desa":"Simaninggir Tano  Tombangan",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010,  Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2014",
+    "nama_desa":"Huta Raja",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010,  Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2015",
+    "nama_desa":"Harean",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2016",
+    "nama_desa":"Aek Parupuk",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.30.2017",
+    "nama_desa":"Tanjung Medan",
+    "keterangan":"Semula berada di wil. Kec. Sayur Matinggi  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31",
+    "nama_desa":"8",
+    "keterangan":"Pemekaran sebagian wil. Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.1001",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008 - semula berada wil. Kec.  Angkola Barat  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.1002",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008, semula berada wil. Kec.  Angkola Barat  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2003",
+    "nama_desa":"Simatohir",
+    "keterangan":"semula berada wil. Kec. Angkola Barat  Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2004",
+    "nama_desa":"Perkebunan",
+    "keterangan":"Penggabungan Desa Perkebunan Sangkunur & Desa Perkebunan  Molambu, Perda No. 5\/2008, semula berada wil. Kec. Angkola Barat   Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2005",
+    "nama_desa":"Bandar Tarutung",
+    "keterangan":"Semula berada di wil Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

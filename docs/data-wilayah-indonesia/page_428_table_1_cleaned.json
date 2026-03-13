@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.07.06.2020",
+    "nama_desa":"Namo Landur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2021",
+    "nama_desa":"Gunung Berita",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2022",
+    "nama_desa":"Tangkahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2023",
+    "nama_desa":"Uruk Gedang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2024",
+    "nama_desa":"Rumah Keben",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2025",
+    "nama_desa":"Namo Pinang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2026",
+    "nama_desa":"Sudi Rejo",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017. Perbaikan nama desa semula Sudirejo menjadi Sudi Rejo sesuai Surat  Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2027",
+    "nama_desa":"Jaba",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2028",
+    "nama_desa":"Kuta Tualah",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2029",
+    "nama_desa":"Kwala Simeme",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2030",
+    "nama_desa":"Batu Gemuk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2031",
+    "nama_desa":"Lau Mulgap",
+    "keterangan":"Perbaikan nama desa semula Lau Mulgab menjadi Lau Mulgap sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2032",
+    "nama_desa":"Batu Rejo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2033",
+    "nama_desa":"Salang Tungir",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2034",
+    "nama_desa":"Namo Mbaru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2035",
+    "nama_desa":"Rimo  Mungkur",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.06.2036",
+    "nama_desa":"Namo Mbelin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07",
+    "nama_desa":"17",
+    "keterangan":"Perbaikan nama kec. semula Sibiru-biru menjadi Biru-Biru sesuai Surat  Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2001",
+    "nama_desa":"Aji Baho",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2002",
+    "nama_desa":"Biru-biru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2003",
+    "nama_desa":"Candi Rejo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2004",
+    "nama_desa":"Kutomulyo",
+    "keterangan":"Perbaikan nama desa semula Kuta Mulyo menjadi Kutomulyo sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2005",
+    "nama_desa":"Kuala Dekah",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2006",
+    "nama_desa":"Mbaruai",
+    "keterangan":"Perbaikan nama sesuai UU Drt No. 57 Thn 1956 dan BA No.  2826.a\/BP\/2017 Rapat Penyusunan dan Validasi Data Wilayah tgl 30  Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.07.2007",
+    "nama_desa":"Mardinding Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

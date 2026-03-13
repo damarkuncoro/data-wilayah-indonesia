@@ -1,0 +1,317 @@
+[
+  {
+    "kode":"12.09.26.2003",
+    "nama_desa":"Terusan Tengah",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26.2004",
+    "nama_desa":"Piasa Ulu",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26.2005",
+    "nama_desa":"Sidomulyo",
+    "keterangan":"Semula wil. Kec. Buntu Pane, Perbaikan nama sesuai Perda No.  2\/2008 dan BA No. 2826.a\/BP\/2017 Rapat Penyusunan dan Validasi  Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26.2006",
+    "nama_desa":"Teladan",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26.2007",
+    "nama_desa":"Padang Sari",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27",
+    "nama_desa":"5",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27.2001",
+    "nama_desa":"Urung Pane",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27.2002",
+    "nama_desa":"Sei Silau Tua",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27.2003",
+    "nama_desa":"Sei Silau Barat",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27.2004",
+    "nama_desa":"Silau Maraja",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.27.2005",
+    "nama_desa":"Bangun Sari",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28",
+    "nama_desa":"5",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28.2001",
+    "nama_desa":"Silo Baru",
+    "keterangan":"Semula wil. Kec. Air Joman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28.2002",
+    "nama_desa":"Silo Lama",
+    "keterangan":"Semula wil. Kec. Air Joman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28.2003",
+    "nama_desa":"Silo Bonto",
+    "keterangan":"Semula wil. Kec. Air Joman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28.2004",
+    "nama_desa":"Lubuk Palas",
+    "keterangan":"Semula wil. Kec. Air Joman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.28.2005",
+    "nama_desa":"Bangun Sari",
+    "keterangan":"Semula wil. Kec. Air Joman",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2001",
+    "nama_desa":"Rawang Lama",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2002",
+    "nama_desa":"Rawang Baru",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2003",
+    "nama_desa":"Rawang Pasar IV",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2004",
+    "nama_desa":"Rawang Pasar V",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2005",
+    "nama_desa":"Pondok Bungur",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2006",
+    "nama_desa":"Panca Arga",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.29.2007",
+    "nama_desa":"Rawang Pasar VI",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2001",
+    "nama_desa":"Suka Damai",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2002",
+    "nama_desa":"Perhutaan Silau",
+    "keterangan":"Semula wil. Kec. Meranti, Perubahan nama Sesuai Surat Bup. Asahan  No. 410\/2565 tgl 23 Mei 2016 No. 410\/1350 tgl 14 Des 2016 dan ND  Dir. Dekonsentrasi, TP dan Kerjasama No 843\/TU\/DK\/SDV\/2017 tgl 14  Agsts 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2003",
+    "nama_desa":"Tanah Rakyat",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2004",
+    "nama_desa":"Taman Sari",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2005",
+    "nama_desa":"Gedangan",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2006",
+    "nama_desa":"Suka Makmur",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2007",
+    "nama_desa":"Pulo Bandring",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2008",
+    "nama_desa":"Sidomulyo",
+    "keterangan":"Semula wil. Kec. Meranti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.30.2009",
+    "nama_desa":"Suka Damai Barat",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

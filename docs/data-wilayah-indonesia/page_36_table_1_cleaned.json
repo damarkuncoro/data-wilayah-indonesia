@@ -1,0 +1,236 @@
+[
+  {
+    "kode":"11.01.08",
+    "nama_desa":"16",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2001",
+    "nama_desa":"Lhok Keutapang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2002",
+    "nama_desa":"Hilir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2003",
+    "nama_desa":"Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2004",
+    "nama_desa":"Hulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2005",
+    "nama_desa":"Jambo Apha",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2006",
+    "nama_desa":"Tepi Air",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2007",
+    "nama_desa":"Pasar",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2008",
+    "nama_desa":"Lhok Bengkuang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2009",
+    "nama_desa":"Panton Luas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2010",
+    "nama_desa":"Gunung Kerambil",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2011",
+    "nama_desa":"Air Berudang",
+    "keterangan":"Koreksi nama 'Air Berundang' Srt Ditjen BPD No 140\/5118\/BPD tgl 18  Juli 2019",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2012",
+    "nama_desa":"Batu Itam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2013",
+    "nama_desa":"Panjupian",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2014",
+    "nama_desa":"Lhok Rukam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2015",
+    "nama_desa":"Air Pinang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.08.2016",
+    "nama_desa":"Lhok Bengkuang  Timur",
+    "keterangan":"Pemekaran Desa, Qonun No. 6\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2001",
+    "nama_desa":"Keude Trumon",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2002",
+    "nama_desa":"Ujong Tanoh",
+    "keterangan":"Perbaikan nama sesuai Surat Pemkab Aceh Selatan No.140\/819\/2016  tgl 14 okt 2016 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2003",
+    "nama_desa":"Sigleng",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2004",
+    "nama_desa":"Ie Meudama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2005",
+    "nama_desa":"Teupin Tinggi",
+    "keterangan":"Perbaikan nama sesuai Srt Pemkab Aceh Selatan No.140\/819\/2016 tgl  14 okt 2016, Rekomedasi Ditjen BPD No. 146\/3672\/BPD tgl 21 Juni  2017, Srt Ditjen BPD No. 145\/1820\/SET tgl 15 Nov 2018 hal  penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2006",
+    "nama_desa":"Kuta Baro",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2007",
+    "nama_desa":"Panton Bilie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.01.09.2012",
+    "nama_desa":"Kuta Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

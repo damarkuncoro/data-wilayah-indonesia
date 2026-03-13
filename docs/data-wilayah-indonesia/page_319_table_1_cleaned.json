@@ -1,0 +1,252 @@
+[
+  {
+    "kode":"12.21.08",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Sosa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Lubu Sutam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Barumun Perda No. 2\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Barumun Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.11",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Barumun Tengah Perda No. 2\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Nabara Barumun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.12",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Barumun Tengah, Perda No. 12\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Sihapas Barumun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Barumun sesuai Perda No. 4\/2019 dan  ND Dir Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Barumun Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Sosa sesuai Perda No. 5\/2019 dan ND  Dir Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulu Sosa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Sosa, Perda No. 6\/2019 dan ND Dir  Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Sosa Julu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Barumun Tengah sesuai Perda No.  7\/2019 dan ND Dir Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16  Desember 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Barumun Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Hutaraja Tinggi dan Kec. Batang Lubu  Sutam sesuai Perda No. 8\/2019 dan ND Dir Dekon No.  1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Sosa Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.22",
+    "jumlah_desa":52,
+    "luas_wilayah":3080.0,
+    "keterangan":"UU No. 22\/2008.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. LABUHANBATU  SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.22.01",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kotapinang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.22.02",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampung Rakyat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.22.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Torgamba",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.22.04",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Kanan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.22.05",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Silangkitang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU  SELATAN"
+  },
+  {
+    "kode":"12.23",
+    "jumlah_desa":82,
+    "luas_wilayah":3686.0,
+    "keterangan":"UU No. 23\/2008. Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. LABUHANBATU UTARA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.01",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kualuh Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.02",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kualuh Leidong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.03",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kualuh Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.04",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Kuo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.05",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Marbau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Na IX - X",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.07",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Aek Natas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  },
+  {
+    "kode":"12.23.08",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Labuhanbatu",
+    "level":"kecamatan",
+    "nama_wilayah":"Kualuh Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LABUHANBATU UTARA"
+  }
+]

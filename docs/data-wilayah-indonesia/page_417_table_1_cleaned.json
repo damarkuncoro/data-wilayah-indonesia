@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"12.06.07.2017",
+    "nama_desa":"Gunung Juhar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2018",
+    "nama_desa":"Ketawaren",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2019",
+    "nama_desa":"Jandi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2020",
+    "nama_desa":"Buluh Pancur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2021",
+    "nama_desa":"Kutagugung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2022",
+    "nama_desa":"Sukababo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2023",
+    "nama_desa":"Lau Kidupen",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2024",
+    "nama_desa":"Sigenderang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.07.2025",
+    "nama_desa":"Juhar Ginting  Sadanioga",
+    "keterangan":"Pemekaran Desa Juhar Ginting Perda No. 3\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08",
+    "nama_desa":"19",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2001",
+    "nama_desa":"Gunung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2002",
+    "nama_desa":"Kem Kem",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2003",
+    "nama_desa":"Pertumbuken",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2004",
+    "nama_desa":"Kuala",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2005",
+    "nama_desa":"Limang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2006",
+    "nama_desa":"Perbesi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2007",
+    "nama_desa":"Lau Kapur",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2008",
+    "nama_desa":"Kuta Bangun",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2009",
+    "nama_desa":"Kuta Raya",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2010",
+    "nama_desa":"Pergendangen",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2011",
+    "nama_desa":"Simolap",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2012",
+    "nama_desa":"Simpang  Pergendangen",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan, Perbaikan  nama sesuai BA No. 2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov 2017. Perubahan nama desa semula Simpang Pergendangen Perlamben  menjadi Simpang Pergendangen, sesuai: Surat Dirjen Bina Pemdes No. 145\/2979\/BPD tgl 13 Juni 2022; dan Surat Bup. Karo No. 412.2\/022\/DTMPD\/2022 tgl 30 Mei 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2013",
+    "nama_desa":"Kuta Gerat",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2014",
+    "nama_desa":"Suka Julu",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2015",
+    "nama_desa":"Kuta Galoh",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No. 130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2016",
+    "nama_desa":"Bunga Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.06.08.2017",
+    "nama_desa":"Kutambaru Punti",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati Karo No.130\/0887\/Pemum\/2016   Perihal : Validasi Data Wilayah Administrasi Pemerintahan, Perbaikan  nama sesuai Perda No.3\/2010 dan BA No. 2826.a\/BP\/2017 tgl 30 Okt  s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

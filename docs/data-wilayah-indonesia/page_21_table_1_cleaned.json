@@ -1,0 +1,232 @@
+[
+  {
+    "kode":"11.03.24",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Peunaron",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04",
+    "jumlah_desa":295,
+    "luas_wilayah":4468.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH TENGAH",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.01",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Linge",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.02",
+    "jumlah_desa":33,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Silih Nara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.03",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bebesen",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.07",
+    "jumlah_desa":31,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pegasing",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.08",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.10",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ketol",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.11",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kebayakan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.12",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kute Panang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.13",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Celala",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.17",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Laut Tawar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.18",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Atu Lintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.19",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Jagong Jeget",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.20",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Bies",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.04.21",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Rusip Antara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TENGAH"
+  },
+  {
+    "kode":"11.05",
+    "jumlah_desa":322,
+    "luas_wilayah":2783.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH BARAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.01",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Johan Pahwalan menjadi Johan Pahlawan,  sesuai: Qanun No. 5 Tahun 2015; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Johan Pahlawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.02",
+    "jumlah_desa":44,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kaway XVI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.03",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Mas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.04",
+    "jumlah_desa":43,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Woyla",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.05",
+    "jumlah_desa":32,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Samatiga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  },
+  {
+    "kode":"11.05.06",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bubon",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BARAT"
+  }
+]

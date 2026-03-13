@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"11.04.17",
+    "nama_desa":"18",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2001",
+    "nama_desa":"Takengon Timur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2002",
+    "nama_desa":"Asir Asir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2003",
+    "nama_desa":"Asir Asir Asia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2004",
+    "nama_desa":"Bale Atu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2005",
+    "nama_desa":"Bujang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2006",
+    "nama_desa":"Gunung Suku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2007",
+    "nama_desa":"Hakim Bale Bujang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2008",
+    "nama_desa":"Kenawat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2009",
+    "nama_desa":"Kuteni Reje",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2010",
+    "nama_desa":"Pedemun One One",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2011",
+    "nama_desa":"Rawe",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2012",
+    "nama_desa":"Takengon Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2013",
+    "nama_desa":"Toweren Antara",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2014",
+    "nama_desa":"Toweren Toa",
+    "keterangan":"Perbaikan nama desa semula Toweran Toa menjadi Toweren Toa,  sesuai: Qanun No. 1 Tahun 2011; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2015",
+    "nama_desa":"Toweren Uken",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2016",
+    "nama_desa":"Teluk One-One",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2017",
+    "nama_desa":"Merah Mersa",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.17.2018",
+    "nama_desa":"Waq Toweren",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18",
+    "nama_desa":"11",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2001",
+    "nama_desa":"Atu Lintang",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2002",
+    "nama_desa":"Merah Mege",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2003",
+    "nama_desa":"Merah Pupuk",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2004",
+    "nama_desa":"Merah Muyang",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2005",
+    "nama_desa":"Gayo Murni",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2006",
+    "nama_desa":"Kepala Akal",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2007",
+    "nama_desa":"Tanoh Abu",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2008",
+    "nama_desa":"Bintang Kekelip",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2009",
+    "nama_desa":"Merah Jernang",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2010",
+    "nama_desa":"Damar Mulyo",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011, Perbaikan nama sesuai Surat  Pem Aceh No. 146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Validasi Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.18.2011",
+    "nama_desa":"Pantan Damar",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19",
+    "nama_desa":"10",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2001",
+    "nama_desa":"Merah Said",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "kode":"11.07.24",
+    "jumlah_desa":48.0,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2001",
+    "jumlah_desa":null,
+    "keterangan":"perbaikan nama Baroh menjadi Baroh Ujong Rimba,surat Bupati Pidie  No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina Pemerintahan Desa  No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2002",
+    "jumlah_desa":null,
+    "keterangan":"perbaikan nama Alue Jojo menjadi Jojo,surat Bupati Pidie No 140\/2364  tgl 13 April 2021,Surat Sesditjen Bina Pemerintahan Desa No  145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2003",
+    "jumlah_desa":null,
+    "keterangan":"Perbaikan nama sesuai Srt Ditjen BPD No. 145\/1820\/SET tgl 15 Nov  2018 hal penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2004",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2005",
+    "jumlah_desa":null,
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2006",
+    "jumlah_desa":null,
+    "keterangan":"Perbaikan nama sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni  2016 Hal Hasil Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2007",
+    "jumlah_desa":null,
+    "keterangan":"perbaikan nama Mee Tanjong menjadi Mee Tanjong Usi,surat Bupati  Pidie No 140\/2364 tgl 13 April 2021,Surat Sesditjen Bina Pemerintahan  Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.07.24.2008",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

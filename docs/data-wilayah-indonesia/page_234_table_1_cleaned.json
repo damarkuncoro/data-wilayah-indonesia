@@ -1,0 +1,218 @@
+[
+  {
+    "kode":"11.12.08.2004",
+    "nama_desa":"Alue Sungai Pinang",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2005",
+    "nama_desa":"Cot Mane",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2006",
+    "nama_desa":"Ladang Neubok",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2007",
+    "nama_desa":"Asoe Nanggroe",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2008",
+    "nama_desa":"Padang Geulumpang",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2009",
+    "nama_desa":"Ikue Lhung",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2010",
+    "nama_desa":"Kuta Makmur",
+    "keterangan":"Semula wil. Kec. Blang Pidie",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2011",
+    "nama_desa":"Jeumpa Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Kuta Jeumpa, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08.2012",
+    "nama_desa":"Alue Seulaseh",
+    "keterangan":"Pemekaran sebagian wil Desa Alue Sungai Pinang, Perda No. 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09",
+    "nama_desa":"14",
+    "keterangan":"Qanun No. 5\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2001",
+    "nama_desa":"Meurandeh",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2002",
+    "nama_desa":"Sukadamai",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2003",
+    "nama_desa":"Cot Bak-U",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2004",
+    "nama_desa":"Meunasah Sukon",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2005",
+    "nama_desa":"Meunasah Tengah",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2006",
+    "nama_desa":"Geulanggang Batee",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2007",
+    "nama_desa":"Kuta Paya",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2008",
+    "nama_desa":"Ujung Tanah",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2009",
+    "nama_desa":"Padang Keulele",
+    "keterangan":"Semula wil. Kec. Manggeng",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2010",
+    "nama_desa":"Alue Rambot",
+    "keterangan":"Semula wil Kec. Manggeng, Qanun No. 5\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2011",
+    "nama_desa":"Ladang Tuha I",
+    "keterangan":"Semula wil Kec. Manggeng, Qanun No. 5\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2012",
+    "nama_desa":"Ladang Tuha II",
+    "keterangan":"Semula wil Kec. Manggeng, Qanun No. 5\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2013",
+    "nama_desa":"Tokoh II",
+    "keterangan":"Pemekaran sebagian wil Desa Tokoh Kec. Manggeng, Perda No  5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09.2014",
+    "nama_desa":"Kayee Aceh",
+    "keterangan":"Pemekaran sebagian wil Desa Meunasah Sukon, Perda No 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.09.13.2003",
+    "nama_desa":"Pinanggiripan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2006",
+    "nama_desa":"Perkebunan Pulahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2007",
+    "nama_desa":"Hessa Perlompongan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2008",
+    "nama_desa":"Perkebunan Air Batu  I\/II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2009",
+    "nama_desa":"Perkebunan Air Batu  III\/IX",
+    "keterangan":"Perubahan nama Sesuai Surat Bup. Asahan No. 410\/2565 tgl 23 Mei  2016, Surat BPMPD No. 410\/1350 tgl 14 Des 2016 dan ND Dir.  Dekonsentrasi, TP dan Kerjasama No 843\/TU\/DK\/SDV\/2017 tgl 14  Agsts 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2010",
+    "nama_desa":"Danau Sijabut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2012",
+    "nama_desa":"Air Teluk Hessa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2013",
+    "nama_desa":"Air Genting",
+    "keterangan":"Perubahan nama Sesuai Surat Bup. Asahan No. 410\/2565 tgl 23 Mei  2016, Surat BPMPD No. 410\/1350 tgl 14 Des 2016 dan ND Dir.  Dekonsentrasi, TP dan Kerjasama No 843\/TU\/DK\/SDV\/2017 tgl 14  Agsts 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2014",
+    "nama_desa":"Hessa Air Genting",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2018",
+    "nama_desa":"Sijabut Teratai",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.13.2019",
+    "nama_desa":"Pulau Pule",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2001",
+    "nama_desa":"Sei Piring",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2002",
+    "nama_desa":"Pulau Rakyat Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2003",
+    "nama_desa":"Pulau Rakyat Pekan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2004",
+    "nama_desa":"Orika",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2005",
+    "nama_desa":"Manis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2006",
+    "nama_desa":"Tunggul 45",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2007",
+    "nama_desa":"Bangun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2008",
+    "nama_desa":"Persatuan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2009",
+    "nama_desa":"Padang Mahondang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2010",
+    "nama_desa":"Ofa Padang  Mahondang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2011",
+    "nama_desa":"Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.14.2012",
+    "nama_desa":"Mekar Sari",
+    "keterangan":"Peningkatan status dari Perbup 7\/2005, Pemekaran sebagian wil Desa  Pulau Rakyat Tua Perda No. 7\/2013",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.15",
+    "nama_desa":"10",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

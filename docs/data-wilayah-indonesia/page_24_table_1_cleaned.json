@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"11.08.09",
+    "jumlah_desa":33,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Seunuddon",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.10",
+    "jumlah_desa":34,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Syamtalira Aron",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.11",
+    "jumlah_desa":38,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Syamtalira Bayu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.12",
+    "jumlah_desa":57,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Luas",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.13",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Pasir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.14",
+    "jumlah_desa":47,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"T. Jambo Aye",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.15",
+    "jumlah_desa":39,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sawang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.16",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nisam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.17",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Cot Girek",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.18",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Langkahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.19",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Baktiya Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.20",
+    "jumlah_desa":39,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Paya Bakong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.21",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nibong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.22",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Kramat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.23",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lapang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pirak Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Geuredong Pase",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Banda Baro",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Nisam Antara",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.09",
+    "jumlah_desa":138,
+    "luas_wilayah":1822.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022 (tidak  ada batas darat dengan kab\/kota lainnya).",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SIMEULUE",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.01",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simeulue Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.02",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Salang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.03",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teupah Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.04",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simeulue Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.05",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Dalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.06",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simeulue Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.07",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teupah Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.08",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama desa semula Alapan menjadi Alafan, sesuai:  Qanun No. 24 Tahun 2002; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Alafan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.09",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Simeulue Timur, Perda No. 14\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Teupah Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  },
+  {
+    "kode":"11.09.10",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Simeulue Tengah, Perda No. 14\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Simeulue Cut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMEULUE"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.03.05.2076",
+    "nama_desa":"Pintu Padang   Mandalasena",
+    "keterangan":"Penggabungan Desa Mandalasena, Pargumbangan, Janji Mauli  Mandalasena, Huta Baru Madnalasena, Hutanopan, Gunung Selamat,  Rahuning Julu, Tano Hudon Jae, Tano Hudon Julu, dan Desa Pintu  Padang, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05.2077",
+    "nama_desa":"Sunge Sigiring-giring",
+    "keterangan":"Penggabungan Desa Sigiring Giring, Sunge Pining, Huta Tonga  Turunan, dan Desa Turunan, Perda No.5\/2008, Berdasarkan Perda  Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05.2078",
+    "nama_desa":"Silangkitang  Tambiski",
+    "keterangan":"Penggabungan Desa Batu Hombang, Tambiski, Silaiya Jae, Silaiya Julu,  Sayur Matua, dan Desa Silangkitang Lombang, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05.2079",
+    "nama_desa":"Batang Parsuluman",
+    "keterangan":"Penggabungan Desa Parsuluman dan Desa Batang Garut, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.05.1080",
+    "nama_desa":"",
+    "keterangan":"Penggabungan Desa Purba Tua Simangambat, Gunung Tua  Pandapotan, Simandera Huta Julu, Sigoring Goring, dan Desa  Simangambat, serta peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06",
+    "nama_desa":"13",
+    "keterangan":"Perubahan nama Kec. Siais, Perda No. 13\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.1001",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2004",
+    "nama_desa":"Situmbaga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2005",
+    "nama_desa":"Sinyior",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2006",
+    "nama_desa":"Pintu Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.1007",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2008",
+    "nama_desa":"Sibong-bong",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2009",
+    "nama_desa":"Siamporik Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2010",
+    "nama_desa":"Siamporik Lombang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2011",
+    "nama_desa":"Sihopur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2012",
+    "nama_desa":"Tandihat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2013",
+    "nama_desa":"Perkebunan  Marpinggan",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.1014",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2015",
+    "nama_desa":"Aek Natas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2016",
+    "nama_desa":"Dolok Godang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2017",
+    "nama_desa":"Sihuik-huik",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.2018",
+    "nama_desa":"Gunung Baringin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.06.1019",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.07.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

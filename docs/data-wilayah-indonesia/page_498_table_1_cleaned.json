@@ -1,0 +1,344 @@
+[
+  {
+    "kode":"12.13.12.2022",
+    "nama_desa":"Aek Botung",
+    "keterangan":"Pemekaran sebagian wil Desa Bondar Panjang Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.12.2023",
+    "nama_desa":"Koto Boru",
+    "keterangan":"Pemekaran sebagian wil Desa Bondar Panjang Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.12.2024",
+    "nama_desa":"Tanjung Larangan",
+    "keterangan":"Pemekaran sebagian wil Desa Kampung Pinang Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13",
+    "nama_desa":"30",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2001",
+    "nama_desa":"Aek Guo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2002",
+    "nama_desa":"Aek Holbung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2003",
+    "nama_desa":"Aek Manggis",
+    "keterangan":"Pemekaran sebagian Desa Muara Parlampungan, Perda No. 8\/2002",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2004",
+    "nama_desa":"Aek Nabara",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2005",
+    "nama_desa":"Aek Nangali",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2006",
+    "nama_desa":"Ampung Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2007",
+    "nama_desa":"Ampung Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2008",
+    "nama_desa":"Ampung Siala",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2009",
+    "nama_desa":"Bangkelang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2010",
+    "nama_desa":"Banjar Malayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2011",
+    "nama_desa":"Batu Madinding",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2012",
+    "nama_desa":"Bulu Soma",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2013",
+    "nama_desa":"Guo Batu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2014",
+    "nama_desa":"Hadangkahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2015",
+    "nama_desa":"Hatupangan",
+    "keterangan":"Pemekaran sebagian Desa Tombang Kaluang, Perda No. 8\/2002",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2016",
+    "nama_desa":"Muara Parlampungan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.1017",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2018",
+    "nama_desa":"Rantobi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2019",
+    "nama_desa":"Rao Rao",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2020",
+    "nama_desa":"Simanguntong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2021",
+    "nama_desa":"Sipogu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2022",
+    "nama_desa":"Sopo Tinjak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2023",
+    "nama_desa":"Tarlola",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2024",
+    "nama_desa":"Tombang Kaluang",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 Rapat Penyusunan  dan Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2025",
+    "nama_desa":"Huta Lobu",
+    "keterangan":"Perda No. 17\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2026",
+    "nama_desa":"Lubuk Samboa",
+    "keterangan":"Perda No. 17\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2027",
+    "nama_desa":"Jambur Baru",
+    "keterangan":"Pemekaran sebagian wil Desa Ampung Siala Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2028",
+    "nama_desa":"Aek Baru Jae",
+    "keterangan":"Pemekaran sebagian wil Desa Guo Batu Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2029",
+    "nama_desa":"Aek Baru Julu",
+    "keterangan":"Pemekaran sebagian wil Desa Guo Batu Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2030",
+    "nama_desa":"Lubuk Bondar  Panjang",
+    "keterangan":"Pemekaran sebagian wil Kel. Muara Soma dan Desa Banjar Melayu  Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.13.2031",
+    "nama_desa":"Tor Naincat",
+    "keterangan":"Pemekaran sebagian wil Desa Batu Madinding Perda No. 4\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.14",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.14.2001",
+    "nama_desa":"Aek Garingging",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.14.2002",
+    "nama_desa":"Aek Manyuruk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

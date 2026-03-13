@@ -1,0 +1,65 @@
+[
+  {
+    "kode":"12.04.06.2050",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Wea-Wea, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2051",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Ladea, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2052",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Tulumbaho, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2053",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Sisobahili, Perda No. 2\/2012. Perbaikan nama desa semula Nifolo'o Lauru menjadi Nifalo'olauru  sesuai Surat Bupati Kab. Nias No. 140\/1371\/DPMD\/2021 tgl 16  Agustus 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2054",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Hilisebua, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2055",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Somi, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.06.2056",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Sisarahili Sogaeadu, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

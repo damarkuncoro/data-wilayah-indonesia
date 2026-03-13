@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"11.13.10.2006",
+    "nama_desa":"UPT Pantan Kela",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017. Perbaikan nama desa semula UPT. Pantan Kela menjadi UPT Pantan  Kela sesuai Qanun No. 9 Tahun 2004.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.10.2007",
+    "nama_desa":"Buntul Musara",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.10.2008",
+    "nama_desa":"Kuala Jernih",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.10.2009",
+    "nama_desa":"Uyem Beriring",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.10.2010",
+    "nama_desa":"Pulo Gelime",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2001",
+    "nama_desa":"Seneren",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2002",
+    "nama_desa":"Remukut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2003",
+    "nama_desa":"Kenyaran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2004",
+    "nama_desa":"Tetingi",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2005",
+    "nama_desa":"Atu Kapur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2006",
+    "nama_desa":"Suri Musara",
+    "keterangan":"Qanun No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2007",
+    "nama_desa":"UPT Aih Selah",
+    "keterangan":"Qanun No. 2\/2007, Perbaikan nama sesuai Validasi Data Nama dan  Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina Pemdes  No. 146\/3672\/BPD tgl 21 Juni 2017. Perbaikan nama desa semula UPT. Aih Selah menjadi UPT Aih Selah  sesuai Qanun No. 2 Tahun 2007.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2008",
+    "nama_desa":"Cane Baru",
+    "keterangan":"Qanun No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.11.2009",
+    "nama_desa":"Kurnia",
+    "keterangan":"Qanun No. 2\/2007. Perubahan nama desa semula Kuning Kurnia menjadi Kurnia sesuai  Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

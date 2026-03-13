@@ -1,0 +1,47 @@
+[
+  {
+    "kode":"12.03.03.2069",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.03.2079",
+    "jumlah_desa":null,
+    "keterangan":"Bergabung dengan desa SIkail Kail Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.03.2083",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Pargarutan Jae, Gunung Tua Pargarutan, dan  Desa Sampean Kapar, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.03.2094",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Panompuan Tonga & Desa Panompuan Julu,  Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.03.2095",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Kantin, Tapus, Sitorbis, Pagaran RI, & Desa Huta  Baru, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

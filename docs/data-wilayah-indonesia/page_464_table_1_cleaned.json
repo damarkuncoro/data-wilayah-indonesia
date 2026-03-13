@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"12.09.22.2001",
+    "nama_desa":"Rahuning",
+    "keterangan":"Semual wil. Kec. Bandar Pulau",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2002",
+    "nama_desa":"Perkebunan Gunung  Melayu",
+    "keterangan":"Semula wil. Kec. Bandar Pulau",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2003",
+    "nama_desa":"Gunung Melayu",
+    "keterangan":"Semula wil. Kec. Bandar Pulau",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2004",
+    "nama_desa":"Batu Anam",
+    "keterangan":"Semula wil. Kec. Bandar Pulau",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2005",
+    "nama_desa":"Perkebunan Aek  Nagaga",
+    "keterangan":"Semula wil. Kec. Bandar Pulau",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2006",
+    "nama_desa":"Rahuning I",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.22.2007",
+    "nama_desa":"Rahuning II",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2001",
+    "nama_desa":"Tanjung Alam",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2002",
+    "nama_desa":"Perkebunan Sei  Dadap I\/II",
+    "keterangan":"Semula wil. Kec. Air Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2003",
+    "nama_desa":"Perkebunan Sei  Dadap III\/IV",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2004",
+    "nama_desa":"Sei Kamah I",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2005",
+    "nama_desa":"Sei Kamah II",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2006",
+    "nama_desa":"Bahung Sibatu-batu",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2007",
+    "nama_desa":"Sei Alim Hasak",
+    "keterangan":"Semula wil. Kec. Air Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2008",
+    "nama_desa":"Tanjung Asri",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2009",
+    "nama_desa":"Sei Kamah Baru",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.23.2010",
+    "nama_desa":"Pasiran",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24",
+    "nama_desa":"6",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2001",
+    "nama_desa":"Sei Nangka",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2002",
+    "nama_desa":"Sei Jawi-Jawi",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2003",
+    "nama_desa":"Sei Serindan",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2004",
+    "nama_desa":"Sei Tualang Pandau",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2005",
+    "nama_desa":"Sei Lendir",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.24.2006",
+    "nama_desa":"Sei Kepayang Kiri",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25",
+    "nama_desa":"5",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25.2001",
+    "nama_desa":"Sei Lunang",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25.2002",
+    "nama_desa":"Sei Pasir",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25.2003",
+    "nama_desa":"Sei Tempurung",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25.2004",
+    "nama_desa":"Sarang Helang",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.25.2005",
+    "nama_desa":"Sei Sembilang",
+    "keterangan":"Semula wil. Kec. Sei Kepayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.26.2001",
+    "nama_desa":"Tinggi Raja",
+    "keterangan":"Semula wil. Kec. Buntu Pane",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

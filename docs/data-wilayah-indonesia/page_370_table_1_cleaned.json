@@ -1,0 +1,56 @@
+[
+  {
+    "kode":"12.03.20",
+    "jumlah_desa":11.0,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.20.2002",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Huta Padang, Huraba, dan Desa Pangarongan,  Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.20.1004",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Pasar Sampurna, Gapuk Jae, dan Desa Aek  Toras, serta peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.20.2014",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Mombang Boru, Gunung Manaon, Binanga, dan  Desa Perkebunan Marancar, Perda No. 5\/2008, Berdasarkan Perda  Kabupaten Tapanuli Selatan No.1 Tahun 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.20.2015",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.20.2016",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Simaninggir, Aek Pasir, dan Desa Pancur, Perda  No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

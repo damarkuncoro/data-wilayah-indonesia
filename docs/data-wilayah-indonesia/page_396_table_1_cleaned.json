@@ -1,0 +1,56 @@
+[
+  {
+    "kode":"12.04.20",
+    "jumlah_desa":15.0,
+    "keterangan":"Perda No. 5\/2005.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.20.2005",
+    "jumlah_desa":null,
+    "keterangan":"Semula, wil. Kec. Hiliduho",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

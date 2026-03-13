@@ -1,0 +1,83 @@
+[
+  {
+    "kode":"12.11.14.2002",
+    "nama_desa":"Silalahi I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.14.2003",
+    "nama_desa":"Paropo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.14.2004",
+    "nama_desa":"Silalahi III",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.14.2005",
+    "nama_desa":"Paropo I",
+    "keterangan":"Pemekaran Desa sesuai Perda No. 1\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.15",
+    "nama_desa":"3",
+    "keterangan":"Perda No. 7\/2005.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.15.2001",
+    "nama_desa":"Sitinjo",
+    "keterangan":"Semula wil. Kec. Sindikalang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.15.2002",
+    "nama_desa":"Sitinjo I",
+    "keterangan":"Perda No. 7\/2005",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.15.2003",
+    "nama_desa":"Sitinjo II",
+    "keterangan":"Perda No. 7\/2005",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11.15.1004",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

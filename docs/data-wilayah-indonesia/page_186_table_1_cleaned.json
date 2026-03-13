@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"11.08.24.2018",
+    "nama_desa":"Leupe",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2019",
+    "nama_desa":"Ceumeucet",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2020",
+    "nama_desa":"Teupin U",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2021",
+    "nama_desa":"Alue Bungkoh",
+    "keterangan":"Semula wil. Kec. Matang Kuli",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2022",
+    "nama_desa":"Pucok Alue",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai Validasi  Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi  Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.24.2023",
+    "nama_desa":"Meunye Tujoh",
+    "keterangan":"Semula wil. Kec. Matang Kuli, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25",
+    "nama_desa":"11",
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2001",
+    "nama_desa":"Lhok Asan",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2002",
+    "nama_desa":"Darul Aman",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2003",
+    "nama_desa":"Alue Awe",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2004",
+    "nama_desa":"Darussalam",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2005",
+    "nama_desa":"Rayeuk Jawa",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2006",
+    "nama_desa":"Dayah Seupeng",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu, Perbaikan nama sesuai Surat Pem  Aceh No. 146.1\/10560 tgl 13 Juni 2016, Perbaikan nama sesuai  Validasi Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2007",
+    "nama_desa":"Uram Jalan",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2008",
+    "nama_desa":"Peudari",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2009",
+    "nama_desa":"Krueng Mbang",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2010",
+    "nama_desa":"Pulo Meuria",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.25.2011",
+    "nama_desa":"Suka Damai",
+    "keterangan":"Semula wil. Kec. Syamtalira Bayu, Perbaikan nama sesuai Validasi  Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi  Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26",
+    "nama_desa":"9",
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2001",
+    "nama_desa":"Paya Dua",
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2002",
+    "nama_desa":"Cot Jabet",
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2003",
+    "nama_desa":"Ulee Nyeue",
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2004",
+    "nama_desa":"Paya Uleue",
+    "keterangan":"Semula wil. Kec. Nisam, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2005",
+    "nama_desa":"Jamuan",
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2006",
+    "nama_desa":"Alue Keurinyai",
+    "keterangan":"Semula wil. Kec. Nisam, Perbaikan nama sesuai Validasi Data Nama  dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

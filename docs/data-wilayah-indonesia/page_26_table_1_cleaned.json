@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"11.12.02",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tangan-Tangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.03",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Manggeng",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.04",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Susoh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.05",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Batee",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.06",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Babah Rot",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 4\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Setia",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.08",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 4\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Jeumpa",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.12.09",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Sabil",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13",
+    "jumlah_desa":136,
+    "luas_wilayah":5541.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. GAYO LUES",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.01",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Blangkejeren",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.02",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kutapanjang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rikit Gaib",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.04",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Terangun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pining",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Blangpegayon",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Puteri Betung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.08",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dabun Gelang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.09",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Blangjerango",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teripe Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.13.11",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pantan Cuaca",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. GAYO LUES"
+  },
+  {
+    "kode":"11.14",
+    "jumlah_desa":172,
+    "luas_wilayah":3872.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH JAYA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.01",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teunom",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.02",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Krueng Sabee",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Setia Bhakti menjadi Setia Bakti, sesuai: UU No. 4 Tahun 2002; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Setia Bakti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.04",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Sampoiniet menjadi Sampoi Niet, sesuai: UU No. 4 Tahun 2002; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Sampoi Niet",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.05",
+    "jumlah_desa":34,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  },
+  {
+    "kode":"11.14.06",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH JAYA"
+  }
+]

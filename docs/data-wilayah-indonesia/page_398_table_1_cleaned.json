@@ -1,0 +1,29 @@
+[
+  {
+    "kode":"12.04.21.2016",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Balohili, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2017",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Ononamolo Talafu, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.04.21.2018",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Ononamolo Talafu dan Desa Fulolo  Botomuzoi, Perda No. 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

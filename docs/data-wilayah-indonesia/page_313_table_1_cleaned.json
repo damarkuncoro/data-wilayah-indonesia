@@ -1,0 +1,282 @@
+[
+  {
+    "kode":"12.10.20",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panai Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.11",
+    "jumlah_desa":161,
+    "luas_wilayah":2084.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. DAIRI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.01",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sidikalang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.02",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sumbul",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tigalingga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.04",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siempat Nempu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.05",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Silima Pungga Pungga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.06",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Pinem",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.07",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siempat Nempu Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.08",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siempat Nempu Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.09",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pegagan Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.10",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Parbuluan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.11",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lae Parira",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.12",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Sitember",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.13",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Berampu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.14",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Silahisabungan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.11.15",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 7\/2005.",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitinjo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DAIRI"
+  },
+  {
+    "kode":"12.12",
+    "jumlah_desa":231,
+    "luas_wilayah":2292.0,
+    "keterangan":"Perubahan nama dari Kab. Toba Samosir sesuai PP No 14 tahun 2020  tgl 24 Februari 2020, Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TOBA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.01",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Balige",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.02",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Laguboti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.03",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Silaen",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.04",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Habinsaran",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.05",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pintu Pohan Meranti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.06",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Borbor",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.07",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Porsea",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.08",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ajibata",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.09",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lumban Julu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  },
+  {
+    "kode":"12.12.10",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Uluan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TOBA"
+  }
+]

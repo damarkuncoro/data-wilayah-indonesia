@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"12.12.19",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sigumpar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 17\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar Narumonda",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 17\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Nassau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.22",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 17\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Tampahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.23",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Perda No. 5\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Bonatua Lunasi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.24",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Perda No. 5\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Parmaksian",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13",
+    "jumlah_desa":377,
+    "luas_wilayah":6547.0,
+    "keterangan":"Luas Wilayah Indikatif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. MANDAILING NATAL",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.01",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panyabungan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.02",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panyabungan Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panyabungan Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.04",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panyabungan Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panyabungan Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.06",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siabu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.07",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukit Malintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.08",
+    "jumlah_desa":34,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kotanopan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.09",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Sorik Marapi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.10",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tambangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.11",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulu Pungkut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.12",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Sipongi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.13",
+    "jumlah_desa":30,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Natal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.14",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lingga Bayu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.15",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.16",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Natal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.17",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Batang Gadis",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.18",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Lingga Bayu, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Ranto Baek",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.19",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Huta Bargot",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.20",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Tambangan, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Puncak Sorik Marapi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.21",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Muara Sipongi, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pakantan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  },
+  {
+    "kode":"12.13.22",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Batahan, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Sinunukan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. MANDAILING NATAL"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "kode":"11.72.03",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Sukakarya dan Kec. Sukajaya sesuai Perda No. 4\/2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Sukamakmue",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73",
+    "jumlah_desa":68,
+    "luas_wilayah":133.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA LHOKSEUMAWE",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LHOKSEUMAWE"
+  },
+  {
+    "kode":"11.73.01",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Dua",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LHOKSEUMAWE"
+  },
+  {
+    "kode":"11.73.02",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Banda Sakti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LHOKSEUMAWE"
+  },
+  {
+    "kode":"11.73.03",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Blang Mangat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LHOKSEUMAWE"
+  },
+  {
+    "kode":"11.73.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Satu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LHOKSEUMAWE"
+  },
+  {
+    "kode":"11.74",
+    "jumlah_desa":66,
+    "luas_wilayah":224.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA LANGSA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.74.01",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Langsa Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.74.02",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Langsa Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.74.03",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Langsa Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.74.04",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Langsa Lama",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.74.05",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Langsa Baro",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA LANGSA"
+  },
+  {
+    "kode":"11.75",
+    "jumlah_desa":82,
+    "luas_wilayah":1184.0,
+    "keterangan":"UU No.8\/2007. Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA SUBULUSSALAM",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  },
+  {
+    "kode":"11.75.01",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Aceh Singkil",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Kiri",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  },
+  {
+    "kode":"11.75.02",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Aceh Singkil",
+    "level":"kecamatan",
+    "nama_wilayah":"Penanggalan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  },
+  {
+    "kode":"11.75.03",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Aceh Singkil",
+    "level":"kecamatan",
+    "nama_wilayah":"Rundeng",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  },
+  {
+    "kode":"11.75.04",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Aceh Singkil",
+    "level":"kecamatan",
+    "nama_wilayah":"Sultan Daulat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  },
+  {
+    "kode":"11.75.05",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Aceh Singkil",
+    "level":"kecamatan",
+    "nama_wilayah":"Longkib",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SUBULUSSALAM"
+  }
+]

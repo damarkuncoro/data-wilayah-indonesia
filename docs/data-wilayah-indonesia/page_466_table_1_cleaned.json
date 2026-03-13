@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"12.09.31",
+    "nama_desa":"6",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2001",
+    "nama_desa":"Air Teluk Kiri",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2002",
+    "nama_desa":"Teluk Dalam",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2003",
+    "nama_desa":"Perkebunan Teluk  Dalam",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2004",
+    "nama_desa":"Pulau Maria",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2005",
+    "nama_desa":"Pulau Tanjung",
+    "keterangan":"Semula wil. Kec. Simpang Empat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.31.2006",
+    "nama_desa":"Mekar Tanjung",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 2\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2001",
+    "nama_desa":"Aek Bange",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2002",
+    "nama_desa":"Aek Korsik",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2003",
+    "nama_desa":"Aek Ledong",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2004",
+    "nama_desa":"Ledong Barat",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2005",
+    "nama_desa":"Aek Nabuntu",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2006",
+    "nama_desa":"Ledong Timur",
+    "keterangan":"Semula wil. Kec. Aek Kuasan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.09.32.2007",
+    "nama_desa":"Padang Sipirok",
+    "keterangan":"Perda No. 10\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "kode":"11.17.09.2003",
+    "nama_desa":"Cemparam Jaya",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2004",
+    "nama_desa":"Pantan Kuli",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2005",
+    "nama_desa":"Simpang Renggali",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2006",
+    "nama_desa":"Jamur Atu Jaya",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007, Perbaikan nama  sesuai Surat Pem Aceh No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil  Klarifikasi Nama Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2007",
+    "nama_desa":"Sosial",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2008",
+    "nama_desa":"Gunung Sayang",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2009",
+    "nama_desa":"Amor",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2010",
+    "nama_desa":"Buntul Gayo",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2011",
+    "nama_desa":"Wih Resap",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2012",
+    "nama_desa":"Wer Tingkem",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2013",
+    "nama_desa":"Perumpaken Benjadi",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2014",
+    "nama_desa":"Hakim Peteri Pintu",
+    "keterangan":"Smula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.09.2015",
+    "nama_desa":"Simpur",
+    "keterangan":"Semula wil Kec. Syiah Utama Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran Kec. Perda No. 5\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2001",
+    "nama_desa":"Simpang Rahmat",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2002",
+    "nama_desa":"Gajah Putih",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2003",
+    "nama_desa":"Gayo Setie",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2004",
+    "nama_desa":"Umah Besi",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2005",
+    "nama_desa":"Pante Karya",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2006",
+    "nama_desa":"Meriah Jaya",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2007",
+    "nama_desa":"Timang Gajah",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2008",
+    "nama_desa":"Pantan Lues",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2009",
+    "nama_desa":"Alam Jaya",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.17.10.2010",
+    "nama_desa":"Reronga",
+    "keterangan":"Semula wil Kec. Timang Gajah Perda No. 5\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

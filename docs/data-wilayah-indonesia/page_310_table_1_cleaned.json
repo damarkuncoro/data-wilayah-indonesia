@@ -1,0 +1,232 @@
+[
+  {
+    "kode":"12.07.19",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Galang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.20",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"STM Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.21",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Patumbak",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.22",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Deli Tua",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.23",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sunggal",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.24",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hamparan Perak",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.25",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Labuhan Deli",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.26",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Percut Sei Tuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.27",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Kuis",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.28",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Pakam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.31",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagar Merbau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.32",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pantai Labu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.07.33",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Beringin",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08",
+    "jumlah_desa":386,
+    "luas_wilayah":4601.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SIMALUNGUN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.01",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siantar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.02",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Malela",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.03",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Maligas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.04",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Panei",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.05",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Panombeian Pane menjadi Panombeian  Panei, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Panombeian Panei",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jorlang Hataran",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.07",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Raya Kahean",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.08",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bosar Maligas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  },
+  {
+    "kode":"12.08.09",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sidamanik",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIMALUNGUN"
+  }
+]

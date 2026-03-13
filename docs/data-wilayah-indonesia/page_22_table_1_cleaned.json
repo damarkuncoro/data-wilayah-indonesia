@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"11.05.08",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pante Ceureumen",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.09",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Meureubo",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.10",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Woyla Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.11",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Woyla Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.05.12",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Panton Reu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.06",
+    "jumlah_desa":604,
+    "luas_wilayah":2891.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH BESAR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.01",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lhoong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.02",
+    "jumlah_desa":28,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lhoknga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.03",
+    "jumlah_desa":52,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Indrapuri",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.04",
+    "jumlah_desa":47,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Seulimeum",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.05",
+    "jumlah_desa":39,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Montasik",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.06",
+    "jumlah_desa":35,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sukamakmur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.07",
+    "jumlah_desa":32,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Imarah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.08",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Peukan Bada",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.09",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mesjid Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.10",
+    "jumlah_desa":50,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ingin Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.11",
+    "jumlah_desa":47,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuta Baro",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.12",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.13",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulo Aceh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.14",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Seulawah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.15",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Jantho",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.16",
+    "jumlah_desa":32,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Kota Cot Glie menjadi Kuta Cot Glie,  sesuai: Qanun No. 10 Tahun 2000; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuta Cot Glie",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.17",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuta Malaka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.18",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Tiga",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.19",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Kamal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.20",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Baitussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.21",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Krueng Barona Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.22",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Leupung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  },
+  {
+    "kode":"11.06.23",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec Qanun No. 3\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Blang Bintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH BESAR"
+  }
+]

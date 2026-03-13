@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"12.19.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Lima Puluh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Talawi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.06",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Tiram",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_wilayah":"Sei Balai",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Laut Tador",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Lima Puluh Pesisir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Datuk Lima Puluh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Datuk Tanah Datar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_wilayah":"Nibung Hangus",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20",
+    "jumlah_desa":386,
+    "luas_wilayah":3946.0,
+    "keterangan":"UU No. 37\/2007.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PADANG LAWAS UTARA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.01",
+    "jumlah_desa":44,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolok Sigompulon",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.02",
+    "jumlah_desa":86,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Dolok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.03",
+    "jumlah_desa":33,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Halongonan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.04",
+    "jumlah_desa":61,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Bolak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.05",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Bolak Julu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.06",
+    "jumlah_desa":36,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Portibi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.07",
+    "jumlah_desa":31,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Onang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.08",
+    "jumlah_desa":21,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Simangambat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.09",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Hulu Sihapas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.10",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Padang Bolak dan Kec. Portibi, Perda No.  2\/2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Bolak Tenggara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.11",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Halongonan dan Kec. Padang Bolak,  Perda No. 2\/2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Halongonan Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.20.12",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Simangambat, Perda No. 2\/2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Ujung Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS UTARA"
+  },
+  {
+    "kode":"12.21",
+    "jumlah_desa":303,
+    "luas_wilayah":3914.0,
+    "keterangan":"UU No. 38\/2007.  Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PADANG LAWAS",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.01",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Sosopan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.02",
+    "jumlah_desa":29,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Barumun Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.03",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Huristak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.04",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Barumun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.05",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan, Perda 8\/2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Hutaraja Tinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  },
+  {
+    "kode":"12.21.06",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulu Barumun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG LAWAS"
+  }
+]

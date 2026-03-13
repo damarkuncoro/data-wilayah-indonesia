@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"11.04.19.2003",
+    "nama_desa":"Gegarang",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2004",
+    "nama_desa":"Telege Sari",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2005",
+    "nama_desa":"Jeget Ayu",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2006",
+    "nama_desa":"Paya Tungel",
+    "keterangan":"Semula wil. Kec. Linge, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2007",
+    "nama_desa":"Jagong Jeget",
+    "keterangan":"Semula wil. Kec. Linge",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2008",
+    "nama_desa":"Bukit Sari",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2009",
+    "nama_desa":"Bukit Kemuning",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.19.2010",
+    "nama_desa":"Paya Dedep",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20",
+    "nama_desa":"12",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2001",
+    "nama_desa":"Bies Penentanan",
+    "keterangan":"Semula wil. Kec. Pegasing, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2002",
+    "nama_desa":"Bies Baru",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2003",
+    "nama_desa":"Bies Mulie",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2004",
+    "nama_desa":"Arul Latong",
+    "keterangan":"Semula wil. Kec. Pegasing, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh. Perbaikan nama desa semula Aru Latong menjadi Arul Latong, sesuai: Qanun No. 1 Tahun 2006; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2005",
+    "nama_desa":"Simpang Lukup  Badak",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2006",
+    "nama_desa":"Atang Jungket",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2007",
+    "nama_desa":"Tebes Lues",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2008",
+    "nama_desa":"Pucuk Deku",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2009",
+    "nama_desa":"Lenga",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2010",
+    "nama_desa":"Uning Pegantungen",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2011",
+    "nama_desa":"Simpang Uning Niken",
+    "keterangan":"Semula wil. Kec. Pegasing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.20.2012",
+    "nama_desa":"Karang Bayur",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21",
+    "nama_desa":"16",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2001",
+    "nama_desa":"Pantan Tengah",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2002",
+    "nama_desa":"Rusip",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2003",
+    "nama_desa":"Pilar",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2004",
+    "nama_desa":"Arul Pertik",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2005",
+    "nama_desa":"Pilar Jaya",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2006",
+    "nama_desa":"Tirmi Ara",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2007",
+    "nama_desa":"Atu Singkih",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2008",
+    "nama_desa":"Pantan Bener",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2009",
+    "nama_desa":"Kerawang",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"12.13.18.2012",
+    "nama_desa":"Simaninggir",
+    "keterangan":"Semula wil Kec. Lingga Bayu, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2013",
+    "nama_desa":"Ranto Panjang",
+    "keterangan":"Semula wil Kec. Lingga Bayu, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2014",
+    "nama_desa":"Huta Nauli",
+    "keterangan":"Semula wil Kec. Lingga Bayu, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2015",
+    "nama_desa":"Lubuk Kancah",
+    "keterangan":"Pemekaran Desa, Perda No. 8\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2016",
+    "nama_desa":"Dua Sepakat",
+    "keterangan":"Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2017",
+    "nama_desa":"Gunung Godang",
+    "keterangan":"Pemekaran sebagian wil Desa Ranto Panjang Perda No. 20\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.18.2018",
+    "nama_desa":"Padang Silojongan",
+    "keterangan":"Perda No. 17\/2007, Semula wil Kec. Lingga Bayu sesuai Srt Bup.  No.180\/1729\/HK\/2018 tgl 31 Mei 2018 dan Srt Gub No.120\/9881 tgl 2  Okt 2018 hal pengantar revisi kode dan data wil adm pem",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19",
+    "nama_desa":"14",
+    "keterangan":"Pemekaran sebagian Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2001",
+    "nama_desa":"Bangun Sejati",
+    "keterangan":"Semula wil Kec. Panyabunga Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2002",
+    "nama_desa":"Hutarimbaru",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2003",
+    "nama_desa":"Pasar Huta Bargot",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2004",
+    "nama_desa":"Huta Bargot Lombang",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2005",
+    "nama_desa":"Huta Bargot Dolok",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2006",
+    "nama_desa":"Huta Bargot Setia",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2007",
+    "nama_desa":"Huta Bargot Nauli",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2008",
+    "nama_desa":"Mondan",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2009",
+    "nama_desa":"Sayur Maincat",
+    "keterangan":"Semula wil Kec. Panyabungan Utara, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2010",
+    "nama_desa":"Kumpulan Setia",
+    "keterangan":"Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2011",
+    "nama_desa":"Simalagi",
+    "keterangan":"Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2012",
+    "nama_desa":"Saba Padang",
+    "keterangan":"Pemekaran sebagian wil Desa Huta Bargot Setia Perda No. 20\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2013",
+    "nama_desa":"Binanga",
+    "keterangan":"Perda No. 17\/2007, Semula wil Kec.Penyabungan Utara sesuai Srt  Bup. No.180\/1729\/HK\/2018 tgl 31 Mei 2018 dan Srt Gub No.120\/9881  tgl 2 Okt 2018 hal pengantar revisi kode dan data wil adm pem",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.19.2014",
+    "nama_desa":"Huta Naingkan",
+    "keterangan":"Perda No. 17\/2007, Semula wil Kec.Penyabungan Utara sesuai Srt  Bup. No.180\/1729\/HK\/2018 tgl 31 Mei 2018 dan Srt Gub No.120\/9881  tgl 2 Okt 2018 hal pengantar revisi kode dan data wil adm pem",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian Kec. Tambangan, Perda No. 10\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2001",
+    "nama_desa":"Huta Lombang",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2002",
+    "nama_desa":"Huta Baru",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2003",
+    "nama_desa":"Handel",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2004",
+    "nama_desa":"Hutatinggi",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2005",
+    "nama_desa":"Hutanamale",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2006",
+    "nama_desa":"Hutabaringin Julu",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.13.20.2007",
+    "nama_desa":"Sibanggor Jae",
+    "keterangan":"Semula wil Kec. Tambangan, Perda No. 10\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

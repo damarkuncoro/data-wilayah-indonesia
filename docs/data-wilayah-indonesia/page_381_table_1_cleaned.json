@@ -1,0 +1,182 @@
+[
+  {
+    "kode":"12.03.31.2007",
+    "nama_desa":"Tindoan Laut",
+    "keterangan":"Semula berada di wil Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2008",
+    "nama_desa":"Simataniari",
+    "keterangan":"Semula berada di wil Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2009",
+    "nama_desa":"Batu Godang",
+    "keterangan":"Semula berada di wil Kec. Angkola Barat Perda No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.31.2010",
+    "nama_desa":"Malombu",
+    "keterangan":"Perda No. 25\/2006 - Semula berada di wil Kec. Angkola Selatan Perda  No. 5\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32",
+    "nama_desa":"13",
+    "keterangan":"Pemekaran sebagian wil Kec. Batang Angkola sesuai Perda 1\/2017,  Surat Gub No. 138\/7085 tgl 9-8-2017 hal Permohonan Pemberian  Kode Kec. Angkola Muara Tais, BA Rpt Penyusunan Kebijakan ttg  Batas Daerah No. 07\/BAD I\/VII\/2018 tgl 17 Juli 2018",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.1001",
+    "nama_desa":"",
+    "keterangan":"Peningkatan status Kel., Perda No. 5\/2008, Semula wil Kec. Batang  Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.1002",
+    "nama_desa":"",
+    "keterangan":"Penggabungan Desa Hutatonga Muata Tais dan Desa Paran Padang,  Perda No. 5\/2008, Semula wil Kec. Batang Angkola sesuai Perda No.  1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2003",
+    "nama_desa":"Basilam Baru",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2004",
+    "nama_desa":"Sipangko",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2005",
+    "nama_desa":"Huta Holbung",
+    "keterangan":"Berdasarkan Perda Kabupaten Tapanuli Selatan No.1 Tahun 2016,  Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2006",
+    "nama_desa":"Muara Tais I",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2007",
+    "nama_desa":"Muara Tais II",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2008",
+    "nama_desa":"Muara Tais III",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2009",
+    "nama_desa":"Janji Mauli MT",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2010",
+    "nama_desa":"Pargumbangan",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2011",
+    "nama_desa":"Pangaribuan",
+    "keterangan":"Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2012",
+    "nama_desa":"Pasir Matogu",
+    "keterangan":"Penggabungan Desa Pasir dan Desa Janji Matogu, Perda No. 5\/2008,  Berdasarkan Perda Kabupaten Tapanuli Selatan No. 1 Tahun 2016,  Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2013",
+    "nama_desa":"Sori Manaon",
+    "keterangan":"Penggabungan Desa Sorimadingin Lama, Sorimadingin Baru, dan Desa  Gunung Manaon, Perda No. 5\/2008, Berdasarkan Perda Kabupaten  Tapanuli Selatan No.1 Tahun 2016, Semula wil Kec. Batang Angkola  sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2014",
+    "nama_desa":"Muara Purba Nauli",
+    "keterangan":"Penggabungan Desa Muara Siagian, Pasir Nauli, dan Desa Purba Tua  MT, Perda No. 5\/2008, Berdasarkan Perda Kabupaten Tapanuli Selatan  No.1 Tahun 2016, Semula wil Kec. Batang Angkola sesuai Perda No.  1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.32.2015",
+    "nama_desa":"Tatengger",
+    "keterangan":"Penggabungan Desa Bonan Dolok dan Desa Simaninggir MT, Perda  No. 5\/2008, Semula wil Kec. Batang Angkola sesuai Perda No. 1\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

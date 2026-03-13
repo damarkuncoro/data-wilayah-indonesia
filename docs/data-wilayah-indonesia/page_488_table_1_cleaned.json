@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"12.12.19",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2001",
+    "nama_desa":"Marsangap",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2002",
+    "nama_desa":"Nauli",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2003",
+    "nama_desa":"Situa-tua",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2004",
+    "nama_desa":"Sigumpar",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2005",
+    "nama_desa":"Maju",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2006",
+    "nama_desa":"Dolok Jior",
+    "keterangan":"Semula wil. Kec. Silaen, Perbaikan nama Surat Bupati  No.413\/604\/DPMDP-PA\/2017 tgl 3 Agustus 2017 hal Usul Perbaikan  Nama Desa dan BA No. 2826.a\/BP\/2017 Rapat Penyusunan dan  Validasi Data Wilayah tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.1007",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2008",
+    "nama_desa":"Sigumpar Julu",
+    "keterangan":"Semula wil. Kec. Silaen",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2009",
+    "nama_desa":"Sigumpar Barat",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.19.2010",
+    "nama_desa":"Banua Huta",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20",
+    "nama_desa":"14",
+    "keterangan":"Perda No. 17\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2001",
+    "nama_desa":"Narumonda I",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2002",
+    "nama_desa":"Narumonda II",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2003",
+    "nama_desa":"Narumonda III",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2004",
+    "nama_desa":"Narumonda IV",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2005",
+    "nama_desa":"Narumonda V",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2006",
+    "nama_desa":"Narumonda VI",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2007",
+    "nama_desa":"Narumonda VII",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2008",
+    "nama_desa":"Narumonda VIII",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2009",
+    "nama_desa":"Siantar Sitio Tio",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2010",
+    "nama_desa":"Siantar Dangsina",
+    "keterangan":"Semula wil Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2011",
+    "nama_desa":"Siantar Tonga-tonga I",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2012",
+    "nama_desa":"Siantar Tonga-Tonga  II",
+    "keterangan":"Semula wil Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2013",
+    "nama_desa":"Siantar Sigordang",
+    "keterangan":"Semula wil. Kec. Porsea",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.20.2014",
+    "nama_desa":"Siantar Tonga-Tonga  III",
+    "keterangan":"Pemekaran sebagian Desa Siantar Tonga-Tonga I, Perda No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 17\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2001",
+    "nama_desa":"Lumban Rau Tengah",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2002",
+    "nama_desa":"Lumban Rau Timur",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2003",
+    "nama_desa":"Lumban Rau Utara",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2004",
+    "nama_desa":"Sipagabu",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2005",
+    "nama_desa":"Napajoring",
+    "keterangan":"Semula wil. Kec. Habinsaran",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.12.21.2006",
+    "nama_desa":"Liat Tondung",
+    "keterangan":"Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

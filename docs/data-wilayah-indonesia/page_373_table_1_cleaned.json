@@ -1,0 +1,92 @@
+[
+  {
+    "kode":"12.03.21.2056",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Lobu Sipange dan Desa Siunjam, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.21.2057",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Silaiya Julu dan Desa Silaiya Jae, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.21.2058",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Parmonangan dan Desa Somanggal Dua, Perda  No. 5\/2008, Perbaikan nama sesuai Perda 1\/2016 dan BA No.  2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.21.2059",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Aek Talakma, Desa Sihaborgoan, Desa Arse  Hutabaru, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.21.2062",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Tanjungan Leuk dan Desa Aek Silaiya, Perda No.  5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.21.1063",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Sayur Matinggi I, Sayur Matinggi II, Sayur  Matinggi III, Desa Sayur Matinggi IV, dan Desa Aek Garugur, serta  peningkatan status Kel., Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22",
+    "jumlah_desa":12.0,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22.2003",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Sigolang dan Desa Sipange, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22.2005",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Biru dan Desa Aek Jahengna, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22.2008",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

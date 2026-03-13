@@ -1,0 +1,209 @@
+[
+  {
+    "kode":"12.08.25",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2003",
+    "nama_desa":"Bangun Mariah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2004",
+    "nama_desa":"Purba Sinombah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2006",
+    "nama_desa":"Purba Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2009",
+    "nama_desa":"Purba Tua Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.1012",
+    "nama_desa":"",
+    "keterangan":"Perbaikan nama desa semula Seribu Dolok menjadi Saribu Dolok  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2014",
+    "nama_desa":"Sinar Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.25.2016",
+    "nama_desa":"Purba Tua Etek",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Purba Tua Baru. Perbaikan nama desa semula Purbatua Etak menjadi Purba Tua Etek  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26",
+    "nama_desa":"14",
+    "keterangan":"Perbaikan nama kec. semula Dolok Silau menjadi Dolok Silou sesuai  Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2001",
+    "nama_desa":"Cingkes",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2002",
+    "nama_desa":"Panribuan",
+    "keterangan":"Perbaikan nama desa semula Paribuan menjadi Panribuan sesuai Surat  Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2003",
+    "nama_desa":"Saran Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2004",
+    "nama_desa":"Mariah Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2005",
+    "nama_desa":"Marubun Lokkung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2006",
+    "nama_desa":"Dolok Mariah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2007",
+    "nama_desa":"Bawang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2008",
+    "nama_desa":"Huta Saing",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2009",
+    "nama_desa":"Togur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2010",
+    "nama_desa":"Perasmian",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Saran Padang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2011",
+    "nama_desa":"Tanjung Purba",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Cingkes",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2012",
+    "nama_desa":"Silau Marawan",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Huta Saing",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2013",
+    "nama_desa":"Bosi Sinombah",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Huta Saing. Perbaikan nama desa semula Bosi Sinumbah menjadi Bosi Sinombah  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.26.2014",
+    "nama_desa":"Ujung Bawang",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Bawang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

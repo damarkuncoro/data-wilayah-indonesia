@@ -1,0 +1,56 @@
+[
+  {
+    "kode":"11.04.21.2011",
+    "nama_desa":"Paya Tampu",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2012",
+    "nama_desa":"Tanjung",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2013",
+    "nama_desa":"Merandeh Paya",
+    "keterangan":"Semula wil. Kec. Silih Nara, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2014",
+    "nama_desa":"Kuala Rawa",
+    "keterangan":"Semula wil. Kec. Silih Nara",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2015",
+    "nama_desa":"Pilar Wih Kiri",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.04.21.2016",
+    "nama_desa":"Lut Jaya",
+    "keterangan":"Pemekaran Desa, Qonun No. 1\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

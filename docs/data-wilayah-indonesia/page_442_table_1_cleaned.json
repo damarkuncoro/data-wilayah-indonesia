@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"12.08.04.2007",
+    "nama_desa":"Sigodang Barat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2008",
+    "nama_desa":"Bah Bolon Tongah",
+    "keterangan":"Perbaikan nama desa semula Bah Bolon Tonga menjadi Bah Bolon  Tongah sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2009",
+    "nama_desa":"Mekar Sari Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2010",
+    "nama_desa":"Simantin Pane Dame",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.1011",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2012",
+    "nama_desa":"Simpang Raya  Dasma",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Sipoldas Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2013",
+    "nama_desa":"Bangun Das Mariah",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Sipoldas Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2014",
+    "nama_desa":"Bangun Sitolu Bah",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Bangun Rakyat Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2015",
+    "nama_desa":"Bah Liran Siborna",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Siborna Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2016",
+    "nama_desa":"Nauli Baru",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Siborna Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.04.2017",
+    "nama_desa":"Rawang Pardomuan  Nauli",
+    "keterangan":"Pemekaran sebagian dari wil. Desa Janggir Leto Perda 2\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05",
+    "nama_desa":"11",
+    "keterangan":"Perbaikan nama kec. semula Panombeian Pane menjadi Panombeian  Panei, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2001",
+    "nama_desa":"Panombeian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2002",
+    "nama_desa":"Pamatang  Panombeian",
+    "keterangan":"Perbaikan nama desa semula Pematang Panombean menjadi Pamatang  Panombeian, sesuai: Perda No. 9 Tahun 2002; dan Surat Bup. Simalungun No. 146\/17509\/1.1.1\/2022 tgl 21 September  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2003",
+    "nama_desa":"Nagori Bosar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2004",
+    "nama_desa":"Marjandi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2005",
+    "nama_desa":"Simpang Panei",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2006",
+    "nama_desa":"Talun Kondot",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2007",
+    "nama_desa":"Simbolon Tengkoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2008",
+    "nama_desa":"Pamatang Panei",
+    "keterangan":"Perbaikan nama desa semula Pematang Pane menjadi Pamatang Panei  sesuai Surat Sekda Kab. Deli Serdang No. 138\/2885 tgl 19 Agustus  2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2009",
+    "nama_desa":"Marjandi Pisang",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Marjandi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2010",
+    "nama_desa":"Banuh Raya",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Talun Kondot",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.05.2011",
+    "nama_desa":"Rukun Mulyo",
+    "keterangan":"Perda 2\/2012, Pemekaran sebagian dari wil. Nagori Bosar",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2001",
+    "nama_desa":"Kasindir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2002",
+    "nama_desa":"Sibunga Bunga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2003",
+    "nama_desa":"Jorlang Hataran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2004",
+    "nama_desa":"Bah Sampuran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.08.06.2005",
+    "nama_desa":"Bah Birong Ulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

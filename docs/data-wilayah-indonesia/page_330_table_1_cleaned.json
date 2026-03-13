@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.01.16",
+    "nama_desa":"9",
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2001",
+    "nama_desa":"Suga Suga  Hutagodang",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2002",
+    "nama_desa":"Suka Maju",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2003",
+    "nama_desa":"Makmur",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2004",
+    "nama_desa":"Pasaribu Tobing",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2005",
+    "nama_desa":"Aek Nadua",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2006",
+    "nama_desa":"Simargarap",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2007",
+    "nama_desa":"Sidaling",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2008",
+    "nama_desa":"Sipakpahi",
+    "keterangan":"Semula wil. Kec. Sorkam Barat",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.16.2009",
+    "nama_desa":"PO Simargarap",
+    "keterangan":"Perda 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17",
+    "nama_desa":"6",
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2001",
+    "nama_desa":"Hutaginjang",
+    "keterangan":"Semula wil. Kec. Barus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2002",
+    "nama_desa":"Sihorbo",
+    "keterangan":"Semula wil. Kec. Barus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2003",
+    "nama_desa":"Parik Sinomba",
+    "keterangan":"Semula wil. Kec. Barus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2004",
+    "nama_desa":"Purba Tua",
+    "keterangan":"Semula wil. Kec. Barus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2005",
+    "nama_desa":"Pananggahan",
+    "keterangan":"Semula wil. Kec. Barus",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.17.2006",
+    "nama_desa":"Siharbangan",
+    "keterangan":"Perda No. 9\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18",
+    "nama_desa":"6",
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2001",
+    "nama_desa":"Pulo Pakkat",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2002",
+    "nama_desa":"Tebing Tinggi",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2003",
+    "nama_desa":"Pulo Pakkat II",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2004",
+    "nama_desa":"Janji Maria",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2005",
+    "nama_desa":"Sihadatuon",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.18.2006",
+    "nama_desa":"Sihapas",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19",
+    "nama_desa":"5",
+    "keterangan":"Perda No.8\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.2002",
+    "nama_desa":"Aek Gambir",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.2003",
+    "nama_desa":"Masundung",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.2005",
+    "nama_desa":"Lumut Nauli",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.2006",
+    "nama_desa":"Lumut Maju",
+    "keterangan":"Semula wil. Kec. Sibabangun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.19.2007",
+    "nama_desa":"Sialogo",
+    "keterangan":"Perda No. 9\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.20",
+    "nama_desa":"1",
+    "keterangan":"Rancangan Perda No. 35\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.20.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Pandan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.20.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Pandan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.20.2003",
+    "nama_desa":"Sipan",
+    "keterangan":"Semula wil. Kec. Pandan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.01.20.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Pandan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

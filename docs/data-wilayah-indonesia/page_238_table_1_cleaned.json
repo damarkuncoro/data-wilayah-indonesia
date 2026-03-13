@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"11.13.04.2028",
+    "nama_desa":"Gawar Belangi",
+    "keterangan":"Qanun No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.04.2029",
+    "nama_desa":"Blang Kala",
+    "keterangan":"Qanun No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2001",
+    "nama_desa":"Pining",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2002",
+    "nama_desa":"Pertik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2003",
+    "nama_desa":"Ekan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2004",
+    "nama_desa":"Uring",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2005",
+    "nama_desa":"Gajah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2006",
+    "nama_desa":"Pintu Rime",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2007",
+    "nama_desa":"Pepelah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2008",
+    "nama_desa":"Pasir Putih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.05.2009",
+    "nama_desa":"Lesten",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2001",
+    "nama_desa":"Gantung Geluni",
+    "keterangan":"Semula wil. Kec. Blang Kejeren.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2002",
+    "nama_desa":"Kutabukit",
+    "keterangan":"Semula wil. Kec. Blang Kejeren, Perbaikan nama sesuai Surat Pem  Aceh No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh. Perbaikan nama desa semula Kutebukit menjadi Kutabukit sesuai  Qanun No. 9 Tahun 2004.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2003",
+    "nama_desa":"Bener Baru",
+    "keterangan":"Semula  wil. Kec. Blang Kejeren.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2004",
+    "nama_desa":"Blangbengkik",
+    "keterangan":"Semula  wil. Kec. Blang Kejeren, Perbaikan nama sesuai Surat Pem  Aceh No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh. Perbaikan nama desa semula Blang Bengkik menjadi Blangbengkik,  sesuai: Qanun No. 9 Tahun 2004; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2005",
+    "nama_desa":"Kong",
+    "keterangan":"Semula wil. Kec. Kuta Panjang.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2006",
+    "nama_desa":"Ume Lah",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2007",
+    "nama_desa":"Cinta Maju",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2008",
+    "nama_desa":"Porang Ayu",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2009",
+    "nama_desa":"Tetingi",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2010",
+    "nama_desa":"Anak Reje",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2011",
+    "nama_desa":"Bemem Buntul  Pegayon",
+    "keterangan":"Qanun 2\/2007. Perubahan nama desa semula Rak Lintang menjadi Bemem Buntul  Pegayon sesuai Surat Sekda Pem. Aceh No. 140\/14270 tgl 07  September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.06.2012",
+    "nama_desa":"Akang Siwah",
+    "keterangan":"Qanun 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.07",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.13.07.2001",
+    "nama_desa":"Gumpang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

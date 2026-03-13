@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"11.03.22.2003",
+    "nama_desa":"Buket Tufah",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2004",
+    "nama_desa":"Tunong Ulee Gajah",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2005",
+    "nama_desa":"Keudondong",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2006",
+    "nama_desa":"Seuneubok Panton",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2007",
+    "nama_desa":"Buket Teumpeun",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2008",
+    "nama_desa":"Keude Blang",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2009",
+    "nama_desa":"Paya Kruep",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2010",
+    "nama_desa":"Tunong Paya Kruep",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.22.2011",
+    "nama_desa":"Alue Siwah",
+    "keterangan":"Semula wil. Kec. Nurussalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23",
+    "nama_desa":"13",
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2001",
+    "nama_desa":"Keutapang Dua",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2002",
+    "nama_desa":"Matang Rayeuk PP",
+    "keterangan":"Semula wil. Kec  Idi  Rayeuk, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2003",
+    "nama_desa":"Meunasah Jeumpa",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2004",
+    "nama_desa":"Lhok Asahan",
+    "keterangan":"Semula wil. Kec  Idi  Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2005",
+    "nama_desa":"Tualang Dalam",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2006",
+    "nama_desa":"Seuneubok Kuyun",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2007",
+    "nama_desa":"Ulee Glee",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2008",
+    "nama_desa":"Seuneubok Barat",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2009",
+    "nama_desa":"Seuneubok Teungoh",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2010",
+    "nama_desa":"Seuneubok Timu",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2011",
+    "nama_desa":"Matang Bungong",
+    "keterangan":"Semula wil. Kec  Idi  Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2012",
+    "nama_desa":"Matang Rayeuk SMK",
+    "keterangan":"Semula wil. Kec. Idi Rayeuk, Perbaikan nama sesuai Validasi Data  Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan Rekomedasi Ditjen Bina  Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.23.2013",
+    "nama_desa":"Seuneubok Dalam",
+    "keterangan":"Semula wil. Kec  Idi Rayeuk",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24",
+    "nama_desa":"5",
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24.2001",
+    "nama_desa":"Arul Pinang",
+    "keterangan":"Semula wil. Kec Serbajadi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24.2002",
+    "nama_desa":"Peunaron Baru",
+    "keterangan":"Semula wil. Kec Serbajadi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24.2003",
+    "nama_desa":"Peunaron Lama",
+    "keterangan":"Semula wil. Kec Serbajadi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24.2004",
+    "nama_desa":"Bukit Tiga",
+    "keterangan":"Semula wil. Kec Serbajadi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03.24.2006",
+    "nama_desa":"Sri Mulya",
+    "keterangan":"Semula wil. Kec Serbajadi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

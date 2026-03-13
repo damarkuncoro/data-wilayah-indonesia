@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"11.02.11",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Babul Rahmah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.12",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Ketambe",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.13",
+    "jumlah_desa":22,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Deleng Pokhkisen",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.14",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Lawe Sumur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.15",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanoh Alas",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.02.16",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 19\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Leuser",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.03",
+    "jumlah_desa":513,
+    "luas_wilayah":5409.0,
+    "keterangan":"PP No. 5\/2007 tentang Pemindahan Ibukota Kab. Aceh Timur dari  wilayah Kota Langsa ke wilayah Kec. Idi Rayeuk Kab. Aceh Timur.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. ACEH TIMUR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.01",
+    "jumlah_desa":45,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Aman",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.02",
+    "jumlah_desa":37,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Julok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.03",
+    "jumlah_desa":35,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Idi Rayeuk",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.04",
+    "jumlah_desa":27,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Birem Bayeun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.05",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Serbajadi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.06",
+    "jumlah_desa":31,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nurussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.07",
+    "jumlah_desa":38,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Peureulak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.08",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Selamat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.09",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Ulim",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.10",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"Perbaikan nama kec. semula Rantau Peureulak menjadi Ranto  Peureulak, sesuai: PP No. 49 Tahun 1991; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"kecamatan",
+    "nama_wilayah":"Ranto Peureulak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.11",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pante Bidari",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.12",
+    "jumlah_desa":26,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Madat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.13",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Indra Makmu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.14",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Idi Tunong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.15",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Banda Alam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.16",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Peudawa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.17",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Peureulak Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.18",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Peureulak Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.19",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.20",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Jernih",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.21",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Ihsan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  },
+  {
+    "kode":"11.03.22",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Qanun No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Darul Falah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. ACEH TIMUR"
+  }
+]

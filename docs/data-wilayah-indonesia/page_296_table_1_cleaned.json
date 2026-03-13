@@ -1,0 +1,164 @@
+[
+  {
+    "kode":"11.73.03.2017",
+    "nama_desa":"Alue Lim",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.03.2018",
+    "nama_desa":"Blang Buloh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.03.2019",
+    "nama_desa":"Blang Weu Panjoe",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.03.2020",
+    "nama_desa":"Jeulikat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.03.2021",
+    "nama_desa":"Blang Weu Baroh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.03.2022",
+    "nama_desa":"Seuneubok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04",
+    "nama_desa":"11",
+    "keterangan":"Qanun No. 1\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2001",
+    "nama_desa":"Batuphat Barat",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2002",
+    "nama_desa":"Blang Panyang",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2003",
+    "nama_desa":"Meunasah Dayah",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2004",
+    "nama_desa":"Paloh Punti",
+    "keterangan":"Semula wil. Kec. Muara Dua, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2005",
+    "nama_desa":"Blang Pulo",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2006",
+    "nama_desa":"Batuphat Timur",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2007",
+    "nama_desa":"Blang Naleung  Mameh",
+    "keterangan":"Semula wil. Kec. Muara Dua, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2008",
+    "nama_desa":"Cot Trieng",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2009",
+    "nama_desa":"Padang Sakti",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2010",
+    "nama_desa":"Meuria Paloh",
+    "keterangan":"Semula wil. Kec. Muara Dua",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.73.04.2011",
+    "nama_desa":"Ujong Pacu",
+    "keterangan":"Semula wil. Kec. Muara Dua, Perbaikan nama sesuai Surat Pem Aceh  No. 146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama  Desa\/Gampong di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"11.14.06.2013",
+    "nama_desa":"Alue Abed",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2014",
+    "nama_desa":"Gunong Mantok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2015",
+    "nama_desa":"Alue Raya",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2016",
+    "nama_desa":"Alue Teungoh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2017",
+    "nama_desa":"Babah Ceupan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2018",
+    "nama_desa":"Tuwi Eumpeuk",
+    "keterangan":"Perbaikan nama sesuai Validasi Data Nama dan Kodefikasi Desa tgl 17  Mei 2017 dan Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21  Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2019",
+    "nama_desa":"Panton Kabu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2020",
+    "nama_desa":"Tuwi Kayee",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.06.2021",
+    "nama_desa":"Alue Piet",
+    "keterangan":"Pemekaran sebagian wil Desa Kuta Tuha Perda 7\/2012, Rekomendasi  Gubernur No.141\/22198 Tgl 29 April 2013, Perihal usulan registrasi  kode wilayah atas pembentukan Gampong-Gampong baru dalam Kab.  Aceh Jaya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07",
+    "nama_desa":"14",
+    "keterangan":"Pemekaran Kec. Perda No. 3\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2001",
+    "nama_desa":"Ujong Muloh",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011, Perbaikan nama sesuai  Validasi Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2002",
+    "nama_desa":"Janguet",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011, Perbaikan nama sesuai  Validasi Data Nama dan Kodefikasi Desa tgl 17 Mei 2017 dan  Rekomedasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2003",
+    "nama_desa":"Meunasah Rayeuk",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2004",
+    "nama_desa":"Mukhan",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2005",
+    "nama_desa":"Meunasah Teungoh",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2006",
+    "nama_desa":"Meunasah Tutong",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2007",
+    "nama_desa":"Babah Dua",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2008",
+    "nama_desa":"Alue Mie",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2009",
+    "nama_desa":"Teumareum",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2010",
+    "nama_desa":"Kuala",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2011",
+    "nama_desa":"Meudhang Ghon",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2012",
+    "nama_desa":"Kareung Ateuh",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2013",
+    "nama_desa":"Keude Unga",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.07.2014",
+    "nama_desa":"Ceunamprong",
+    "keterangan":"Semula wil Kec. Jaya Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08",
+    "nama_desa":"19",
+    "keterangan":"Pemekaran Kec. Perda No. 3\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2001",
+    "nama_desa":"Patek",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2002",
+    "nama_desa":"Gampong Baro Patek",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2003",
+    "nama_desa":"Blang Dalam",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2004",
+    "nama_desa":"Pajar",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2005",
+    "nama_desa":"Reuntang",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2006",
+    "nama_desa":"Cot Pange",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.14.08.2007",
+    "nama_desa":"Arongan",
+    "keterangan":"Semula wil Kec. Sampoiniet Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

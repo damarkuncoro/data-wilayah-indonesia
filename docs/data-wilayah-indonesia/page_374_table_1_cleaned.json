@@ -1,0 +1,29 @@
+[
+  {
+    "kode":"12.03.22.2017",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Parsanggrahan, Huta Baru Lobu Tayas,  Lampining, Lobu Tayas, Tanjung Selamat, Siranap, dan Desa Gariang,  Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22.2020",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Hasahatan, Silangkitang, Sopo Onggang,  Siborang, dan Desa Silayang Layang, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.03.22.2033",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Desa Tapus Nabolak, Botung, Sihulambu, Pagaran  Julu, Silangge, dan Desa Hapesong, Perda No. 5\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "kode":"11.08.26.2008",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.26.2009",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam. Perbaikan nama desa semula Paya Beunyet menjadi Paya Beunyot,  sesuai: Qanun No. 5 Tahun 2016; dan Surat Sekda Pem. Aceh No. 140\/14270 tgl 07 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27",
+    "jumlah_desa":6.0,
+    "keterangan":"Qanun No. 32\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2005",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.08.27.2006",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil. Kec. Nisam, Perbaikan nama sesuai Surat Pem Aceh No.  146.1\/10560 tgl 13 Juni 2016 Hal Hasil Klarifikasi Nama Desa\/Gampong  di Aceh",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

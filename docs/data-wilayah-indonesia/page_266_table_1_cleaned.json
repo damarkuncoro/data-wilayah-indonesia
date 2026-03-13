@@ -1,0 +1,47 @@
+[
+  {
+    "kode":"11.16.12.2010",
+    "nama_desa":"Pematang Durian",
+    "keterangan":"Semula wil. Kec. Karang Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.12.2011",
+    "nama_desa":"Juar",
+    "keterangan":"Semula wil. Kec. Karang Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.12.2012",
+    "nama_desa":"Sulum",
+    "keterangan":"Semula wil. Kec. Karang Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.12.2013",
+    "nama_desa":"Suka Makmur",
+    "keterangan":"Semula wil. Kec. Karang Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"11.16.12.2014",
+    "nama_desa":"Baling Karang",
+    "keterangan":"Semula wil. Kec. Karang Baru",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]
