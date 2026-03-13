@@ -5,7 +5,7 @@ import { JsonDataProvider } from "./infrastructure/provider/json-provider";
 import { JSONProvinceRepository } from "./infrastructure/repositories/json-province-repository";
 import { JSONRegencyRepository } from "./infrastructure/repositories/json-regency-repository";
 import { JSONDistrictRepository } from "./infrastructure/repositories/json-district-repository";
-import { JSONVillageRepository } from "./infrastructure/repositories/json-village-repository";
+
 
 /**
  * DataWilayahService - Facade class for Data Wilayah Indonesia.
@@ -15,7 +15,6 @@ export class DataWilayahService {
   private provinceRepo: JSONProvinceRepository;
   private regencyRepo: JSONRegencyRepository;
   private districtRepo: JSONDistrictRepository;
-  private villageRepo: JSONVillageRepository;
 
   private plugins: DataPlugin[];
   private dataProvider: DataProvider;
@@ -27,12 +26,9 @@ export class DataWilayahService {
     let provinces = this.dataProvider.getProvinces();
     let regencies = this.dataProvider.getRegencies();
     let districts = this.dataProvider.getDistricts();
-    let villages = this.dataProvider.getVillages();
-
     this.provinceRepo = new JSONProvinceRepository(provinces);
     this.regencyRepo = new JSONRegencyRepository(regencies);
     this.districtRepo = new JSONDistrictRepository(districts);
-    this.villageRepo = new JSONVillageRepository(villages);
   }
 
   private async applyPlugins<T>(data: T[], enricher: (plugin: DataPlugin, data: T[]) => Promise<T[]> | T[]): Promise<T[]> {
@@ -64,12 +60,6 @@ export class DataWilayahService {
     return this.districtRepo.getAll();
   }
 
-  /**
-   * Get all villages.
-   */
-  getAllVillages(): Village[] {
-    return this.villageRepo.getAll();
-  }
 
   /**
    * Get regencies by province code.
@@ -85,12 +75,6 @@ export class DataWilayahService {
     return this.districtRepo.findByRegencyCode(regencyCode);
   }
 
-  /**
-   * Get villages by district code.
-   */
-  getVillagesByDistrict(districtCode: string): Village[] {
-    return this.villageRepo.findByDistrictCode(districtCode);
-  }
 
   /**
    * Fetch regencies by province code (Lazy Loading).
@@ -148,8 +132,15 @@ export class DataWilayahService {
   /**
    * Get village by code.
    */
-  getVillageByCode(code: string): Village | undefined {
-    return this.villageRepo.getByCode(code);
+  async getVillageByCode(code: string): Promise<Village | undefined> {
+    // Village code must be 13 characters long (e.g., 11.01.01.2001)
+    // and district code is the first 8 characters (e.g., 11.01.01).
+    if (code.length !== 13) {
+      return undefined;
+    }
+    const districtCode = code.substring(0, 8);
+    const villages = await this.fetchVillagesByDistrict(districtCode);
+    return villages.find(v => v.code === code);
   }
 
   /**
@@ -168,7 +159,7 @@ export class DataWilayahService {
     this.provinceRepo.findByName(name).forEach(p => results.push({ type: 'PROVINCE', item: p }));
     this.regencyRepo.findByName(name).forEach(r => results.push({ type: 'REGENCY', item: r }));
     this.districtRepo.findByName(name).forEach(d => results.push({ type: 'DISTRICT', item: d }));
-    this.villageRepo.findByName(name).forEach(v => results.push({ type: 'VILLAGE', item: v }));
+
 
     return results;
   }
@@ -190,11 +181,11 @@ function getDefaultService(): DataWilayahService {
 export function getAllProvinces() { return getDefaultService().getAllProvinces(); }
 export function getAllRegencies() { return getDefaultService().getAllRegencies(); }
 export function getAllDistricts() { return getDefaultService().getAllDistricts(); }
-export function getAllVillages() { return getDefaultService().getAllVillages(); }
+
 
 export function getRegenciesByProvince(provinceCode: string) { return getDefaultService().getRegenciesByProvince(provinceCode); }
 export function getDistrictsByRegency(regencyCode: string) { return getDefaultService().getDistrictsByRegency(regencyCode); }
-export function getVillagesByDistrict(districtCode: string) { return getDefaultService().getVillagesByDistrict(districtCode); }
+
 
 export async function fetchRegenciesByProvince(provinceCode: string) { return getDefaultService().fetchRegenciesByProvince(provinceCode); }
 export async function fetchDistrictsByRegency(regencyCode: string) { return getDefaultService().fetchDistrictsByRegency(regencyCode); }
@@ -204,7 +195,7 @@ export async function fetchVillagesByDistrict(districtCode: string) { return get
 export function getProvinceByCode(code: string) { return getDefaultService().getProvinceByCode(code); }
 export function getRegencyByCode(code: string) { return getDefaultService().getRegencyByCode(code); }
 export function getDistrictByCode(code: string) { return getDefaultService().getDistrictByCode(code); }
-export function getVillageByCode(code: string) { return getDefaultService().getVillageByCode(code); }
+export async function getVillageByCode(code: string) { return getDefaultService().getVillageByCode(code); }
 
 export function findProvincesByName(name: string) { return getDefaultService().findProvincesByName(name); }
 export function search(name: string) { return getDefaultService().search(name); }

@@ -3,6 +3,10 @@ import { Province, Regency, District, Village } from '../../core/entities';
 import { provinces } from '../../data/base/provinces';
 import { regencies } from '../../data/base/regencies';
 import { districts } from '../../data/base/districts';
+import * as path from 'path';
+
+// Find the root of the installed package
+const packageRoot = path.dirname(require.resolve('@damarkuncoro/data-wilayah-indonesia/package.json'));
 
 export class JsonDataProvider implements DataProvider {
   getProvinces(): Province[] {
@@ -18,8 +22,6 @@ export class JsonDataProvider implements DataProvider {
   }
 
   getVillages(): Village[] {
-    // Loading all villages at once is not supported due to performance reasons.
-    // Please use getVillagesByDistrict or getVillagesByProvince instead.
     throw new Error('Loading all villages is not supported. Please use a more specific query.');
   }
 
@@ -31,23 +33,24 @@ export class JsonDataProvider implements DataProvider {
     return districts.filter(d => d.regencyCode === regencyCode);
   }
 
-  async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
+  private async loadVillages(provinceCode: string): Promise<Village[]> {
     try {
-      const module = await import(`../../../data/villages/${provinceCode}`);
+      // Construct a reliable path to the data file inside the installed package
+      const dataPath = path.join(packageRoot, 'lib', 'data', 'villages', `${provinceCode}.js`);
+      const module = await import(dataPath);
       return module.default || [];
     } catch (e) {
       return [];
     }
   }
 
+  async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
+    return this.loadVillages(provinceCode);
+  }
+
   async getVillagesByDistrict(districtCode: string): Promise<Village[]> {
     const provinceCode = districtCode.substring(0, 2);
-    try {
-      const module = await import(`../../../data/villages/${provinceCode}`);
-      const villages = module.default || [];
-      return villages.filter((v: Village) => v.districtCode === districtCode);
-    } catch (e) {
-      return [];
-    }
+    const villages = await this.loadVillages(provinceCode);
+    return villages.filter((v: Village) => v.districtCode === districtCode);
   }
 }
