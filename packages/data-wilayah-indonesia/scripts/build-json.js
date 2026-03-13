@@ -363,9 +363,10 @@ villages.forEach(v => {
 });
 
 for (const provinceCode in villagesByProvince) {
-  const tsPath = path.join(tsVillagesDataDir, `${provinceCode}.ts`);
-  const content = `import type { Village } from '../../core/entities';\n\nexport default ${JSON.stringify(villagesByProvince[provinceCode], null, 2)} as Village[];\n`;
-  fs.writeFileSync(tsPath, content);
+  const jsPath = path.join(tsVillagesDataDir, `${provinceCode}.js`);
+  // Use CommonJS export style for maximum compatibility during build/test
+  const content = `module.exports = ${JSON.stringify(villagesByProvince[provinceCode], null, 2)};\n`;
+  fs.writeFileSync(jsPath, content);
 }
 
 console.log('Done!');
