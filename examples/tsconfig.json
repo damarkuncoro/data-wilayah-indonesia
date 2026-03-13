@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "@damarkuncoro/data-wilayah-indonesia": ["../packages/data-wilayah-indonesia/src"],
+      "@damarkuncoro/postal-code-indonesia": ["../packages/postal-code-indonesia/src"]
+    }
+  }
+}

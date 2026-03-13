@@ -1,0 +1,15 @@
+{
+  "name": "data-wilayah-examples",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "simple": "ts-node -r tsconfig-paths/register simple-usage.ts",
+    "lazy": "ts-node -r tsconfig-paths/register lazy-loading.ts",
+    "postal": "ts-node -r tsconfig-paths/register with-postal-code.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.9.3"
+  }
+}

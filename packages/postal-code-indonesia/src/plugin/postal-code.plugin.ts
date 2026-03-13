@@ -1,14 +1,4 @@
-export interface Village {
-  code: string;
-  name: string;
-  districtCode: string;
-  [key: string]: any;
-}
-
-export interface DataPlugin {
-  name: string;
-  enrichVillages(villages: Village[]): Promise<Village[]>;
-}
+import type { DataPlugin, Village } from '@damarkuncoro/data-wilayah-indonesia';
 
 
 /**
