@@ -1,0 +1,209 @@
+[
+  {
+    "kode":"13.01.10.2015",
+    "nama_desa":"Sindang Lunang",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 116\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.10.2016",
+    "nama_desa":"Pondok Parian  Lunang",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 117\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.10.2017",
+    "nama_desa":"Lunang Tengah",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 118\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.10.2018",
+    "nama_desa":"Lunang Satu",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 119\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.10.2019",
+    "nama_desa":"Lunang Dua",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 120\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.10.2020",
+    "nama_desa":"Lunang Tiga",
+    "keterangan":"Pemekaran sebagian Desa Lunang, Perda No. 121\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11",
+    "nama_desa":"10",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2001",
+    "nama_desa":"Tapan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2002",
+    "nama_desa":"Pasar Tapan",
+    "keterangan":"Perda No. 42\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2007",
+    "nama_desa":"Batang Arah Tapan",
+    "keterangan":"Perda No. 48\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2008",
+    "nama_desa":"Ampang Tulak Tapan",
+    "keterangan":"Perda No. 49\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2009",
+    "nama_desa":"Tanjung Pondok  Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 95\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2010",
+    "nama_desa":"Batang Betung Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 96\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2016",
+    "nama_desa":"Bukit Buai Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 102\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2017",
+    "nama_desa":"Riak Danau Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 103\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2018",
+    "nama_desa":"Koto Anau Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 104\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.11.2019",
+    "nama_desa":"Dusun Baru Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 105\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12",
+    "nama_desa":"6",
+    "keterangan":"Perda No. 3\/2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12.2001",
+    "nama_desa":"Puluik-Puluik",
+    "keterangan":"Semula wil. Kec. Bayang, Perda No. 17\/2001",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12.2002",
+    "nama_desa":"Koto Ranah",
+    "keterangan":"Semula wil. Kec. Bayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12.2003",
+    "nama_desa":"Muaro Aie",
+    "keterangan":"Semula wil. Kec. Bayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12.2004",
+    "nama_desa":"Pancuang Taba",
+    "keterangan":"Semula wil. Kec. Bayang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.12.2005",
+    "nama_desa":"Puluik-Puluik Selatan",
+    "keterangan":"Pemekaran sebagian Desa Puluik-Puluik, Perda No. 40\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

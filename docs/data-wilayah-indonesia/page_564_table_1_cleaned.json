@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"12.20.08.2030",
+    "nama_desa":"Paran Tonga Sim",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.08.2031",
+    "nama_desa":"Ujung Gading Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.08.2032",
+    "nama_desa":"Simangambat Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.08.2033",
+    "nama_desa":"Sigagan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.08.2034",
+    "nama_desa":"Kosik Putih",
+    "keterangan":"Perda No. 25\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 5\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2001",
+    "nama_desa":"Aek Godang",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2002",
+    "nama_desa":"Aek Nauli",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2003",
+    "nama_desa":"Sampuran Simarloting",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2004",
+    "nama_desa":"Pangirkiran",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2005",
+    "nama_desa":"Simaninggir",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2006",
+    "nama_desa":"Suka Dame",
+    "keterangan":"Pemekaran Desa, UU No. 37\/2007 dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2007",
+    "nama_desa":"Pintu Bosi",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2008",
+    "nama_desa":"Sidong-dong",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2009",
+    "nama_desa":"Sitabar",
+    "keterangan":"Semula wil Kec. Angkola Timur Kab. Tapanuli Selatan, UU No. 37\/2007  dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.09.2010",
+    "nama_desa":"Parmeraan",
+    "keterangan":"Pemekaran Desa, UU No. 37\/2007 dan Perda No. 5\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10",
+    "nama_desa":"14",
+    "keterangan":"Pemekaran sebagian wil Kec. Padang Bolak dan Kec. Portibi, Perda  No. 2\/2016",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2001",
+    "nama_desa":"Siunggam Julu",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2002",
+    "nama_desa":"Siunggam Tonga",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2003",
+    "nama_desa":"Siunggam Jae",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2004",
+    "nama_desa":"Aek Bayur",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2005",
+    "nama_desa":"Aek Tolong",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2006",
+    "nama_desa":"Tangga-Tangga  Hambeng",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2007",
+    "nama_desa":"Simaninggir",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2008",
+    "nama_desa":"Bangun Purba",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2009",
+    "nama_desa":"Naga Saribu",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2010",
+    "nama_desa":"Sihoda-Hoda",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2011",
+    "nama_desa":"Mompang II",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2012",
+    "nama_desa":"Gulangan",
+    "keterangan":"Semula wil Kec. Padang Bolak, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2013",
+    "nama_desa":"Pijor Koling",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015,  Semula wil Kec. Portibi, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.10.2014",
+    "nama_desa":"Purba Tua Dolok",
+    "keterangan":"Semula wil Kec. Portibi, Perda No. 2\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

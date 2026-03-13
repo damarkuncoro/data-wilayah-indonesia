@@ -1,0 +1,128 @@
+[
+  {
+    "kode":"14.01.17.2006",
+    "nama_desa":"Deli Makmur",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.17.2007",
+    "nama_desa":"Sungai Tarap",
+    "keterangan":"Pemekaran sebagian Desa Kampar Perda No. 17\/2011, Perbaikan  nama sesuai Surat Gub Riau No. 410\/DPMD\/07.20 tgl 20 Sept 2018  dan Srt Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018 hal  penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.17.2008",
+    "nama_desa":"Tanjung Bungo",
+    "keterangan":"Pemekaran sebagian Desa Kampar Perda No. 17\/2011, Perbaikan  nama sesuai Surat Gub Riau No. 410\/DPMD\/07.20 tgl 20 Sept 2018  dan Srt Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018 hal  penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.17.2009",
+    "nama_desa":"Sawah Baru",
+    "keterangan":"Pemekaran sebagian Desa Kampar Perda No.17\/2011, Perbaikan nama  sesuai Surat Gub Riau No. 410\/DPMD\/07.20 tgl 20 Sept 2018 dan Srt  Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018 hal penyampaian  hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18",
+    "nama_desa":"8",
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2001",
+    "nama_desa":"Muara Jalai",
+    "keterangan":"Semula wil. Kec.Kampar, Perbaikan nama desa sesuai hasil Validasi  Ditjen BPD ttg Data Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2002",
+    "nama_desa":"Sawah",
+    "keterangan":"Semula wil. Kec. Kampar",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2003",
+    "nama_desa":"Kampung Panjang",
+    "keterangan":"Semula wil. Kec.Kampar, Perbaikan nama desa sesuai hasil Validasi  Ditjen BPD ttg Data Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2004",
+    "nama_desa":"Kayu Aro",
+    "keterangan":"Semula wil. Kec. Kampar, Perbaikan nama desa sesuai hasil Validasi  Ditjen BPD ttg Data Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2005",
+    "nama_desa":"Sungai Tonang",
+    "keterangan":"Semula wil Kec. Kampar, Perbaikan nama Validasi Ditjen Pemdes tgl 23  Juni 2016, Hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Pemdes No.146\/3672\/BPD tgl 21 Juni 2017, Srt  Ditjen Pemdes No. 145\/1820\/SET tgl 15 Nov 2018",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2006",
+    "nama_desa":"Sungai Jalau",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Pemdes tgl 23 Juni  2016, Perbaikan nama hasil validasi data nama desa tgl 28 April 2017  dan rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni  2017, Srt Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2007",
+    "nama_desa":"Sendayan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.18.2008",
+    "nama_desa":"Naga Beralih",
+    "keterangan":"Pemekaran sebagian Desa Kampung Panjang Perda No.17\/2011,  Perbaikan nama sesuai hasil Validasi Ditjen BPD tgl 23 Juni 2016,  Perbaikan nama hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.19",
+    "nama_desa":"11",
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

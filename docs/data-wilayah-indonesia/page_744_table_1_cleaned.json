@@ -1,0 +1,65 @@
+[
+  {
+    "kode":"14.03.15.2009",
+    "nama_desa":"Serai Wangi",
+    "keterangan":"Pemekaran sebagian Desa Pinggir, Perda No. 14\/2012, Semula wil  Kec. Pinggir, Perda No. 6\/2015, BA Rpt Pemutakhiran Data dan  Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar dlm  Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Seraiwangi menjadi Serai Wangi, sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16",
+    "nama_desa":"13",
+    "keterangan":"Pemekaran sebagian wil Kec. Muandau, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16.2001",
+    "nama_desa":"Petani",
+    "keterangan":"Semula wil Kec. Mandau, Perda No. 6\/2015, BA Rpt Pemutakhiran Data  dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar  dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16.2002",
+    "nama_desa":"Air Kulim",
+    "keterangan":"Pemekaran sebagian Desa Petani, Perda No. 15\/2012, Semula wil Kec.  Mandau, Perda No. 6\/2015, BA Rpt Pemutakhiran Data dan  Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar dlm  Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Airkulim menjadi Air Kulim, sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16.2003",
+    "nama_desa":"Buluh Manis",
+    "keterangan":"Pemekaran sebagian Desa Petani, Perda No. 15\/2012, Semula wil Kec.  Mandau, Perda No. 6\/2015, BA Rpt Pemutakhiran Data dan  Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar dlm  Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Buluhmanis menjadi Buluh Manis, sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16.2004",
+    "nama_desa":"Bumbung",
+    "keterangan":"Semula wil Kec. Mandau, Perda No. 6\/2015, BA Rpt Pemutakhiran Data  dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar  dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.16.2005",
+    "nama_desa":"Pamesi",
+    "keterangan":"Pemekaran sebagian Desa Bumbung, Perda No. 15\/2012, Semula wil  Kec. Mandau, Perda No. 6\/2015, BA Rpt Pemutakhiran Data dan  Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg Benar dlm  Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

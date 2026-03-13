@@ -1,0 +1,83 @@
+[
+  {
+    "kode":"14.03.14",
+    "jumlah_desa":7.0,
+    "keterangan":"Pemekaran sebagian wil Kec. Bukit Batu, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec.Bukit Batu, Perda No.6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Paritsatuapi-api menjadi Parit I Api-Api,  sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2005",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2006",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Bukitkerikil menjadi Bukit Kerikil, sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.14.2007",
+    "jumlah_desa":null,
+    "keterangan":"Semula wil Kec. Bukit Batu, Perda No. 6\/2015, BA Rpt Pemutakhiran  Data dan Penyusunan Redaksional mnrt Tata Bahasa Indonesia yg  Benar dlm Penamaan Rupabumi tgl 22 September 2015. Perbaikan nama desa semula Tanjungleban menjadi Tanjung Leban,  sesuai: Perda No. 6 Tahun 2015; dan Surat Sekda Kab. Bengkalis No. 100\/Setda-Tapem\/49\/2022 tgl 01  Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.15",
+    "jumlah_desa":9.0,
+    "keterangan":"Pemekaran sebagian wil Kec. Pinggir, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

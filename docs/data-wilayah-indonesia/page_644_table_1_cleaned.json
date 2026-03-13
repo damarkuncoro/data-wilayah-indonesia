@@ -1,0 +1,200 @@
+[
+  {
+    "kode":"13.05.12",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2001",
+    "nama_desa":"Koto Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2002",
+    "nama_desa":"Koto Dalam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2003",
+    "nama_desa":"Batu Kalang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2004",
+    "nama_desa":"Koto Dalam Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Koto Dalam, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2005",
+    "nama_desa":"Koto Dalam Selatan",
+    "keterangan":"Pemekaran sebagian wil Desa Koto Dalam, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.12.2006",
+    "nama_desa":"Batu Kalang Utara",
+    "keterangan":"Pemekaran sebagian wil Desa Batu Kalang, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.13",
+    "nama_desa":"3",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.13.2001",
+    "nama_desa":"Malai V Suku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.13.2002",
+    "nama_desa":"Gasan Gadang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.13.2003",
+    "nama_desa":"Malai V Suku Timur",
+    "keterangan":"Pemekaran sebagian wil Desa Malai V Suku, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.14",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.14.2001",
+    "nama_desa":"Kudu Gantiang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.14.2002",
+    "nama_desa":"Limau Puruik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.14.2003",
+    "nama_desa":"Gunung Padang Alai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.14.2004",
+    "nama_desa":"Kudu Gantiang Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Kudu Gantiang, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.15",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.15.2001",
+    "nama_desa":"Kayu Tanam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.15.2002",
+    "nama_desa":"Guguak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.15.2003",
+    "nama_desa":"Anduriang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.15.2004",
+    "nama_desa":"Kapalo Hilalang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.16",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "kode":"14.01.06",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2001",
+    "nama_desa":"Pangkalan Baru",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2002",
+    "nama_desa":"Desa Baru",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2003",
+    "nama_desa":"Teratak Buluh",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2005",
+    "nama_desa":"Lubuk Siam",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validsi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2006",
+    "nama_desa":"Buluh Cina",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2007",
+    "nama_desa":"Buluh Nipis",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2011",
+    "nama_desa":"Tanah Merah",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2012",
+    "nama_desa":"Pandau Jaya",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.06.2013",
+    "nama_desa":"Tanjung Balam",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

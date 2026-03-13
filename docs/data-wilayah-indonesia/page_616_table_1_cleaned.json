@@ -1,0 +1,262 @@
+[
+  {
+    "kode":"13.06.08",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Baso",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.09",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tilatang Kamang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Palupuh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Pelembayan menjadi Palembayan,Perda No 11  tahun 2016 pasal 2,Surat Sekda Kab Agam No 100\/27\/PEM-III\/2021  tgl 4 maret 2021,surat Gubernur Sumbar No 120\/180\/pem-2021 tgl 30  maret 2021",
+    "level":"kecamatan",
+    "nama_wilayah":"Palembayan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.12",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Pua",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.13",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ampek Nagari",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.14",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Candung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.15",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kamang Magek",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.16",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 7\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Malalak",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.07",
+    "jumlah_desa":79,
+    "luas_wilayah":3273.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. LIMA PULUH KOTA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.01",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Suliki",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.02",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Guguak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.03",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payakumbuh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.04",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Luak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.05",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Harau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.06",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Koto Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.07",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kapur IX",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.08",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunuang Omeh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.09",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lareh Sago Halaban",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.10",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Situjuah Limo Nagari",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.11",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mungka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.12",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukik Barisan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.07.13",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Akabiluru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. LIMA PULUH KOTA"
+  },
+  {
+    "kode":"13.08",
+    "jumlah_desa":62,
+    "luas_wilayah":3902.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PASAMAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN"
+  },
+  {
+    "kode":"13.08.04",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bonjol",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN"
+  },
+  {
+    "kode":"13.08.05",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Sikaping",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN"
+  }
+]

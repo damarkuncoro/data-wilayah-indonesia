@@ -1,0 +1,322 @@
+[
+  {
+    "kode":"15.06.06",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Tinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.07",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Asam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.08",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Renah Mendaluh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.09",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Papalik",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.10",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Seberang Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.11",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Bram Itam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.12",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Betara",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.06.13",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Senyerang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.07",
+    "jumlah_desa":73.0,
+    "luas_wilayah":4547.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TANJUNG JABUNG  TIMUR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.01",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Muara Sabak,  Perda No.12\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Sabak Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.02",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nipah Panjang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.03",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mendahara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.04",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Rasau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.05",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"S a d u",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.06",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dendang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Sabak Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.08",
+    "jumlah_desa":4.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Jambi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.09",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Mendahara Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.10",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Geragai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.07.11",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Berbak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  TIMUR"
+  },
+  {
+    "kode":"15.08",
+    "jumlah_desa":141.0,
+    "luas_wilayah":4761.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. BUNGO",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.01",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Tumbuh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.02",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Pandan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Muaro Bungo, Perda No. 9\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasar Muaro Bungo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.04",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jujuhan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.05",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Sepenggal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.06",
+    "jumlah_desa":15.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelepat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.07",
+    "jumlah_desa":14.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Limbur Lubuk Mengkuang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.08",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muko-muko Bathin VII",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.09",
+    "jumlah_desa":17.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelepat Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.10",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.1 \/ 2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Batin II Babeko",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  },
+  {
+    "kode":"15.08.11",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 9 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bathin III",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BUNGO"
+  }
+]

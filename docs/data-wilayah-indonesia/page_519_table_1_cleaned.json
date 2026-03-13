@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.14.24.2005",
+    "nama_desa":"Lahusa Susua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Amandraya, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2006",
+    "nama_desa":"Ramba-ramba",
+    "keterangan":"Semula wil Kec. Amandraya, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2007",
+    "nama_desa":"Hilinifaoso",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Amandraya, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2008",
+    "nama_desa":"Sifaoroasi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Mazo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2009",
+    "nama_desa":"Amandraya",
+    "keterangan":"Semula wil. Kec. Gomo, Semula wil Kec. Mazo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2010",
+    "nama_desa":"Foikhu Fondrako",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Susua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2011",
+    "nama_desa":"Hiliwosi",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2012",
+    "nama_desa":"Orahili Fondrako",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian Kec. Lahusa, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2001",
+    "nama_desa":"Mondrowe",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2002",
+    "nama_desa":"Hilidohona",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2003",
+    "nama_desa":"Hililaora",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2004",
+    "nama_desa":"Uluidanoduo",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2005",
+    "nama_desa":"Umbu Sohahau",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2006",
+    "nama_desa":"Hilisao'oto",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2007",
+    "nama_desa":"Taluzusua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2008",
+    "nama_desa":"Hilizanuwo",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2009",
+    "nama_desa":"Hoya",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2010",
+    "nama_desa":"Na'ai",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.25.2011",
+    "nama_desa":"Olanori",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26",
+    "nama_desa":"14",
+    "keterangan":"Pemekaran sebagian Kec. Lahusa, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2001",
+    "nama_desa":"Sifitubanua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2002",
+    "nama_desa":"Siwalu Banua",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2003",
+    "nama_desa":"Sitolu Banua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2004",
+    "nama_desa":"Silima Banua",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2005",
+    "nama_desa":"Mehaga",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2006",
+    "nama_desa":"Sihare'o",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2007",
+    "nama_desa":"Golambanua II",
+    "keterangan":"Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2008",
+    "nama_desa":"Oladano",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2009",
+    "nama_desa":"Fanedanu",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2010",
+    "nama_desa":"Hiliorahua Tasua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lahusa, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2011",
+    "nama_desa":"Somambawa",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2012",
+    "nama_desa":"Gabungan Tasua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2013",
+    "nama_desa":"Hilialawa",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.26.2014",
+    "nama_desa":"Sinar Susua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian Kec. Gomo dan Kec. Mazo, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "kode":"13.06.04.2003",
+    "nama_desa":"Tigo Balai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.04.2004",
+    "nama_desa":"Lawang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.04.2005",
+    "nama_desa":"Parik Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.04.2006",
+    "nama_desa":"Panta Pauah",
+    "keterangan":"Perbaikan nama dari Panta Pauh menjadi Panta Pauah,kep Bup No 454  Tahun 2001,Surat Sekda Kab Agam No 100\/27\/PEM-III\/2021 tanggal 4  Maret 2021,surat Gubernur Sumbar No 120\/180\/pem-2021 tgl 30 maret  2021,Surat Sesditjen Bina Pemerintahan Desa No 145\/2430\/BPD tgl 24  Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2002",
+    "nama_desa":"Sungai Landia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2003",
+    "nama_desa":"Balingka",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2004",
+    "nama_desa":"Koto Tuo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2005",
+    "nama_desa":"Guguak Tabek Sarojo",
+    "keterangan":"perbaikan nama dari Guguk Tabek Sarajo menjadi Guguak Tabek  Sarojo,Kep Bup No 454 tahun 2001,Surat Sekda Kab Agam No  100\/27\/PEM-III\/2021 tgl 4 maret 2021,surat Gubernur Sumbar No  120\/180\/pem-2021 tgl 30 maret 2021,Surat Sesditjen Bina  Pemerintahan Desa No 145\/2430\/BPD tgl 24 Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2006",
+    "nama_desa":"Koto Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2007",
+    "nama_desa":"Sianok Anam Suku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.05.2008",
+    "nama_desa":"Koto Gadang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 1\/2009",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2001",
+    "nama_desa":"Padang Lua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2002",
+    "nama_desa":"Taluak Ampek Suku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2003",
+    "nama_desa":"Pakan Sinayan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2004",
+    "nama_desa":"Kubang Putiah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2005",
+    "nama_desa":"Ladang Laweh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2006",
+    "nama_desa":"Cingkariang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.06.2007",
+    "nama_desa":"Sungai Tanang",
+    "keterangan":"Pemekaran sebagian wil Desa Padang Lua Perbup No. 2\/2005",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07",
+    "nama_desa":"7",
+    "keterangan":"Perda No. 1\/2009",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2001",
+    "nama_desa":"Batu Taba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2002",
+    "nama_desa":"Biaro Gadang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2003",
+    "nama_desa":"Lambah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2004",
+    "nama_desa":"Panampuang",
+    "keterangan":"Perbaikan nama dari Panampung menjadi Panampuang,Kep Bup No  454 Tahun 2001,Surat Sekda Kab Agam No 100\/27\/PEM-III\/2021 tgl 4  maret 2021,surat Gubernur Sumbar No 120\/180\/pem-2021 tgl 30 maret  2021,Surat Sesditjen Bina Pemerintahan Desa No 145\/2430\/BPD tgl 24  Mei 2021",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2005",
+    "nama_desa":"Ampang Gadang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2006",
+    "nama_desa":"Pasia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.07.2008",
+    "nama_desa":"Balai Gurah",
+    "keterangan":"Semula wil. Kec. Candung",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

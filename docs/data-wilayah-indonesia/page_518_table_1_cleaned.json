@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.14.21.2003",
+    "nama_desa":"Simandraolo",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2004",
+    "nama_desa":"Bawosalo'o Bawoluo",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2005",
+    "nama_desa":"Hilimbuasi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2006",
+    "nama_desa":"Simandraolo O'o'u",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2007",
+    "nama_desa":"Lolomaya",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2008",
+    "nama_desa":"Suka Maju",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2009",
+    "nama_desa":"Hiliorudua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Hilimegai, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2010",
+    "nama_desa":"Hilinamazihono Moale",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2011",
+    "nama_desa":"Balohili O'o'u",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian Kec. Lolowau, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2001",
+    "nama_desa":"Fadoro Ewo",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2002",
+    "nama_desa":"Soroma'asi",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2003",
+    "nama_desa":"Lauso",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2004",
+    "nama_desa":"Sisarahili Oyo",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2005",
+    "nama_desa":"Sisobahili Huruna",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2006",
+    "nama_desa":"Onohazumba",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2007",
+    "nama_desa":"Hiliweto",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2008",
+    "nama_desa":"Orahili Huruna",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2009",
+    "nama_desa":"Tetehosi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.22.2010",
+    "nama_desa":"Helefanikha",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian Kec. Lolowau, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2001",
+    "nama_desa":"Maluo",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2002",
+    "nama_desa":"Hiliadulo",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2003",
+    "nama_desa":"Umbuasi",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2004",
+    "nama_desa":"Sisobahili Siwalawa",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2005",
+    "nama_desa":"Manawadano",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2006",
+    "nama_desa":"Talio",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2007",
+    "nama_desa":"Anaoma",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2008",
+    "nama_desa":"Berua Siwalawa",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2009",
+    "nama_desa":"Umbuasi Barat",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2010",
+    "nama_desa":"Hiligodu",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.23.2011",
+    "nama_desa":"Bukit Burasi",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian Kec. Amandraya, Kec. Mazo, dan Kec. Susua,  Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2001",
+    "nama_desa":"Fondrakoraya",
+    "keterangan":"Semula wil Kec. Amandraya, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2002",
+    "nama_desa":"Orudua Sibohou",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Amandraya, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.24.2003",
+    "nama_desa":"Sisarahili Susua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

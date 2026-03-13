@@ -1,0 +1,262 @@
+[
+  {
+    "kode":"15.02.08",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 17 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Tabir Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.09",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Masurai",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.10",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangko  Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.11",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Nalo Tatan menjadi Kec. Nalo Tantan sesuai  surat Bupati Merangin No 141\/32\/DPMD\/2021 tanggal 27 Januari  2021, Perda Kab. Merangin No. 2 Tahun 2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Nalo Tantan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.12",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Masumai",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.13",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pamenang Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.14",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Tabir Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.15",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Tabir Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.16",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Renah Pembarap",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.17",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Jambu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.18",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 2\/2007, Perubahan Nama Kec. Sungai Tenang Menjadi Kec.  Jangkat Timur, Perda No. 05\/2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Jangkat Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.19",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Renah Pamenang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.20",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Pamenang Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.21",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Margo Tabir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.22",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Tabir Lintas",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.23",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Tabir Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.02.24",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2008, Surat Gubernur No. 188.342\/1536\/IV\/Hkm, Tgl 11  Juni 2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Tiang Pumpung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.03",
+    "jumlah_desa":149,
+    "luas_wilayah":5936.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SAROLANGUN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.01",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Asai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.02",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Limun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.03",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sarolangun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.04",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pauh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.05",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Pelawan Singkut, Perda No. 5\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.06",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandiangin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.4 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Air Hitam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  },
+  {
+    "kode":"15.03.08",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.39 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Bathin VIII",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SAROLANGUN"
+  }
+]

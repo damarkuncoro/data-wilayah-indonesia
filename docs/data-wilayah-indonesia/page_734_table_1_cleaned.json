@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"14.03.02.2018",
+    "nama_desa":"Pasiran",
+    "keterangan":"Pemekaran sebagian Desa Bantan Tua, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.02.2019",
+    "nama_desa":"Bantan Sari",
+    "keterangan":"Pemekaran sebagian Desa Bantan Air, Perda No.9\/2012, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.02.2020",
+    "nama_desa":"Bantan Timur",
+    "keterangan":"Pemekaran sebagian Desa Bantan Air, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.02.2021",
+    "nama_desa":"Teluk Papal",
+    "keterangan":"Pemekaran sebagian Desa Bantan Air, Perda No. 9\/2012, Perbaikan  Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.02.2022",
+    "nama_desa":"Muntai Barat",
+    "keterangan":"Pemekaran sebagian Desa Muntai, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.02.2023",
+    "nama_desa":"Deluk",
+    "keterangan":"Pemekaran sebagian Desa Jangkang, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2001",
+    "nama_desa":"Sejangat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2002",
+    "nama_desa":"Dompas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2003",
+    "nama_desa":"Pangkalan Jambi",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2004",
+    "nama_desa":"Sungai Selari",
+    "keterangan":"Perbaikan Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2005",
+    "nama_desa":"Buruk Bakul",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2006",
+    "nama_desa":"Bukit Batu",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.2007",
+    "nama_desa":"Sukajadi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.03.1010",
+    "nama_desa":"",
+    "keterangan":"Perbaikan Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "kode":"13.12.05.2016",
+    "nama_desa":"Padang Canduh",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2017",
+    "nama_desa":"Limau Purut",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06",
+    "nama_desa":"7",
+    "keterangan":"perbaikan nama dari Gunungtuleh menjadi Gunung Tuleh,surat  Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April  2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2001",
+    "nama_desa":"Muaro Kiawai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2002",
+    "nama_desa":"Rabi Jonggor",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2003",
+    "nama_desa":"Seberang Kenaikan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Rabi Jonggor, sesuai: Perda No. 8 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2004",
+    "nama_desa":"Bahoras",
+    "keterangan":"Pemekaran sebagian wil. Nagari Rabi Jonggor, sesuai: Perda No. 8 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2005",
+    "nama_desa":"Ranah Sungai  Magelang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Rabi Jonggor, sesuai: Perda No. 8 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2006",
+    "nama_desa":"Muaro Kiawai Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Muaro Kiawai, sesuai: Perda No. 9 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.06.2007",
+    "nama_desa":"Muaro Kiawai Hilir",
+    "keterangan":"Pemekaran sebagian wil. Nagari Muaro Kiawai, sesuai: Perda No. 9 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07",
+    "nama_desa":"7",
+    "keterangan":"perbaikan nama dari Ranahbatahan menjadi Ranah Batahan,surat  Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April  2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2001",
+    "nama_desa":"Batahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2002",
+    "nama_desa":"Desa Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2003",
+    "nama_desa":"Batahan Utara",
+    "keterangan":"Pemekaran sebagian wil. Nagari Batahan, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2004",
+    "nama_desa":"Batahan Tengah",
+    "keterangan":"Pemekaran sebagian wil. Nagari Batahan, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2005",
+    "nama_desa":"Batahan Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Batahan, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.07.2006",
+    "nama_desa":"Batahan Selatan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Batahan, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

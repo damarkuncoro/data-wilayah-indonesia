@@ -1,0 +1,282 @@
+[
+  {
+    "kode":"15.03.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Cermin Nan Gedang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.03.11",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil. Kec. Mandiangin Sesuai Perda No.10\/2020  dan Surat Gub. No. S-100\/024\/SETDA.PEM.OTDA-2.3\/I\/2021 tgl 7  Januari 2021",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandiangin Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.04",
+    "jumlah_desa":110,
+    "luas_wilayah":5388.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. BATANGHARI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.01",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mersam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.02",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Tembesi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Bulian",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.04",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batin XXIV",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.05",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pemayung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.06",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Maro Sebo Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bajubang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.04.08",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Maro Sebo Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BATANGHARI"
+  },
+  {
+    "kode":"15.05",
+    "jumlah_desa":150,
+    "luas_wilayah":5226.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB.  MUARO JAMBI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.01",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jambi Luar Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.02",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sekernan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kumpeh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Maro Sebo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.05",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mestong",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.06",
+    "jumlah_desa":18,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kumpeh Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.07",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Bahar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.08",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 12\/2006",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Gelam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.09",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Kumpeh Ulu dan Kec. Sungai Bahar, Perda  No. 28\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Bahar Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Sungai Bahar, Perda No. 28\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Bahar Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.05.11",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Kumpeh dan Kec. Maro Sebo, Perda No.  28\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Taman Rajo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  MUARO JAMBI"
+  },
+  {
+    "kode":"15.06",
+    "jumlah_desa":114,
+    "luas_wilayah":5546.0,
+    "keterangan":"Luas Wilayah Indikatif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TANJUNG JABUNG  BARAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  BARAT"
+  },
+  {
+    "kode":"15.06.01",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tungkal Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  BARAT"
+  },
+  {
+    "kode":"15.06.02",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tungkal Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  BARAT"
+  },
+  {
+    "kode":"15.06.03",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pengabuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  BARAT"
+  },
+  {
+    "kode":"15.06.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Betara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANJUNG JABUNG  BARAT"
+  }
+]

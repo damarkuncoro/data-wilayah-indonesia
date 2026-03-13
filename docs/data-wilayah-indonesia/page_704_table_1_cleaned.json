@@ -1,0 +1,128 @@
+[
+  {
+    "kode":"14.01.08",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2002",
+    "nama_desa":"Mentulik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2003",
+    "nama_desa":"Sungai Simpang Dua",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2004",
+    "nama_desa":"Sungai Bungo",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2005",
+    "nama_desa":"Rantau Kasih",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2006",
+    "nama_desa":"Sungai Petai",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2007",
+    "nama_desa":"Gading Permai",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.08.2008",
+    "nama_desa":"Bangun Sari",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09",
+    "nama_desa":"24",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2001",
+    "nama_desa":"Gema",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2002",
+    "nama_desa":"Tanjung Belit",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2003",
+    "nama_desa":"Tanjung Belit Selatan",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2004",
+    "nama_desa":"Koto Lama",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"12.19.02.2011",
+    "nama_desa":"Kuala Indah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.02.2012",
+    "nama_desa":"Kuala Tanjung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.02.2018",
+    "nama_desa":"Tanjung Gading",
+    "keterangan":"Pemekaran sebagian Desa Sei Suka Deras, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.02.2019",
+    "nama_desa":"Simpang Kopi",
+    "keterangan":"Pemekaran sebagian Desa Sei Suka Deras, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.02.2020",
+    "nama_desa":"Brohol",
+    "keterangan":"Pemekaran sebagian Desa Simodong, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03",
+    "nama_desa":"17",
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2002",
+    "nama_desa":"Limau Sundai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2003",
+    "nama_desa":"Pematang Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2004",
+    "nama_desa":"Sukaraja",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2005",
+    "nama_desa":"Tanah Tinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2006",
+    "nama_desa":"Tanjungmuda",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2007",
+    "nama_desa":"Tanah Merah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2008",
+    "nama_desa":"Aras",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2009",
+    "nama_desa":"Pasar Lapan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2010",
+    "nama_desa":"Sipare-pare",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2011",
+    "nama_desa":"Tanjungkubah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2012",
+    "nama_desa":"Tanjungharapan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2013",
+    "nama_desa":"Suka Ramai",
+    "keterangan":"Pemekaran sebagian Desa Limau Sundai sesuai Perda 4\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2014",
+    "nama_desa":"Tanah Rendah",
+    "keterangan":"Pemekaran sebagian Desa Tanah Tinggi, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2015",
+    "nama_desa":"Tanjungmulya",
+    "keterangan":"Pemekaran sebagian Desa Tanjungkubah, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2016",
+    "nama_desa":"Titi Payung",
+    "keterangan":"Pemekaran sebagian Desa Sipare-Pare, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2017",
+    "nama_desa":"Perkotaan",
+    "keterangan":"Pemekaran sebagian Desa Pasar Lapan, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.2018",
+    "nama_desa":"Kampung Kelapa",
+    "keterangan":"Pemekaran sebagian Desa Pematang Panjang, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.03.1019",
+    "nama_desa":"",
+    "keterangan":"Pemekaran sebagian Kel. Indrapura, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.04",
+    "nama_desa":"11",
+    "keterangan":"Semula wil. Kab. Asahan",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.04.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

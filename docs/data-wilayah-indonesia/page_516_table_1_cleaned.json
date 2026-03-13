@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"12.14.16.2008",
+    "nama_desa":"Labara",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2009",
+    "nama_desa":"Bais Baru",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2010",
+    "nama_desa":"Labuan Rima Baru",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2001",
+    "nama_desa":"Tetegawa'ai",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2002",
+    "nama_desa":"Hilimbaruzo",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2003",
+    "nama_desa":"Luahandroito",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2005",
+    "nama_desa":"Orahuahili",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2006",
+    "nama_desa":"Ulu Mazo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2007",
+    "nama_desa":"Guigui",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2009",
+    "nama_desa":"Hilimaufa",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2010",
+    "nama_desa":"Siofabanua",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2011",
+    "nama_desa":"Tetegawa'ai Ehomo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.17.2013",
+    "nama_desa":"Tafulu",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18",
+    "nama_desa":"17",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2001",
+    "nama_desa":"Bawomataluo",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2002",
+    "nama_desa":"Orahili Fau",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2003",
+    "nama_desa":"Bawonahono",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2005",
+    "nama_desa":"Siwalawa",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2006",
+    "nama_desa":"Onohondro",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2007",
+    "nama_desa":"Hilinawalo Fau",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2008",
+    "nama_desa":"Lahusa Fau",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2011",
+    "nama_desa":"Hilizihono",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2012",
+    "nama_desa":"Hiliofonaluo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2015",
+    "nama_desa":"Bawofanayama",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2017",
+    "nama_desa":"Hilikara Maha",
+    "keterangan":"Pemekaran sebagian Desa Siwalawa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2018",
+    "nama_desa":"Hilisalawa",
+    "keterangan":"Pemekaran sebagian Desa Bawomataluo, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2019",
+    "nama_desa":"Hiligito",
+    "keterangan":"Pemekaran sebagian Desa Bawomataluo, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2020",
+    "nama_desa":"Siliwulawa",
+    "keterangan":"Pemekaran sebagian Desa Siwalawa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

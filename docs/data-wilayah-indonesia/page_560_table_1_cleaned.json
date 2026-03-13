@@ -1,0 +1,335 @@
+[
+  {
+    "kode":"12.20.04.2052",
+    "nama_desa":"Garoga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2053",
+    "nama_desa":"Hajoran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2054",
+    "nama_desa":"Batu Sundung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2055",
+    "nama_desa":"Garonggang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2056",
+    "nama_desa":"Nabonggal",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2057",
+    "nama_desa":"Liang  Hasona",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2058",
+    "nama_desa":"Simandiangin Dolok",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2059",
+    "nama_desa":"Simandiangin  Lombang",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2060",
+    "nama_desa":"Padang Garugur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2061",
+    "nama_desa":"Simanosor",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2062",
+    "nama_desa":"Sigama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2063",
+    "nama_desa":"Sigama Ujung Gading",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2064",
+    "nama_desa":"Parlimbatan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2065",
+    "nama_desa":"Saba Sitahul tahul",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2066",
+    "nama_desa":"Saba Bangunan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2067",
+    "nama_desa":"Sidingkat",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2069",
+    "nama_desa":"Gunung Manaon II",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2070",
+    "nama_desa":"Purba Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2071",
+    "nama_desa":"Sungai Durian",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2072",
+    "nama_desa":"Sungai Orosan",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2073",
+    "nama_desa":"Hutaimbaru II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2074",
+    "nama_desa":"Siombob",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2075",
+    "nama_desa":"Aek Gambir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2076",
+    "nama_desa":"Bukit Raya  Sordang",
+    "keterangan":"Perda No. 25\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2077",
+    "nama_desa":"Aek Jangkang",
+    "keterangan":"Perda No. 25\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.04.2078",
+    "nama_desa":"Simbolon",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05",
+    "nama_desa":"23",
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2001",
+    "nama_desa":"Pancur Pangko",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2002",
+    "nama_desa":"Hasambi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2003",
+    "nama_desa":"Paran Nangka",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2004",
+    "nama_desa":"Batu Rancang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2005",
+    "nama_desa":"Sitanggoru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2006",
+    "nama_desa":"Siunggam Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2007",
+    "nama_desa":"Balimbing Jae",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2008",
+    "nama_desa":"Sipupus Lombang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2009",
+    "nama_desa":"Balimbing Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.05.2010",
+    "nama_desa":"Sobar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

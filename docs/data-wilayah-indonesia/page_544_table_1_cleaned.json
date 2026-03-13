@@ -1,0 +1,254 @@
+[
+  {
+    "kode":"12.18.13.2002",
+    "nama_desa":"Naga Kesiangan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2003",
+    "nama_desa":"Jambu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2004",
+    "nama_desa":"Mariah Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2005",
+    "nama_desa":"Pertapaan",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati No. 18.1\/100\/4382\/2017 tgl 17 Okt  2017 hal Penyesuaian Kode dan Data Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2006",
+    "nama_desa":"Paya Lombang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2007",
+    "nama_desa":"Sei Serimah",
+    "keterangan":"Perbaikan nama sesuai Surat Bupati No. 18.1\/100\/4382\/2017 tgl 17 Okt  2017 hal Penyesuaian Kode dan Data Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2008",
+    "nama_desa":"Paya Bagas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2009",
+    "nama_desa":"Paya Mabar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2010",
+    "nama_desa":"Sei. Priok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2011",
+    "nama_desa":"Kuta Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2018",
+    "nama_desa":"Kedai Damar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2019",
+    "nama_desa":"Penonggol",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.13.2020",
+    "nama_desa":"Gunung Kataran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14",
+    "nama_desa":"12",
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2001",
+    "nama_desa":"Bengabing",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2002",
+    "nama_desa":"Bingkat",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2003",
+    "nama_desa":"Jati Mulyo",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2004",
+    "nama_desa":"Karang Anyar",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2005",
+    "nama_desa":"Lestari Dadi",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2006",
+    "nama_desa":"Pegajahan",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2007",
+    "nama_desa":"Petuaran Hulu",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2008",
+    "nama_desa":"Petuaran Hilir",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2009",
+    "nama_desa":"Pondok Tengah",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2010",
+    "nama_desa":"Sukasari",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2011",
+    "nama_desa":"Tanjung Putus",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.1012",
+    "nama_desa":"",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.14.2013",
+    "nama_desa":"Sennah",
+    "keterangan":"Semula Wil. Kec. Perbaungan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "kode":"12.14.27.2002",
+    "nama_desa":"Balohili Gomo",
+    "keterangan":"Semula wil Kec. Gomo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2003",
+    "nama_desa":"Bohalu",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2004",
+    "nama_desa":"Orsedes",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2005",
+    "nama_desa":"Sinar Helaowo",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2006",
+    "nama_desa":"Siholi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Mazo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2007",
+    "nama_desa":"Tuhegafoa",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Mazo, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2008",
+    "nama_desa":"Perjuangan",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2009",
+    "nama_desa":"Lewa-lewa",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.27.2010",
+    "nama_desa":"Siraha",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28",
+    "nama_desa":"6",
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2001",
+    "nama_desa":"Gobo",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2002",
+    "nama_desa":"Silina",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2003",
+    "nama_desa":"Maufa",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2004",
+    "nama_desa":"Gondia",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2005",
+    "nama_desa":"Gobo Baru",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.28.2006",
+    "nama_desa":"Silina Baru",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29",
+    "nama_desa":"9",
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2001",
+    "nama_desa":"Fuge",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2002",
+    "nama_desa":"Luaha Idano Pono",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2003",
+    "nama_desa":"Sigese",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2004",
+    "nama_desa":"Bawositora",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2005",
+    "nama_desa":"Bintuang",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2006",
+    "nama_desa":"Sibaranun",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2007",
+    "nama_desa":"Bawolawindra",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2008",
+    "nama_desa":"Hayo",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.29.2009",
+    "nama_desa":"Hilizamorogotano",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2001",
+    "nama_desa":"Siofa Banua Lorang",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2002",
+    "nama_desa":"Silima Banua Marit",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2003",
+    "nama_desa":"Zia Biang",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2004",
+    "nama_desa":"Limo Biang",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2005",
+    "nama_desa":"Memong",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2006",
+    "nama_desa":"Bale-bale",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2007",
+    "nama_desa":"Teluk Limo",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2008",
+    "nama_desa":"Wawa",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

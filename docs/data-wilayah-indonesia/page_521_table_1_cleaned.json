@@ -1,0 +1,254 @@
+[
+  {
+    "kode":"12.14.30.2010",
+    "nama_desa":"Majino Lorang",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2011",
+    "nama_desa":"Afore Gobo",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.30.2012",
+    "nama_desa":"Bale-bale Sibohou",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian Kec. Pulau-Pulau Batu dasn Kec. Hibala, Perda  No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2001",
+    "nama_desa":"Baluta",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2002",
+    "nama_desa":"Eho Baluta",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2003",
+    "nama_desa":"Bawo Ofuloa",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2004",
+    "nama_desa":"Hale Baluta",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2005",
+    "nama_desa":"Bawo Orudua",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2006",
+    "nama_desa":"Jeke",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2007",
+    "nama_desa":"Makole",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2008",
+    "nama_desa":"Sifauruasi",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2009",
+    "nama_desa":"Bawo Analita Saeru",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2010",
+    "nama_desa":"Saeru Melayu",
+    "keterangan":"Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2011",
+    "nama_desa":"Hiligeho Sogawu",
+    "keterangan":"Semula wil Kec. Pulau-Pulau Batu, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.31.2012",
+    "nama_desa":"Hiliomasio",
+    "keterangan":"Pemekaran sebagian Desa Bawo Analita Saeru, Perda No. 7\/2012,  Semula wil Kec. Hibala, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Fanayama dan Kec. Maniamolo sesuai  Perda No. 3\/2015, dan Nomor Register Perda Kabupaten Nias Selatan  Provinsi Sumatera Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2001",
+    "nama_desa":"Botohilitano",
+    "keterangan":"Semula wil Kec. Teluk Dalam, Semula wil Kec. Fanayama sesuai Perda  No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2002",
+    "nama_desa":"Botohilisalo'o",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Fanayama sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2003",
+    "nama_desa":"Lagundri",
+    "keterangan":"Semula wil Kec. Teluk Dalam, Semula wil Kec. Fanayama sesuai Perda  No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2004",
+    "nama_desa":"Orahili Faomasi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Fanayama sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2005",
+    "nama_desa":"Hiliamaetaniha",
+    "keterangan":"Semula wil Kec. Teluk Dalam, Semula wil Kec. Fanayama sesuai Perda  No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2006",
+    "nama_desa":"Sondregeasi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Fanayama sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2007",
+    "nama_desa":"Botohili Silambo",
+    "keterangan":"Pemekaran sebagian Desa Botohilitano, Perda No. 7\/2012, Semula wil  Kec. Fanayama sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2008",
+    "nama_desa":"Botohili Sorake",
+    "keterangan":"Pemekaran sebagian Desa Botohilitano, Perda No. 7\/2012, Semula wil  Kec. Fanayama sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2009",
+    "nama_desa":"Hilimaenamolo",
+    "keterangan":"Semula wil Kec. Teluk Dalam, Semula wil Kec. Maniamolo sesuai Perda  No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.32.2010",
+    "nama_desa":"Bawomaenamolo",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Maniamolo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Teluk Dalam sesuai Perda No. 3\/2015,  dan Nomor Register Perda Kabupaten Nias Selatan Provinsi Sumatera  Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

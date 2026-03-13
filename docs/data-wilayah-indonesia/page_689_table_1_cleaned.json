@@ -1,0 +1,272 @@
+[
+  {
+    "kode":"14.01",
+    "jumlah_desa":242,
+    "luas_wilayah":10353.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. KAMPAR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.01",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Kec. Bangkinang, sesuai Perda No. 8\/2013",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangkinang Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.02",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.03",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tambang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.04",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"XIII Koto Kampar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Kec. Bangkinang Barat menjadi Kec. Kuok, Perda  No. 16\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.06",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siak Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.07",
+    "jumlah_desa":19,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar Kiri",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.08",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar Kiri Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.09",
+    "jumlah_desa":24,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar Kiri Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.10",
+    "jumlah_desa":25,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tapung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.11",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tapung Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.12",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tapung Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.13",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Salo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.14",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Rumbio Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.15",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003, Perubahan Nama dari Kec. Bangkinang Seberang  sesuai dengan Perda No 8\/2013",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangkinang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.16",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Perhentian Raja",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.17",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003, perubahan nama Kec. Kampar Timur menjadi Kec.  Kampa sesuai Perda 12\/2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampa",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.18",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.19",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Kampar Kiri Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.20",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Sahilan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.01.21",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran Kec. Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Kampar Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KAMPAR"
+  },
+  {
+    "kode":"14.02",
+    "jumlah_desa":178,
+    "luas_wilayah":7872.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. INDRAGIRI HULU",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HULU"
+  },
+  {
+    "kode":"14.02.01",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rengat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HULU"
+  },
+  {
+    "kode":"14.02.02",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rengat Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HULU"
+  },
+  {
+    "kode":"14.02.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kelayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HULU"
+  },
+  {
+    "kode":"14.02.04",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasir Penyu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HULU"
+  }
+]

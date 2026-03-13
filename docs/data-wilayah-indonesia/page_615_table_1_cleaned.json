@@ -1,0 +1,292 @@
+[
+  {
+    "kode":"13.04.11",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Ganting",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.04.12",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjuang Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.04.13",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lintau Buo Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.04.14",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batipuah Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05",
+    "jumlah_desa":103,
+    "luas_wilayah":1342.0,
+    "keterangan":"Pemindahan Ibukota PP No. 79\/2008.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PADANG PARIAMAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.01",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Alung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.02",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Anai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.03",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Nan Sabaris",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.04",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"x 11 Enam Lingkuang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.05",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"VII Koto Sungai Sarik",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.06",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"V Koto Kampung Dalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.07",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Garingging",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.08",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Limau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.09",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"IV Koto Aur Malintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.10",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ulakan Tapakih",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.11",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sintuak Toboh Gadang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.12",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Sago",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.13",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Gasan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.14",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"V Koto Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.15",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"x 11 Kayu Tanam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.16",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Patamuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.05.17",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Enam Lingkung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PADANG PARIAMAN"
+  },
+  {
+    "kode":"13.06",
+    "jumlah_desa":92,
+    "luas_wilayah":2226.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. AGAM",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.01",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Mutiara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.02",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Basung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.03",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.04",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Matur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.05",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"IV Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  },
+  {
+    "kode":"13.06.06",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 1\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Banuhampu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. AGAM"
+  }
+]

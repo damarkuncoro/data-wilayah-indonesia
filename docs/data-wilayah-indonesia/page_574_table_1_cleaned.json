@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"12.21.09.2009",
+    "nama_desa":"Siojo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2010",
+    "nama_desa":"Pagaran Manggis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2011",
+    "nama_desa":"Muara Malinto Lama",
+    "keterangan":"Perbaikan nama sesuai Perda 8\/2014 dan BA No. 2826.a\/BP\/2017 tgl  30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2012",
+    "nama_desa":"Hutabaru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2013",
+    "nama_desa":"Huta Nopan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2014",
+    "nama_desa":"Tandolan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2015",
+    "nama_desa":"Tangga Batu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2016",
+    "nama_desa":"Pagaran Dolok Pinarik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2017",
+    "nama_desa":"Muara Malinto Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2018",
+    "nama_desa":"Aek Sorik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2019",
+    "nama_desa":"Tanjung Botung  Pinarik",
+    "keterangan":"Sesuai Perda No 5\/2013 ttg Nama-nama desa di Kab. Padang Lawas",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.09.2020",
+    "nama_desa":"Pinarik",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran Kec. Barumun Perda No. 2\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2001",
+    "nama_desa":"Batang Bulu Lama",
+    "keterangan":"Semula wil Kec. Barumun perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2002",
+    "nama_desa":"Pagur Satio",
+    "keterangan":"Semula wil Kec. Barumun perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2003",
+    "nama_desa":"Batang Bulu Baru",
+    "keterangan":"Semula wil Kec. barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2004",
+    "nama_desa":"Gunung Intan",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2005",
+    "nama_desa":"Tanjung Purba Tua",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2006",
+    "nama_desa":"Banua Tonga",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2007",
+    "nama_desa":"Gunung Barani",
+    "keterangan":"Semula wil kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2008",
+    "nama_desa":"Tanjung Baringin  Simarulak",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011, Perbaikan nama sesuai  Perda 8\/2014 dan BA No. 2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2009",
+    "nama_desa":"Sayur Mahincat",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2010",
+    "nama_desa":"Sidomulio",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.10.2011",
+    "nama_desa":"Panarian",
+    "keterangan":"Semula wil Kec. Barumun Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.11",
+    "nama_desa":"25",
+    "keterangan":"Pemekaran Kec. Barumun Tengah Perda No. 2\/2011",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.11.2001",
+    "nama_desa":"Aek Nabara Tonga",
+    "keterangan":"Semula wil Kec. Barumun Tengah Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.11.2002",
+    "nama_desa":"Aek Nabara Jae",
+    "keterangan":"Semula wil Kec. Barumun Tengah Perda No. 3\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

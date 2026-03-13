@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"13.03.06.2005",
+    "nama_desa":"Sungai Batuang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2006",
+    "nama_desa":"Kunangan Parik  Rantang",
+    "keterangan":"Perbaikan nama sesuai Surat Kab. Sijunjung No.  140\/174\/Adm.Pem-2016 hal Usulan perbaikan Data Nama",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2007",
+    "nama_desa":"Tanjung Kaliang",
+    "keterangan":"Pemekaran sebagian Desa Aie Amo, Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2008",
+    "nama_desa":"Padang Tarok",
+    "keterangan":"Pemekaran sebagian Desa Sungai Batuang, Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2009",
+    "nama_desa":"Siaur",
+    "keterangan":"Pemekaran sebagian Desa Sungai Lansek, Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2010",
+    "nama_desa":"Lubuk Tarantang",
+    "keterangan":"Pemekaran sebagian Desa Sungai Lansek, Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.06.2011",
+    "nama_desa":"Maloro",
+    "keterangan":"Pemekaran sebagian Desa Aie Amo, Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2001",
+    "nama_desa":"Lubuak Tarok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2002",
+    "nama_desa":"Lalan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2003",
+    "nama_desa":"Buluah Kasok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2004",
+    "nama_desa":"Kampung Dalam",
+    "keterangan":"Pemekaran sebagian Desa Lubuk Tarok, Perda No. 1\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2005",
+    "nama_desa":"Silongo",
+    "keterangan":"Pemekaran sebagian Desa Buluh Kasok, Perda No. 1\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.07.2006",
+    "nama_desa":"Latang",
+    "keterangan":"Pemekaran sebagian Desa Lubuk Tarok, Perda No. 1\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2001",
+    "nama_desa":"Limo Koto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2002",
+    "nama_desa":"Palaluar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2003",
+    "nama_desa":"Guguak",
+    "keterangan":"Perbaikan nama sesuai Surat Kab. Sijunjung No.  140\/174\/Adm.Pem-2016 hal Usulan perbaikan Data Nama",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2004",
+    "nama_desa":"Padang Laweh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2005",
+    "nama_desa":"Tanjung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2006",
+    "nama_desa":"Bukit Bual",
+    "keterangan":"Pemekaran sebagian Desa Limo Koto, Perda No. 9\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.08.2007",
+    "nama_desa":"Padang Laweh  Selatan",
+    "keterangan":"Pemekaran dari Nagari\/Desa Padang Laweh Sesuai Perda Kabupaten  Sijunjung No 9 Tahun 2021 tentang Pembentukan Nagari Padang  Laweh Selatan Kecamatan Koto VII.  Surat Gubernur Sumatera Barat No 120\/544\/Pem-2018 tanggal 4  Oktober 2018.  Surat Dirjen Bina Pemerintahan Desa No.1464\/2677\/BPD tanggal 4 Juni  2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09",
+    "nama_desa":"11",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2001",
+    "nama_desa":"Silantai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2002",
+    "nama_desa":"Sisawah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2003",
+    "nama_desa":"Unggan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2004",
+    "nama_desa":"Tanjung Bonai Aur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2005",
+    "nama_desa":"Sumpur Kudus",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2006",
+    "nama_desa":"Tamparungo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2007",
+    "nama_desa":"Kumanis",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03.09.2008",
+    "nama_desa":"Manganti",
+    "keterangan":"Koreksi nama 'Mangganti' Srt Ditjen BPD No 140\/5118\/BPD tgl 18 Juli  2019",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

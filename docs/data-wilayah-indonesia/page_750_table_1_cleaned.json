@@ -1,0 +1,173 @@
+[
+  {
+    "kode":"14.04.06.2011",
+    "nama_desa":"Kelumpang",
+    "keterangan":"Pemekaran sebagian Desa Rambaian, Perda No. 6\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.06.2012",
+    "nama_desa":"Idaman",
+    "keterangan":"Pemekaran sebagian Desa Sungaiempat, Perda No. 6\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07",
+    "nama_desa":"16",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2001",
+    "nama_desa":"Pulaucawan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2002",
+    "nama_desa":"Belaras",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2003",
+    "nama_desa":"Bente",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.1004",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2005",
+    "nama_desa":"Igal",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2006",
+    "nama_desa":"Pelanduk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2007",
+    "nama_desa":"Bakau Aceh",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2008",
+    "nama_desa":"Batang Tumu",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2009",
+    "nama_desa":"Bekawan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2010",
+    "nama_desa":"Bantayan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2011",
+    "nama_desa":"Batang Sari",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2012",
+    "nama_desa":"Bolak Raya",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2013",
+    "nama_desa":"Cahaya Baru",
+    "keterangan":"Pemekaran sebagian Desa Belaras, Perda No.6\/2011, Perbaikan nama  sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2014",
+    "nama_desa":"Belaras Barat",
+    "keterangan":"Pemekaran sebagian Desa Belaras, Perda No. 6\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2015",
+    "nama_desa":"Sepakat Jaya",
+    "keterangan":"Pemekaran sebagian Desa Batang Tumu, Perda No.6\/2011, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.07.2016",
+    "nama_desa":"Suraya Mandiri",
+    "keterangan":"Pemekaran sebagian Desa Pelanduk, Perda No.6\/2011, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

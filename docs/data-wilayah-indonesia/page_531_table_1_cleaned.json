@@ -1,0 +1,182 @@
+[
+  {
+    "kode":"12.16.09.2013",
+    "nama_desa":"Lumban  Tonga-Tonga",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2014",
+    "nama_desa":"Pulo Godang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2015",
+    "nama_desa":"Pakkat Hauagong",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2016",
+    "nama_desa":"Peadungdung",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2017",
+    "nama_desa":"Sijarango I",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2018",
+    "nama_desa":"Ambobi Paranginan",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2019",
+    "nama_desa":"Purba Sianjur",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2020",
+    "nama_desa":"Siambaton Pahae",
+    "keterangan":"Pemekaran sebagian Desa Siambaton, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2021",
+    "nama_desa":"Panggugunan",
+    "keterangan":"Pemekaran sebagian Desa Pulogodang, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.09.2022",
+    "nama_desa":"Hauagong",
+    "keterangan":"Pemekaran sebagian Desa Pakkat Hauagong, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2001",
+    "nama_desa":"Tarabintang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2002",
+    "nama_desa":"Sihotang Hasugian  Toruan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2003",
+    "nama_desa":"Sibongkare",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2004",
+    "nama_desa":"Sitanduk",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2005",
+    "nama_desa":"Sihombu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2006",
+    "nama_desa":"Simbara",
+    "keterangan":"Perda No. 2\/2007",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2007",
+    "nama_desa":"Marpadan",
+    "keterangan":"Pemekaran sebagian Desa Sihotang Hasugian Toruan dan Desa  Sihombu, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2008",
+    "nama_desa":"Mungkur",
+    "keterangan":"Pemekaran sebagian Desa Sitanduk, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.16.10.2009",
+    "nama_desa":"Sibongkare Sianju",
+    "keterangan":"Pemekaran sebagian Desa Sibongkare, Perda No. 4\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"12.18.15.2002",
+    "nama_desa":"Sei Bamban",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2003",
+    "nama_desa":"Bakaran Batu",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2004",
+    "nama_desa":"Gempolan",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2005",
+    "nama_desa":"Rampah Estate",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2006",
+    "nama_desa":"Suka Damai",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2007",
+    "nama_desa":"Sei Bamban Estate",
+    "keterangan":"Semula wil. Kec. Sei Rampah, Perbaikan nama sesuai Surat Bupati No.  18.1\/100\/4382\/2017 tgl 17 Okt 2017 hal Penyesuaian Kode dan Data  Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2008",
+    "nama_desa":"Sei Belutu",
+    "keterangan":"Semula wil. Kec. Sei Rampah, Perbaikan nama sesuai Surat Bupati No.  18.1\/100\/4382\/2017 tgl 17 Okt 2017 hal Penyesuaian Kode dan Data  Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2009",
+    "nama_desa":"Sei Buluh",
+    "keterangan":"Semula wil. Kec. Sei Rampah, Perbaikan nama sesuai Surat Bupati No.  18.1\/100\/4382\/2017 tgl 17 Okt 2017 hal Penyesuaian Kode dan Data  Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.15.2010",
+    "nama_desa":"Penggalangan",
+    "keterangan":"Semula wil. Kec. Sei Rampah, Perbaikan nama sesuai Surat Bupati No.  18.1\/100\/4382\/2017 tgl 17 Okt 2017 hal Penyesuaian Kode dan Data  Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2001",
+    "nama_desa":"Penggalian",
+    "keterangan":"Semula wil. kec. Tebing Tinggi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2002",
+    "nama_desa":"Laut Tador",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2003",
+    "nama_desa":"Tanah Besih",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2004",
+    "nama_desa":"Binjai",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2005",
+    "nama_desa":"Paya Pasir",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2006",
+    "nama_desa":"Bahilang",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2007",
+    "nama_desa":"Penggalangan",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2008",
+    "nama_desa":"Paya Pinang",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2009",
+    "nama_desa":"Kuta Pinang",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.16.2010",
+    "nama_desa":"Sibulan",
+    "keterangan":"Semula wil. Kec. Sei Rampah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17",
+    "nama_desa":"19",
+    "keterangan":"Perda No. 10 \/ 2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2001",
+    "nama_desa":"Gudang Garam",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2002",
+    "nama_desa":"Dolok Masango",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2003",
+    "nama_desa":"Panombean",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2004",
+    "nama_desa":"Bandar Negeri",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2005",
+    "nama_desa":"Ujung Negeri Kahan",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2006",
+    "nama_desa":"Bandar Magodang",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2007",
+    "nama_desa":"Ujung Negeri Hulu",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2008",
+    "nama_desa":"Pegajahan Hulu",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2009",
+    "nama_desa":"Marihat Dolok",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2010",
+    "nama_desa":"Bintang Bayu",
+    "keterangan":"Semula wil. Kec. Kotarih",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.18.17.2011",
+    "nama_desa":"Bandar Pinang Kebun",
+    "keterangan":"Semula wil. Kec. Kotarih, Perbaikan nama sesuai Surat Bupati No.  18.1\/100\/4382\/2017 tgl 17 Okt 2017 hal Penyesuaian Kode dan Data  Wil Desa\/Kelurahan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

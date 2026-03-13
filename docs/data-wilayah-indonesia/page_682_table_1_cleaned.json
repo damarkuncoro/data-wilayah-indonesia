@@ -1,0 +1,128 @@
+[
+  {
+    "kode":"13.76.02.1032",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Tanjuang Anau, Kel. Balai Batuang, dan Kel.  Talawi, Perda No. 13\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1033",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Payonibuang dan Kel. Tambago Perda No. 14\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1034",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Kaniang Bukik, Kel. Nan Kodok dan Kel.  Payolinyam, Perda No. 15\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1035",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Padang Kaduduak, Kel. Cubadak Air, Kel Tarok,  Perda No. 3\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1036",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Muaro, Kel. Pasia, Kel. Taruko dan Kel. Balai  Cacang, Perda No. 7\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1037",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Balai Jariang, Kel. Balai Gadang dan Kel. Balai  Gurun, Perda No. 8\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1038",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Koto Baru, Kel. Bunian dan Kel. Balai Baru, Perda  No. 9\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1039",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Labuah Baru, Kel. Balai Kaliki dan Kel. Kubu  Gadang, Perda No. 10\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03.1001",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Air Tabit",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03.1002",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Air Tabit, Penggabungan Kel. Padang Alai dan Kel. Bodi, Perda  No. 7\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03.1003",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Air Tabit",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03.1005",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Air Tabit, Penggabungan Kel. Sicincin Hilir dan Kel. Sicincin  Mudik, Perda No. 11\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.03.1007",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Air Tabit, Penggabungan Kel. Padang Tiakar Hilir dan Kel.  Padang Tiakar Mudik, Perda No. 10\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

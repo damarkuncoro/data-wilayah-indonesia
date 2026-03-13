@@ -1,0 +1,232 @@
+[
+  {
+    "kode":"13.02.13",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Junjung Sirih",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.02.17",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hiliran Gumanti",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.02.18",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tigo Lurah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.02.19",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Danau Kembar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.03",
+    "jumlah_desa":62,
+    "luas_wilayah":3151.0,
+    "keterangan":"Perubahan nama Kab. Sawahlunto\/Sijunjung PP No. 25\/2008.  Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SIJUNJUNG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.03",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Gadang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.04",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sijunjung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.05",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"IV Nagari",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.06",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kamang Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.07",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuak Tarok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.08",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto VII",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.09",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sumpur Kudus",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.03.10",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kupitan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIJUNJUNG"
+  },
+  {
+    "kode":"13.04",
+    "jumlah_desa":75,
+    "luas_wilayah":1377.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TANAH DATAR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.01",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"X Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.02",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batipuh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.03",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rambatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.04",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lima Kaum",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.05",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Emas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.06",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lintau Buo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.07",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.08",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Tarab",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  },
+  {
+    "kode":"13.04.09",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pariangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TANAH DATAR"
+  }
+]

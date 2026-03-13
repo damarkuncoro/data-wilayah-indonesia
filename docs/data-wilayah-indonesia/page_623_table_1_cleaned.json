@@ -1,0 +1,245 @@
+[
+  {
+    "kode":"13.01.05.2014",
+    "nama_desa":"Balai Sinayan Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 49\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2015",
+    "nama_desa":"Sungai Gayo Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 50\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2016",
+    "nama_desa":"Sungai Sariak Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 51\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2017",
+    "nama_desa":"Bukik Kaciak Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 52\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2018",
+    "nama_desa":"Gunung Bungkuak  Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 53\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2019",
+    "nama_desa":"Painan Selatan  Painan",
+    "keterangan":"Pemekaran sebagian Desa Painan, Perda No. 54\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2020",
+    "nama_desa":"Painan Timur Painan",
+    "keterangan":"Pemekaran sebagian Desa Painan, Perda No. 55\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2005",
+    "nama_desa":"Koto Berapak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2006",
+    "nama_desa":"Talaok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2007",
+    "nama_desa":"Pasar Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2008",
+    "nama_desa":"Gurun Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2009",
+    "nama_desa":"Api-api Pasar Baru",
+    "keterangan":"Pemekaran sebagian Desa Pasar Baru, Perda No. 27\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2010",
+    "nama_desa":"Tanjung Durian Pasar  Baru",
+    "keterangan":"Pemekaran sebagian Desa Pasar Baru, Perda No. 28\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2011",
+    "nama_desa":"Asam Kamba Pasar  Baru",
+    "keterangan":"Pemekaran sebagian Desa Pasar Baru, Perda No. 29\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2012",
+    "nama_desa":"Sawah Laweh Pasar  Baru",
+    "keterangan":"Pemekaran sebagian Desa Pasar Baru, Perda No. 30\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2013",
+    "nama_desa":"Kapeh Panji Jaya  Talaok",
+    "keterangan":"Pemekaran sebagian Desa Talaok, Perda No. 31\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2014",
+    "nama_desa":"Aur Begalung Talaok",
+    "keterangan":"Pemekaran sebagian Desa Talaok, Perda No. 32\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2015",
+    "nama_desa":"Kapelgam Koto  Berapak",
+    "keterangan":"Pemekaran sebagian Desa Koto Berapak, Perda No. 33\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2016",
+    "nama_desa":"Koto Baru Koto  Berapak",
+    "keterangan":"Pemekaran sebagian Desa Koto Berapak, Perda No. 34\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2017",
+    "nama_desa":"Kubang Koto  Berapak",
+    "keterangan":"Pemekaran sebagian Desa Koto Berapak, Perda No. 35\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2018",
+    "nama_desa":"Kapujan Koto  Berapak",
+    "keterangan":"Pemekaran sebagian Desa Koto Berapak, Perda No. 36\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2019",
+    "nama_desa":"Gurun Panjang Utara",
+    "keterangan":"Pemekaran sebagian Desa Gurun Panjang, Perda No. 37\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2020",
+    "nama_desa":"Gurun Panjang Barat",
+    "keterangan":"Pemekaran sebagian Desa Gurun Panjang, Perda No. 38\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.06.2021",
+    "nama_desa":"Gurun Panjang  Selatan",
+    "keterangan":"Pemekaran sebagian Desa Gurun Panjang, Perda No. 39\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07",
+    "nama_desa":"23",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2001",
+    "nama_desa":"Siguntur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

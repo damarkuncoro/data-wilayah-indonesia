@@ -1,0 +1,252 @@
+[
+  {
+    "kode":"14.10.04",
+    "jumlah_desa":14.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Bengkalis",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Tinggi Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.10.05",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Bengkalis",
+    "level":"kecamatan",
+    "nama_wilayah":"Merbau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.10.06",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Merbau, Perda No. 7\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulaumerbau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.10.07",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Tebing Tinggi, Perda No. 15\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Tinggi Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.10.08",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Merbau, Perda No. 16\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Tasik Putri Puyu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.10.09",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Rangsang dan Kec. Rangsang Barat, Perda  No. 17\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Rangsang Pesisir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71",
+    "jumlah_desa":0.0,
+    "luas_wilayah":638.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PEKANBARU",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sukajadi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pekanbaru Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sail",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lima Puluh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Senapelan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.06",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Kec. Rumbai sesuai Perda Nomor 2 tahun 2020  dan ND Dir. Dekonsentrasi,TP dan Kerjasama No 799\/TUDK\/2020  Tgl 14 Desember 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Rumbai Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukit Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.08",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Kec. Tampan sesuai Perda Nomor 2 tahun 2020  dan ND Dir. Dekonsentrasi,TP dan Kerjasama No 799\/TUDK\/2020  Tgl 14 Desember 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Binawidya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.09",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Marpoyan Damai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.10",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tenayan Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.11",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payung Sekaki",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.12",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama Kec. Rumbai Pesisir sesuai Perda No. 2\/2020 dan ND  Dit Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Rumbai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.13",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Binawidya sesuai Perda No. 2\/2020 dan  ND Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Tuahmadani",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.14",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Tenayan Raya sesuai Perda No. 2\/2020  dan ND Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Kulim",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.71.15",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Rumbai sesuai Perda No. 2\/2020 dan ND  Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_wilayah":"Rumbai Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PEKANBARU"
+  },
+  {
+    "kode":"14.72",
+    "jumlah_desa":0.0,
+    "luas_wilayah":2060.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA DUMAI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA DUMAI"
+  },
+  {
+    "kode":"14.72.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dumai Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA DUMAI"
+  },
+  {
+    "kode":"14.72.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dumai Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA DUMAI"
+  }
+]

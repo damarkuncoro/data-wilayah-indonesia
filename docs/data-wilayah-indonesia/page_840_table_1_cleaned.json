@@ -1,0 +1,82 @@
+[
+  {
+    "kode":"15.72.01",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Kerinci sesuai UU No. 25 Tahun 2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Penuh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.02",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Kerinci sesuai UU No. 25 Tahun 2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Pesisir Bukit",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Kerinci sesuai UU No. 25 Tahun 2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Hamparan Rawang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.04",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Kerinci sesuai UU No. 25 Tahun 2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Kampung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Kerinci sesuai UU No. 25 Tahun 2008",
+    "level":"kecamatan",
+    "nama_wilayah":"Kumun Debai",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.06",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Sungai Penuh, Perda No. 13\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Pondok Tinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.07",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Pesisir Bukit, Perda No. 14\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.72.08",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Sungai Penuh, Perda No. 15\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Bungkal",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

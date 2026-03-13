@@ -1,0 +1,262 @@
+[
+  {
+    "kode":"13.01",
+    "jumlah_desa":182,
+    "luas_wilayah":6046.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PESISIR SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.01",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pancung Soal",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.02",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ranah Pesisir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.03",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lengayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.04",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Kapas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.05",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"IV Jurai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.06",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.07",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto XI Tarusan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.08",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sutera",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.09",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Linggo Sari Baganti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.10",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perubahan nama dari Kec. Lunang Silaut menjadi Kec. Lunang, Perda  No. 10\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Lunang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.11",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Basa Ampek Balai Tapan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.12",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 3\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"IV Nagari Bayang Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.13",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Airpura",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.14",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Basa Ampek Balai Tapan, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Ranah Ampek Hulu Tapan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.01.15",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Lunang Silaut, Perda No. 9\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Silaut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PESISIR SELATAN"
+  },
+  {
+    "kode":"13.02",
+    "jumlah_desa":74,
+    "luas_wilayah":3590.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SOLOK",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.03",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pantai Cermin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.04",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Gumanti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.05",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payung Sekaki",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.06",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembang Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.07",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Talang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.08",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukit Sundi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.09",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"IX Koto Sungai Lasi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.10",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kubung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  },
+  {
+    "kode":"13.02.11",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"X Koto Singkarak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK"
+  }
+]

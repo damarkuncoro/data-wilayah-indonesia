@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"12.20.06.2028",
+    "nama_desa":"Napa Lombang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2029",
+    "nama_desa":"Mangaledang Lama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2030",
+    "nama_desa":"Mangaledang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2031",
+    "nama_desa":"Bangkudu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2032",
+    "nama_desa":"Balakka Torop",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2033",
+    "nama_desa":"Janji Matogu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2034",
+    "nama_desa":"Muara Sigama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2035",
+    "nama_desa":"Napahalas",
+    "keterangan":"Perbaikan nama sesuai BA No. 2826.a\/BP\/2017 tgl 30 Okt s\/d 1 Nov  2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2036",
+    "nama_desa":"Sigama Napahalas",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.06.2039",
+    "nama_desa":"Torluk Muara Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07",
+    "nama_desa":"31",
+    "keterangan":"Semula wil. Kab. Tapanuli Selatan",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.1001",
+    "nama_desa":"",
+    "keterangan":"Perubahan status menjadi kelurahan berdasarkan Rapat Validasi tgl 13  Juni 2017 dan Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD hal  Masukan atas Rancangan Permendagri ttg Kode dan Data Wilayah  Adm Pemerintahan tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2002",
+    "nama_desa":"Pangkal Dolok Lama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2003",
+    "nama_desa":"Pangkal Dolok Julu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2004",
+    "nama_desa":"Pintu Padang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2005",
+    "nama_desa":"Batang Onang Lama",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2006",
+    "nama_desa":"Bonan Dolok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2007",
+    "nama_desa":"Simardona",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2008",
+    "nama_desa":"Batang Onang Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2009",
+    "nama_desa":"Parau Sorat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2010",
+    "nama_desa":"Pasar Matanggor",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2011",
+    "nama_desa":"Batu Pulut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2012",
+    "nama_desa":"Huta Lambung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2013",
+    "nama_desa":"Galanggang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2014",
+    "nama_desa":"Gunungtua Tumbu  Jati",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2015",
+    "nama_desa":"Gunungtua Batang  Onang",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2016",
+    "nama_desa":"Simanapang",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2017",
+    "nama_desa":"Simaninggir",
+    "keterangan":"Surat Bup. Padang Lawas Utara No. 141\/1154\/2015 tgl 30 Maret 2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2018",
+    "nama_desa":"Batu Mamak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2019",
+    "nama_desa":"Padang Garugur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2020",
+    "nama_desa":"Padang Matinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.20.07.2021",
+    "nama_desa":"Purba Tua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

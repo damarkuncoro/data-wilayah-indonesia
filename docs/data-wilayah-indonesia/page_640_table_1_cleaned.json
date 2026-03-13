@@ -1,0 +1,146 @@
+[
+  {
+    "kode":"13.05.02.2007",
+    "nama_desa":"Sungai Buluah Utara",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.02.2008",
+    "nama_desa":"Sungai Buluah  Selatan",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Buluah, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2001",
+    "nama_desa":"Kapalo Koto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2002",
+    "nama_desa":"Pauh Kambar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2003",
+    "nama_desa":"Padang Bintungan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2004",
+    "nama_desa":"Kurai Taji",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2005",
+    "nama_desa":"Sunua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2006",
+    "nama_desa":"Padang Kandang  Pulau Air Padang  Bintungan",
+    "keterangan":"Pemekaran sebagian wil Desa Padang Bintungan, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2007",
+    "nama_desa":"Sunua Tengah",
+    "keterangan":"Pemekaran sebagian wil Desa Sunua, Perda No. 1\/2013, Rekomendasi  Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No Kode Wilayah  Adm Pemerintahan Nagari tgl 26 Mei 2016 dan Rekomendasi Ditjen  Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2008",
+    "nama_desa":"Sunua Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Sunua, Perda No. 1\/2013, Rekomendasi  Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No Kode Wilayah  Adm Pemerintahan Nagari tgl 26 Mei 2016 dan Rekomendasi Ditjen  Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.03.2009",
+    "nama_desa":"Kurai Taji Timur",
+    "keterangan":"Pemekaran sebagian wil Desa Kurai Taji, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.04",
+    "nama_desa":"3",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.04.2002",
+    "nama_desa":"Sicincin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.04.2003",
+    "nama_desa":"Lubuk Pandan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.04.2004",
+    "nama_desa":"Sungai Asam",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

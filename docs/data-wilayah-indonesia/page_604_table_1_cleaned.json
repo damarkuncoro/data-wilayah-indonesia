@@ -1,0 +1,155 @@
+[
+  {
+    "kode":"12.76.03.1009",
+    "nama_desa":"",
+    "keterangan":"Perda No. 15\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04",
+    "nama_desa":"-",
+    "keterangan":"Perda No. 15\/2006",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1003",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1005",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1006",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.04.1007",
+    "nama_desa":"",
+    "keterangan":"Perda No. 15\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05",
+    "nama_desa":"-",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1003",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hulu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1005",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Rambutan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1006",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hilir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.76.05.1007",
+    "nama_desa":"",
+    "keterangan":"Semula wil. Kec. Padang Hilir",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

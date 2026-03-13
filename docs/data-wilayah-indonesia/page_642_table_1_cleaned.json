@@ -1,0 +1,173 @@
+[
+  {
+    "kode":"13.05.06.2004",
+    "nama_desa":"Campago Selatan",
+    "keterangan":"Pemekaran sebagian wil Desa Campago Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2005",
+    "nama_desa":"Sikucua Utara",
+    "keterangan":"Pemekaran sebagian wil Desa Sikucua Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2006",
+    "nama_desa":"Sikucua Timur",
+    "keterangan":"Pemekaran sebagian wil Desa Sikucua Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2007",
+    "nama_desa":"Sikucua Tengah",
+    "keterangan":"Pemekaran sebagian wil Desa Sikucua Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2008",
+    "nama_desa":"Sikucua Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Sikucua Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.07",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.07.2001",
+    "nama_desa":"Kuranji Hulu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.07.2002",
+    "nama_desa":"Malai III Koto",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.07.2003",
+    "nama_desa":"Batu Gadang Kuranji  Hulu",
+    "keterangan":"Pemekaran sebagian Desa Malai III Koto, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.07.2004",
+    "nama_desa":"Sungai Sirah Kuranji  Hulu",
+    "keterangan":"Pemekaran sebagian Desa Malai III Koto, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.08",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.08.2001",
+    "nama_desa":"Kuranji Hilir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.08.2002",
+    "nama_desa":"Pilubang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.08.2003",
+    "nama_desa":"Guguak Kuranji Hilir",
+    "keterangan":"Pemekaran sebagian Desa Kuranji Hilir, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.08.2004",
+    "nama_desa":"Koto Tinggi Kuranji  Hilir",
+    "keterangan":"Pemekaran sebagian Desa Kuranji Hilir, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.09",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.09.2001",
+    "nama_desa":"III Koto Aur Malintang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.09.2002",
+    "nama_desa":"III Koto Aur Malintang  Utara",
+    "keterangan":"Pemekaran sebagian Desa III Koto Aur Malintang, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.09.2003",
+    "nama_desa":"III Koto Aur Malintang  Timur",
+    "keterangan":"Pemekaran sebagian Desa III Koto Aur Malintang, Perda No. 13\/2010",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

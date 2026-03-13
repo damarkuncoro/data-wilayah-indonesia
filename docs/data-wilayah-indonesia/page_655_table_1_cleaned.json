@@ -1,0 +1,182 @@
+[
+  {
+    "kode":"13.08.12.2007",
+    "nama_desa":"Cubadak Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Cubadak, sesuai: Perda No. 2 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13.2001",
+    "nama_desa":"Malampah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13.2002",
+    "nama_desa":"Ladang Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13.2003",
+    "nama_desa":"Binjai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13.2004",
+    "nama_desa":"Malampah Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Malampah, sesuai: Perda No. 2 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13.2005",
+    "nama_desa":"Ladang Panjang  Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Ladang Panjang, sesuai: Perda No. 2 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14.2002",
+    "nama_desa":"Taruang Taruang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14.2005",
+    "nama_desa":"Padang Mantinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14.2008",
+    "nama_desa":"Taruang Taruang  Selatan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Taruang Taruang, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14.2009",
+    "nama_desa":"Taruang Taruang  Utara",
+    "keterangan":"Pemekaran sebagian wil. Nagari Taruang Taruang, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14.2010",
+    "nama_desa":"Padang Mantinggi  Utara",
+    "keterangan":"Pemekaran sebagian wil. Nagari Padang Mantinggi, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.15",
+    "nama_desa":"2",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.15.2001",
+    "nama_desa":"Silayang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.15.2002",
+    "nama_desa":"Muaro Sungai Lolo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.16",
+    "nama_desa":"4",
+    "keterangan":"Perda No. 5 \/ 2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.16.2001",
+    "nama_desa":"Alahan Mati",
+    "keterangan":"Semula wil. Kec. Bonjol",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.16.2002",
+    "nama_desa":"Simpang",
+    "keterangan":"Semula wil. Kec. Bonjol",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.16.2003",
+    "nama_desa":"Alahan Mati Hilia",
+    "keterangan":"Pemekaran sebagian wil. Nagari Alahan Mati, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

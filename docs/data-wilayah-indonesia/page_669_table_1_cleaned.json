@@ -1,0 +1,101 @@
+[
+  {
+    "kode":"13.12.10.2004",
+    "nama_desa":"Ophir",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2005",
+    "nama_desa":"Mahakarya",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2006",
+    "nama_desa":"Sariak",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2007",
+    "nama_desa":"Sungai Talang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2008",
+    "nama_desa":"Jambak Selatan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2009",
+    "nama_desa":"Pujorahayu",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Baru, sesuai: Perda No. 14 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.11",
+    "nama_desa":"4",
+    "keterangan":"perbaikan nama dari Sasak Ranah Pesisir menjadi Sasak Ranah  Pasisie,surat Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19  April 2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.11.2001",
+    "nama_desa":"Sasak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.11.2002",
+    "nama_desa":"Padang Harapan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sasak, sesuai: Perda No. 13 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.11.2003",
+    "nama_desa":"Ranah Pasisie",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sasak, sesuai: Perda No. 13 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.11.2004",
+    "nama_desa":"Maligi",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sasak, sesuai: Perda No. 13 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

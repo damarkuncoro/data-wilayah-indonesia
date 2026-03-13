@@ -1,0 +1,344 @@
+[
+  {
+    "kode":"13.10.05.2001",
+    "nama_desa":"Silago",
+    "keterangan":"Semula wil Kec. Pulau Punjung Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.05.2002",
+    "nama_desa":"Lubuak Karak",
+    "keterangan":"Semula wil Kec. Pulau Punjung Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.05.2003",
+    "nama_desa":"Koto Nan Empat  Dibawuh",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.05.2004",
+    "nama_desa":"Banai",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06.2001",
+    "nama_desa":"Timpeh",
+    "keterangan":"Semula wil Kec. Sitiung Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06.2002",
+    "nama_desa":"Taratak Tinggi",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06.2003",
+    "nama_desa":"Tabek",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06.2004",
+    "nama_desa":"Panyubarangan",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.06.2005",
+    "nama_desa":"Ranah Palabi",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07.2001",
+    "nama_desa":"Koto Salak",
+    "keterangan":"Semula wil Kec. Koto Baru Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07.2002",
+    "nama_desa":"Ampalu",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07.2003",
+    "nama_desa":"Padukuan",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07.2004",
+    "nama_desa":"Pulau Mainan",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.07.2005",
+    "nama_desa":"Simalidu",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.08",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.08.2001",
+    "nama_desa":"Tiumang",
+    "keterangan":"Semula wil Kec. Koto Baru Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.08.2002",
+    "nama_desa":"Sungai Langkok",
+    "keterangan":"Semula wil Kec. Koto Baru Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.08.2003",
+    "nama_desa":"Koto Beringin",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.08.2004",
+    "nama_desa":"Sipangkur",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.09",
+    "nama_desa":"4",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.09.2001",
+    "nama_desa":"Padang Laweh",
+    "keterangan":"Semula wil Kec. Koto Baru Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.09.2002",
+    "nama_desa":"Batu Rijal",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.09.2003",
+    "nama_desa":"Muaro Sopan",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.09.2004",
+    "nama_desa":"Sopan Jaya",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10.2001",
+    "nama_desa":"Sungai Limau",
+    "keterangan":"Semula wil Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10.2002",
+    "nama_desa":"Alahan Nan Tigo",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10.2003",
+    "nama_desa":"Lubuk Besar",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10.2004",
+    "nama_desa":"Tanjung Alam",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10.2005",
+    "nama_desa":"Sinamar",
+    "keterangan":"Nagari hasil pemekaran Perda No. 3\/2008 - No. 4\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11",
+    "nama_desa":"7",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11.2001",
+    "nama_desa":"Koto Besar",
+    "keterangan":"Semula wil Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11.2002",
+    "nama_desa":"Koto Tinggi",
+    "keterangan":"Semula wil Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11.2003",
+    "nama_desa":"Koto Gadang",
+    "keterangan":"Semula wil Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11.2004",
+    "nama_desa":"Bonjol",
+    "keterangan":"Pemekaran sebagian Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11.2005",
+    "nama_desa":"Abai Siat",
+    "keterangan":"Pemekaran sebagian Kec. Sungai Rumbai Perda No. 3\/2008",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"14.02.11",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2001",
+    "nama_desa":"Morong",
+    "keterangan":"Semula wil. Kec. Pasir Penyu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2002",
+    "nama_desa":"Pasir Bongkal",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  Bina Pemdes ttg Data Nama dan Kode Desa tgl 23 Juni 2016,  Perbaikan nama hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2003",
+    "nama_desa":"Pasir Selabau",
+    "keterangan":"Semula wil.Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  Pemdes tgl 23 Juni 2016, Perbaikan nama hasil validasi tgl 28 April  2017 dan rekomendasi Ditjen Pemdes No.146\/3672\/BPD tgl 21 Juni  2017, Srt Ditjen Pemdes No. 145\/1820\/SET tgl 15 Nov 2018",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2004",
+    "nama_desa":"Pasir Batu Mandi",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  BPD tgl 23 Juni 2016, Perbaikan nama hasil validasi data nama desa tgl  28 April 2017 dan rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2005",
+    "nama_desa":"Pasir Kelampaian",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  BPD tgl 23 Juni 2016, Perbaikan nama hasil validasi data nama desa tgl  28 April 2017 dan rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2006",
+    "nama_desa":"Kuala Lala",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  BPD tgl 23 Juni 2016, Perbaikan nama hasil validasi data nama desa tgl  28 April 2017 dan rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD  tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2007",
+    "nama_desa":"Sungai Lala",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  Bina Pemdes ttg Data Nama dan Kode Desa tgl 23 Juni 2016,  Perbaikan nama hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2008",
+    "nama_desa":"Kelawat",
+    "keterangan":"Semula wil. Kec. Pasir Penyu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2009",
+    "nama_desa":"Perkebunan Sungai  Parit",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama desa sesuai Surat Bup.  Inhu No. 470\/DKPS\/IX\/2016\/267 tgl 15 Sept 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2010",
+    "nama_desa":"Perkebunan Sungai  Lala",
+    "keterangan":"Semula wil. Kec. Pasir Penyu, Perbaikan nama desa sesuai Surat Bup.  Inhu No. 470\/DKPS\/IX\/2016\/267 tgl 15 Sept 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2011",
+    "nama_desa":"Tanjung Danau",
+    "keterangan":"Semula wil. Kec.Pasir Penyu, Perbaikan nama sesuai Validasi Ditjen  Bina Pemdes ttg Data Nama dan Kode Desa tgl 23 Juni 2016,  Perbaikan nama hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11.2012",
+    "nama_desa":"Sungai Air Putih",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.12",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.12.2001",
+    "nama_desa":"Rimpian",
+    "keterangan":"Semula wil. Kec. Pasir Penyu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

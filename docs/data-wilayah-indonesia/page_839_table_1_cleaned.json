@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"15.08.13",
+    "jumlah_desa":2.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.9\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Rimbo Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.08.14",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.10\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bathin III Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.08.15",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.11\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bathin II Pelayang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.08.16",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.12\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Jujuhan Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.08.17",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.13\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Sepenggal Lintas",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.09",
+    "jumlah_desa":122.0,
+    "luas_wilayah":6104.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. TEBO",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.01",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebo Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.02",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebo Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.03",
+    "jumlah_desa":16.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebo Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.04",
+    "jumlah_desa":13.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rimbo Bujang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.05",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sumay",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.06",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"VII Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.07",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rimbo Ulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.08",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rimbo Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.09",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tengah Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.10",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.17 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Serai Serumpun",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.11",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.17 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"VII Koto Ilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.09.12",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.17 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Muara Tabir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. TEBO"
+  },
+  {
+    "kode":"15.71",
+    "jumlah_desa":0.0,
+    "luas_wilayah":170.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA JAMBI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Telanaipura",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jambi Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jambi Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasar Jambi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelayangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.06",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Danau Teluk",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kota Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.08",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Jelutung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.09",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec Kota Baru, Perda No. 13\/2014",
+    "level":"kecamatan",
+    "nama_wilayah":"Alam Barajo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.10",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec Telanaipura, Perda No. 13\/2014",
+    "level":"kecamatan",
+    "nama_wilayah":"Danau Sipin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  },
+  {
+    "kode":"15.71.11",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec Jambi Selatan dan Jambi Timur, Perda No.",
+    "level":"kecamatan",
+    "nama_wilayah":"Paal Merah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA JAMBI"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "kode":"13.08.17",
+    "nama_desa":"4",
+    "keterangan":"Perda No. 6 \/ 2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.17.2001",
+    "nama_desa":"Padang Gelugur",
+    "keterangan":"Semula  wil. Kec. Panti",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.17.2002",
+    "nama_desa":"Sontang Cubadak",
+    "keterangan":"Pemekaran sebagian Desa Padang Gelugur, Perda 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.17.2003",
+    "nama_desa":"Sitombol Padang  Gelugua",
+    "keterangan":"Pemekaran sebagian Desa Padang Gelugur, Perda 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.17.2004",
+    "nama_desa":"Bahagia Padang  Gelugua",
+    "keterangan":"Pemekaran sebagian Desa Padang Gelugur, Perda 5\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.18",
+    "nama_desa":"3",
+    "keterangan":"Perda No. 7 \/ 2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.18.2001",
+    "nama_desa":"Koto Nopan",
+    "keterangan":"Semula  wil. Kec. Rao",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.18.2002",
+    "nama_desa":"Koto Rajo",
+    "keterangan":"Semula  wil. Kec. Rao",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.18.2003",
+    "nama_desa":"Languang",
+    "keterangan":"Semula  wil. Kec. Rao",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19",
+    "nama_desa":"6",
+    "keterangan":"Perda No.8 \/ 2004",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2001",
+    "nama_desa":"Lansek Kadok",
+    "keterangan":"Semula  wil. Kec. Rao",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2002",
+    "nama_desa":"Lubuak Layang",
+    "keterangan":"Semula  wil. Kec. Rao",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2003",
+    "nama_desa":"Tanjung Betung",
+    "keterangan":"Perda No. 8\/2004",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2004",
+    "nama_desa":"Lansek Kadok Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Lansek Kadok, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2005",
+    "nama_desa":"Tanjung Betung Utara",
+    "keterangan":"Pemekaran sebagian wil. Nagari Tanjung Betung, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19.2006",
+    "nama_desa":"Tanjung Betung Timur",
+    "keterangan":"Pemekaran sebagian wil. Nagari Tanjung Betung, sesuai: Perda No. 3 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

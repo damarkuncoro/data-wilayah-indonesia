@@ -1,0 +1,290 @@
+[
+  {
+    "kode":"12.17.03.2001",
+    "nama_desa":"Pangaloan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2002",
+    "nama_desa":"Hutarihit",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2003",
+    "nama_desa":"Sinaga Uruk  Pandiangan",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2004",
+    "nama_desa":"Toguan Galung",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2005",
+    "nama_desa":"Pananggangan",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2006",
+    "nama_desa":"Pasaran Parsaoran",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2007",
+    "nama_desa":"Sipinggan Lumban  Siantar",
+    "keterangan":"Perubahan nama Desa SPG. Lumban Siantar Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2008",
+    "nama_desa":"Sibonor Ompu Ratus",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2009",
+    "nama_desa":"Nainggolan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2010",
+    "nama_desa":"Pasaran I",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.1011",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.1012",
+    "nama_desa":"",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2013",
+    "nama_desa":"Pananggangan II",
+    "keterangan":"Pemekaran sebagian wil Desa Pananggangan Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2014",
+    "nama_desa":"Sipinggan",
+    "keterangan":"Pemekaran sebagian wil Desa Sipinggan Lumban Siantar Perda No.  2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.03.2015",
+    "nama_desa":"Janji Marapot",
+    "keterangan":"Pemekaran sebagian wil Desa Nainggolan Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2001",
+    "nama_desa":"Suhutnihuta  Pardomuan",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2002",
+    "nama_desa":"Gorat Pallombuan",
+    "keterangan":"Perubahan nama Desa ST. Palombuan Gorat Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2003",
+    "nama_desa":"Urat II",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2004",
+    "nama_desa":"Palipi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2005",
+    "nama_desa":"Pardomuan Nauli",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2006",
+    "nama_desa":"Hatoguan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2007",
+    "nama_desa":"Simbolon Purba",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2008",
+    "nama_desa":"Sigaol Simbolon",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2009",
+    "nama_desa":"Urat Timur",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2010",
+    "nama_desa":"Saor Nauli Hatoguan",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2011",
+    "nama_desa":"Parsaoran Urat",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2012",
+    "nama_desa":"Hutaginjang",
+    "keterangan":"Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2014",
+    "nama_desa":"Sigaol Marbun",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2018",
+    "nama_desa":"Hutadame",
+    "keterangan":"Pemekaran sebagian wil Desa Palipi Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2019",
+    "nama_desa":"Pallombuan",
+    "keterangan":"Pemekaran sebagian wil Desa Gorat Pallombuan Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.17.04.2020",
+    "nama_desa":"Pamutaran",
+    "keterangan":"Pemekaran sebagian wil Desa Urat Timur Perda No. 2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

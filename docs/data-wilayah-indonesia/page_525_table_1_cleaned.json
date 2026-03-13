@@ -1,0 +1,191 @@
+[
+  {
+    "kode":"12.15.03.2002",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.03.2003",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.03.2009",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.03.2013",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.03.2014",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04",
+    "jumlah_desa":5.0,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak, Surat Bupati Pakpak Bharat Nomor  410\/975\/Tapem\/VI\/2016 Hal : Revisi Nama Desa Tanggal 14 Juni 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.04.2005",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05",
+    "jumlah_desa":5.0,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05.2004",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.05.2005",
+    "jumlah_desa":null,
+    "keterangan":"Perda No. 22 \/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.06",
+    "jumlah_desa":4.0,
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.06.2001",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.06.2002",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak, Surat Bupati Pakpak Bharat Nomor  410\/975\/Tapem\/VI\/2016 Hal : Revisi Nama Desa Tanggal 14 Juni 2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.06.2003",
+    "jumlah_desa":null,
+    "keterangan":"Semula  wil. Kec. Salak",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

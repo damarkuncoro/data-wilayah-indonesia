@@ -1,0 +1,335 @@
+[
+  {
+    "kode":"12.21.13.2001",
+    "nama_desa":"Hasahatan Julu",
+    "keterangan":"Semula wil Kec. Barumun.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2002",
+    "nama_desa":"Hasahatan Jae",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2003",
+    "nama_desa":"Sabahotang",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2004",
+    "nama_desa":"Sigorbus Julu",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2005",
+    "nama_desa":"Sigorbus Jae",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2006",
+    "nama_desa":"Mompang",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2007",
+    "nama_desa":"Sitarolo Julu",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2008",
+    "nama_desa":"Siolip",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2009",
+    "nama_desa":"Saba Rimba",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2010",
+    "nama_desa":"Limbong",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2011",
+    "nama_desa":"Simaninggir",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2012",
+    "nama_desa":"Binabo Julu",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.13.2013",
+    "nama_desa":"Binabo Jae",
+    "keterangan":"Semula wil Kec. Barumun",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian wil Kec. Sosa sesuai Perda No. 5\/2019 dan ND  Dir Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2001",
+    "nama_desa":"Hapung",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2002",
+    "nama_desa":"Batu Gajah",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2003",
+    "nama_desa":"Hapung Torop",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2004",
+    "nama_desa":"Harang Jae",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2005",
+    "nama_desa":"Harang Julu",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2006",
+    "nama_desa":"Handio",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2007",
+    "nama_desa":"Gunung Tua",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2008",
+    "nama_desa":"Mandian",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2009",
+    "nama_desa":"Parapat",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2010",
+    "nama_desa":"Horuon",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.14.2011",
+    "nama_desa":"Bonan Dolok",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian wil Kec. Sosa, Perda No. 6\/2019 dan ND Dir  Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2001",
+    "nama_desa":"Pasir Julu",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2002",
+    "nama_desa":"Lumban Huayan",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2003",
+    "nama_desa":"Siborna Bunut",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2004",
+    "nama_desa":"Mananti Sosa Julu",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2005",
+    "nama_desa":"Ampolu",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2006",
+    "nama_desa":"Siginduang",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2007",
+    "nama_desa":"Ramba",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2008",
+    "nama_desa":"Roburan",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2009",
+    "nama_desa":"Tanjung",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2010",
+    "nama_desa":"Hurung Jilok",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.15.2011",
+    "nama_desa":"Pasir Jae",
+    "keterangan":"Semula wil Kec. Sosa",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

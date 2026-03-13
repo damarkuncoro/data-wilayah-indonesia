@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"12.19.09.2007",
+    "nama_desa":"Titi Merah",
+    "keterangan":"Pemekaran sebagian Desa Bulan-Bulan, Perda No. 2\/2011, Semula wil  Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2008",
+    "nama_desa":"Pematang Panjang",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2009",
+    "nama_desa":"Bulan-Bulan",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2010",
+    "nama_desa":"Gunung Bandung",
+    "keterangan":"Pemekaran sebagian Desa Bulan-Bulan, Perda No. 2\/2011, Semula wil  Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2011",
+    "nama_desa":"Lubuk Cuik",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2012",
+    "nama_desa":"Tanah Itam Ilir",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2013",
+    "nama_desa":"Pematang Tengah",
+    "keterangan":"Pemekaran sebagian Desa Lubuk Ciuk, Perda No. 2\/2011, Semula wil  Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2001",
+    "nama_desa":"Perkebunan Tanah  Itam Ulu",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2002",
+    "nama_desa":"Empat Negeri",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2003",
+    "nama_desa":"Sumber Rejo",
+    "keterangan":"Pemekaran sebagian Desa Empat Negeri, Perda No. 2\/2011, Semula  wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2004",
+    "nama_desa":"Lubuk Hulu",
+    "keterangan":"Pemekaran sebagian Desa Lubuk Besar, Perda No. 2\/2011, Semula wil  Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2005",
+    "nama_desa":"Lubuk Besar",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2006",
+    "nama_desa":"Pulau Sejuk",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2007",
+    "nama_desa":"Simpang Dolok",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2008",
+    "nama_desa":"Air Hitam",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2009",
+    "nama_desa":"Kwala Gunung",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.10.2010",
+    "nama_desa":"Cahaya Pardomuan",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2001",
+    "nama_desa":"Sumber Tani",
+    "keterangan":"Pemekaran sebagian Desa Sei Muka, Perda No.2\/2011, Semula wil  Kec. Talawi Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2002",
+    "nama_desa":"Sei Muka",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2003",
+    "nama_desa":"Perkebunan Tanah  Datar",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2004",
+    "nama_desa":"Binjai Baru",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2005",
+    "nama_desa":"Bangun Sari",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2006",
+    "nama_desa":"Karang Baru",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2007",
+    "nama_desa":"Perkebunan Petatal",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2008",
+    "nama_desa":"Mekar Baru",
+    "keterangan":"Pemekaran sebagian Desa Petatal, Perda No.2\/2011, Semula wil Kec.  Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2009",
+    "nama_desa":"Petatal",
+    "keterangan":"Semula wil Kec. Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.11.2010",
+    "nama_desa":"Glugur Makmur",
+    "keterangan":"Pemekaran sebagian Desa Petatal, Perda No.2\/2011, Semula wil Kec.  Talawi, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2001",
+    "nama_desa":"Sentang",
+    "keterangan":"Pemekaran sebagian Desa Lima Laras sesuai Perda 4\/2014, Semula  wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

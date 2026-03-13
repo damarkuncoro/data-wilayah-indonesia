@@ -1,0 +1,282 @@
+[
+  {
+    "kode":"13.08.08",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mapat Tunggul",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.12",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Duo Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.13",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tigo Nagari",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.14",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rao",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.15",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mapat Tunggul Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.16",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 5 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Alahan Mati",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.17",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Gelugur",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.18",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 7 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Rao Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.08.19",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.8 \/ 2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Rao Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.09",
+    "jumlah_desa":43,
+    "luas_wilayah":5983.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022 (tidak  ada batas darat dengan kab\/kota lainnya)",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. KEPULAUAN MENTAWAI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.01",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagai Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.02",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipora Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.03",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberut Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.04",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberut Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.05",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberut Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.06",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberut Barat Daya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.07",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberut Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.08",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sipora Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.09",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sikakap",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.09.10",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagai Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MENTAWAI"
+  },
+  {
+    "kode":"13.10",
+    "jumlah_desa":52,
+    "luas_wilayah":2921.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. DHARMASRAYA",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.01",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Baru",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.02",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau Punjung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.03",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Rumbai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.04",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sitiung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.05",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sembilan Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.06",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Timpeh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  },
+  {
+    "kode":"13.10.07",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Salak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. DHARMASRAYA"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "kode":"13.76.01.1032",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Tanjuang Gadang dan Kel. Sungai Pinago, Perda  No. 4\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.01.1033",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Padang Tangah dan Kel. Balai Nan Duo, Perda No.  5\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.01.1034",
+    "jumlah_desa":null,
+    "keterangan":"Penggabungan Kel. Padang Datar dan Kel. Tanah Mati, Perda No.  21\/2016",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76.02.1002",
+    "jumlah_desa":null,
+    "keterangan":"Nagari Koto Nan Gadang",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

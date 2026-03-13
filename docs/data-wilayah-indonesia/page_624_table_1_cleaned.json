@@ -1,0 +1,281 @@
+[
+  {
+    "kode":"13.01.07.2003",
+    "nama_desa":"Duku",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2004",
+    "nama_desa":"Batu Hampa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2005",
+    "nama_desa":"Nanggalo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2006",
+    "nama_desa":"Ampang Pulai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2007",
+    "nama_desa":"Kapuh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2008",
+    "nama_desa":"Barung-Barung  Balantai",
+    "keterangan":"Perda No. 17\/2001",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2009",
+    "nama_desa":"Barung-Barung  Balantai Selatan",
+    "keterangan":"Perda No. 3\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2010",
+    "nama_desa":"Mandeh",
+    "keterangan":"Perda No. 5\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2011",
+    "nama_desa":"Kapuah Utara",
+    "keterangan":"Perda No. 7\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2012",
+    "nama_desa":"Taratak Sungai  Lundang",
+    "keterangan":"PMD, Perda No. 8\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2013",
+    "nama_desa":"Siguntur Tua",
+    "keterangan":"Pemekaran sebagian Desa Siguntur, Perda No. 16\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2014",
+    "nama_desa":"Kampung Baru  Korong Nan Ampek",
+    "keterangan":"Pemekaran sebagian Desa Siguntur, Perda No. 17\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2015",
+    "nama_desa":"Duku Utara",
+    "keterangan":"Pemekaran sebagian Desa Duku, Perda No. 18\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2016",
+    "nama_desa":"Pulau Karam Ampang  Pulai",
+    "keterangan":"Pemekaran sebagian Desa Ampang Pulai, Perda No. 19\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2017",
+    "nama_desa":"Jinang Kampung  Pansur Ampang Pulai",
+    "keterangan":"Pemekaran sebagian Desa Ampang Pulai, Perda No. 20\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2018",
+    "nama_desa":"Cerocok Anau  Ampang Pulai",
+    "keterangan":"Pemekaran sebagian Desa Ampang Pulai, Perda No. 21\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2019",
+    "nama_desa":"Sungai Nyalo Mudiak  Aia",
+    "keterangan":"Pemekaran sebagian Desa Duku dan Desa Ampang Pulai, Perda No.  22\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2020",
+    "nama_desa":"Batu Hampar Selatan",
+    "keterangan":"Pemekaran sebagian Desa Batuhampar, Perda No. 23\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2021",
+    "nama_desa":"Barung-Barung  Balantai Timur",
+    "keterangan":"Pemekaran sebagian Desa Barung-Barung Balantai, Perda No.  24\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2022",
+    "nama_desa":"Barung-Barung  Balantai Tengah",
+    "keterangan":"Pemekaran sebagian Desa Barung-Barung Balantai, Perda No.  25\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.07.2023",
+    "nama_desa":"Setara Nanggalo",
+    "keterangan":"Pemekaran sebagian Desa Nanggalo, Perda No. 26\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2001",
+    "nama_desa":"Taratak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2002",
+    "nama_desa":"Surantih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2003",
+    "nama_desa":"Amping Parak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2004",
+    "nama_desa":"Amping Parak Timur",
+    "keterangan":"Perda No. 15\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2005",
+    "nama_desa":"Koto Taratak",
+    "keterangan":"Pemekaran sebagian Desa Taratak, Perda No. 60\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2006",
+    "nama_desa":"Lansano Taratak",
+    "keterangan":"Pemekaran sebagian Desa Taratak, Perda No. 61\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2007",
+    "nama_desa":"Aur Duri Surantih",
+    "keterangan":"Pemekaran sebagian Desa Surantih, Perda No. 62\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2008",
+    "nama_desa":"Rawang Gunung  Malelo Surantih",
+    "keterangan":"Pemekaran sebagian Desa Surantih, Perda No. 63\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.08.2009",
+    "nama_desa":"Koto Nan Tigo  Selatan Surantih",
+    "keterangan":"Pemekaran sebagian Desa Surantih, Perda No. 64\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

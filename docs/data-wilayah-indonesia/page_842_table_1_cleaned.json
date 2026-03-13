@@ -1,0 +1,47 @@
+[
+  {
+    "kode":"15.01.02.2013",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.01.02.2014",
+    "jumlah_desa":null,
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.01.02.2015",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Tanjung Tanah Perda No. 9\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.01.02.2016",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian Desa Seleman Perda No. 9\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"15.01.02.2018",
+    "jumlah_desa":null,
+    "keterangan":"Pemekaran sebagian wil Desa Cupak, Perda No. 3\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

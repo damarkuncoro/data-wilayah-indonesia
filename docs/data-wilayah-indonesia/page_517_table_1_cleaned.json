@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.14.18.2022",
+    "nama_desa":"Eho Orahili",
+    "keterangan":"Pemekaran sebagian Desa Orahili Fau, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.18.2023",
+    "nama_desa":"Ete Batu",
+    "keterangan":"Pemekaran sebagian Desa Hilinawalo Fau, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19",
+    "nama_desa":"13",
+    "keterangan":"Pemekaran sebagian Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2001",
+    "nama_desa":"Sambulu",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2002",
+    "nama_desa":"Orahili Ulunoyo",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2003",
+    "nama_desa":"Hiliwaebu",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2004",
+    "nama_desa":"Amorosa",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2005",
+    "nama_desa":"Marao",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2006",
+    "nama_desa":"Borowosi",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2007",
+    "nama_desa":"Hilimaera",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2008",
+    "nama_desa":"Suka Maju",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2009",
+    "nama_desa":"Loloana'a",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2010",
+    "nama_desa":"Hilifakhe",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2011",
+    "nama_desa":"Bawo Lolomatua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2012",
+    "nama_desa":"Ambukha I",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.19.2013",
+    "nama_desa":"Puncak Lolomatua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20",
+    "nama_desa":"17",
+    "keterangan":"Pemekaran sebagian Kec. Lolomatua dan Kec. Lolowau, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2001",
+    "nama_desa":"Ehosakhozi",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2002",
+    "nama_desa":"Bawohosi",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2003",
+    "nama_desa":"Hilizoliga",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2004",
+    "nama_desa":"Olayama",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2005",
+    "nama_desa":"Sifaoroasi",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2006",
+    "nama_desa":"Sifalago",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2007",
+    "nama_desa":"Lalimanawa",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2008",
+    "nama_desa":"Tundrumbaho",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2009",
+    "nama_desa":"Hiliuso",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2010",
+    "nama_desa":"Sisarahili Huruna",
+    "keterangan":"Semula wil Kec. Lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2011",
+    "nama_desa":"Tarewe",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. lolomatua, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2012",
+    "nama_desa":"Fadoro Tuhemberua",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2013",
+    "nama_desa":"Hilifalawu",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2014",
+    "nama_desa":"Luahamofakhe",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2015",
+    "nama_desa":"Sifaoroasi Huruna",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2016",
+    "nama_desa":"Hilimanawa",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.20.2017",
+    "nama_desa":"Mombawa Oladano",
+    "keterangan":"Pemekaran Desa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian Kec. Lolowau dan Kec. Hilimegai, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.21.2001",
+    "nama_desa":"Hilinamazihono",
+    "keterangan":"Semula wil Kec. Lalowa'u, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

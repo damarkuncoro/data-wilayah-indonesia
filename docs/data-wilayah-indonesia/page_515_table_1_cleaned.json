@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.14.14.2003",
+    "nama_desa":"Sifaoro'asi Mola",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2004",
+    "nama_desa":"Hiliuso",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2005",
+    "nama_desa":"Balohili Mola",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2006",
+    "nama_desa":"Ambukha",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2007",
+    "nama_desa":"Tobualo",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2008",
+    "nama_desa":"Hilibadalu",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2009",
+    "nama_desa":"Foikhugaga",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2010",
+    "nama_desa":"Orlin",
+    "keterangan":"Pemekaran sebagian Desa Balohili Mola, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2011",
+    "nama_desa":"Orahili Mola",
+    "keterangan":"Pemekaran sebagian Desa Hiliuso, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2012",
+    "nama_desa":"Umbunasi",
+    "keterangan":"Pemekaran sebagian Desa Lawindra, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15",
+    "nama_desa":"18",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2001",
+    "nama_desa":"Hilitotao",
+    "keterangan":"Semula wil. Kec. Amandraya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2002",
+    "nama_desa":"Hiliorudua",
+    "keterangan":"Semula wil. Kec. Amandraya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2003",
+    "nama_desa":"Sisobambowo",
+    "keterangan":"Semula wil. Kec. Amandraya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2004",
+    "nama_desa":"Hiliamauzula",
+    "keterangan":"Semula wil. Kec. Amandraya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2005",
+    "nama_desa":"Aramo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2006",
+    "nama_desa":"Sikhorilafau",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2007",
+    "nama_desa":"Hilifadolo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2008",
+    "nama_desa":"Hume",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2009",
+    "nama_desa":"Dao-dao",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2010",
+    "nama_desa":"Hilimagiao",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2011",
+    "nama_desa":"Hilisawato",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2012",
+    "nama_desa":"Balohao",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2013",
+    "nama_desa":"Hiligafoa",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2014",
+    "nama_desa":"Hilimbowo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2015",
+    "nama_desa":"Hilimezaya",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2016",
+    "nama_desa":"Hiliadolowa",
+    "keterangan":"Pemekaran sebagian Desa Hilitotao, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2017",
+    "nama_desa":"Hiligumbu",
+    "keterangan":"Pemekaran sebagian Desa Hilitotao, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.15.2018",
+    "nama_desa":"Bagoa",
+    "keterangan":"Pemekaran sebagian Desa Sisombabowo, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2001",
+    "nama_desa":"Labuhan Hiu",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2002",
+    "nama_desa":"Labuhan Bazau",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2003",
+    "nama_desa":"Labuan Rima",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2004",
+    "nama_desa":"Lambak",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2005",
+    "nama_desa":"Bais",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.16.2006",
+    "nama_desa":"Mahang Labara",
+    "keterangan":"Semula wil. Kec. Pulau-Pulau Batu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

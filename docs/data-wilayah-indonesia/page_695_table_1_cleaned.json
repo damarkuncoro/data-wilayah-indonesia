@@ -1,0 +1,34 @@
+[
+  {
+    "kode":"14.72.04",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Sembilan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.72.05",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Medang Kampai",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.72.06",
+    "keterangan":"Pembentukan Kec. Perda No. 8\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Dumai Kota",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.72.07",
+    "keterangan":"Pembentukan Kec. Perda No. 8\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Dumai Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

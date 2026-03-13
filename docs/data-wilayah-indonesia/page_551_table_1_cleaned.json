@@ -1,0 +1,263 @@
+[
+  {
+    "kode":"12.19.07.2004",
+    "nama_desa":"Durian",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2005",
+    "nama_desa":"Perkebunan Sei Balai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2007",
+    "nama_desa":"Suka Ramai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2008",
+    "nama_desa":"Sei Bejangkar",
+    "keterangan":"Perubahan nama Desa Siajam sesuai Perda No 4\/2014",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2009",
+    "nama_desa":"Mekar Mulio",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2010",
+    "nama_desa":"Perkebunan Sei  Bejangkar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2012",
+    "nama_desa":"Benteng Jaya",
+    "keterangan":"Pemekaran sebagian Desa Sei Balai, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2013",
+    "nama_desa":"Tanah Timbul",
+    "keterangan":"Pemekaran sebagian Desa Sei Balai, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2014",
+    "nama_desa":"Perjuangan",
+    "keterangan":"Pemekaran sebagian Desa Perkebunan Sei Balai, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2015",
+    "nama_desa":"Sidomulio",
+    "keterangan":"Pemekaran sebagian Desa Mekar Mulio, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2016",
+    "nama_desa":"Mekar Baru",
+    "keterangan":"Pemekaran sebagian Desa Kwala Sikasim, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.07.2017",
+    "nama_desa":"Suko Rejo",
+    "keterangan":"Pemekaran sebagian Desa Suka Ramai, Perda No.2\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2001",
+    "nama_desa":"Tanjung Prapat",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2002",
+    "nama_desa":"Laut Tador",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2003",
+    "nama_desa":"Pelanggiran Laut  Tador",
+    "keterangan":"Pemekaran sebagian Kel. Laut Tador, Perda No.2\/2011, Semula wil  Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2004",
+    "nama_desa":"Perkebunan Tanjung  Kasau",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2005",
+    "nama_desa":"Dewi Sri",
+    "keterangan":"Pemekaran sebagian Desa Perkebunan Tanjung Kasau, Perda  No.2\/2011, Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2006",
+    "nama_desa":"Tanjung Kasau",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2007",
+    "nama_desa":"Tanjung Seri",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2008",
+    "nama_desa":"Mekar Sari",
+    "keterangan":"Pemekaran sebagian Desa Tanjungsari, Perda No.2\/2011, Semula wil  Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2009",
+    "nama_desa":"Sei Simujur",
+    "keterangan":"Semula wil Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.08.2010",
+    "nama_desa":"Kandangan",
+    "keterangan":"Pemekaran sebagian Desa Sei Simujur, Perda No.2\/2011, Semula wil  Kec. Sei Suka, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09",
+    "nama_desa":"13",
+    "keterangan":"Pemekaran sebagian wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2001",
+    "nama_desa":"Gambus Laut",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2002",
+    "nama_desa":"Perupuk",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2003",
+    "nama_desa":"Guntung",
+    "keterangan":"Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2004",
+    "nama_desa":"Barung-Barung",
+    "keterangan":"Pemekaran sebagian Desa Air Hitam, Perda No. 2\/2011, Semula wil  Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.09.2005",
+    "nama_desa":"Titi Putih",
+    "keterangan":"Pemekaran sebagian Desa Pematang Panjang, Perda No. 2\/2011,  Semula wil Kec. Lima Puluh, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

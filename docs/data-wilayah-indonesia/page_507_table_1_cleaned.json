@@ -1,0 +1,200 @@
+[
+  {
+    "kode":"12.14.03.2027",
+    "nama_desa":"Hiliorudua",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2032",
+    "nama_desa":"Hilizomboi",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2036",
+    "nama_desa":"Oikhoda Balaekha",
+    "keterangan":"Pemekaran sebagian Desa Hilisimaetano, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2037",
+    "nama_desa":"Angorudua Balaekha",
+    "keterangan":"Pemekaran sebagian Desa Hilisimaetano, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2038",
+    "nama_desa":"Hilinawalo Balaekha",
+    "keterangan":"Pemekaran sebagian Desa Hilisimaetano, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2039",
+    "nama_desa":"Sobawagoli",
+    "keterangan":"Pemekaran sebagian Desa Bawo'otalua, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2040",
+    "nama_desa":"Lahusa I",
+    "keterangan":"Pemekaran sebagian Desa Lahusa, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2041",
+    "nama_desa":"Hiliwatema",
+    "keterangan":"Pemekaran sebagian Desa Bawozihono, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2042",
+    "nama_desa":"Mogae",
+    "keterangan":"Pemekaran sebagian Desa Tetezou Kec. Tetezou, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.03.2043",
+    "nama_desa":"Sinar Baho",
+    "keterangan":"Pemekaran sebagian Desa Bawolato, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2001",
+    "nama_desa":"Duru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2002",
+    "nama_desa":"Tuwaso",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2003",
+    "nama_desa":"Hilioromao",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2004",
+    "nama_desa":"Eho",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2005",
+    "nama_desa":"Sialema",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2006",
+    "nama_desa":"Bowonifaoso",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2007",
+    "nama_desa":"Hilianombasela",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2008",
+    "nama_desa":"Lumbui Melayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2009",
+    "nama_desa":"Hiliorodua Tebolo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2010",
+    "nama_desa":"Tebolo Melayu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.04.2021",
+    "nama_desa":"Lumbui Nias",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

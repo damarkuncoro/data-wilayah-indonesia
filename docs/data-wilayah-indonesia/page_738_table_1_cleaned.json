@@ -1,0 +1,119 @@
+[
+  {
+    "kode":"14.03.10.1004",
+    "nama_desa":"",
+    "keterangan":"Perbaikan Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2005",
+    "nama_desa":"Sungai Cingam",
+    "keterangan":"Perbaikan Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2006",
+    "nama_desa":"Teluk Lecah",
+    "keterangan":"Perbaikan Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2020. Perda No. 12 Tahun 2012.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2007",
+    "nama_desa":"Makeruh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2008",
+    "nama_desa":"Hutan Panjang",
+    "keterangan":"Perbaikan nama hasil validasi data nama desa tgl 28 April 2017 dan  rekomendasi Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2009",
+    "nama_desa":"Pangkalan Nyirih",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2010",
+    "nama_desa":"Sukarjo Mesim",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017, Perbaikan Huruf",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2011",
+    "nama_desa":"Darul Aman",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2012",
+    "nama_desa":"Parit Kebumen",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2013",
+    "nama_desa":"Sri Tanjung",
+    "keterangan":"Pemekaran sebagian Desa Teluklecah, Perda No.12\/2012, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2014",
+    "nama_desa":"Pancur Jaya",
+    "keterangan":"Pemekaran sebagian Desa Pangkalan Nyirih, Perda No.12\/2012,  Perbaikan nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2015",
+    "nama_desa":"Pangkalan Pinang",
+    "keterangan":"Pemekaran sebagian Desa Pangkalan Nyirih, Perda No.12\/2012,  Perbaikan nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.10.2016",
+    "nama_desa":"Dungun Baru",
+    "keterangan":"Pemekaran sebagian Desa Hutan Panjang, Perda No.12\/2012,  Perbaikan nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

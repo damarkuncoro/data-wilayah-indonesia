@@ -1,0 +1,299 @@
+[
+  {
+    "kode":"12.14.09.2004",
+    "nama_desa":"Hiliorahua",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2005",
+    "nama_desa":"Hilimboe",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2006",
+    "nama_desa":"Hilimboho",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2008",
+    "nama_desa":"Hiliwaebu",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2009",
+    "nama_desa":"Hilidanayao",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2010",
+    "nama_desa":"Hilizamurugo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2011",
+    "nama_desa":"Sisobahili",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2012",
+    "nama_desa":"Dao-dao Zanuwo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2013",
+    "nama_desa":"Hiliorudua",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2014",
+    "nama_desa":"Bintang Baru",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2015",
+    "nama_desa":"Hilitobara Susua",
+    "keterangan":"Pemekaran sebagian Desa Hilimboho, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2016",
+    "nama_desa":"Orahua Uluzoi",
+    "keterangan":"Pemekaran sebagian Desa Hiliorahua, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2017",
+    "nama_desa":"Hilisibohou",
+    "keterangan":"Pemekaran sebagian Desa Sifalago Susua, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2018",
+    "nama_desa":"Hiliadulosoi",
+    "keterangan":"Pemekaran sebagian Desa Hiliana'a Susua, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.09.2019",
+    "nama_desa":"Orahili Bo'e",
+    "keterangan":"Pemekaran sebagian Desa Hilimboe, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10",
+    "nama_desa":"14",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2001",
+    "nama_desa":"Hilisimaetano",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2002",
+    "nama_desa":"Bawogosali",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2003",
+    "nama_desa":"Hilifalawu",
+    "keterangan":"Semula wil. Kec. Amandraya",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2005",
+    "nama_desa":"Samadaya  Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2006",
+    "nama_desa":"Idala Jaya  Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2007",
+    "nama_desa":"Pekan Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2008",
+    "nama_desa":"Bonia Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2009",
+    "nama_desa":"Ndraso Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2010",
+    "nama_desa":"Faomasi  Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2011",
+    "nama_desa":"Eho Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2012",
+    "nama_desa":"Soto'o Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2013",
+    "nama_desa":"Hiliaurifa  Hilisimaetano",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2015",
+    "nama_desa":"Bawohosi Maniamolo",
+    "keterangan":"Pemekaran sebagian Desa Bawogosali, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.10.2016",
+    "nama_desa":"Bawosaodano",
+    "keterangan":"Pemekaran sebagian Desa Bawogosali, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11",
+    "nama_desa":"10",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2001",
+    "nama_desa":"Togizita",
+    "keterangan":"Semula wil. Kec. Lolowa'u",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2002",
+    "nama_desa":"Soledua",
+    "keterangan":"Semula wil. Kec. Lolowa'u",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

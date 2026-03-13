@@ -1,0 +1,137 @@
+[
+  {
+    "kode":"13.11.05.2003",
+    "nama_desa":"Lubuk Ulang Aling",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.05.2004",
+    "nama_desa":"Ranah Pantai Cermin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.05.2005",
+    "nama_desa":"Sitapus",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.05.2006",
+    "nama_desa":"Lubuk Ulang Aling  Selatan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.05.2007",
+    "nama_desa":"Lubuk Ulang Aling  Tengah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.06",
+    "nama_desa":"4",
+    "keterangan":"Perda No. 3\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.06.2001",
+    "nama_desa":"Alam Pauh Duo",
+    "keterangan":"Semula wil. Kec. Sungai Pagu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.06.2002",
+    "nama_desa":"Kapau Alam Pauh  Duo",
+    "keterangan":"Semula wil. Kec. Sungai Pagu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.06.2003",
+    "nama_desa":"Luak Kapau Alam  Pauh Duo",
+    "keterangan":"Semula wil. Kec. Sungai Pagu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.06.2004",
+    "nama_desa":"Pauh Duo Nan Batigo",
+    "keterangan":"Semula wil. Kec. Sungai Pagu",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.07",
+    "nama_desa":"4",
+    "keterangan":"Perda No. 4\/2007",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.07.2001",
+    "nama_desa":"Sungai Kunyit",
+    "keterangan":"Semula wil. Kec. Sangir Jujuan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.07.2002",
+    "nama_desa":"Talao Sungai Kunyit",
+    "keterangan":"Semula wil. Kec. Sangir Jujuan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.07.2003",
+    "nama_desa":"Sungai Kunyit Barat",
+    "keterangan":"Semula wil. Kec. Sangir Jujuan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11.07.2004",
+    "nama_desa":"Talunan Maju",
+    "keterangan":"Semula wil. Kec. Sangir Jujuan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

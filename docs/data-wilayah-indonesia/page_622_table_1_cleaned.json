@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"13.01.02.2008",
+    "nama_desa":"Pelangai Gadang",
+    "keterangan":"Pemekaran sebagian wil Desa Pelangai, Perda No. 71\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.02.2009",
+    "nama_desa":"Pelangai Kaciak",
+    "keterangan":"Pemekaran sebagian wil Desa Pelangai, Perda No. 72\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.02.2010",
+    "nama_desa":"Pasia Pelangai",
+    "keterangan":"Pemekaran sebagian wil Desa Pelangai, Perda No. 73\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2001",
+    "nama_desa":"Kambang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2002",
+    "nama_desa":"Lakitan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2003",
+    "nama_desa":"Kambang Utara",
+    "keterangan":"Perda No. 16\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2004",
+    "nama_desa":"Kambang Timur",
+    "keterangan":"Perda No. 17\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2005",
+    "nama_desa":"Kambang Barat",
+    "keterangan":"Perda No. 19\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2006",
+    "nama_desa":"Lakitan Utara",
+    "keterangan":"Perda No. 20\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2007",
+    "nama_desa":"Lakitan Selatan",
+    "keterangan":"Perda No. 21\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2008",
+    "nama_desa":"Lakitan Timur",
+    "keterangan":"Perda No. 22\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.03.2009",
+    "nama_desa":"Lakitan Tengah",
+    "keterangan":"Perda No. 24\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2001",
+    "nama_desa":"IV Koto Hilie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2002",
+    "nama_desa":"IV Koto Mudiek",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2003",
+    "nama_desa":"Taluak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2004",
+    "nama_desa":"Koto Nan Duo IV Koto  Hilie",
+    "keterangan":"Perda No. 12\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2005",
+    "nama_desa":"Koto Nan Tigo IV  Koto Hilie",
+    "keterangan":"Perda No. 13\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2006",
+    "nama_desa":"Teratak Tempatih IV  Koto Mudiek",
+    "keterangan":"Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 56\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2007",
+    "nama_desa":"Tuik IV Koto Mudiek",
+    "keterangan":"Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 57\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2008",
+    "nama_desa":"Sungai Nyalo IV Koto  Mudiek",
+    "keterangan":"Pemekaran sebagian wil Desa Koto Mudiek, Perda No. 58\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.04.2009",
+    "nama_desa":"Taluk Tigo Sakato",
+    "keterangan":"Pemekaran sebagian wil Desa Taluk, Perda No. 59\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05",
+    "nama_desa":"20",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2001",
+    "nama_desa":"Painan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2002",
+    "nama_desa":"Tambang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2003",
+    "nama_desa":"Salido",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2004",
+    "nama_desa":"Lumpo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2005",
+    "nama_desa":"Bunga Pasang Salido",
+    "keterangan":"Perda No. 9\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2006",
+    "nama_desa":"Sago Salido",
+    "keterangan":"Perda No. 10\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2007",
+    "nama_desa":"Salido Sari Bulan",
+    "keterangan":"Pemekaran sebagian Desa Tambang, Perda No. 42\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2008",
+    "nama_desa":"Koto Rawang",
+    "keterangan":"Pemekaran sebagian Desa Tambang, Perda No. 43\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2009",
+    "nama_desa":"Limau Gadang Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 44\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2010",
+    "nama_desa":"Batu Kunik Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 45\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2011",
+    "nama_desa":"Taratak Tangah  Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 46\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.05.2012",
+    "nama_desa":"Ampuan Lumpo",
+    "keterangan":"Pemekaran sebagian Desa Lumpo, Perda No. 47\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

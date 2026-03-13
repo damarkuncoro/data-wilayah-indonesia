@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"13.01.13",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2001",
+    "nama_desa":"Inderapura Utara",
+    "keterangan":"Perda No. 41\/2009, Semula wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2002",
+    "nama_desa":"Muara Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 92\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2003",
+    "nama_desa":"Damar Lapan Batang  Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 91\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2004",
+    "nama_desa":"Lalang Panjang  Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 90\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2005",
+    "nama_desa":"Palokan Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 88\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2006",
+    "nama_desa":"Lubuk Betung  Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 89\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2007",
+    "nama_desa":"Tluk Kualo Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 93\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2008",
+    "nama_desa":"Tanah Bakali  Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 87\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2009",
+    "nama_desa":"Inderapura Timur",
+    "keterangan":"Perda No. 40\/2009, Semula wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.13.2010",
+    "nama_desa":"Pulau Rajo  Inderapura",
+    "keterangan":"Pemekaran sebagian wil Desa Inderapura, Perda No. 94\/2011, Semula  wil Kec. Pancung Soal, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Basa Ampek Balai Tapan, Perda No.  8\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2001",
+    "nama_desa":"Sungai Gambir Sako  Tapan",
+    "keterangan":"Perda No. 43\/2009, Semula wil Kec. Basa Ampek Balai Tapan, Perda  No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2002",
+    "nama_desa":"Limau Purut Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 106\/2011, Semula wil  Kec. Basa Ampek Balai Tapan Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2003",
+    "nama_desa":"Talang Balarik Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 97\/2011, Semula wil Kec.  Basa Ampek Balai Tapan, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2004",
+    "nama_desa":"Tebing Tinggi Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 100\/2011, Semula wil  Kec. Basa Ampek Balai Tapan, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2005",
+    "nama_desa":"Binjai Tapan",
+    "keterangan":"Perda No. 47\/2009, Semula wil Kec. Basa Ampek Balai Tapan, Perda  No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2006",
+    "nama_desa":"Sungai Pinang Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 98\/2011, Semula wil Kec.  Basa Ampek Balai Tapan, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2007",
+    "nama_desa":"Talang Koto Pulai  Tapan",
+    "keterangan":"Perda No. 44\/2009, Semula wil Kec. Basa Ampek Balai Tapan, Perda  No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2008",
+    "nama_desa":"Kampung Tengah  Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 101\/2011, Semula wil  Kec. Basa Ampek Balai Tapan, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2009",
+    "nama_desa":"Kubu Tapan",
+    "keterangan":"Perda No. 46\/2009, Semula wil Kec. Basa Ampek Balai Tapan, Perda  No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.14.2010",
+    "nama_desa":"Simpang Gunung  Tapan",
+    "keterangan":"Pemekaran sebagian Desa Tapan, Perda No. 99\/2011, Semula wil Kec.  Basa Ampek Balai Tapan, Perda No. 8\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.15",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Lunang Silaut, Perda No. 9\/2012",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.15.2001",
+    "nama_desa":"Silaut",
+    "keterangan":"Semula wil Kec. Lunang Silaut, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.01.15.2002",
+    "nama_desa":"Sungai Sirah",
+    "keterangan":"Pemekaran sebagian Desa Silaut, Perda No. 107\/2011, Semula wil  Kec. Lunang Silaut, Perda No. 9\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

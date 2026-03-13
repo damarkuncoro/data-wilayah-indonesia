@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.21.16",
+    "nama_desa":"10",
+    "keterangan":"Pemekaran sebagian wil Kec. Barumun Tengah sesuai Perda No.  7\/2019 dan ND Dir Dekon No. 1380\/TU\/DK\/SDV\/2019 tgl 16 Desember  2019",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2001",
+    "nama_desa":"Gading",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2002",
+    "nama_desa":"Huta Ruhom",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2003",
+    "nama_desa":"Aek Siala",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2004",
+    "nama_desa":"Bire",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2005",
+    "nama_desa":"Sibontar",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2006",
+    "nama_desa":"Para Napa Jae",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2007",
+    "nama_desa":"Para Napa Dolok",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2008",
+    "nama_desa":"Batusundung",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2009",
+    "nama_desa":"Sidongdong",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.16.2010",
+    "nama_desa":"Sisalean",
+    "keterangan":"Semula wil Kec. Barumun Tengah",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17",
+    "nama_desa":"13",
+    "keterangan":"Pemekaran sebagian wil Kec. Hutaraja Tinggi dan Kec. Batang Lubu  Sutam sesuai Perda No. 8\/2019 dan ND Dir Dekon No.  1380\/TU\/DK\/SDV\/2019 tgl 16 Desember 2019",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2001",
+    "nama_desa":"Tanjung Ale",
+    "keterangan":"Semula wil Kec. Hutaraja Tinggi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2002",
+    "nama_desa":"Sigala-Gala",
+    "keterangan":"Semula wil Kec. Hutaraja Tinggi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2003",
+    "nama_desa":"Simangambat",
+    "keterangan":"Semula wil Kec. Hutaraja Tinggi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2004",
+    "nama_desa":"Pir Trans Sosa I B",
+    "keterangan":"Semula wil Kec. Hutaraja Tinggi. Perda No. 8 Tahun 2019.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2005",
+    "nama_desa":"Pir Trans Sosa I A",
+    "keterangan":"Semula wil Kec. Hutaraja Tinggi. Perda No. 8 Tahun 2019.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2006",
+    "nama_desa":"Gunung Manaon",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2007",
+    "nama_desa":"Muara Tige",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2008",
+    "nama_desa":"Sibodak Papaso",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2009",
+    "nama_desa":"Gunung Inten",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2010",
+    "nama_desa":"Pagaran Baringin",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2011",
+    "nama_desa":"Salambue",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2012",
+    "nama_desa":"Papaso",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.21.17.2013",
+    "nama_desa":"Rombayan",
+    "keterangan":"Semula wil Kec. Batang Lubu Sutam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

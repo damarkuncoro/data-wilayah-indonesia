@@ -1,0 +1,302 @@
+[
+  {
+    "kode":"14.08.04",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tualang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Mandau",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.06",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Dayun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.07",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kerinci Kanan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.08",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bunga Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.09",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Gasib",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.10",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kandis",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.11",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Dalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.12",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.4\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Sabak Auh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.13",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No.4\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Mempura",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.08.14",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 8\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pusako",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.09",
+    "jumlah_desa":218,
+    "luas_wilayah":5458.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. KUANTAN SINGINGI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.01",
+    "jumlah_desa":23,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuantan Mudik",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.02",
+    "jumlah_desa":20,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuantan Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Singingi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.04",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuantan Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.05",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Cerenti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.06",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Benai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.07",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunungtoar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.08",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Singingi Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.09",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangean",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.10",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Logas Tanah Darat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.11",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Inuman",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.12",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Hulu Kuantan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.13",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran wil Kec. Kuantan Hilir, Perda No. 24\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuantan Hilir Seberang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.14",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran wil Kec. Kuantan Tengah dan Kec. Benai, Perda No.  24\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Sentajo Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.09.15",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran wil Kec. Kuantan Mudik, Perda No. 24\/2012",
+    "level":"kecamatan",
+    "nama_wilayah":"Pucuk Rantau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KUANTAN SINGINGI"
+  },
+  {
+    "kode":"14.10",
+    "jumlah_desa":96,
+    "luas_wilayah":3624.0,
+    "keterangan":"UU No. 12\/2009.  Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022 (tidak  ada batas darat dengan kab\/kota lainnya).",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. KEPULAUAN MERANTI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MERANTI"
+  },
+  {
+    "kode":"14.10.01",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Bengkalis",
+    "level":"kecamatan",
+    "nama_wilayah":"Tebing Tinggi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MERANTI"
+  },
+  {
+    "kode":"14.10.02",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Semula wil. Kab. Bengkalis",
+    "level":"kecamatan",
+    "nama_wilayah":"Rangsang Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. KEPULAUAN MERANTI"
+  }
+]

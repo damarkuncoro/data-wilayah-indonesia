@@ -1,0 +1,222 @@
+[
+  {
+    "kode":"13.10.09",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Laweh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.10",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Asam Jujuhan",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.10.11",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Besar",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.11",
+    "jumlah_desa":39,
+    "luas_wilayah":3282.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SOLOK SELATAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.01",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sangir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.02",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Pagu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.03",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Parik Gadang Diateh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.04",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sangir Jujuan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.05",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sangir Batang Hari",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.06",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 3\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pauh Duo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.11.07",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Sangir Balai Janggo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SOLOK SELATAN"
+  },
+  {
+    "kode":"13.12",
+    "jumlah_desa":90,
+    "luas_wilayah":3853.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. PASAMAN BARAT",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.01",
+    "jumlah_desa":1,
+    "luas_wilayah":null,
+    "keterangan":"perbaikan nama dari Sungaiberemas menjadi Sungai Beremas,surat  Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April  2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Beremas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.02",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Melintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasaman",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.04",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Talamau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.05",
+    "jumlah_desa":17,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kinali",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.06",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"perbaikan nama dari Gunungtuleh menjadi Gunung Tuleh,surat  Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April  2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Gunung Tuleh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.07",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"perbaikan nama dari Ranahbatahan menjadi Ranah Batahan,surat  Gubernur Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April  2021,surat Bupati Pasaman No 130\/133\/PEM 2021 tgl 31 Maret  2021,Perda Kab Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Ranah Batahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.08",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Balingka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.09",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"perbaikan nama dari Sungaiaur menjadi Sungai Aur,surat Gubernur  Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April 2021,surat Bupati  Pasaman No 130\/133\/PEM 2021 tgl 31 Maret 2021,Perda Kab  Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Aur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  },
+  {
+    "kode":"13.12.10",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Luhak Nan Duo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. PASAMAN BARAT"
+  }
+]

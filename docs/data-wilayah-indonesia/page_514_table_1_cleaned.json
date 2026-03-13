@@ -1,0 +1,326 @@
+[
+  {
+    "kode":"12.14.11.2004",
+    "nama_desa":"Tuho'owo",
+    "keterangan":"Semula wil. Kec. Lolowa'u",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2005",
+    "nama_desa":"Togizita I",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2007",
+    "nama_desa":"Hilitoese",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2008",
+    "nama_desa":"Dao-dao Sowo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2009",
+    "nama_desa":"Hiliadulo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2010",
+    "nama_desa":"Soledua I",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.11.2011",
+    "nama_desa":"Soledua II",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12",
+    "nama_desa":"14",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2001",
+    "nama_desa":"Hilisataro",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2002",
+    "nama_desa":"Hilinamoniha",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2003",
+    "nama_desa":"Hiliamaetaluo",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2004",
+    "nama_desa":"Bawoganowo",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2005",
+    "nama_desa":"Hili'alawa",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2006",
+    "nama_desa":"Hilindrasoniha",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2007",
+    "nama_desa":"Hilimagari",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2008",
+    "nama_desa":"Hilisataro Raya",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2009",
+    "nama_desa":"Hilisataro Gewa",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2010",
+    "nama_desa":"Hilisoromi",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2011",
+    "nama_desa":"Hiliasi",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2012",
+    "nama_desa":"Hilindraso Raya",
+    "keterangan":"Pemekaran sebagian Desa Hilindrasoniha, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2013",
+    "nama_desa":"Hilisataro Nandisa",
+    "keterangan":"Pemekaran sebagian Desa Hilisataro, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.12.2014",
+    "nama_desa":"Hilisataro Eho Sofayo",
+    "keterangan":"Pemekaran sebagian Desa Hilisataro, Perda No. 7\/2012",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13",
+    "nama_desa":"11",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2001",
+    "nama_desa":"Hilizalo'otano",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2002",
+    "nama_desa":"Hilinawalo Mazino",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2003",
+    "nama_desa":"Lawindra",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2004",
+    "nama_desa":"Bawolahusa",
+    "keterangan":"Semula wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2005",
+    "nama_desa":"Hilizoroi Lawa",
+    "keterangan":"Semula  wil. Kec. Teluk Dalam",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2006",
+    "nama_desa":"Hilizalo'otano Laowo",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2007",
+    "nama_desa":"Hilizalo'otano Larono",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2008",
+    "nama_desa":"Hililaza Hilinawalo  Mazino",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2009",
+    "nama_desa":"Hilifondege  Hilizoroilawa",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2010",
+    "nama_desa":"Lolomboli",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.13.2011",
+    "nama_desa":"Bawolahusa Doli-doli",
+    "keterangan":"Perda No. 2\/2009",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14",
+    "nama_desa":"11",
+    "keterangan":"Perda No. 12\/2008",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.14.2001",
+    "nama_desa":"Lawindra",
+    "keterangan":"Semula wil. Kec. Gomo",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

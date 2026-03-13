@@ -1,0 +1,74 @@
+[
+  {
+    "kode":"12.14.35.2005",
+    "nama_desa":"Sirahia",
+    "keterangan":"Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2006",
+    "nama_desa":"Umbu Idanotae",
+    "keterangan":"Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2007",
+    "nama_desa":"Awoni",
+    "keterangan":"Pemekaran sebagian Desa Sirahia, Perda No. 7\/2012, Semula wil Kec.  Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2008",
+    "nama_desa":"Hilisalo'o",
+    "keterangan":"Pemekaran sebagian Desa Hilimbowo Idanotae, Perda No. 7\/2012,  Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2009",
+    "nama_desa":"Balombaruzo Orahua",
+    "keterangan":"Pemekaran sebagian Desa Doli-Doli Idanotae, Perda No. 7\/2012,  Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2010",
+    "nama_desa":"Harefa Orahua",
+    "keterangan":"Pemekaran sebagian Desa Sirahia, Perda No. 7\/2012, Semula wil Kec.  Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2011",
+    "nama_desa":"Hiligabungan",
+    "keterangan":"Pemekaran sebagian Desa Lolosoni, Perda No. 7\/2012, Semula wil  Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2012",
+    "nama_desa":"Buhawa",
+    "keterangan":"Pemekaran sebagian Desa Lawa-Lawa Lou Idanotae, Perda No.  7\/2012, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

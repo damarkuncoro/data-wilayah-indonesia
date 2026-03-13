@@ -1,0 +1,155 @@
+[
+  {
+    "kode":"13.12.04.2006",
+    "nama_desa":"Sungai Janiah Talu",
+    "keterangan":"Pemekaran sebagian wil. Nagari Talu, sesuai: Perda No. 18 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.04.2007",
+    "nama_desa":"Tabek Sirah Talu",
+    "keterangan":"Pemekaran sebagian wil. Nagari Talu, sesuai: Perda No. 18 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05",
+    "nama_desa":"17",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2001",
+    "nama_desa":"Kinali",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2002",
+    "nama_desa":"Katiagan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2003",
+    "nama_desa":"Ampek Koto",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2004",
+    "nama_desa":"Ampek Koto Barat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2005",
+    "nama_desa":"Bancah Kariang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2006",
+    "nama_desa":"Mudiak Labuah",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2007",
+    "nama_desa":"Tandikek",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2008",
+    "nama_desa":"Langgam Sepakat",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2009",
+    "nama_desa":"Langgam Saiyo",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2010",
+    "nama_desa":"Anam Koto Selatan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2011",
+    "nama_desa":"Sigunanti",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2012",
+    "nama_desa":"Koto Gadang Jaya",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2013",
+    "nama_desa":"Anam Koto Utara",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.05.2014",
+    "nama_desa":"Bandua Balai",
+    "keterangan":"Pemekaran sebagian wil. Nagari Kinali, sesuai: Perda No. 15 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4441\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

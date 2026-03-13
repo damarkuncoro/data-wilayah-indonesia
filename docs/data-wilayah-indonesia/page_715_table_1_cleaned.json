@@ -1,0 +1,119 @@
+[
+  {
+    "kode":"14.01.20.2004",
+    "nama_desa":"Suka Makmur",
+    "keterangan":"Semula wil. Kec. Kampar Kiri, Perbaikan nama desa sesuai hasil  Validasi Ditjen Bina Pemdes tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.20.2005",
+    "nama_desa":"Subarak",
+    "keterangan":"Semula wil. Kec. Kampar Kiri",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.20.2006",
+    "nama_desa":"Sungai Lipai",
+    "keterangan":"Pemekaran sebagian Ds.Kebundurian Perda No.17\/2011, Perbaikan  nama hasil Validasi Ditjen Bina Pemdes tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.20.2007",
+    "nama_desa":"Sahilan Darussalam",
+    "keterangan":"Pemekaran sebagian Ds.Gunungsahilan Perda No.17\/2011, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.20.2008",
+    "nama_desa":"Gunung Mulya",
+    "keterangan":"Pemekaran sebagian Ds.Gunungsari Perda No.17\/2011, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.20.2009",
+    "nama_desa":"Makmur Sejahtera",
+    "keterangan":"Pemekaran sebagian Ds.Suka Makmur Perda No.17\/2011, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21",
+    "nama_desa":"6",
+    "keterangan":"Pemekaran Kec. Perda No. 22\/2003",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2001",
+    "nama_desa":"Siberuang",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No. 22\/2003",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2002",
+    "nama_desa":"Bandur Picak",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No.22\/2003,  Perbaikan nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2003",
+    "nama_desa":"Gunung Malelo",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No.22\/2003,  Perbaikan nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan  nama hasil validasi data nama desa tgl 28 April 2017 dan rekomendasi  Ditjen Bina Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2004",
+    "nama_desa":"Tabing",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No. 22\/2003",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2005",
+    "nama_desa":"Pongkai",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No. 22\/2003",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.21.2006",
+    "nama_desa":"Tanjung",
+    "keterangan":"Semula berada di wil. Kec. XIII Koto Kampar Perda No. 22\/2003",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

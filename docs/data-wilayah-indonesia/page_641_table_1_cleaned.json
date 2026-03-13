@@ -1,0 +1,146 @@
+[
+  {
+    "kode":"13.05.05",
+    "nama_desa":"12",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2001",
+    "nama_desa":"Balah Aie",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2002",
+    "nama_desa":"Sungai Sariak",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2003",
+    "nama_desa":"Lurah Ampalu",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2004",
+    "nama_desa":"Lareh Nan Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2005",
+    "nama_desa":"Lareh Nan Panjang  Selatan",
+    "keterangan":"Pemekaran sebagian wil Desa Lareh Nan Panjang, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2006",
+    "nama_desa":"Lareh Nan Panjang  Barat",
+    "keterangan":"Pemekaran sebagian wil Desa Lareh Nan Panjang, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2007",
+    "nama_desa":"Bisati Sungai Sariak",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2008",
+    "nama_desa":"Ambuang Kapua  Sungai Sariak",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2009",
+    "nama_desa":"Lareh Nan Panjang  Sungai Sariak",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2010",
+    "nama_desa":"Limpato Sungai  Sariak",
+    "keterangan":"Pemekaran sebagian wil Desa Sungai Sariak, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2011",
+    "nama_desa":"Balah Aie Utara",
+    "keterangan":"Pemekaran sebagian wil Desa Balah Aie, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.05.2012",
+    "nama_desa":"Balah Aie Timur",
+    "keterangan":"Pemekaran sebagian wil Desa Balah Aie, Perda No. 1\/2013,  Rekomendasi Gubernur Sumbar No. 120\/453PEM-2016 hal Usulan No  Kode Wilayah Adm Pemerintahan Nagari tgl 26 Mei 2016 dan  Rekomendasi Ditjen Bina Pemdes No. 146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06",
+    "nama_desa":"8",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2001",
+    "nama_desa":"Campago",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.05.06.2002",
+    "nama_desa":"Sikucua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

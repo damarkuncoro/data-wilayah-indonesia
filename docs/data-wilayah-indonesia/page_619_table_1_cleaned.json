@@ -1,0 +1,252 @@
+[
+  {
+    "kode":"13.71",
+    "jumlah_desa":0.0,
+    "luas_wilayah":694.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PADANG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Bungus Teluk Kabung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.06",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Begalung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.07",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Kilangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.08",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Pauh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.09",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuranji",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.10",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Nanggalo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.71.11",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Koto Tangah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG"
+  },
+  {
+    "kode":"13.72",
+    "jumlah_desa":0.0,
+    "luas_wilayah":59.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA SOLOK",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SOLOK"
+  },
+  {
+    "kode":"13.72.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Sikarah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SOLOK"
+  },
+  {
+    "kode":"13.72.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Harapan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SOLOK"
+  },
+  {
+    "kode":"13.73",
+    "jumlah_desa":27.0,
+    "luas_wilayah":232.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA SAWAHLUNTO",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SAWAHLUNTO"
+  },
+  {
+    "kode":"13.73.01",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lembah Segar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SAWAHLUNTO"
+  },
+  {
+    "kode":"13.73.02",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Barangin",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SAWAHLUNTO"
+  },
+  {
+    "kode":"13.73.03",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Silungkang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SAWAHLUNTO"
+  },
+  {
+    "kode":"13.73.04",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Talawi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA SAWAHLUNTO"
+  },
+  {
+    "kode":"13.74",
+    "jumlah_desa":0.0,
+    "luas_wilayah":24.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PADANG PANJANG",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG PANJANG"
+  },
+  {
+    "kode":"13.74.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Panjang Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG PANJANG"
+  },
+  {
+    "kode":"13.74.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Padang Panjang Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PADANG PANJANG"
+  },
+  {
+    "kode":"13.75",
+    "jumlah_desa":0.0,
+    "luas_wilayah":24.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA BUKITTINGGI",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BUKITTINGGI"
+  },
+  {
+    "kode":"13.75.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Guguak Panjang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA BUKITTINGGI"
+  }
+]

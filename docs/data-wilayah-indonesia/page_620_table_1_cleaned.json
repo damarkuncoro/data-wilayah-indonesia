@@ -1,0 +1,122 @@
+[
+  {
+    "kode":"13.75.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Aur Birugo Tigo Baleh",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.76",
+    "jumlah_desa":0.0,
+    "luas_wilayah":75.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PAYAKUMBUH",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.76.01",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payakumbuh Barat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.76.02",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payakumbuh Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.76.03",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Payakumbuh Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.76.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 13\/2008, Surat Gub. No. 136\/63\/Pem-2007, Tgl 23 Oktober  2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Lamposi Tigo Nagori",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.76.05",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 13\/2008, Surat Gub. No. 136\/63\/Pem-2007, Tgl 23 Oktober  2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Payakumbuh Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PAYAKUMBUH"
+  },
+  {
+    "kode":"13.77",
+    "jumlah_desa":55.0,
+    "luas_wilayah":65.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KOTA PARIAMAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PARIAMAN"
+  },
+  {
+    "kode":"13.77.01",
+    "jumlah_desa":6.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pariaman Tengah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PARIAMAN"
+  },
+  {
+    "kode":"13.77.02",
+    "jumlah_desa":17.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pariaman Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PARIAMAN"
+  },
+  {
+    "kode":"13.77.03",
+    "jumlah_desa":16.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pariaman Selatan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PARIAMAN"
+  },
+  {
+    "kode":"13.77.04",
+    "jumlah_desa":16.0,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 10\/2009",
+    "level":"kecamatan",
+    "nama_wilayah":"Pariaman Timur",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KOTA PARIAMAN"
+  }
+]

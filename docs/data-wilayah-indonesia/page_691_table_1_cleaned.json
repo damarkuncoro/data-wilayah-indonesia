@@ -1,0 +1,322 @@
+[
+  {
+    "kode":"14.04.12",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gaung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.13",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tembilahan Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.14",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kemuning",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.15",
+    "jumlah_desa":15,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelangiran",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.16",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Belengkong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.17",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pulau Burung",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.18",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Concong",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.19",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Kempas",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.04.20",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 16\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Batang",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.05",
+    "jumlah_desa":104,
+    "luas_wilayah":13262.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB.  PELALAWAN",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.01",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ukui",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.02",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Kerinci",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.03",
+    "jumlah_desa":16,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Kuras",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.04",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pangkalan Lesung",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.05",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Langgam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.06",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pelalawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.07",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kerumutan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.08",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bunut",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.09",
+    "jumlah_desa":8,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Teluk Meranti",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.10",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Kampar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.11",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Sei Kijang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.05.12",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 6\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Petalangan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  PELALAWAN"
+  },
+  {
+    "kode":"14.06",
+    "jumlah_desa":139,
+    "luas_wilayah":7658.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB.  ROKAN HULU",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.01",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Ujung Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.02",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rokan IV Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.03",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rambah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tambusai",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.05",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kepenuhan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.06",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kunto Darussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.07",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rambah Samo",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.08",
+    "jumlah_desa":13,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rambah Hilir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  },
+  {
+    "kode":"14.06.09",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tambusai Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HULU"
+  }
+]

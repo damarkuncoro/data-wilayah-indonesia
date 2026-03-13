@@ -1,0 +1,322 @@
+[
+  {
+    "kode":"14.02.06",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siberida",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.07",
+    "jumlah_desa":20.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Cenaku",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.08",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Gangsal",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.09",
+    "jumlah_desa":17.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lirik",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.10",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Cenaku",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.11",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Lala",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.12",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Lubuk Batu Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.13",
+    "jumlah_desa":19.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rakit Kulim",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.02.14",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Batang Peranap",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03",
+    "jumlah_desa":136.0,
+    "luas_wilayah":8616.0,
+    "keterangan":"Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. BENGKALIS",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.01",
+    "jumlah_desa":28.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bengkalis",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.02",
+    "jumlah_desa":23.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bantan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.03",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bukit Batu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.09",
+    "jumlah_desa":2.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.10",
+    "jumlah_desa":12.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rupat",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.11",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rupat Utara",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.12",
+    "jumlah_desa":17.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siak Kecil",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.13",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pinggir",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.14",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Bukit Batu, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Bandar Laksamana",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.15",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Pinggir, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Talang Muandau",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.03.16",
+    "jumlah_desa":13.0,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Muandau, Perda 6\/2015",
+    "level":"kecamatan",
+    "nama_wilayah":"Bathin Solapan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. BENGKALIS"
+  },
+  {
+    "kode":"14.04",
+    "jumlah_desa":197.0,
+    "luas_wilayah":13521.0,
+    "keterangan":"Luas Wilayah Definitif sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. INDRAGIRI HILIR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.01",
+    "jumlah_desa":11.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Reteh",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.02",
+    "jumlah_desa":10.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Enok",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.03",
+    "jumlah_desa":7.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kuala Indragiri",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.04",
+    "jumlah_desa":null,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tembilahan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.05",
+    "jumlah_desa":5.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tempuling",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.06",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Gaung Anak Serka",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.07",
+    "jumlah_desa":16.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Mandah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.08",
+    "jumlah_desa":8.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kateman",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.09",
+    "jumlah_desa":16.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Keritang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  },
+  {
+    "kode":"14.04.10",
+    "jumlah_desa":9.0,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Merah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. INDRAGIRI HILIR"
+  }
+]

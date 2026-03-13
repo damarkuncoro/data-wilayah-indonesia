@@ -1,0 +1,164 @@
+[
+  {
+    "kode":"13.12.08",
+    "nama_desa":"6",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2001",
+    "nama_desa":"Parit",
+    "keterangan":"Perda No. 5\/2011",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2002",
+    "nama_desa":"Koto Tangah",
+    "keterangan":"Pemekaran sebagian wil. Nagari Parit, sesuai: Perda No. 5 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2003",
+    "nama_desa":"Koto Tuo",
+    "keterangan":"Pemekaran sebagian wil. Nagari Parit, sesuai: Perda No. 5 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2004",
+    "nama_desa":"Koto Nan Duo",
+    "keterangan":"Pemekaran sebagian wil. Nagari Parit, sesuai: Perda No. 5 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2005",
+    "nama_desa":"Pematang Panjang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Parit, sesuai: Perda No. 5 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.08.2006",
+    "nama_desa":"Ranah Koto Tinggi",
+    "keterangan":"Pemekaran sebagian wil. Nagari Parit, sesuai: Perda No. 5 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09",
+    "nama_desa":"7",
+    "keterangan":"perbaikan nama dari Sungaiaur menjadi Sungai Aur,surat Gubernur  Sumatera Barat No 120\/223\/PEM-2021 tgl 19 April 2021,surat Bupati  Pasaman No 130\/133\/PEM 2021 tgl 31 Maret 2021,Perda Kab  Pasaman Barat No 21 Tahun 2016",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2001",
+    "nama_desa":"Sungai Aua",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2002",
+    "nama_desa":"Salingka Muaro",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2003",
+    "nama_desa":"Ranah Malintang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2004",
+    "nama_desa":"Ranah Air Haji",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2005",
+    "nama_desa":"Kasikputih  Sungaitanang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2006",
+    "nama_desa":"Aua Serumpun",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.09.2007",
+    "nama_desa":"Sikilang Sungai Aur  Selatan",
+    "keterangan":"Pemekaran sebagian wil. Nagari Sungai Aua, sesuai: Perda No. 7 Tahun 2022; dan  Surat Dirjen Bina Pemdes No. 146.1\/6085\/BPD tgl 9 Desember 2021.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10",
+    "nama_desa":"9",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2001",
+    "nama_desa":"Koto Baru",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.12.10.2002",
+    "nama_desa":"Kapa",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

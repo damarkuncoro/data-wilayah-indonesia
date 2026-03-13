@@ -1,0 +1,101 @@
+[
+  {
+    "kode":"14.01.09.2019",
+    "nama_desa":"Sungai Santi",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2020",
+    "nama_desa":"Subayang Jaya",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2021",
+    "nama_desa":"Tanjung Permai",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2022",
+    "nama_desa":"Bukit Betung",
+    "keterangan":"Pemekaran sebagian Desa Tanjung Belit Selatan Perda No. 17\/2011,  Perbaikan nama sesuai Surat Gub Riau No. 410\/DPMD\/07.20 tgl 20  Sept 2018 dan Srt Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018 hal  penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2023",
+    "nama_desa":"Muaro Bio",
+    "keterangan":"Pemekaran sebagian Desa Batu Sanggan Perda No. 17\/2011,  Perbaikan nama sesuai Surat Gub Riau No. 410\/DPMD\/07.20 tgl 20  Sept 2018 dan Srt Ditjen Pemdes No.145\/1820\/SET tgl 15 Nov 2018 hal  penyampaian hasil validasi",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.09.2024",
+    "nama_desa":"Lubuk Bigau",
+    "keterangan":"Pemekaran sebagian Ds.Tanjung Belit Selatan Perda No.17\/2011,  Perbaikan nama Validasi Ditjen Pemdes tgl 23 Juni 2016, Validasi tgl 28  April 2017, rekomendasi Ditjen Pemdes No.146\/3672\/BPD tgl 21 Juni  2017, Srt Ditjen Pemdes No 145\/1820\/SET tgl 15 Nov 2018",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.10",
+    "nama_desa":"25",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.10.2001",
+    "nama_desa":"Petapahan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.10.2002",
+    "nama_desa":"Pantai Cermin",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.10.2003",
+    "nama_desa":"Petapahan Jaya",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017. Perbaikan nama desa semula Patahapan Jaya menjadi Petapahan  Jaya, sesuai: Perda No. 1 Tahun 2001; dan Surat Dirjen Bina Pemdes No. 145\/4416\/BPD tgl 30 Agustus 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.01.10.2004",
+    "nama_desa":"Mukti Sari",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

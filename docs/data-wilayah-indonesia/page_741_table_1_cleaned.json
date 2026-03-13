@@ -1,0 +1,110 @@
+[
+  {
+    "kode":"14.03.12.2016",
+    "nama_desa":"Koto Raja",
+    "keterangan":"Pemekaran sebagian Desa Sepotong, Perda No.11\/2012, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.12.2017",
+    "nama_desa":"Sungai Nibung",
+    "keterangan":"Pemekaran sebagian Desa Langkat, Perda No. 11\/2012,Perbaikan  Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 20",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13",
+    "nama_desa":"8",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2003",
+    "nama_desa":"Balai Pungut",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2005",
+    "nama_desa":"Muara Basung",
+    "keterangan":"Perbaikan nama desa sesuai hasil Validasi Ditjen Bina Pemdes ttg Data  Nama dan Kode Desa tgl 23 Juni 2016, Perbaikan nama hasil validasi  data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina Pemdes  No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2007",
+    "nama_desa":"Pinggir",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2008",
+    "nama_desa":"Semunai",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2011",
+    "nama_desa":"Tengganau",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.1012",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2014",
+    "nama_desa":"Sungai Meranti",
+    "keterangan":"Pemekaran sebagian Desa Pinggir, Perda No. 14\/2012, Perbaikan  Spasi, Berdasarka Ketua KPU Bengkalis No Surat  21\/PL.01.4-KPU.KAB\/II\/2020 tgl 11 Feb 2020 hal Validasi Data nama  Kel dan Desa Se-Kab Bengkalis guna Pelaksanaan Pemilihan Bup dan  Wakli Bup thn 2",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.03.13.2015",
+    "nama_desa":"Pangkalan Libut",
+    "keterangan":"Pemekaran sebagian Desa Pinggir, Perda No. 14\/2012, Perbaikan  nama sesuai Validasi Ditjen BPD tgl 23 Juni 2016, Perbaikan nama hasil  validasi data nama desa tgl 28 April 2017 dan rekomendasi Ditjen Bina  Pemdes No.146\/3672\/BPD tgl 21 Juni 2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

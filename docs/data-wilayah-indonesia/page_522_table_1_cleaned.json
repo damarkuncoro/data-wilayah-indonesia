@@ -1,0 +1,227 @@
+[
+  {
+    "kode":"12.14.33.2002",
+    "nama_desa":"Hilimondregeraya",
+    "keterangan":"Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2003",
+    "nama_desa":"Hilinamozaua",
+    "keterangan":"Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2004",
+    "nama_desa":"Hilifarono",
+    "keterangan":"Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2005",
+    "nama_desa":"Hilionaha",
+    "keterangan":"Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2006",
+    "nama_desa":"Hilikara",
+    "keterangan":"Pemekaran sebagian Desa Hilimondregeraya, Perda No. 7\/2012,  Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2007",
+    "nama_desa":"Hilialito Saua",
+    "keterangan":"Pemekaran sebagian Desa Hilinamozaua, Perda No. 7\/2012, Semula  wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2008",
+    "nama_desa":"Hilinamozaua Raya",
+    "keterangan":"Pemekaran sebagian Desa Hilinamozaua, Perda No. 7\/2012, Semula  wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2009",
+    "nama_desa":"Hilifalago Raya",
+    "keterangan":"Pemekaran sebagian Desa Hilifalago, Perda No. 7\/2012, Semula wil  Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.33.2010",
+    "nama_desa":"Hilisanekhehosi",
+    "keterangan":"Pemekaran sebagian Desa Hilimondregeraya, Perda No. 7\/2012,  Semula wil Kec. Teluk Dalam sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34",
+    "nama_desa":"11",
+    "keterangan":"Pemekaran sebagian wil Kec. Gomo dan Kec. Umbunasi sesuai Perda  No. 3\/2015, dan Nomor Register Perda Kabupaten Nias Selatan  Provinsi Sumatera Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2001",
+    "nama_desa":"Fanedanu",
+    "keterangan":"Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2002",
+    "nama_desa":"Fanedanu Sibohou",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2003",
+    "nama_desa":"Lawa-lawa Luo  Idanotae",
+    "keterangan":"Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2004",
+    "nama_desa":"Dao-dao Zanuwo  Idano Tae",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2005",
+    "nama_desa":"Sisiwa Ewali",
+    "keterangan":"Pemekaran sebagian Desa Fanedanu, Perda No. 7\/2012, Semula wil  Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2006",
+    "nama_desa":"Sisarahili Ewo",
+    "keterangan":"Pemekaran sebagian Desa Doli-Doli Idanotae, Perda No. 7\/2012,  Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2007",
+    "nama_desa":"Hilialo'oa",
+    "keterangan":"Pemekaran sebagian Desa Doli-Doli Idanotae, Perda No. 7\/2012,  Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2008",
+    "nama_desa":"Damai",
+    "keterangan":"Pemekaran sebagian Desa Lawa-Lawa Lou Idanotae, Perda No.  7\/2012, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2009",
+    "nama_desa":"Lolozukhu",
+    "keterangan":"Semula wil Kec. Gomo, Semula wil Kec. Gomo sesuai Perda No  3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2010",
+    "nama_desa":"Silima Banua  Umbunasi",
+    "keterangan":"Pemekaran sebagian Desa Lolozukhu, Perda No. 7\/2012, Semula wil  Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.34.2011",
+    "nama_desa":"Sindrolo",
+    "keterangan":"Pemekaran sebagian Desa Sifaoroasi Mola, Perda No. 7\/2012, Semula  wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35",
+    "nama_desa":"12",
+    "keterangan":"Pemekaran sebagian wil Kec. Gomo sesuai Perda No. 3\/2015, dan  Nomor Register Perda Kabupaten Nias Selatan Provinsi Sumatera  Utara Nomor 5 Tahun 2015",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2001",
+    "nama_desa":"Lahusa Idanotae",
+    "keterangan":"Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2002",
+    "nama_desa":"Hiliserangkai",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.14.35.2003",
+    "nama_desa":"Orahua",
+    "keterangan":"Perda No. 2\/2009, Semula wil Kec. Gomo sesuai Perda No 3\/2015",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

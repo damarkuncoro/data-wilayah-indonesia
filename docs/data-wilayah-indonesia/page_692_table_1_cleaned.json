@@ -1,0 +1,282 @@
+[
+  {
+    "kode":"14.06.11",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tandun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.06.12",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kabun",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.06.13",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Bonai Darussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.06.14",
+    "jumlah_desa":3,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 4 \/ 2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Pagaran Tapah Darussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.06.15",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 9\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Kepenuhan Hulu",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.06.16",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 9\/2007",
+    "level":"kecamatan",
+    "nama_wilayah":"Pendalian IV Koto",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.07",
+    "jumlah_desa":159,
+    "luas_wilayah":9068.0,
+    "keterangan":"UU No. 34 Tahun 2008 tentang Perubahan Ketiga Atas UU No. 53  Tahun 1999. Luas Wilayah Definitif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB.  ROKAN HILIR",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.01",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Kubu",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.02",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangko",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.03",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Putih",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.04",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Rimba Melintang",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.05",
+    "jumlah_desa":11,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bagansinembah",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.06",
+    "jumlah_desa":7,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pasir Limau Kapas",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.07",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sinaboi",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.08",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Pujud",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.09",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanah Putih Tanjung Melawan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.10",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Bangko Pusako",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.11",
+    "jumlah_desa":5,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Simpang Kanan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.12",
+    "jumlah_desa":4,
+    "luas_wilayah":null,
+    "keterangan":"Perda No 3\/2004",
+    "level":"kecamatan",
+    "nama_wilayah":"Batu Hampar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.13",
+    "jumlah_desa":2,
+    "luas_wilayah":null,
+    "keterangan":"Perda No. 1\/2005",
+    "level":"kecamatan",
+    "nama_wilayah":"Rantau Kopar",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.14",
+    "jumlah_desa":10,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Bangko, Perda No. 2\/2010",
+    "level":"kecamatan",
+    "nama_wilayah":"Pekaitan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.15",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian Kec. Kubu, Perda No. 27\/2011",
+    "level":"kecamatan",
+    "nama_wilayah":"Kubu Babussalam",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.16",
+    "jumlah_desa":12,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Pujud, Perda No. 2\/2019 dan ND Dir  Dekon No. 298\/TU\/DK\/SDV\/2019 tgl 12 April 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Tanjung Medan",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.17",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Bagansinembah, Perda No. 3\/2019 dan  ND Dir Dekon No. 298\/TU\/DK\/SDV\/2019 tgl 12 April 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Bagan Sinembah Raya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.07.18",
+    "jumlah_desa":9,
+    "luas_wilayah":null,
+    "keterangan":"Pemekaran sebagian wil Kec. Bagansinembah, Perda No. 3\/2019 dan  ND Dir Dekon No. 298\/TU\/DK\/SDV\/2019 tgl 12 April 2019",
+    "level":"kecamatan",
+    "nama_wilayah":"Balai Jaya",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB.  ROKAN HILIR"
+  },
+  {
+    "kode":"14.08",
+    "jumlah_desa":122,
+    "luas_wilayah":7806.0,
+    "keterangan":"Luas Wilayah Indikatif, PBW sesuai Surat Kapus PPBW BIG No.  B-3.11\/PBW-BIG\/IGD.04.04\/10\/2022 Tanggal 3 Oktober 2022.",
+    "level":"kabupaten",
+    "nama_wilayah":"KAB. SIAK",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIAK"
+  },
+  {
+    "kode":"14.08.01",
+    "jumlah_desa":6,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Siak",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIAK"
+  },
+  {
+    "kode":"14.08.02",
+    "jumlah_desa":14,
+    "luas_wilayah":null,
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_wilayah":"Sungai Apit",
+    "parent_provinsi":"",
+    "parent_kabupaten":"KAB. SIAK"
+  }
+]

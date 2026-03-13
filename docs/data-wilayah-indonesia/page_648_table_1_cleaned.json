@@ -1,0 +1,236 @@
+[
+  {
+    "kode":"13.06.08.2001",
+    "nama_desa":"Koto Tinggi",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2002",
+    "nama_desa":"Tabek Panjang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2004",
+    "nama_desa":"Simarasok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2005",
+    "nama_desa":"Padang Tarok",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2006",
+    "nama_desa":"Salo",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2007",
+    "nama_desa":"Koto Baru",
+    "keterangan":"Perubahan nama Desa Koto Baru III Jorong Perbup No. 10\/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2008",
+    "nama_desa":"Sungai Cubadak",
+    "keterangan":"Pemekaran sebagian wil. Nagari Tabek Panjang, sesuai: Perda No. 4 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4668\/BPD tgl 8 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.08.2009",
+    "nama_desa":"Koto Gadang",
+    "keterangan":"Pemekaran sebagian wil. Nagari Koto Tinggi, sesuai: Perda No. 4 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4668\/BPD tgl 8 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.09",
+    "nama_desa":"3",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.09.2001",
+    "nama_desa":"Koto Tangah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.09.2003",
+    "nama_desa":"Gadut",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.09.2004",
+    "nama_desa":"Kapau",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10",
+    "nama_desa":"5",
+    "keterangan":"",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10.2001",
+    "nama_desa":"Koto Rantang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10.2002",
+    "nama_desa":"Pasia Laweh",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10.2003",
+    "nama_desa":"Pagadih",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10.2004",
+    "nama_desa":"Nan Tujuah",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.10.2005",
+    "nama_desa":"Nan Limo",
+    "keterangan":"Pemekaran sebagian wil. Nagari Nan Tujuah, sesuai: Perda No. 4 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4668\/BPD tgl 8 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11",
+    "nama_desa":"9",
+    "keterangan":"Perubahan nama dari Pelembayan menjadi Palembayan,Perda No 11  tahun 2016 pasal 2,Surat Sekda Kab Agam No 100\/27\/PEM-III\/2021 tgl  4 maret 2021,surat Gubernur Sumbar No 120\/180\/pem-2021 tgl 30  maret 2021",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2001",
+    "nama_desa":"Baringin",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2002",
+    "nama_desa":"Sipinang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2003",
+    "nama_desa":"Sungai Puar",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2004",
+    "nama_desa":"Ampek Koto  Palembayan",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2005",
+    "nama_desa":"Tigo Koto Silungkang",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2006",
+    "nama_desa":"Salareh Aia",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"13.06.11.2007",
+    "nama_desa":"Salareh Aia Timur",
+    "keterangan":"Pemekaran sebagian wil. Nagari Salareh Aia, sesuai: Perda No. 4 Tahun 2022; dan Surat Dirjen Bina Pemdes No. 146\/4668\/BPD tgl 8 September 2022.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

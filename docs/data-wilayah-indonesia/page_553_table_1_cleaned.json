@@ -1,0 +1,92 @@
+[
+  {
+    "kode":"12.19.12.2003",
+    "nama_desa":"Jati Mulia",
+    "keterangan":"Pemekaran sebagian Desa Tanjungmulia, Perda No.2\/2011, Semula wil  Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2004",
+    "nama_desa":"Lima Laras",
+    "keterangan":"Semula wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2005",
+    "nama_desa":"Mekar Laras",
+    "keterangan":"Pemekaran sebagian Desa Lima Laras, Perda No.2\/2011, Semula wil  Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2006",
+    "nama_desa":"Bandar Sono",
+    "keterangan":"Pemekaran sebagian Desa Ujung Kubu, Perda No.2\/2011, Semula wil  Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2007",
+    "nama_desa":"Ujung Kubu",
+    "keterangan":"Semula wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2008",
+    "nama_desa":"Sei Mentaram",
+    "keterangan":"Semula wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2009",
+    "nama_desa":"Pematang Rambai",
+    "keterangan":"semula wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2010",
+    "nama_desa":"Tali Air Permai",
+    "keterangan":"Pemekaran sebagian Desa Bagan Baru, Perda No.2\/2011, Semula wil  Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2011",
+    "nama_desa":"Bagan Baru",
+    "keterangan":"Semula wil Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.19.12.2012",
+    "nama_desa":"Kapal Merah",
+    "keterangan":"Pemekaran sebagian Desa Bagan Baru, Perda No.2\/2011, Semula wil  Kec. Tanjung Tiram, Perda No. 9\/2017",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

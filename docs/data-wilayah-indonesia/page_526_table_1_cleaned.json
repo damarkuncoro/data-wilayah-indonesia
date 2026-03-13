@@ -1,0 +1,128 @@
+[
+  {
+    "kode":"12.15.07",
+    "nama_desa":"6",
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2001",
+    "nama_desa":"Kuta Babo",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2002",
+    "nama_desa":"Tinada",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2003",
+    "nama_desa":"Silima Kuta",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2004",
+    "nama_desa":"Mahala",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2005",
+    "nama_desa":"Prongil",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.07.2006",
+    "nama_desa":"Buluh Tellang",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08",
+    "nama_desa":"6",
+    "keterangan":"Perda No. 8\/2005",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2001",
+    "nama_desa":"Siempat Rube II",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2002",
+    "nama_desa":"Siempat Rube I",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2003",
+    "nama_desa":"Mungkur",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2004",
+    "nama_desa":"Siempat Rube IV",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2005",
+    "nama_desa":"Kuta Jungak",
+    "keterangan":"Semula wil. Kec. Kerajaan",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"12.15.08.2006",
+    "nama_desa":"Traju",
+    "keterangan":"Perda No. 22 \/2006",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]

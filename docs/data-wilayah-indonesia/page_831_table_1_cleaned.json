@@ -1,0 +1,218 @@
+[
+  {
+    "kode":"14.71.12.1001",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.12.1004",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.12.1006",
+    "nama_desa":"",
+    "keterangan":"",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.12.1009",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai Barat sesuai Perda No. 2\/2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.12.1010",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai Barat sesuai Perda No. 2\/2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.12.1011",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai Barat sesuai Perda No. 2\/2020",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13",
+    "nama_desa":"-",
+    "keterangan":"Pemekaran sebagian wil Kec. Binawidya sesuai Perda No. 2\/2020  dan ND Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Binawidya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Binawidya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13.1003",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Binawidya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Binawidya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.13.1005",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Binawidya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14",
+    "nama_desa":"-",
+    "keterangan":"Pemekaran sebagian wil Kec. Tenayan Raya sesuai Perda No. 2\/2020  dan ND Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Tenayan Raya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Tenayan Raya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14.1003",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Tenayan Raya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Tenayan Raya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.14.1005",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Tenayan Raya.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15",
+    "nama_desa":"-",
+    "keterangan":"Pemekaran sebagian wil Kec. Rumbai sesuai Perda No. 2\/2020 dan  ND Dit. Dekon No. 799\/TUDK\/2020 tgl 14 Des 2020",
+    "level":"kecamatan",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15.1001",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15.1002",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15.1003",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15.1004",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  },
+  {
+    "kode":"14.71.15.1005",
+    "nama_desa":"",
+    "keterangan":"Semula wil Kec. Rumbai.",
+    "level":"desa",
+    "nama_bersih":"",
+    "parent_provinsi":"",
+    "parent_kabupaten":""
+  }
+]
