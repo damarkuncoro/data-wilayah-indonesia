@@ -316,23 +316,16 @@ function processData(csvData) {
 }
 
 // Main
-const baseDataDir = path.join(__dirname, '..', 'data', 'base');
 const tsDataDir = path.join(__dirname, '..', 'src', 'data', 'base');
+const tsVillagesDataDir = path.join(__dirname, '..', 'src', 'data', 'villages');
 const csvPath = path.join(__dirname, '..', '..', '..', 'data', 'indonesia_administrative_data.csv');
 
-// Create data directory if not exists
-if (!fs.existsSync(baseDataDir)) {
-  fs.mkdirSync(baseDataDir, { recursive: true });
-}
-
-const villagesDataDir = path.join(__dirname, '..', 'data', 'villages');
-if (!fs.existsSync(villagesDataDir)) {
-  fs.mkdirSync(villagesDataDir, { recursive: true });
-}
-
-// Create TS data directory if not exists
+// Create TS data directories if not exists
 if (!fs.existsSync(tsDataDir)) {
   fs.mkdirSync(tsDataDir, { recursive: true });
+}
+if (!fs.existsSync(tsVillagesDataDir)) {
+  fs.mkdirSync(tsVillagesDataDir, { recursive: true });
 }
 
 console.log('Reading CSV data...');
@@ -346,15 +339,20 @@ console.log(`Regencies: ${regencies.length}`);
 console.log(`Districts: ${districts.length}`);
 console.log(`Villages: ${villages.length}`);
 
-// Write JSON files
-console.log('Writing JSON files...');
-fs.writeFileSync(path.join(baseDataDir, 'provinces.json'), JSON.stringify(provinces, null, 2));
-fs.writeFileSync(path.join(baseDataDir, 'regencies.json'), JSON.stringify(regencies, null, 2));
-fs.writeFileSync(path.join(baseDataDir, 'districts.json'), JSON.stringify(districts, null, 2));
-fs.writeFileSync(path.join(baseDataDir, 'villages.json'), JSON.stringify(villages, null, 2));
+// Write base TS files
+console.log('Writing base TS files...');
+function writeTSFile(fileName, data, interfaceName) {
+  const tsPath = path.join(tsDataDir, `${fileName}.ts`);
+  const content = `import type { ${interfaceName} } from '../../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  fs.writeFileSync(tsPath, content);
+}
 
-// Write split village JSON files by province
-console.log('Writing split village JSON files...');
+writeTSFile('provinces', provinces, 'Province');
+writeTSFile('regencies', regencies, 'Regency');
+writeTSFile('districts', districts, 'District');
+
+// Write split village TS files by province
+console.log('Writing split village TS files...');
 const villagesByProvince = {};
 villages.forEach(v => {
   const provinceCode = v.code.substring(0, 2);
@@ -365,23 +363,9 @@ villages.forEach(v => {
 });
 
 for (const provinceCode in villagesByProvince) {
-  fs.writeFileSync(
-    path.join(villagesDataDir, `${provinceCode}.json`),
-    JSON.stringify(villagesByProvince[provinceCode], null, 2)
-  );
-}
-
-// Write TS files
-console.log('Writing TS files...');
-function writeTSFile(fileName, data, interfaceName) {
-  const tsPath = path.join(tsDataDir, `${fileName}.ts`);
-  const content = `import type { ${interfaceName} } from '../../core/entities';\n\nexport const ${fileName}: ${interfaceName}[] = ${JSON.stringify(data, null, 2)};\n`;
+  const tsPath = path.join(tsVillagesDataDir, `${provinceCode}.ts`);
+  const content = `import type { Village } from '../../core/entities';\n\nexport default ${JSON.stringify(villagesByProvince[provinceCode], null, 2)} as Village[];\n`;
   fs.writeFileSync(tsPath, content);
 }
-
-writeTSFile('provinces', provinces, 'Province');
-writeTSFile('regencies', regencies, 'Regency');
-writeTSFile('districts', districts, 'District');
-writeTSFile('villages', villages, 'Village');
 
 console.log('Done!');

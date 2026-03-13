@@ -1,0 +1,10408 @@
+import type { Village } from '../../core/entities';
+
+export default [
+  {
+    "code": "36.01.01.2001",
+    "name": "Sumberjaya",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2002",
+    "name": "Kertajaya",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2003",
+    "name": "Kertamukti",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2004",
+    "name": "Tunggaljaya",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2005",
+    "name": "Cigorondong",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2006",
+    "name": "Tamanjaya",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.01.2007",
+    "name": "Ujungjaya",
+    "districtCode": "36.01.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sumberjaya"
+  },
+  {
+    "code": "36.01.02.2001",
+    "name": "Rancapinang",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2002",
+    "name": "Cibadak",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2003",
+    "name": "Tugu",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2004",
+    "name": "Batuhideung",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2005",
+    "name": "Padasuka",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2006",
+    "name": "Ciburial",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2007",
+    "name": "Cijaralang",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2008",
+    "name": "Cimanggu",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2009",
+    "name": "Mangkualam",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2010",
+    "name": "Tangkil Sari",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2011",
+    "name": "Waringin Kurung",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.02.2012",
+    "name": "Kramatjaya",
+    "districtCode": "36.01.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancapinang"
+  },
+  {
+    "code": "36.01.03.2001",
+    "name": "Mendung",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2006",
+    "name": "Sudimanik",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2007",
+    "name": "Curug",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2008",
+    "name": "Cibingbin",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2009",
+    "name": "Sukajadi",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2011",
+    "name": "Mahendra",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2012",
+    "name": "Cibaliung",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2015",
+    "name": "Cihanjuang",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.03.2016",
+    "name": "Sorongan",
+    "districtCode": "36.01.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mendung"
+  },
+  {
+    "code": "36.01.04.2001",
+    "name": "Tanjungan",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2002",
+    "name": "Sumurbatu",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2003",
+    "name": "Sukawaris",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2004",
+    "name": "Rancaseneng",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2005",
+    "name": "Parungkokosan",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2006",
+    "name": "Nanggala",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2007",
+    "name": "Cikeusik",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2008",
+    "name": "Cikadongdong",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2009",
+    "name": "Curugciung",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2010",
+    "name": "Leuwibalang",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2011",
+    "name": "Sukaseneng",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2012",
+    "name": "Sukamulya",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2013",
+    "name": "Umbulan",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.04.2014",
+    "name": "Cikiruhwetan",
+    "districtCode": "36.01.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Tanjungan"
+  },
+  {
+    "code": "36.01.05.2001",
+    "name": "Karangbolong",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2002",
+    "name": "Katumbiri",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2003",
+    "name": "Waringinjaya",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2004",
+    "name": "Karyabuana",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2005",
+    "name": "Tarumanagara",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2006",
+    "name": "Ciseureuheun",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2007",
+    "name": "Banyuasih",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2009",
+    "name": "Cigeulis",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.05.2010",
+    "name": "Sinarjaya",
+    "districtCode": "36.01.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karangbolong"
+  },
+  {
+    "code": "36.01.06.2001",
+    "name": "Panimbangjaya",
+    "districtCode": "36.01.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.06.2002",
+    "name": "Mekarjaya",
+    "districtCode": "36.01.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.06.2004",
+    "name": "Gombong",
+    "districtCode": "36.01.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.06.2011",
+    "name": "Citeureup",
+    "districtCode": "36.01.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.06.2012",
+    "name": "Tanjungjaya",
+    "districtCode": "36.01.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Panimbangjaya"
+  },
+  {
+    "code": "36.01.07.2001",
+    "name": "Angsana",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2002",
+    "name": "Padaherang",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2003",
+    "name": "Padamulya",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2004",
+    "name": "Karangsari",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2005",
+    "name": "Cikayas",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2006",
+    "name": "Sumurlaban",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2007",
+    "name": "Kadubadak",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2009",
+    "name": "Cipinang",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.07.2010",
+    "name": "Kramatmanik",
+    "districtCode": "36.01.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Angsana"
+  },
+  {
+    "code": "36.01.08.2001",
+    "name": "Pasanggrahan",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2002",
+    "name": "Sukasaba",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2005",
+    "name": "Gunungbatu",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2006",
+    "name": "Panacaran",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2007",
+    "name": "Curuglanglang",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2008",
+    "name": "Munjul",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2009",
+    "name": "Cibitung",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.08.2011",
+    "name": "Kotadukuh",
+    "districtCode": "36.01.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasanggrahan"
+  },
+  {
+    "code": "36.01.09.2001",
+    "name": "Sukadame",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2002",
+    "name": "Pagelaran",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2003",
+    "name": "Surakarta",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2004",
+    "name": "Montor",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2005",
+    "name": "Kertasana",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2006",
+    "name": "Bama",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2007",
+    "name": "Margasana",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2008",
+    "name": "Sindanglaya",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2009",
+    "name": "Tegalpapak",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2010",
+    "name": "Bulagor",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2011",
+    "name": "Harapankarya",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2012",
+    "name": "Senangsari",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.09.2013",
+    "name": "Margagiri",
+    "districtCode": "36.01.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sukadame"
+  },
+  {
+    "code": "36.01.10.2001",
+    "name": "Mekarsari",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2002",
+    "name": "Cijakan",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2003",
+    "name": "Geredug",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2004",
+    "name": "Bojong",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2005",
+    "name": "Banyumas",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2006",
+    "name": "Citumenggung",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2007",
+    "name": "Manggungjaya",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.10.2008",
+    "name": "Cahayamekar",
+    "districtCode": "36.01.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Mekarsari"
+  },
+  {
+    "code": "36.01.11.2001",
+    "name": "Pasirsedang",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2002",
+    "name": "Cililitan",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2003",
+    "name": "Kadupandak",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2004",
+    "name": "Kolelet",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2005",
+    "name": "Ciherang",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2006",
+    "name": "Bungurcopong",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2007",
+    "name": "Pasirpanjang",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.11.2008",
+    "name": "Kadubera",
+    "districtCode": "36.01.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pasirsedang"
+  },
+  {
+    "code": "36.01.12.2001",
+    "name": "Rancateureup",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2002",
+    "name": "Labuan",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2003",
+    "name": "Banyubiru",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2004",
+    "name": "Caringin",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2010",
+    "name": "Teluk",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2012",
+    "name": "Cigondang",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2013",
+    "name": "Kalanganyar",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2014",
+    "name": "Sukamaju",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.12.2015",
+    "name": "Banyumekar",
+    "districtCode": "36.01.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rancateureup"
+  },
+  {
+    "code": "36.01.13.2001",
+    "name": "Alaswangi",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2002",
+    "name": "Tegalwangi",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2003",
+    "name": "Kananga",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2004",
+    "name": "Cigandeng",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2005",
+    "name": "Menes",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2006",
+    "name": "Muruy",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2010",
+    "name": "Sukamanah",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2011",
+    "name": "Purwaraja",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2012",
+    "name": "Sindangkarya",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2013",
+    "name": "Cilabanbulan",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.13.2015",
+    "name": "Kadupayung",
+    "districtCode": "36.01.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Alaswangi"
+  },
+  {
+    "code": "36.01.14.2001",
+    "name": "Langensari",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2002",
+    "name": "Medalsari",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2003",
+    "name": "Majau",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2004",
+    "name": "Sodong",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2005",
+    "name": "Talagasari",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2006",
+    "name": "Ciandur",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2007",
+    "name": "Kadudampit",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2008",
+    "name": "Wanagiri",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2009",
+    "name": "Parigi",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2010",
+    "name": "Mekarwangi",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2011",
+    "name": "Saketi",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2012",
+    "name": "Girijaya",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2013",
+    "name": "Sindanghayu",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.14.2014",
+    "name": "Sukalangu",
+    "districtCode": "36.01.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Langensari"
+  },
+  {
+    "code": "36.01.15.2001",
+    "name": "Palanyar",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2002",
+    "name": "Baturanjang",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2003",
+    "name": "Cikadueun",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2004",
+    "name": "Koncang",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2005",
+    "name": "Kadugadung",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2006",
+    "name": "Parumasan",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2007",
+    "name": "Curugbarang",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2008",
+    "name": "Kalanggunung",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2009",
+    "name": "Pasireurih",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.15.2010",
+    "name": "Pasirmae",
+    "districtCode": "36.01.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Palanyar"
+  },
+  {
+    "code": "36.01.16.2001",
+    "name": "Pamarayan",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2002",
+    "name": "Jiput",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2003",
+    "name": "Sukacai",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2004",
+    "name": "Tenjolahang",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2005",
+    "name": "Janaka",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2006",
+    "name": "Sikulan",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2007",
+    "name": "Citaman",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2008",
+    "name": "Jayamekar",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2011",
+    "name": "Sukamanah",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2012",
+    "name": "Salapraya",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2013",
+    "name": "Banyuresmi",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2014",
+    "name": "Sampang Bitung",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.16.2015",
+    "name": "Babadsari",
+    "districtCode": "36.01.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.01.17.2001",
+    "name": "Pandat",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2002",
+    "name": "Cikoneng",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2003",
+    "name": "Nembol",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2004",
+    "name": "Kurungkambing",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2005",
+    "name": "Mandalawangi",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2006",
+    "name": "Sinarjaya",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2007",
+    "name": "Sirnagalih",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2008",
+    "name": "Cikumbuen",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2009",
+    "name": "Ramea",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2010",
+    "name": "Gunungsari",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2011",
+    "name": "Panjangjaya",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2012",
+    "name": "Giripawana",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2013",
+    "name": "Mandalasari",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2014",
+    "name": "Curuglemo",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.17.2015",
+    "name": "Pari",
+    "districtCode": "36.01.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Pandat"
+  },
+  {
+    "code": "36.01.18.2001",
+    "name": "Cimanuk",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2002",
+    "name": "Batubantar",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2003",
+    "name": "Kadubungbang",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2004",
+    "name": "Kupahandap",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2005",
+    "name": "Dalembalar",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2006",
+    "name": "Kadumadang",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2007",
+    "name": "Rocek",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2008",
+    "name": "Kadudodol",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2010",
+    "name": "Gunungdatar",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2013",
+    "name": "Sekong",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.18.2015",
+    "name": "Gunungcupu",
+    "districtCode": "36.01.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Cimanuk"
+  },
+  {
+    "code": "36.01.19.2001",
+    "name": "Campaka",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2002",
+    "name": "Banyumundu",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2003",
+    "name": "Mandalasari",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2004",
+    "name": "Sukasari",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2005",
+    "name": "Saninten",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2006",
+    "name": "Palurahan",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2007",
+    "name": "Sukamanah",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2008",
+    "name": "Kadugemblo",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2009",
+    "name": "Banjarsari",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.19.2010",
+    "name": "Ciputri",
+    "districtCode": "36.01.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Campaka"
+  },
+  {
+    "code": "36.01.20.2002",
+    "name": "Citalahab",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2004",
+    "name": "Kadulimus",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2005",
+    "name": "Bandung",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2006",
+    "name": "Mogana",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2007",
+    "name": "Banjar",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2008",
+    "name": "Gunungputri",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2010",
+    "name": "Cibodas",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2011",
+    "name": "Kadubale",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2012",
+    "name": "Cibeureum",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2013",
+    "name": "Kadumaneuh",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.20.2014",
+    "name": "Pasirawi",
+    "districtCode": "36.01.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Citalahab"
+  },
+  {
+    "code": "36.01.21.1002",
+    "name": "Kadomas",
+    "districtCode": "36.01.21",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadomas"
+  },
+  {
+    "code": "36.01.21.1003",
+    "name": "Babakan Kalanganyar",
+    "districtCode": "36.01.21",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadomas"
+  },
+  {
+    "code": "36.01.21.1004",
+    "name": "Kabayan",
+    "districtCode": "36.01.21",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadomas"
+  },
+  {
+    "code": "36.01.21.1009",
+    "name": "Pandeglang",
+    "districtCode": "36.01.21",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadomas"
+  },
+  {
+    "code": "36.01.22.2001",
+    "name": "Kaduengang",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2002",
+    "name": "Pasirpeuteuy",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2003",
+    "name": "Kurungdahu",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2004",
+    "name": "Kaduela",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2005",
+    "name": "Koranji",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2006",
+    "name": "Tapos",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2007",
+    "name": "Cadasari",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2008",
+    "name": "Ciinjuk",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2009",
+    "name": "Kaungcaang",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2010",
+    "name": "Cikentrung",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.22.2013",
+    "name": "Tanagara",
+    "districtCode": "36.01.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kaduengang"
+  },
+  {
+    "code": "36.01.23.2001",
+    "name": "Rawasari",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2002",
+    "name": "Pasireurih",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2003",
+    "name": "Kaduronyok",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2004",
+    "name": "Cibarani",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2005",
+    "name": "Cisereh",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2006",
+    "name": "Kubangkondang",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2007",
+    "name": "Kondangjaya",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2008",
+    "name": "Ciherangjaya",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.23.2009",
+    "name": "Palembang",
+    "districtCode": "36.01.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Rawasari"
+  },
+  {
+    "code": "36.01.24.2006",
+    "name": "Turus",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2008",
+    "name": "Patia",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2009",
+    "name": "Pasirgadung",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2010",
+    "name": "Cimoyan",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2011",
+    "name": "Idaman",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2014",
+    "name": "Babakankeusik",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2015",
+    "name": "Surianeun",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2017",
+    "name": "Rahayu",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.24.2018",
+    "name": "Ciawi",
+    "districtCode": "36.01.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Turus"
+  },
+  {
+    "code": "36.01.25.1001",
+    "name": "Kadumerak",
+    "districtCode": "36.01.25",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadumerak"
+  },
+  {
+    "code": "36.01.25.1002",
+    "name": "Cigadung",
+    "districtCode": "36.01.25",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadumerak"
+  },
+  {
+    "code": "36.01.25.1003",
+    "name": "Pagadungan",
+    "districtCode": "36.01.25",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Kadumerak"
+  },
+  {
+    "code": "36.01.26.2001",
+    "name": "Karyasari",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2002",
+    "name": "Tegal",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2003",
+    "name": "Cipicung",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2004",
+    "name": "Dahu",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2005",
+    "name": "Babakanlor",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2006",
+    "name": "Karyautama",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2007",
+    "name": "Mekarjaya",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2008",
+    "name": "Padahayu",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2009",
+    "name": "Cening",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.26.2010",
+    "name": "Bangkuyung",
+    "districtCode": "36.01.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Karyasari"
+  },
+  {
+    "code": "36.01.27.2001",
+    "name": "Sindangkerta",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2002",
+    "name": "Manglid",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2003",
+    "name": "Cikiruh",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2004",
+    "name": "Cikadu",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2005",
+    "name": "Kiarapayung",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2006",
+    "name": "Kutakarang",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2007",
+    "name": "Citeluk",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2008",
+    "name": "Kiarajangkung",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2009",
+    "name": "Cikalong",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.27.2010",
+    "name": "Malangnengah",
+    "districtCode": "36.01.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Sindangkerta"
+  },
+  {
+    "code": "36.01.28.2001",
+    "name": "Banjarmasin",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2002",
+    "name": "Carita",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2003",
+    "name": "Sukarame",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2004",
+    "name": "Sukanegara",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2005",
+    "name": "Cinoyong",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2006",
+    "name": "Pejamben",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2007",
+    "name": "Sukajadi",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2008",
+    "name": "Kawoyang",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2009",
+    "name": "Tembong",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.01.28.2010",
+    "name": "Sindanglaut",
+    "districtCode": "36.01.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Pandeglang",
+    "districtName": "Banjarmasin"
+  },
+  {
+    "code": "36.02.01.2002",
+    "name": "Cilangkahan",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2003",
+    "name": "Pagelaran",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2004",
+    "name": "Sukaraja",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2005",
+    "name": "Malingping Utara",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2006",
+    "name": "Bolang",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2009",
+    "name": "Cipeundeuy",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2013",
+    "name": "Rahong",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2014",
+    "name": "Kadujajar",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2016",
+    "name": "Kersaratu",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2018",
+    "name": "Malingping Selatan",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2019",
+    "name": "Sumberwaras",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2023",
+    "name": "Sukamanah",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2024",
+    "name": "Senanghati",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.01.2026",
+    "name": "Sangiang",
+    "districtCode": "36.02.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilangkahan"
+  },
+  {
+    "code": "36.02.02.2002",
+    "name": "Panggarangan",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2003",
+    "name": "Jatake",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2004",
+    "name": "Sogong",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2005",
+    "name": "Cimandiri",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2009",
+    "name": "Gununggede",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2010",
+    "name": "Situregen",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2011",
+    "name": "Mekarjaya",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2014",
+    "name": "Sindangratu",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2017",
+    "name": "Hegarmanah",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.02.2018",
+    "name": "Sukajadi",
+    "districtCode": "36.02.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Panggarangan"
+  },
+  {
+    "code": "36.02.03.2001",
+    "name": "Bayah Barat",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2002",
+    "name": "Sawarna",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2006",
+    "name": "Cidikit",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2007",
+    "name": "Suwakan",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2008",
+    "name": "Cimancak",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2011",
+    "name": "Darmasari",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2013",
+    "name": "Bayah Timur",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2014",
+    "name": "Cisuren",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.03.2016",
+    "name": "Pasirgombong",
+    "districtCode": "36.02.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bayah Barat"
+  },
+  {
+    "code": "36.02.04.2002",
+    "name": "Cipanas",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2003",
+    "name": "Girilaya",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2004",
+    "name": "Malangsari",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2005",
+    "name": "Bintangresmi",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2006",
+    "name": "Talagahiyang",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2007",
+    "name": "Luhurjaya",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2008",
+    "name": "Haurgajrug",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2009",
+    "name": "Giriharja",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2010",
+    "name": "Sukasari",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2013",
+    "name": "Jayapura",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2014",
+    "name": "Sipayung",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2015",
+    "name": "Bintangsari",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.04.2016",
+    "name": "Pasirhaur",
+    "districtCode": "36.02.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cipanas"
+  },
+  {
+    "code": "36.02.05.2004",
+    "name": "Ciminyak",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2005",
+    "name": "Muncang",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2006",
+    "name": "Leuwicoo",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2007",
+    "name": "Sindangwangi",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2008",
+    "name": "Cikarang",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2012",
+    "name": "Sukanagara",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.05.2013",
+    "name": "Pasirnangka",
+    "districtCode": "36.02.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Ciminyak"
+  },
+  {
+    "code": "36.02.06.2001",
+    "name": "Kanekes",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2002",
+    "name": "Cisimeut",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2003",
+    "name": "Cibungur",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2004",
+    "name": "Leuwidamar",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2005",
+    "name": "Lebakparahiang",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2006",
+    "name": "Sangkanwangi",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2007",
+    "name": "Nayagati",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2008",
+    "name": "Bojongmenteng",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2009",
+    "name": "Margawangi",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2010",
+    "name": "Wantisari",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.06.2011",
+    "name": "Jalupangmulya",
+    "districtCode": "36.02.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kanekes"
+  },
+  {
+    "code": "36.02.07.2004",
+    "name": "Bojongmanik",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2007",
+    "name": "Harjawana",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2008",
+    "name": "Kadurahayu",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2009",
+    "name": "Cimayang",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2010",
+    "name": "Parakanbeusi",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2012",
+    "name": "Keboncau",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.07.2014",
+    "name": "Mekarmanik",
+    "districtCode": "36.02.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Bojongmanik"
+  },
+  {
+    "code": "36.02.08.2001",
+    "name": "Gunungkencana",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2002",
+    "name": "Cimanyangray",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2003",
+    "name": "Gunungkendeng",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2004",
+    "name": "Cisampang",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2005",
+    "name": "Ciginggang",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2006",
+    "name": "Ciakar",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2007",
+    "name": "Cicaringin",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2008",
+    "name": "Bulakan",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2009",
+    "name": "Sukanegara",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2010",
+    "name": "Bojongkoneng",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.08.2011",
+    "name": "Kramatjaya",
+    "districtCode": "36.02.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Gunungkencana"
+  },
+  {
+    "code": "36.02.09.2001",
+    "name": "Kerta",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2002",
+    "name": "Bojongjuruh",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2003",
+    "name": "Leuwiipuh",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2004",
+    "name": "Lebakkeusik",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2006",
+    "name": "Keusik",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2007",
+    "name": "Cibaturkeusik",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2009",
+    "name": "Kumpay",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2010",
+    "name": "Jalupanggirang",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2011",
+    "name": "Bendungan",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2012",
+    "name": "Kertaraharja",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2013",
+    "name": "Cisampih",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2014",
+    "name": "Gunungsari",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2015",
+    "name": "Tamansari",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2016",
+    "name": "Cidahu",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.09.2017",
+    "name": "Ciruji",
+    "districtCode": "36.02.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Kerta"
+  },
+  {
+    "code": "36.02.10.2001",
+    "name": "Pasindangan",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2002",
+    "name": "Parungkujang",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2003",
+    "name": "Cileles",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2004",
+    "name": "Cikareo",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2005",
+    "name": "Cipadang",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2006",
+    "name": "Gumuruh",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2007",
+    "name": "Prabugantungan",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2008",
+    "name": "Daroyon",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2009",
+    "name": "Margamulya",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2010",
+    "name": "Mekarjaya",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.10.2011",
+    "name": "Kujangsari",
+    "districtCode": "36.02.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Pasindangan"
+  },
+  {
+    "code": "36.02.11.2001",
+    "name": "Sarageni",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2002",
+    "name": "Gununganten",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2003",
+    "name": "Sudamanik",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2004",
+    "name": "Tambak",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2005",
+    "name": "Cimarga",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2006",
+    "name": "Karyajaya",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2007",
+    "name": "Margajaya",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2008",
+    "name": "Jayamanik",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2009",
+    "name": "Margaluyu",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2010",
+    "name": "Margatirta",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2011",
+    "name": "Intenjaya",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2012",
+    "name": "Mekarjaya",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2013",
+    "name": "Jayasari",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2014",
+    "name": "Girimukti",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2015",
+    "name": "Sangkanmanik",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.11.2016",
+    "name": "Sangiangjaya",
+    "districtCode": "36.02.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sarageni"
+  },
+  {
+    "code": "36.02.12.2001",
+    "name": "Maraya",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2002",
+    "name": "Sajira",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2003",
+    "name": "Sukarame",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2004",
+    "name": "Calungbungur",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2005",
+    "name": "Parungsari",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2006",
+    "name": "Sindangsari",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2007",
+    "name": "Mekarsari",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2008",
+    "name": "Sukamarga",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2009",
+    "name": "Pajagan",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2010",
+    "name": "Sukajaya",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2011",
+    "name": "Sajira Mekar",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2012",
+    "name": "Paja",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.12.2013",
+    "name": "Margaluyu",
+    "districtCode": "36.02.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Maraya"
+  },
+  {
+    "code": "36.02.13.2005",
+    "name": "Tanjungsari",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2006",
+    "name": "Maja",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2007",
+    "name": "Sangiang",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2008",
+    "name": "Binong",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2009",
+    "name": "Gubugan Cibeureum",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2011",
+    "name": "Mekarsari",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2012",
+    "name": "Padasuka",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2015",
+    "name": "Curugbadak",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2016",
+    "name": "Sindangmulya",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2018",
+    "name": "Cilangkap",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2020",
+    "name": "Pasirkembang",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.13.2021",
+    "name": "Pasirkecapi",
+    "districtCode": "36.02.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tanjungsari"
+  },
+  {
+    "code": "36.02.14.1002",
+    "name": "Rangkasbitung Barat",
+    "districtCode": "36.02.14",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.1006",
+    "name": "Cijoro Lebak",
+    "districtCode": "36.02.14",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.1007",
+    "name": "Muara Ciujung Barat",
+    "districtCode": "36.02.14",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.1008",
+    "name": "Cijoro Pasir",
+    "districtCode": "36.02.14",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.1012",
+    "name": "Muara Ciujung Timur",
+    "districtCode": "36.02.14",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2001",
+    "name": "Pasirtanjung",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2009",
+    "name": "Citeras",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2010",
+    "name": "Nameng",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2011",
+    "name": "Kolelet Wetan",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2013",
+    "name": "Jatimulya",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2014",
+    "name": "Mekarsari",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2016",
+    "name": "Pabuaran",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2017",
+    "name": "Rangkasbitung Timur",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2019",
+    "name": "Sukamanah",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.14.2021",
+    "name": "Cimangeunteung",
+    "districtCode": "36.02.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Rangkasbitung"
+  },
+  {
+    "code": "36.02.15.2001",
+    "name": "Sukarendah",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2002",
+    "name": "Warunggunung",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2003",
+    "name": "Cibuah",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2004",
+    "name": "Pasir Tangkil",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2005",
+    "name": "Baros",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2006",
+    "name": "Banjarsari",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2007",
+    "name": "Padasuka",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2008",
+    "name": "Sukaraja",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2009",
+    "name": "Jagabaya",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2010",
+    "name": "Selaraja",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2011",
+    "name": "Cempaka",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.15.2012",
+    "name": "Sindangsari",
+    "districtCode": "36.02.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sukarendah"
+  },
+  {
+    "code": "36.02.16.2004",
+    "name": "Mekarjaya",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2006",
+    "name": "Cipalabuh",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2007",
+    "name": "Cijaku",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2008",
+    "name": "Cibeureum",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2012",
+    "name": "Ciapus",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2013",
+    "name": "Kandangsapi",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.16.2014",
+    "name": "Cihujan",
+    "districtCode": "36.02.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "36.02.17.2001",
+    "name": "Anggalan",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2002",
+    "name": "Muncangkopong",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2003",
+    "name": "Sukaharja",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2004",
+    "name": "Tamanjaya",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2005",
+    "name": "Cigoong Utara",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2006",
+    "name": "Muaradua",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2007",
+    "name": "Cikulur",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2008",
+    "name": "Curugpanjang",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2009",
+    "name": "Cigoong Selatan",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2010",
+    "name": "Sumurbandung",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2011",
+    "name": "Parage",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.17.2012",
+    "name": "Sukadaya",
+    "districtCode": "36.02.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Anggalan"
+  },
+  {
+    "code": "36.02.18.2001",
+    "name": "Tambakbaya",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2002",
+    "name": "Kaduagung Timur",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2003",
+    "name": "Panancangan",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2004",
+    "name": "Cibadak",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2005",
+    "name": "Asem",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2006",
+    "name": "Cisangu",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2007",
+    "name": "Kaduagung Barat",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2008",
+    "name": "Bojongcae",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2009",
+    "name": "Malabar",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2010",
+    "name": "Pasar Keong",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.18.2011",
+    "name": "Bojong Leles",
+    "districtCode": "36.02.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Tambakbaya"
+  },
+  {
+    "code": "36.02.19.2003",
+    "name": "Cisungsang",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2004",
+    "name": "Kujangjaya",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2005",
+    "name": "Kujangsari",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2006",
+    "name": "Neglasari",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2007",
+    "name": "Mekarsari",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2008",
+    "name": "Cikotok",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2009",
+    "name": "Sukamulya",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2011",
+    "name": "Warungbanten",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2013",
+    "name": "Hegarmanah",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2014",
+    "name": "Situmulya",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2016",
+    "name": "Cikadu",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.19.2018",
+    "name": "Cihambali",
+    "districtCode": "36.02.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cisungsang"
+  },
+  {
+    "code": "36.02.20.2001",
+    "name": "Cilograng",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2002",
+    "name": "Cibareno",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2003",
+    "name": "Cikamunding",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2004",
+    "name": "Cijengkol",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2005",
+    "name": "Pasirbungur",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2006",
+    "name": "Lebaktipar",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.20.2007",
+    "name": "Cikatomas",
+    "districtCode": "36.02.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Cilograng"
+  },
+  {
+    "code": "36.02.21.2001",
+    "name": "Wanasalam",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2002",
+    "name": "Bejod",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2003",
+    "name": "Cilangkap",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2004",
+    "name": "Cipeucang",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2005",
+    "name": "Muara",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2006",
+    "name": "Parungpanjang",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2007",
+    "name": "Cikeusik",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2008",
+    "name": "Katapang",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2009",
+    "name": "Cisarap",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2010",
+    "name": "Sukatani",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2011",
+    "name": "Cipedang",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.21.2012",
+    "name": "Parungsari",
+    "districtCode": "36.02.21",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Wanasalam"
+  },
+  {
+    "code": "36.02.22.2002",
+    "name": "Sobang",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2003",
+    "name": "Sukajaya",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2004",
+    "name": "Sindanglaya",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2005",
+    "name": "Sukamaju",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2006",
+    "name": "Hariang",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2007",
+    "name": "Majasari",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.22.2009",
+    "name": "Cirompang",
+    "districtCode": "36.02.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Sobang"
+  },
+  {
+    "code": "36.02.23.2001",
+    "name": "Guradog",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2002",
+    "name": "Curugbitung",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2003",
+    "name": "Candi",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2004",
+    "name": "Mayak",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2005",
+    "name": "Cipining",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2006",
+    "name": "Cilayang",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2007",
+    "name": "Ciburuy",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2008",
+    "name": "Sekarwangi",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.02.23.2009",
+    "name": "Cidadap",
+    "districtCode": "36.02.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Lebak",
+    "districtName": "Guradog"
+  },
+  {
+    "code": "36.03.01.2003",
+    "name": "Cangkudu",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2005",
+    "name": "Talagasari",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2009",
+    "name": "Tobat",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2010",
+    "name": "Sentul",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2011",
+    "name": "Gembong",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2013",
+    "name": "Sukamurni",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2014",
+    "name": "Saga",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.01.2016",
+    "name": "Sentul Jaya",
+    "districtCode": "36.03.01",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Balaraja"
+  },
+  {
+    "code": "36.03.02.2001",
+    "name": "Pangkat",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2002",
+    "name": "Pabuaran",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2004",
+    "name": "Pasir Muncang",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2005",
+    "name": "Sumur Bandung",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2006",
+    "name": "Jayanti",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2007",
+    "name": "Dangdeur",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2008",
+    "name": "Cikande",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.02.2009",
+    "name": "Pasir Gintung",
+    "districtCode": "36.03.02",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pangkat"
+  },
+  {
+    "code": "36.03.03.2002",
+    "name": "Pasir Bolang",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2003",
+    "name": "Matagara",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2004",
+    "name": "Pasir Nangka",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2005",
+    "name": "Pete",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2006",
+    "name": "Tegalsari",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2008",
+    "name": "Pematang",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2009",
+    "name": "Cisereh",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2010",
+    "name": "Margasari",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2011",
+    "name": "Cileles",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2012",
+    "name": "Sodong",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2013",
+    "name": "Tapos",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.03.2014",
+    "name": "Bantar Panjang",
+    "districtCode": "36.03.03",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Tigaraksa"
+  },
+  {
+    "code": "36.03.04.2001",
+    "name": "Sukamanah",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2002",
+    "name": "Jambe",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2003",
+    "name": "Tipar Raya",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2004",
+    "name": "Taban",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2005",
+    "name": "Daru",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2006",
+    "name": "Kutruk",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2007",
+    "name": "Ranca Buaya",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2008",
+    "name": "Mekarsari",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2009",
+    "name": "Ancol Pasir",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.04.2010",
+    "name": "Pasir Barat",
+    "districtCode": "36.03.04",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukamanah"
+  },
+  {
+    "code": "36.03.05.2001",
+    "name": "Cisoka",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2002",
+    "name": "Caringin",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2003",
+    "name": "Selapajang",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2004",
+    "name": "Sukatani",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2006",
+    "name": "Bojong Loa",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2007",
+    "name": "Cibugel",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2008",
+    "name": "Cempaka",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2009",
+    "name": "Carenang",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2014",
+    "name": "Karang Harja",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.05.2017",
+    "name": "Jeungjing",
+    "districtCode": "36.03.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisoka"
+  },
+  {
+    "code": "36.03.06.2001",
+    "name": "Pasir Ampo",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2003",
+    "name": "Rancailat",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2007",
+    "name": "Kemuning",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2009",
+    "name": "Renged",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2011",
+    "name": "Talok",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2013",
+    "name": "Koper",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2014",
+    "name": "Jengkol",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2015",
+    "name": "Patrasana",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.06.2018",
+    "name": "Kresek",
+    "districtCode": "36.03.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasir Ampo"
+  },
+  {
+    "code": "36.03.07.2001",
+    "name": "Kronjo",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2002",
+    "name": "Pagenjahan",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2006",
+    "name": "Pasir",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2007",
+    "name": "Muncung",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2008",
+    "name": "Pagedangan Ilir",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2009",
+    "name": "Pagedangan Udik",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2010",
+    "name": "Pasilian",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2013",
+    "name": "Bakung",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2015",
+    "name": "Blukbuk",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.07.2017",
+    "name": "Cirumpak",
+    "districtCode": "36.03.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kronjo"
+  },
+  {
+    "code": "36.03.08.2001",
+    "name": "Mauk Barat",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2003",
+    "name": "Tegal Kunir Kidul",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2004",
+    "name": "Tegal Kunir Lor",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2005",
+    "name": "Sasak",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2006",
+    "name": "Gunung Sari",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2007",
+    "name": "Kedung Dalem",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2008",
+    "name": "Marga Mulya",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2009",
+    "name": "Tanjung Anom",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2010",
+    "name": "Jatiwaringin",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2011",
+    "name": "Banyu Asih",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.08.2012",
+    "name": "Ketapang",
+    "districtCode": "36.03.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Mauk"
+  },
+  {
+    "code": "36.03.09.2001",
+    "name": "Patramanggala",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2002",
+    "name": "Karang Anyar",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2003",
+    "name": "Lontar",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2004",
+    "name": "Kemiri",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2005",
+    "name": "Ranca Labuh",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2006",
+    "name": "Klebet",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.09.2007",
+    "name": "Legok Suka Maju",
+    "districtCode": "36.03.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Patramanggala"
+  },
+  {
+    "code": "36.03.10.2001",
+    "name": "Sukadiri",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2002",
+    "name": "Buaran Jati",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2003",
+    "name": "Rawa Kidang",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2004",
+    "name": "Pekayon",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2005",
+    "name": "Karang Serang",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2006",
+    "name": "Kosambi",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2007",
+    "name": "Mekar Kondang",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.10.2008",
+    "name": "Gintung",
+    "districtCode": "36.03.10",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sukadiri"
+  },
+  {
+    "code": "36.03.11.2001",
+    "name": "Rajeg",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2002",
+    "name": "Rajeg Mulya",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2003",
+    "name": "Pangarengan",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2005",
+    "name": "Jambu Karya",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2006",
+    "name": "Lembangsari",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2007",
+    "name": "Sukamanah",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2008",
+    "name": "Tanjakan",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2009",
+    "name": "Tanjakan Mekar",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2011",
+    "name": "Sukasari",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2012",
+    "name": "Ranca Bango",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2013",
+    "name": "Daon",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.11.2014",
+    "name": "Mekarsari",
+    "districtCode": "36.03.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Rajeg"
+  },
+  {
+    "code": "36.03.12.2001",
+    "name": "Pasar Kemis",
+    "districtCode": "36.03.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasar Kemis"
+  },
+  {
+    "code": "36.03.12.2008",
+    "name": "Sukamantri",
+    "districtCode": "36.03.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasar Kemis"
+  },
+  {
+    "code": "36.03.12.2011",
+    "name": "Pangadegan",
+    "districtCode": "36.03.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasar Kemis"
+  },
+  {
+    "code": "36.03.12.2013",
+    "name": "Gelam Jaya",
+    "districtCode": "36.03.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasar Kemis"
+  },
+  {
+    "code": "36.03.12.2015",
+    "name": "Suka Asih",
+    "districtCode": "36.03.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pasar Kemis"
+  },
+  {
+    "code": "36.03.13.2001",
+    "name": "Teluknaga",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2002",
+    "name": "Bojong Renged",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2003",
+    "name": "Babakan Asem",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2004",
+    "name": "Keboncau",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2005",
+    "name": "Pangkalan",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2006",
+    "name": "Kmp Melayu Tim",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2007",
+    "name": "Kmp Melayu Brt",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2008",
+    "name": "Muara",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2009",
+    "name": "Lemo",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2010",
+    "name": "Tanjung Pasir",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2011",
+    "name": "Tegal Angus",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2012",
+    "name": "Tanjung Burung",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.13.2013",
+    "name": "Kampung Besar",
+    "districtCode": "36.03.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Teluknaga"
+  },
+  {
+    "code": "36.03.14.2002",
+    "name": "Kosambi Timur",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.14.2004",
+    "name": "Salembaran Jati",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.14.2006",
+    "name": "Rawa Burung",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.14.2007",
+    "name": "Cengklong",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.14.2008",
+    "name": "Belimbing",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.14.2009",
+    "name": "Jati Mulya",
+    "districtCode": "36.03.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Kosambi"
+  },
+  {
+    "code": "36.03.15.2002",
+    "name": "Paku Alam",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2004",
+    "name": "Rawa Boni",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2005",
+    "name": "Buaran Mangga",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2006",
+    "name": "Buaran Bambu",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2007",
+    "name": "Kalibaru",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2008",
+    "name": "Kohod",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2009",
+    "name": "Kramat",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2010",
+    "name": "Sukawali",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2011",
+    "name": "Surya Bahari",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2012",
+    "name": "Kiara Payung",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2013",
+    "name": "Laksana",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.15.2014",
+    "name": "Gaga",
+    "districtCode": "36.03.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pakuhaji"
+  },
+  {
+    "code": "36.03.16.2002",
+    "name": "Karet",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2003",
+    "name": "Kayu Agung",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2004",
+    "name": "Kayu Bongkok",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2008",
+    "name": "Pondok Jaya",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2011",
+    "name": "Pisangan Jaya",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2012",
+    "name": "Mekar Jaya",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.16.2015",
+    "name": "Sarakan",
+    "districtCode": "36.03.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Sepatan"
+  },
+  {
+    "code": "36.03.17.2002",
+    "name": "Curug Wetan",
+    "districtCode": "36.03.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Curug"
+  },
+  {
+    "code": "36.03.17.2003",
+    "name": "Kadu",
+    "districtCode": "36.03.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Curug"
+  },
+  {
+    "code": "36.03.17.2004",
+    "name": "Kadu Jaya",
+    "districtCode": "36.03.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Curug"
+  },
+  {
+    "code": "36.03.17.2010",
+    "name": "Cukanggalih",
+    "districtCode": "36.03.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Curug"
+  },
+  {
+    "code": "36.03.18.2002",
+    "name": "Cibadak",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2004",
+    "name": "Talaga",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2005",
+    "name": "Talagasari",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2006",
+    "name": "Dukuh",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2007",
+    "name": "Cikupa",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2008",
+    "name": "Sukanagara",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2009",
+    "name": "Bitung Jaya",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2010",
+    "name": "Pasir Gadung",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2011",
+    "name": "Sukadamai",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2012",
+    "name": "Pasir Jaya",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2013",
+    "name": "Budi Mulya",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.18.2014",
+    "name": "Bojong",
+    "districtCode": "36.03.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cikupa"
+  },
+  {
+    "code": "36.03.19.2001",
+    "name": "Ranca Iyuh",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2003",
+    "name": "Peusar",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2004",
+    "name": "Ranca Kalapa",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2005",
+    "name": "Serdang Kulon",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2006",
+    "name": "Mekar Jaya",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2007",
+    "name": "Ciakar",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.19.2008",
+    "name": "Panongan",
+    "districtCode": "36.03.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Panongan"
+  },
+  {
+    "code": "36.03.20.2002",
+    "name": "Caringin",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2003",
+    "name": "Serdang Wetan",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2004",
+    "name": "Babat",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2005",
+    "name": "Ciangir",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2006",
+    "name": "Legok",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2007",
+    "name": "Palasari",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2008",
+    "name": "Bojongkamal",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2009",
+    "name": "Rancagong",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2010",
+    "name": "Kemuning",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.20.2012",
+    "name": "Cirarab",
+    "districtCode": "36.03.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Legok"
+  },
+  {
+    "code": "36.03.22.2002",
+    "name": "Cicalengka",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2003",
+    "name": "Pagedangan",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2005",
+    "name": "Cijantra",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2006",
+    "name": "Lengkong Kulon",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2007",
+    "name": "Situ Gadung",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2008",
+    "name": "Jatake",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2009",
+    "name": "Cihuni",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2010",
+    "name": "Kadu Sirung",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2011",
+    "name": "Malang Nengah",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.22.2012",
+    "name": "Karang Tengah",
+    "districtCode": "36.03.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Pagedangan"
+  },
+  {
+    "code": "36.03.23.2003",
+    "name": "Mekar Wangi",
+    "districtCode": "36.03.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisauk"
+  },
+  {
+    "code": "36.03.23.2005",
+    "name": "Suradita",
+    "districtCode": "36.03.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisauk"
+  },
+  {
+    "code": "36.03.23.2006",
+    "name": "Sampora",
+    "districtCode": "36.03.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisauk"
+  },
+  {
+    "code": "36.03.23.2009",
+    "name": "Dangdang",
+    "districtCode": "36.03.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisauk"
+  },
+  {
+    "code": "36.03.23.2011",
+    "name": "Cibogo",
+    "districtCode": "36.03.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Cisauk"
+  },
+  {
+    "code": "36.03.27.2008",
+    "name": "Semulawil. Kec. Jayanti",
+    "districtCode": "36.03.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Tangerang",
+    "districtName": "Semulawil. Kec. Jayanti"
+  },
+  {
+    "code": "36.04.05.2001",
+    "name": "Kramatwatu",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2002",
+    "name": "Margasana",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2003",
+    "name": "Pejaten",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2004",
+    "name": "Toyomerto",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2005",
+    "name": "Harjatani",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2006",
+    "name": "Serdang",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2007",
+    "name": "Terate",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2008",
+    "name": "Tonjong",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2009",
+    "name": "Pamengkang",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2010",
+    "name": "Pegadingan",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2011",
+    "name": "Lebakwana",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2012",
+    "name": "Wanayasa",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2013",
+    "name": "Pelamunan",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.05.2014",
+    "name": "Teluk Terate",
+    "districtCode": "36.04.05",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kramatwatu"
+  },
+  {
+    "code": "36.04.06.2001",
+    "name": "Waringinkurung",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2002",
+    "name": "Talaga Luhur",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2003",
+    "name": "Binangun",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2004",
+    "name": "Melati",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2005",
+    "name": "Sasahan",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2007",
+    "name": "Sukabares",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2008",
+    "name": "Sambilawang",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2009",
+    "name": "Sampir",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2010",
+    "name": "Cokopsulanjana",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.06.2011",
+    "name": "Kemuning",
+    "districtCode": "36.04.06",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Waringinkurung"
+  },
+  {
+    "code": "36.04.07.2001",
+    "name": "Bojonegara",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2002",
+    "name": "Mangkunegara",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2003",
+    "name": "Wanakarta",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2004",
+    "name": "Karang Kepuh",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2005",
+    "name": "Lambangsari",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2006",
+    "name": "Kertasana",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2007",
+    "name": "Margagiri",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2008",
+    "name": "Ukirsari",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2009",
+    "name": "Pakuncen",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.07.2010",
+    "name": "Pangarengan",
+    "districtCode": "36.04.07",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bojonegara"
+  },
+  {
+    "code": "36.04.08.2001",
+    "name": "Pulo Ampel",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2002",
+    "name": "Sumuranja",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2003",
+    "name": "Mangunreja",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2005",
+    "name": "Salira",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2006",
+    "name": "Argawana",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2007",
+    "name": "Banyuwangi",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.08.2008",
+    "name": "Margasari",
+    "districtCode": "36.04.08",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pulo Ampel"
+  },
+  {
+    "code": "36.04.09.2001",
+    "name": "Ciruas",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2002",
+    "name": "Citerep",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2003",
+    "name": "Pulo",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2004",
+    "name": "Kadikaran",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2005",
+    "name": "Kepandean",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2006",
+    "name": "Gosara",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2009",
+    "name": "Bumijaya",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2010",
+    "name": "Penggalang",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2011",
+    "name": "Pamong",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2012",
+    "name": "Cigelam",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2013",
+    "name": "Singamerta",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.09.2014",
+    "name": "Ranjeng",
+    "districtCode": "36.04.09",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ciruas"
+  },
+  {
+    "code": "36.04.11.2001",
+    "name": "Kragilan",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2002",
+    "name": "Silebu",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2003",
+    "name": "Pematang",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2004",
+    "name": "Dukuh",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2005",
+    "name": "Undar Andir",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2006",
+    "name": "Sukajadi",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2007",
+    "name": "Sentul",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2008",
+    "name": "Jeruk Tipis",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2011",
+    "name": "Kendayakan",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2012",
+    "name": "Tegalmaja",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2013",
+    "name": "Cisait",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.11.2014",
+    "name": "Kramatjati",
+    "districtCode": "36.04.11",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kragilan"
+  },
+  {
+    "code": "36.04.12.2001",
+    "name": "Pontang",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2002",
+    "name": "Sukanegara",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2003",
+    "name": "Linduk",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2004",
+    "name": "Pulokencana",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2006",
+    "name": "Kelapian",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2008",
+    "name": "Kubang Puji",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2009",
+    "name": "Domas",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2010",
+    "name": "Singarajan",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2011",
+    "name": "Kaserangan",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.12.2012",
+    "name": "Wanayasa",
+    "districtCode": "36.04.12",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pontang"
+  },
+  {
+    "code": "36.04.13.2001",
+    "name": "Tirtayasa",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2002",
+    "name": "Samparwadi",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2004",
+    "name": "Pontang Legon",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2005",
+    "name": "Kebon",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2006",
+    "name": "Sujung",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2007",
+    "name": "Lontar",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2008",
+    "name": "Susukan",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2009",
+    "name": "Wargasara",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2010",
+    "name": "Laban",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2011",
+    "name": "Tengkurak",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2012",
+    "name": "Alang-alang",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2013",
+    "name": "Kebuyutan",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.13.2014",
+    "name": "Puser",
+    "districtCode": "36.04.13",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tirtayasa"
+  },
+  {
+    "code": "36.04.14.2001",
+    "name": "Tanara",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2002",
+    "name": "Cerukcuk",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2003",
+    "name": "Tenjoayu",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2004",
+    "name": "Sukamanah",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2005",
+    "name": "Lempuyang",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2006",
+    "name": "Siremen",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2007",
+    "name": "Bendung",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2008",
+    "name": "Pedaleman",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.14.2009",
+    "name": "Cibodas",
+    "districtCode": "36.04.14",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Tanara"
+  },
+  {
+    "code": "36.04.15.2001",
+    "name": "Cikande",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2002",
+    "name": "Leuwi Limus",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2003",
+    "name": "Nambo Udik",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2004",
+    "name": "Parigi",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2005",
+    "name": "Koper",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2006",
+    "name": "Bakung",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2007",
+    "name": "Julang",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2008",
+    "name": "Sukatani",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2009",
+    "name": "Situterate",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2010",
+    "name": "Kamurang",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.15.2011",
+    "name": "Gembor Udik",
+    "districtCode": "36.04.15",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikande"
+  },
+  {
+    "code": "36.04.16.2001",
+    "name": "Kibin",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2002",
+    "name": "Ketos",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2003",
+    "name": "Cijeruk",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2004",
+    "name": "Nagara",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2005",
+    "name": "Nambo Ilir",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2006",
+    "name": "Barengkok",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2007",
+    "name": "Sukamaju",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2008",
+    "name": "Tambak",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.16.2009",
+    "name": "Ciagel",
+    "districtCode": "36.04.16",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kibin"
+  },
+  {
+    "code": "36.04.17.2001",
+    "name": "Carenang",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2002",
+    "name": "Pamanuk",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2003",
+    "name": "Mandaya",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2004",
+    "name": "Teras",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2007",
+    "name": "Walikukun",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2009",
+    "name": "Panenjoan",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.17.2010",
+    "name": "Mekarsari",
+    "districtCode": "36.04.17",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Carenang"
+  },
+  {
+    "code": "36.04.18.2001",
+    "name": "Binuang",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2002",
+    "name": "Cakung",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2003",
+    "name": "Renged",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2004",
+    "name": "Gembor",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2005",
+    "name": "Warakas",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2006",
+    "name": "Sukamampir",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.18.2007",
+    "name": "Lamaran",
+    "districtCode": "36.04.18",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "36.04.19.2001",
+    "name": "Petir",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2002",
+    "name": "Cirangkong",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2003",
+    "name": "Tambiluk",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2004",
+    "name": "Sindangsari",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2005",
+    "name": "Padasuka",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2006",
+    "name": "Seuat",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2008",
+    "name": "Kadugenep",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2010",
+    "name": "Sanding",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2011",
+    "name": "Kampung Baru",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.19.2012",
+    "name": "Mekar Baru",
+    "districtCode": "36.04.19",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Petir"
+  },
+  {
+    "code": "36.04.20.2002",
+    "name": "Sukasari",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2003",
+    "name": "Panunggulan",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2004",
+    "name": "Malanggah",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2005",
+    "name": "Kemuning",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2006",
+    "name": "Bojong Menteng",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2007",
+    "name": "Bojong Catang",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.20.2008",
+    "name": "Bojong Pandan",
+    "districtCode": "36.04.20",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Sukasari"
+  },
+  {
+    "code": "36.04.22.2001",
+    "name": "Baros",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2002",
+    "name": "Tejamari",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2003",
+    "name": "Panyirapan",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2004",
+    "name": "Sidamukti",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2005",
+    "name": "Sukacai",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2006",
+    "name": "Tamansari",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2007",
+    "name": "Sindangmandi",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2008",
+    "name": "Cisalam",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2009",
+    "name": "Sukamanah",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2010",
+    "name": "Sukamenak",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2012",
+    "name": "Padasuka",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2013",
+    "name": "Sinarmukti",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.22.2014",
+    "name": "Suka Indah",
+    "districtCode": "36.04.22",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Baros"
+  },
+  {
+    "code": "36.04.23.2001",
+    "name": "Cikeusal",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2002",
+    "name": "Dahu",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2003",
+    "name": "Katulisan",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2004",
+    "name": "Sukamaju",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2005",
+    "name": "Cilayang",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2006",
+    "name": "Sukamenak",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2007",
+    "name": "Cimaung",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2008",
+    "name": "Panyabrangan",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2009",
+    "name": "Gandayasa",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2010",
+    "name": "Bantar Panjang",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2011",
+    "name": "Sukaratu",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2012",
+    "name": "Harundang",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2013",
+    "name": "Sukarame",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.23.2015",
+    "name": "Mongpok",
+    "districtCode": "36.04.23",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cikeusal"
+  },
+  {
+    "code": "36.04.24.2001",
+    "name": "Pamarayan",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2002",
+    "name": "Damping",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2003",
+    "name": "Wirana",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2004",
+    "name": "Keboncau",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2005",
+    "name": "Pudar",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2006",
+    "name": "Binong",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2007",
+    "name": "Sangiang",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.24.2010",
+    "name": "Pasirlimus",
+    "districtCode": "36.04.24",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pamarayan"
+  },
+  {
+    "code": "36.04.25.2001",
+    "name": "Kopo",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2002",
+    "name": "Garut",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2003",
+    "name": "Nanggung",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2004",
+    "name": "Cidahu",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2005",
+    "name": "Nyompok",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2007",
+    "name": "Carenang Udik",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2008",
+    "name": "Rancasumur",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2009",
+    "name": "Babakanjaya",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.25.2010",
+    "name": "Mekarbaru",
+    "districtCode": "36.04.25",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Kopo"
+  },
+  {
+    "code": "36.04.26.2001",
+    "name": "Jawilan",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2002",
+    "name": "Bojot",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2003",
+    "name": "Cemplang",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2004",
+    "name": "Pagintungan",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2005",
+    "name": "Pasirbuyut",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2006",
+    "name": "Majasari",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2007",
+    "name": "Parakan",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2008",
+    "name": "Kareo",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.26.2009",
+    "name": "Junti",
+    "districtCode": "36.04.26",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Jawilan"
+  },
+  {
+    "code": "36.04.27.2001",
+    "name": "Ujungtebu",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2002",
+    "name": "Siketug",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2003",
+    "name": "Lebak",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2005",
+    "name": "Sukabares",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2006",
+    "name": "Sukarena",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2007",
+    "name": "Sukadana",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2008",
+    "name": "Cemplang",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2009",
+    "name": "Cisitu",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.27.2010",
+    "name": "Citaman",
+    "districtCode": "36.04.27",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Ujungtebu"
+  },
+  {
+    "code": "36.04.28.2001",
+    "name": "Pabuaran",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2006",
+    "name": "Kadubeureum",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2007",
+    "name": "Tanjungsari",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2009",
+    "name": "Pancanegara",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2010",
+    "name": "Sindangsari",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2012",
+    "name": "Sindangheula",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.28.2013",
+    "name": "Pasanggrahan",
+    "districtCode": "36.04.28",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Pabuaran"
+  },
+  {
+    "code": "36.04.29.2001",
+    "name": "Padarincang",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2002",
+    "name": "Bugel",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2003",
+    "name": "Cibojong",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2004",
+    "name": "Citasuk",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2005",
+    "name": "Cisaat",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2006",
+    "name": "Ciomas",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2007",
+    "name": "Barugbug",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2008",
+    "name": "Batu Kuwung",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2009",
+    "name": "Kramatlaban",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2011",
+    "name": "Kadubeureum",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2012",
+    "name": "Cipayung",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.29.2013",
+    "name": "Curug Goong",
+    "districtCode": "36.04.29",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Padarincang"
+  },
+  {
+    "code": "36.04.30.2001",
+    "name": "Anyar",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2002",
+    "name": "Sindang Mandi",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2003",
+    "name": "Cikoneng",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2004",
+    "name": "Tanjung Manis",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2005",
+    "name": "Bandulu",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2006",
+    "name": "Bunihara",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2007",
+    "name": "Kosambironyok",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2008",
+    "name": "Banjarsari",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2009",
+    "name": "Mekarsari",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.30.2010",
+    "name": "Sindangkarya",
+    "districtCode": "36.04.30",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Anyar"
+  },
+  {
+    "code": "36.04.31.2001",
+    "name": "Cinangka",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2003",
+    "name": "Pasauran",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2004",
+    "name": "Bulakan",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2005",
+    "name": "Karang Suraga",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2006",
+    "name": "Umbul Tanjung",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2007",
+    "name": "Kubang Baros",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2009",
+    "name": "Cikolelet",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2011",
+    "name": "Kamasan",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.31.2013",
+    "name": "Mekarsari",
+    "districtCode": "36.04.31",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Cinangka"
+  },
+  {
+    "code": "36.04.32.2001",
+    "name": "Mancak",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2002",
+    "name": "Ciwarna",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2003",
+    "name": "Angsana",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2004",
+    "name": "Talaga",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2005",
+    "name": "Cikedung",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2006",
+    "name": "Sigedong",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2007",
+    "name": "Sangiang",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2008",
+    "name": "Pasirwaru",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2009",
+    "name": "Waringin",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2010",
+    "name": "Winong",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2011",
+    "name": "Batukuda",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2012",
+    "name": "Labuan",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.32.2013",
+    "name": "Bale Kambang",
+    "districtCode": "36.04.32",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Mancak"
+  },
+  {
+    "code": "36.04.33.2001",
+    "name": "Gunungsari",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.33.2002",
+    "name": "Ciherang",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.33.2003",
+    "name": "Tamiang",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.33.2004",
+    "name": "Sukalaba",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.33.2005",
+    "name": "Kadu Agung",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.33.2006",
+    "name": "Luwuk",
+    "districtCode": "36.04.33",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Gunungsari"
+  },
+  {
+    "code": "36.04.34.2001",
+    "name": "Bandung",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2002",
+    "name": "Mander",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2004",
+    "name": "Pangawinan",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2005",
+    "name": "Malabar",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2006",
+    "name": "Blokang",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2007",
+    "name": "Babakan",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.04.34.2008",
+    "name": "Pringwulung",
+    "districtCode": "36.04.34",
+    "type": "DESA",
+    "provinceName": "Banten",
+    "regencyName": "Serang",
+    "districtName": "Bandung"
+  },
+  {
+    "code": "36.71.01.1001",
+    "name": "Sukarasa",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1002",
+    "name": "Sukaasih",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1003",
+    "name": "Tanah Tinggi",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1004",
+    "name": "Buaran Indah",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1005",
+    "name": "Cikokol",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1006",
+    "name": "Kelapa Indah",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1007",
+    "name": "Sukasari",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.01.1008",
+    "name": "Babakan",
+    "districtCode": "36.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Sukarasa"
+  },
+  {
+    "code": "36.71.02.1001",
+    "name": "Keroncong",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.02.1002",
+    "name": "Jatake",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.02.1003",
+    "name": "Pasir Jaya",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.02.1004",
+    "name": "Gandasari",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.02.1005",
+    "name": "Manis Jaya",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.02.1006",
+    "name": "Alam Jaya",
+    "districtCode": "36.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Keroncong"
+  },
+  {
+    "code": "36.71.03.1001",
+    "name": "Batuceper",
+    "districtCode": "36.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Batuceper"
+  },
+  {
+    "code": "36.71.03.1003",
+    "name": "Poris Gaga",
+    "districtCode": "36.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Batuceper"
+  },
+  {
+    "code": "36.71.03.1004",
+    "name": "Poris Gaga Baru",
+    "districtCode": "36.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Batuceper"
+  },
+  {
+    "code": "36.71.03.1005",
+    "name": "Kebon Besar",
+    "districtCode": "36.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Batuceper"
+  },
+  {
+    "code": "36.71.03.1007",
+    "name": "Poris Jaya",
+    "districtCode": "36.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Batuceper"
+  },
+  {
+    "code": "36.71.04.1001",
+    "name": "Belendung",
+    "districtCode": "36.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Belendung"
+  },
+  {
+    "code": "36.71.04.1002",
+    "name": "Jurumudi",
+    "districtCode": "36.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Belendung"
+  },
+  {
+    "code": "36.71.04.1003",
+    "name": "Benda",
+    "districtCode": "36.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Belendung"
+  },
+  {
+    "code": "36.71.04.1004",
+    "name": "Pajang",
+    "districtCode": "36.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Belendung"
+  },
+  {
+    "code": "36.71.04.1005",
+    "name": "Jurumudi Baru",
+    "districtCode": "36.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Belendung"
+  },
+  {
+    "code": "36.71.05.1001",
+    "name": "Cipondoh",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1002",
+    "name": "Cipondoh Makmur",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1003",
+    "name": "Cipondoh Indah",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1004",
+    "name": "Gondrong",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1005",
+    "name": "Kenanga",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1006",
+    "name": "Petir",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1007",
+    "name": "Ketapang",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1008",
+    "name": "Poris Plawad",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1009",
+    "name": "Poris Plawad Utara",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.05.1010",
+    "name": "Poris Plawad Indah",
+    "districtCode": "36.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cipondoh"
+  },
+  {
+    "code": "36.71.06.1001",
+    "name": "Paninggilan",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1002",
+    "name": "Sudimara Barat",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1003",
+    "name": "Sudimara Timur",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1004",
+    "name": "Tajur",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1005",
+    "name": "Parung Serab",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1006",
+    "name": "Sudimara Jaya",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1007",
+    "name": "Sudimara Selatan",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.06.1008",
+    "name": "Paninggilan Utara",
+    "districtCode": "36.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Paninggilan"
+  },
+  {
+    "code": "36.71.07.1001",
+    "name": "Karawaci",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1002",
+    "name": "Bojong Jaya",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1003",
+    "name": "Karawaci Baru",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1004",
+    "name": "Nusa Jaya",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1005",
+    "name": "Cimone",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1006",
+    "name": "Cimone Jaya",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1007",
+    "name": "Pabuaran",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1008",
+    "name": "Sumur Pacing",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1009",
+    "name": "Bugel",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1011",
+    "name": "Pabuaran Tumpeng",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1012",
+    "name": "Nambo Jaya",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1013",
+    "name": "Gerendeng",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1014",
+    "name": "Sukajadi",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1015",
+    "name": "Pasar Baru",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.07.1016",
+    "name": "Koang Jaya",
+    "districtCode": "36.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karawaci"
+  },
+  {
+    "code": "36.71.08.1001",
+    "name": "Periuk",
+    "districtCode": "36.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Periuk"
+  },
+  {
+    "code": "36.71.08.1002",
+    "name": "Gembor",
+    "districtCode": "36.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Periuk"
+  },
+  {
+    "code": "36.71.08.1003",
+    "name": "Gebang Raya",
+    "districtCode": "36.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Periuk"
+  },
+  {
+    "code": "36.71.08.1004",
+    "name": "Sangiang Jaya",
+    "districtCode": "36.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Periuk"
+  },
+  {
+    "code": "36.71.08.1005",
+    "name": "Periuk Jaya",
+    "districtCode": "36.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Periuk"
+  },
+  {
+    "code": "36.71.09.1001",
+    "name": "Cibodas",
+    "districtCode": "36.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cibodas"
+  },
+  {
+    "code": "36.71.09.1003",
+    "name": "Cibodas Baru",
+    "districtCode": "36.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cibodas"
+  },
+  {
+    "code": "36.71.09.1004",
+    "name": "Panunggangan Barat",
+    "districtCode": "36.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cibodas"
+  },
+  {
+    "code": "36.71.09.1005",
+    "name": "Uwung Jaya",
+    "districtCode": "36.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cibodas"
+  },
+  {
+    "code": "36.71.09.1006",
+    "name": "Jatiuwung",
+    "districtCode": "36.71.09",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Cibodas"
+  },
+  {
+    "code": "36.71.10.1001",
+    "name": "Neglasari",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.10.1002",
+    "name": "Karang Sari",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.10.1003",
+    "name": "Selapajang Jaya",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.10.1004",
+    "name": "Kedaung Wetan",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.10.1006",
+    "name": "Karang Anyar",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.10.1007",
+    "name": "Kedaung Baru",
+    "districtCode": "36.71.10",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Neglasari"
+  },
+  {
+    "code": "36.71.11.1001",
+    "name": "Pinang",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1002",
+    "name": "Sudimara Pinang",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1004",
+    "name": "Kunciran",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1005",
+    "name": "Kunciran Indah",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1006",
+    "name": "Kunciran Jaya",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1007",
+    "name": "Cipete",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1008",
+    "name": "Pakojan",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1009",
+    "name": "Panunggangan",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1010",
+    "name": "Panunggangan Utara",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.11.1011",
+    "name": "Panunggangan Timur",
+    "districtCode": "36.71.11",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Pinang"
+  },
+  {
+    "code": "36.71.12.1001",
+    "name": "Karang Tengah",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1002",
+    "name": "Karang Mulya",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1003",
+    "name": "Pondok Bahar",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1004",
+    "name": "Pondok Pucung",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1005",
+    "name": "Karang Timur",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1006",
+    "name": "Padurenan",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.12.1007",
+    "name": "Parung Jaya",
+    "districtCode": "36.71.12",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Karang Tengah"
+  },
+  {
+    "code": "36.71.13.1001",
+    "name": "Larangan Utara",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1002",
+    "name": "Larangan Selatan",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1003",
+    "name": "Cipadu",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1004",
+    "name": "Kreo",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1005",
+    "name": "Larangan Indah",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1006",
+    "name": "Gaga",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1007",
+    "name": "Cipadu Jaya",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.71.13.1008",
+    "name": "Kreo Selatan",
+    "districtCode": "36.71.13",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.71",
+    "districtName": "Larangan Utara"
+  },
+  {
+    "code": "36.73.01.1001",
+    "name": "Serang",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1002",
+    "name": "Cipare",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1003",
+    "name": "Sumur Pecung",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1004",
+    "name": "Kota Baru",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1005",
+    "name": "Lopang",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1006",
+    "name": "Cimuncang",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1007",
+    "name": "Unyur",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1008",
+    "name": "Sukawana",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1009",
+    "name": "Lontarbaru",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1011",
+    "name": "Terondol",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.01.1012",
+    "name": "Kagungan",
+    "districtCode": "36.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Serang"
+  },
+  {
+    "code": "36.73.05.1001",
+    "name": "Cipocok Jaya",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1002",
+    "name": "Karundang",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1003",
+    "name": "Panancangan",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1004",
+    "name": "Banjar Agung",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1005",
+    "name": "Banjarsari",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1006",
+    "name": "Tembong",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1007",
+    "name": "Dalung",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.73.05.1008",
+    "name": "Gelam",
+    "districtCode": "36.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.73",
+    "districtName": "Cipocok Jaya"
+  },
+  {
+    "code": "36.74.01.1001",
+    "name": "Ciater",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1004",
+    "name": "Lengkong Gudang",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1005",
+    "name": "Lengkong Wetan",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1006",
+    "name": "Buaran",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1007",
+    "name": "Lengkong Gudang",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1008",
+    "name": "Cilenggang",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.01.1009",
+    "name": "Serpong",
+    "districtCode": "36.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Ciater"
+  },
+  {
+    "code": "36.74.02.1001",
+    "name": "Pakulonan",
+    "districtCode": "36.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pakulonan"
+  },
+  {
+    "code": "36.74.02.1004",
+    "name": "Pondok Jagung",
+    "districtCode": "36.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pakulonan"
+  },
+  {
+    "code": "36.74.02.1005",
+    "name": "Pondok Jagung Timur",
+    "districtCode": "36.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pakulonan"
+  },
+  {
+    "code": "36.74.02.1006",
+    "name": "Jelupang",
+    "districtCode": "36.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pakulonan"
+  },
+  {
+    "code": "36.74.02.1007",
+    "name": "Lengkong Karya",
+    "districtCode": "36.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pakulonan"
+  },
+  {
+    "code": "36.74.03.1001",
+    "name": "Pondok Betung",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1002",
+    "name": "Pondok Pucung",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1003",
+    "name": "Pondok Karya",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1004",
+    "name": "Pondok Jaya",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1005",
+    "name": "Pondok Aren",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1006",
+    "name": "Pondok Kacang Barat",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1007",
+    "name": "Pondok Kacang Timur",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1008",
+    "name": "Parigi",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1009",
+    "name": "Parigi Baru",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1010",
+    "name": "Jurangmangu Barat",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.03.1011",
+    "name": "Jurangmangu Timur",
+    "districtCode": "36.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pondok Betung"
+  },
+  {
+    "code": "36.74.04.1001",
+    "name": "Sawah Baru",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.04.1002",
+    "name": "Serua",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.04.1003",
+    "name": "Ciputat",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.04.1005",
+    "name": "Serua Indah",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.04.1006",
+    "name": "Jombang",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.04.1007",
+    "name": "Cipayung",
+    "districtCode": "36.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Sawah Baru"
+  },
+  {
+    "code": "36.74.05.1001",
+    "name": "Cempaka Putih",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.05.1002",
+    "name": "Pondok Ranji",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.05.1003",
+    "name": "Pisangan",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.05.1004",
+    "name": "Cireundeu",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.05.1005",
+    "name": "Rempoa",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.05.1006",
+    "name": "Rengas",
+    "districtCode": "36.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Cempaka Putih"
+  },
+  {
+    "code": "36.74.06.1001",
+    "name": "Pamulang Barat",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1002",
+    "name": "Benda Baru",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1003",
+    "name": "Pondok Benda",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1004",
+    "name": "Pondok Cabe Udik",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1005",
+    "name": "Pondok Cabe Ilir",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1006",
+    "name": "Kedaung",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.06.1008",
+    "name": "Pamulang Timur",
+    "districtCode": "36.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Pamulang Barat"
+  },
+  {
+    "code": "36.74.07.1001",
+    "name": "Muncul",
+    "districtCode": "36.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "Banten",
+    "regencyName": "Kabupaten 36.74",
+    "districtName": "Muncul"
+  }
+] as Village[];

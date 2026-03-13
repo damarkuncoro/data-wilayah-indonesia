@@ -1,0 +1,2398 @@
+import type { Village } from '../../core/entities';
+
+export default [
+  {
+    "code": "31.01.01.1001",
+    "name": "Pulau Panggang",
+    "districtCode": "31.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Panggang"
+  },
+  {
+    "code": "31.01.01.1002",
+    "name": "Pulau Kelapa",
+    "districtCode": "31.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Panggang"
+  },
+  {
+    "code": "31.01.01.1003",
+    "name": "Pulau Harapan",
+    "districtCode": "31.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Panggang"
+  },
+  {
+    "code": "31.01.02.1001",
+    "name": "Pulau Untung Jawa",
+    "districtCode": "31.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Untung Jawa"
+  },
+  {
+    "code": "31.01.02.1002",
+    "name": "Pulau Tidung",
+    "districtCode": "31.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Untung Jawa"
+  },
+  {
+    "code": "31.01.02.1003",
+    "name": "Pulau Pari",
+    "districtCode": "31.01.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Kepulauan Seribu",
+    "districtName": "Pulau Untung Jawa"
+  },
+  {
+    "code": "31.71.01.1001",
+    "name": "Gambir",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.01.1002",
+    "name": "Cideng",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.01.1003",
+    "name": "Petojo Utara",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.01.1004",
+    "name": "Petojo Selatan",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.01.1005",
+    "name": "Kebon Kelapa",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.01.1006",
+    "name": "Duri Pulo",
+    "districtCode": "31.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gambir"
+  },
+  {
+    "code": "31.71.02.1001",
+    "name": "Pasar Baru",
+    "districtCode": "31.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Pasar Baru"
+  },
+  {
+    "code": "31.71.02.1002",
+    "name": "Karang Anyar",
+    "districtCode": "31.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Pasar Baru"
+  },
+  {
+    "code": "31.71.02.1003",
+    "name": "Kartini",
+    "districtCode": "31.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Pasar Baru"
+  },
+  {
+    "code": "31.71.02.1004",
+    "name": "Gunung Sahari Utara",
+    "districtCode": "31.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Pasar Baru"
+  },
+  {
+    "code": "31.71.02.1005",
+    "name": "Mangga Dua Selatan",
+    "districtCode": "31.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Pasar Baru"
+  },
+  {
+    "code": "31.71.03.1001",
+    "name": "Kemayoran",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1002",
+    "name": "Kebon Kosong",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1003",
+    "name": "Harapan Mulia",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1004",
+    "name": "Serdang",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1005",
+    "name": "Gunung Sahari",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1006",
+    "name": "Cempaka Baru",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1007",
+    "name": "Sumur Batu",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.03.1008",
+    "name": "Utan Panjang",
+    "districtCode": "31.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Kemayoran"
+  },
+  {
+    "code": "31.71.04.1001",
+    "name": "Senen",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.04.1002",
+    "name": "Kenari",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.04.1003",
+    "name": "Paseban",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.04.1004",
+    "name": "Kramat",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.04.1005",
+    "name": "Kwitang",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.04.1006",
+    "name": "Bungur",
+    "districtCode": "31.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Senen"
+  },
+  {
+    "code": "31.71.05.1001",
+    "name": "Cempaka Putih Timur",
+    "districtCode": "31.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Cempaka Putih Timur"
+  },
+  {
+    "code": "31.71.05.1002",
+    "name": "Cempaka Putih Barat",
+    "districtCode": "31.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Cempaka Putih Timur"
+  },
+  {
+    "code": "31.71.05.1003",
+    "name": "Rawasari",
+    "districtCode": "31.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Cempaka Putih Timur"
+  },
+  {
+    "code": "31.71.06.1001",
+    "name": "Menteng",
+    "districtCode": "31.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Menteng"
+  },
+  {
+    "code": "31.71.06.1002",
+    "name": "Pegangsaan",
+    "districtCode": "31.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Menteng"
+  },
+  {
+    "code": "31.71.06.1003",
+    "name": "Cikini",
+    "districtCode": "31.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Menteng"
+  },
+  {
+    "code": "31.71.06.1004",
+    "name": "Gondangdia",
+    "districtCode": "31.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Menteng"
+  },
+  {
+    "code": "31.71.06.1005",
+    "name": "Kebon Sirih",
+    "districtCode": "31.71.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Menteng"
+  },
+  {
+    "code": "31.71.07.1001",
+    "name": "Gelora",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1002",
+    "name": "Bendungan Hilir",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1003",
+    "name": "Karet Tengsin",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1004",
+    "name": "Petamburan",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1005",
+    "name": "Kebon Melati",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1006",
+    "name": "Kebon Kacang",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.07.1007",
+    "name": "Kampung Bali",
+    "districtCode": "31.71.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Gelora"
+  },
+  {
+    "code": "31.71.08.1001",
+    "name": "Johar Baru",
+    "districtCode": "31.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Johar Baru"
+  },
+  {
+    "code": "31.71.08.1002",
+    "name": "Kampung Rawa",
+    "districtCode": "31.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Johar Baru"
+  },
+  {
+    "code": "31.71.08.1003",
+    "name": "Galur",
+    "districtCode": "31.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Johar Baru"
+  },
+  {
+    "code": "31.71.08.1004",
+    "name": "Tanah Tinggi",
+    "districtCode": "31.71.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Pusat",
+    "districtName": "Johar Baru"
+  },
+  {
+    "code": "31.72.01.1001",
+    "name": "Penjaringan",
+    "districtCode": "31.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Penjaringan"
+  },
+  {
+    "code": "31.72.01.1002",
+    "name": "Kamal Muara",
+    "districtCode": "31.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Penjaringan"
+  },
+  {
+    "code": "31.72.01.1003",
+    "name": "Kapuk Muara",
+    "districtCode": "31.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Penjaringan"
+  },
+  {
+    "code": "31.72.01.1004",
+    "name": "Pejagalan",
+    "districtCode": "31.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Penjaringan"
+  },
+  {
+    "code": "31.72.01.1005",
+    "name": "Pluit",
+    "districtCode": "31.72.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Penjaringan"
+  },
+  {
+    "code": "31.72.02.1001",
+    "name": "Tanjung Priok",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1002",
+    "name": "Sunter Jaya",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1003",
+    "name": "Papanggo",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1004",
+    "name": "Sungai Bambu",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1005",
+    "name": "Kebon Bawang",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1006",
+    "name": "Sunter Agung",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.02.1007",
+    "name": "Warakas",
+    "districtCode": "31.72.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Tanjung Priok"
+  },
+  {
+    "code": "31.72.03.1001",
+    "name": "Koja",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.03.1002",
+    "name": "Tugu Utara",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.03.1003",
+    "name": "Lagoa",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.03.1004",
+    "name": "Rawa Badak Utara",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.03.1005",
+    "name": "Tugu Selatan",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.03.1006",
+    "name": "Rawa Badak Selatan",
+    "districtCode": "31.72.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Koja"
+  },
+  {
+    "code": "31.72.04.1001",
+    "name": "Cilincing",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1002",
+    "name": "Sukapura",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1003",
+    "name": "Marunda",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1004",
+    "name": "Kalibaru",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1005",
+    "name": "Semper Timur",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1006",
+    "name": "Rorotan",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.04.1007",
+    "name": "Semper Barat",
+    "districtCode": "31.72.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Cilincing"
+  },
+  {
+    "code": "31.72.05.1001",
+    "name": "Pademangan Timur",
+    "districtCode": "31.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Pademangan Timur"
+  },
+  {
+    "code": "31.72.05.1002",
+    "name": "Pademangan Barat",
+    "districtCode": "31.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Pademangan Timur"
+  },
+  {
+    "code": "31.72.05.1003",
+    "name": "Ancol",
+    "districtCode": "31.72.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Pademangan Timur"
+  },
+  {
+    "code": "31.72.06.1001",
+    "name": "Kelapa Gading Timur",
+    "districtCode": "31.72.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Kelapa Gading Timur"
+  },
+  {
+    "code": "31.72.06.1002",
+    "name": "Pegangsaan Dua",
+    "districtCode": "31.72.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Kelapa Gading Timur"
+  },
+  {
+    "code": "31.72.06.1003",
+    "name": "Kelapa Gading Barat",
+    "districtCode": "31.72.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Utara",
+    "districtName": "Kelapa Gading Timur"
+  },
+  {
+    "code": "31.73.01.1001",
+    "name": "Cengkareng Barat",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.01.1002",
+    "name": "Duri Kosambi",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.01.1003",
+    "name": "Rawa Buaya",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.01.1004",
+    "name": "Kedaung Kali Angke",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.01.1005",
+    "name": "Kapuk",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.01.1006",
+    "name": "Cengkareng Timur",
+    "districtCode": "31.73.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Cengkareng Barat"
+  },
+  {
+    "code": "31.73.02.1001",
+    "name": "Grogol",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1002",
+    "name": "Tanjung Duren Utara",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1003",
+    "name": "Tomang",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1004",
+    "name": "Jelambar",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1005",
+    "name": "Tanjung Duren",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1006",
+    "name": "Jelambar Baru",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.02.1007",
+    "name": "Wijaya Kusuma",
+    "districtCode": "31.73.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Grogol"
+  },
+  {
+    "code": "31.73.03.1001",
+    "name": "Taman Sari",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1002",
+    "name": "Krukut",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1003",
+    "name": "Maphar",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1004",
+    "name": "Tangki",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1005",
+    "name": "Mangga Besar",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1006",
+    "name": "Keagungan",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1007",
+    "name": "Glodok",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.03.1008",
+    "name": "Pinangsia",
+    "districtCode": "31.73.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Taman Sari"
+  },
+  {
+    "code": "31.73.04.1001",
+    "name": "Tambora",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1002",
+    "name": "Kali Anyar",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1003",
+    "name": "Duri Utara",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1004",
+    "name": "Tanah Sereal",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1005",
+    "name": "Krendang",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1006",
+    "name": "Jembatan Besi",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1007",
+    "name": "Angke",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1008",
+    "name": "Jembatan Lima",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1009",
+    "name": "Pekojan",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1010",
+    "name": "Roa Malaka",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.04.1011",
+    "name": "Duri Selatan",
+    "districtCode": "31.73.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Tambora"
+  },
+  {
+    "code": "31.73.05.1001",
+    "name": "Kebon Jeruk",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1002",
+    "name": "Sukabumi Utara",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1003",
+    "name": "Sukabumi Selatan",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1004",
+    "name": "Kelapa Dua",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1005",
+    "name": "Duri Kepa",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1006",
+    "name": "Kedoya Utara",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.05.1007",
+    "name": "Kedoya Selatan",
+    "districtCode": "31.73.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kebon Jeruk"
+  },
+  {
+    "code": "31.73.06.1001",
+    "name": "Kalideres",
+    "districtCode": "31.73.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kalideres"
+  },
+  {
+    "code": "31.73.06.1002",
+    "name": "Semanan",
+    "districtCode": "31.73.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kalideres"
+  },
+  {
+    "code": "31.73.06.1003",
+    "name": "Tegal Alur",
+    "districtCode": "31.73.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kalideres"
+  },
+  {
+    "code": "31.73.06.1004",
+    "name": "Kamal",
+    "districtCode": "31.73.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kalideres"
+  },
+  {
+    "code": "31.73.06.1005",
+    "name": "Pegadungan",
+    "districtCode": "31.73.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kalideres"
+  },
+  {
+    "code": "31.73.07.1001",
+    "name": "Palmerah",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.07.1002",
+    "name": "Slipi",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.07.1003",
+    "name": "Kota Bambu Utara",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.07.1004",
+    "name": "Jatipulo",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.07.1005",
+    "name": "Kemanggisan",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.07.1006",
+    "name": "Kota Bambu Selatan",
+    "districtCode": "31.73.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Palmerah"
+  },
+  {
+    "code": "31.73.08.1001",
+    "name": "Kembangan Utara",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.73.08.1002",
+    "name": "Meruya Utara",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.73.08.1003",
+    "name": "Meruya Selatan",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.73.08.1004",
+    "name": "Srengseng",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.73.08.1005",
+    "name": "Joglo",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.73.08.1006",
+    "name": "Kembangan Selatan",
+    "districtCode": "31.73.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Barat",
+    "districtName": "Kembangan Utara"
+  },
+  {
+    "code": "31.74.01.1001",
+    "name": "Tebet Timur",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1002",
+    "name": "Tebet Barat",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1003",
+    "name": "Menteng Dalam",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1004",
+    "name": "Kebon Baru",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1005",
+    "name": "Bukit Duri",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1006",
+    "name": "Manggarai Selatan",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.01.1007",
+    "name": "Manggarai",
+    "districtCode": "31.74.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Tebet Timur"
+  },
+  {
+    "code": "31.74.02.1001",
+    "name": "Setia Budi",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1002",
+    "name": "Karet Semanggi",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1003",
+    "name": "Karet Kuningan",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1004",
+    "name": "Karet",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1005",
+    "name": "Menteng Atas",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1006",
+    "name": "Pasar Manggis",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1007",
+    "name": "Guntur",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.02.1008",
+    "name": "Kuningan Timur",
+    "districtCode": "31.74.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Setia Budi"
+  },
+  {
+    "code": "31.74.03.1001",
+    "name": "Mampang Prapatan",
+    "districtCode": "31.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Mampang Prapatan"
+  },
+  {
+    "code": "31.74.03.1002",
+    "name": "Bangka",
+    "districtCode": "31.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Mampang Prapatan"
+  },
+  {
+    "code": "31.74.03.1003",
+    "name": "Pela Mampang",
+    "districtCode": "31.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Mampang Prapatan"
+  },
+  {
+    "code": "31.74.03.1004",
+    "name": "Tegal Parang",
+    "districtCode": "31.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Mampang Prapatan"
+  },
+  {
+    "code": "31.74.03.1005",
+    "name": "Kuningan Barat",
+    "districtCode": "31.74.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Mampang Prapatan"
+  },
+  {
+    "code": "31.74.04.1001",
+    "name": "Pasar Minggu",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1002",
+    "name": "Jati Padang",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1003",
+    "name": "Cilandak Timur",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1004",
+    "name": "Ragunan",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1005",
+    "name": "Pejaten Timur",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1006",
+    "name": "Pejaten Barat",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.04.1007",
+    "name": "Kebagusan",
+    "districtCode": "31.74.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pasar Minggu"
+  },
+  {
+    "code": "31.74.05.1001",
+    "name": "Kebayoran Lama",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.05.1002",
+    "name": "Pondok Pinang",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.05.1003",
+    "name": "Cipulir",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.05.1004",
+    "name": "Grogol Utara",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.05.1005",
+    "name": "Grogol Selatan",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.05.1006",
+    "name": "Kebayoran Lama",
+    "districtCode": "31.74.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Kebayoran Lama"
+  },
+  {
+    "code": "31.74.06.1001",
+    "name": "Cilandak Barat",
+    "districtCode": "31.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Cilandak Barat"
+  },
+  {
+    "code": "31.74.06.1002",
+    "name": "Lebak Bulus",
+    "districtCode": "31.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Cilandak Barat"
+  },
+  {
+    "code": "31.74.06.1003",
+    "name": "Pondok Labu",
+    "districtCode": "31.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Cilandak Barat"
+  },
+  {
+    "code": "31.74.06.1004",
+    "name": "Gandaria Selatan",
+    "districtCode": "31.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Cilandak Barat"
+  },
+  {
+    "code": "31.74.06.1005",
+    "name": "Cipete Selatan",
+    "districtCode": "31.74.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Cilandak Barat"
+  },
+  {
+    "code": "31.74.07.1001",
+    "name": "Melawai",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1002",
+    "name": "Gunung",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1003",
+    "name": "Kramat Pela",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1004",
+    "name": "Selong",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1005",
+    "name": "Rawa Barat",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1006",
+    "name": "Senayan",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1007",
+    "name": "Pulo",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1008",
+    "name": "Petogogan",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1009",
+    "name": "Gandaria Utara",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.07.1010",
+    "name": "Cipete Utara",
+    "districtCode": "31.74.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Melawai"
+  },
+  {
+    "code": "31.74.08.1001",
+    "name": "Pancoran",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.08.1002",
+    "name": "Kalibata",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.08.1003",
+    "name": "Rawajati",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.08.1004",
+    "name": "Duren Tiga",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.08.1005",
+    "name": "Pengadegan",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.08.1006",
+    "name": "Cikoko",
+    "districtCode": "31.74.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pancoran"
+  },
+  {
+    "code": "31.74.09.1001",
+    "name": "Jagakarsa",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.09.1002",
+    "name": "Srengseng Sawah",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.09.1003",
+    "name": "Ciganjur",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.09.1004",
+    "name": "Lenteng Agung",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.09.1005",
+    "name": "Tanjung Barat",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.09.1006",
+    "name": "Cipedak",
+    "districtCode": "31.74.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Jagakarsa"
+  },
+  {
+    "code": "31.74.10.1001",
+    "name": "Pesanggrahan",
+    "districtCode": "31.74.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pesanggrahan"
+  },
+  {
+    "code": "31.74.10.1002",
+    "name": "Bintaro",
+    "districtCode": "31.74.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pesanggrahan"
+  },
+  {
+    "code": "31.74.10.1003",
+    "name": "Petukangan Utara",
+    "districtCode": "31.74.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pesanggrahan"
+  },
+  {
+    "code": "31.74.10.1004",
+    "name": "Petukangan Selatan",
+    "districtCode": "31.74.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pesanggrahan"
+  },
+  {
+    "code": "31.74.10.1005",
+    "name": "Ulujami",
+    "districtCode": "31.74.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Selatan",
+    "districtName": "Pesanggrahan"
+  },
+  {
+    "code": "31.75.01.1001",
+    "name": "Pisangan Baru",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.01.1002",
+    "name": "Utan Kayu Utara",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.01.1003",
+    "name": "Kayu Manis",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.01.1004",
+    "name": "Palmeriam",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.01.1005",
+    "name": "Kebon Manggis",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.01.1006",
+    "name": "Utan Kayu Selatan",
+    "districtCode": "31.75.01",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pisangan Baru"
+  },
+  {
+    "code": "31.75.02.1001",
+    "name": "Pulo Gadung",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1002",
+    "name": "Pisangan Timur",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1003",
+    "name": "Cipinang",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1004",
+    "name": "Jatinegara Kaum",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1005",
+    "name": "Rawamangun",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1006",
+    "name": "Kayu Putih",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.02.1007",
+    "name": "Jati",
+    "districtCode": "31.75.02",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Pulo Gadung"
+  },
+  {
+    "code": "31.75.03.1001",
+    "name": "Kampung Melayu",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1002",
+    "name": "Bidara Cina",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1003",
+    "name": "Bali Mester",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1004",
+    "name": "Rawa Bunga",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1005",
+    "name": "Cipinang Cempedak",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1006",
+    "name": "Cipinang Muara",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1007",
+    "name": "Cipinang Besar",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.03.1008",
+    "name": "Cipinang Besar Utara",
+    "districtCode": "31.75.03",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kampung Melayu"
+  },
+  {
+    "code": "31.75.04.1001",
+    "name": "Kramatjati",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1002",
+    "name": "Tengah",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1003",
+    "name": "Dukuh",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1004",
+    "name": "Batu Ampar",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1005",
+    "name": "Balekambang",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1006",
+    "name": "Cililitan",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.04.1007",
+    "name": "Cawang",
+    "districtCode": "31.75.04",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Kramatjati"
+  },
+  {
+    "code": "31.75.05.1001",
+    "name": "Gedong",
+    "districtCode": "31.75.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Gedong"
+  },
+  {
+    "code": "31.75.05.1002",
+    "name": "Baru",
+    "districtCode": "31.75.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Gedong"
+  },
+  {
+    "code": "31.75.05.1003",
+    "name": "Cijantung",
+    "districtCode": "31.75.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Gedong"
+  },
+  {
+    "code": "31.75.05.1004",
+    "name": "Kalisari",
+    "districtCode": "31.75.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Gedong"
+  },
+  {
+    "code": "31.75.05.1005",
+    "name": "Pekayon",
+    "districtCode": "31.75.05",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Gedong"
+  },
+  {
+    "code": "31.75.06.1001",
+    "name": "Jatinegara",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1002",
+    "name": "Rawa Terate",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1003",
+    "name": "Penggilingan",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1004",
+    "name": "Cakung Timur",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1005",
+    "name": "Pulo Gebang",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1006",
+    "name": "Ujung Menteng",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.06.1007",
+    "name": "Cakung Barat",
+    "districtCode": "31.75.06",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Jatinegara"
+  },
+  {
+    "code": "31.75.07.1001",
+    "name": "Duren Sawit",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1002",
+    "name": "Pondok Bambu",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1003",
+    "name": "Klender",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1004",
+    "name": "Pondok Kelapa",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1005",
+    "name": "Malaka Sari",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1006",
+    "name": "Malaka Jaya",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.07.1007",
+    "name": "Pondok Kopi",
+    "districtCode": "31.75.07",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Duren Sawit"
+  },
+  {
+    "code": "31.75.08.1001",
+    "name": "Makasar",
+    "districtCode": "31.75.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Makasar"
+  },
+  {
+    "code": "31.75.08.1002",
+    "name": "Pinangranti",
+    "districtCode": "31.75.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Makasar"
+  },
+  {
+    "code": "31.75.08.1003",
+    "name": "Kebon Pala",
+    "districtCode": "31.75.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Makasar"
+  },
+  {
+    "code": "31.75.08.1005",
+    "name": "Cipinang Melayu",
+    "districtCode": "31.75.08",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Makasar"
+  },
+  {
+    "code": "31.75.09.1001",
+    "name": "Ciracas",
+    "districtCode": "31.75.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Ciracas"
+  },
+  {
+    "code": "31.75.09.1002",
+    "name": "Cibubur",
+    "districtCode": "31.75.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Ciracas"
+  },
+  {
+    "code": "31.75.09.1003",
+    "name": "Kelapa Dua Wetan",
+    "districtCode": "31.75.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Ciracas"
+  },
+  {
+    "code": "31.75.09.1004",
+    "name": "Susukan",
+    "districtCode": "31.75.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Ciracas"
+  },
+  {
+    "code": "31.75.09.1005",
+    "name": "Rambutan",
+    "districtCode": "31.75.09",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Ciracas"
+  },
+  {
+    "code": "31.75.10.1001",
+    "name": "Cipayung",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1002",
+    "name": "Cilangkap",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1003",
+    "name": "Pondok Ranggon",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1004",
+    "name": "Munjul",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1005",
+    "name": "Setu",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1006",
+    "name": "Bambu Apus",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1007",
+    "name": "Lubang Buaya",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  },
+  {
+    "code": "31.75.10.1008",
+    "name": "Ceger",
+    "districtCode": "31.75.10",
+    "type": "KELURAHAN",
+    "provinceName": "DKI Jakarta",
+    "regencyName": "Jakarta Timur",
+    "districtName": "Cipayung"
+  }
+] as Village[];

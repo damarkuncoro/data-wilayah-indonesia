@@ -1,0 +1,2497 @@
+import type { Village } from '../../core/entities';
+
+export default [
+  {
+    "code": "76.01.01.2003",
+    "name": "Polewali",
+    "districtCode": "76.01.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Bambalamotu"
+  },
+  {
+    "code": "76.01.01.2004",
+    "name": "Randomayang",
+    "districtCode": "76.01.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Bambalamotu"
+  },
+  {
+    "code": "76.01.03.2002",
+    "name": "Balanti",
+    "districtCode": "76.01.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Baras"
+  },
+  {
+    "code": "76.01.03.2003",
+    "name": "Motu",
+    "districtCode": "76.01.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Baras"
+  },
+  {
+    "code": "76.01.04.2001",
+    "name": "Sarudu",
+    "districtCode": "76.01.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Sarudu"
+  },
+  {
+    "code": "76.01.04.2003",
+    "name": "Bulu Mario",
+    "districtCode": "76.01.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Sarudu"
+  },
+  {
+    "code": "76.01.04.2005",
+    "name": "Kumasari",
+    "districtCode": "76.01.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Sarudu"
+  },
+  {
+    "code": "76.01.07.2003",
+    "name": "Semulawil. Kec. Baras",
+    "districtCode": "76.01.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Pasangkayu",
+    "districtName": "Semulawil. Kec. Baras"
+  },
+  {
+    "code": "76.02.01.1002",
+    "name": "Binanga",
+    "districtCode": "76.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Mamuju"
+  },
+  {
+    "code": "76.02.01.1003",
+    "name": "Mamunyu",
+    "districtCode": "76.02.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Mamuju"
+  },
+  {
+    "code": "76.02.01.2005",
+    "name": "Bambu",
+    "districtCode": "76.02.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Mamuju"
+  },
+  {
+    "code": "76.02.01.2006",
+    "name": "Karampuang",
+    "districtCode": "76.02.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Mamuju"
+  },
+  {
+    "code": "76.02.01.2010",
+    "name": "Tadui",
+    "districtCode": "76.02.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Mamuju"
+  },
+  {
+    "code": "76.02.02.1001",
+    "name": "Galung",
+    "districtCode": "76.02.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.02.1002",
+    "name": "Kasambang",
+    "districtCode": "76.02.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.02.2003",
+    "name": "Orobatu",
+    "districtCode": "76.02.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.02.2006",
+    "name": "Takandeang",
+    "districtCode": "76.02.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.02.2009",
+    "name": "Bela",
+    "districtCode": "76.02.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.02.2010",
+    "name": "Taan",
+    "districtCode": "76.02.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tapalang"
+  },
+  {
+    "code": "76.02.03.1001",
+    "name": "Sinyonyoi",
+    "districtCode": "76.02.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.1002",
+    "name": "Bebanga",
+    "districtCode": "76.02.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.2004",
+    "name": "Sondoang",
+    "districtCode": "76.02.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.2005",
+    "name": "Beru-beru",
+    "districtCode": "76.02.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.2006",
+    "name": "Belang Belang",
+    "districtCode": "76.02.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.2007",
+    "name": "Kabuloang",
+    "districtCode": "76.02.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.03.2008",
+    "name": "Keang",
+    "districtCode": "76.02.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalukku"
+  },
+  {
+    "code": "76.02.04.2001",
+    "name": "Kalumpang",
+    "districtCode": "76.02.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalumpang"
+  },
+  {
+    "code": "76.02.04.2003",
+    "name": "Karataun",
+    "districtCode": "76.02.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalumpang"
+  },
+  {
+    "code": "76.02.04.2004",
+    "name": "Karama",
+    "districtCode": "76.02.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalumpang"
+  },
+  {
+    "code": "76.02.04.2006",
+    "name": "Siraun",
+    "districtCode": "76.02.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalumpang"
+  },
+  {
+    "code": "76.02.04.2007",
+    "name": "Tumoga",
+    "districtCode": "76.02.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Kalumpang"
+  },
+  {
+    "code": "76.02.07.2001",
+    "name": "Toabo",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.07.2002",
+    "name": "Papalang",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.07.2003",
+    "name": "Bonda",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.07.2004",
+    "name": "Topore",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.07.2005",
+    "name": "Salukayu",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.07.2006",
+    "name": "Sukadamai",
+    "districtCode": "76.02.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Toabo"
+  },
+  {
+    "code": "76.02.08.2001",
+    "name": "Bunde",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.08.2002",
+    "name": "Kalonding",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.08.2003",
+    "name": "Tarailu",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.08.2004",
+    "name": "Sampaga",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.08.2005",
+    "name": "Tanambuah",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.08.2006",
+    "name": "Salubarana",
+    "districtCode": "76.02.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Bunde"
+  },
+  {
+    "code": "76.02.11.2001",
+    "name": "Tommo",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2002",
+    "name": "Campaloga",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2003",
+    "name": "Buana Sakti",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2004",
+    "name": "Tamemongga",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2005",
+    "name": "Tamejarra",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2006",
+    "name": "Rantemario",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2007",
+    "name": "Malino",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2008",
+    "name": "Kakullasang",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.11.2009",
+    "name": "Leling",
+    "districtCode": "76.02.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Tommo"
+  },
+  {
+    "code": "76.02.15.2005",
+    "name": "Lumika",
+    "districtCode": "76.02.15",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju",
+    "districtName": "Lumika"
+  },
+  {
+    "code": "76.03.01.1001",
+    "name": "Mambi",
+    "districtCode": "76.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.01.1002",
+    "name": "Talipukki",
+    "districtCode": "76.03.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.01.2004",
+    "name": "Rantebulahan",
+    "districtCode": "76.03.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.01.2008",
+    "name": "Sondonglayu",
+    "districtCode": "76.03.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.01.2016",
+    "name": "Salubanua",
+    "districtCode": "76.03.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.01.2017",
+    "name": "Tapalina",
+    "districtCode": "76.03.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mambi"
+  },
+  {
+    "code": "76.03.02.1001",
+    "name": "Aralle",
+    "districtCode": "76.03.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.02.2003",
+    "name": "Ralle Anak",
+    "districtCode": "76.03.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.02.2004",
+    "name": "Panetean",
+    "districtCode": "76.03.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.02.2005",
+    "name": "Uhailanu",
+    "districtCode": "76.03.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.02.2007",
+    "name": "Aralle Utara",
+    "districtCode": "76.03.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.02.2009",
+    "name": "Uhaidaho",
+    "districtCode": "76.03.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Aralle"
+  },
+  {
+    "code": "76.03.03.1001",
+    "name": "Mamasa",
+    "districtCode": "76.03.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.03.2002",
+    "name": "Rambusaratu",
+    "districtCode": "76.03.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.03.2003",
+    "name": "Osango",
+    "districtCode": "76.03.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.03.2004",
+    "name": "Lambanan",
+    "districtCode": "76.03.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.03.2005",
+    "name": "Lembana Salulo",
+    "districtCode": "76.03.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.03.2006",
+    "name": "Taupe",
+    "districtCode": "76.03.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Mamasa"
+  },
+  {
+    "code": "76.03.04.1001",
+    "name": "Pana",
+    "districtCode": "76.03.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.04.2003",
+    "name": "Manipi",
+    "districtCode": "76.03.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.04.2005",
+    "name": "Mamullu",
+    "districtCode": "76.03.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.04.2006",
+    "name": "Sapan",
+    "districtCode": "76.03.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.04.2009",
+    "name": "Datubaringan",
+    "districtCode": "76.03.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.04.2010",
+    "name": "Panura",
+    "districtCode": "76.03.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Pana"
+  },
+  {
+    "code": "76.03.05.2002",
+    "name": "Periangan",
+    "districtCode": "76.03.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabulahan"
+  },
+  {
+    "code": "76.03.05.2003",
+    "name": "Malatiro",
+    "districtCode": "76.03.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabulahan"
+  },
+  {
+    "code": "76.03.05.2004",
+    "name": "Tabulahan",
+    "districtCode": "76.03.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabulahan"
+  },
+  {
+    "code": "76.03.05.2005",
+    "name": "Saluleang",
+    "districtCode": "76.03.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabulahan"
+  },
+  {
+    "code": "76.03.06.1001",
+    "name": "Sumarorong",
+    "districtCode": "76.03.06",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.06.1002",
+    "name": "Tabone",
+    "districtCode": "76.03.06",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.06.2003",
+    "name": "Batang Uru",
+    "districtCode": "76.03.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.06.2004",
+    "name": "Sasakan",
+    "districtCode": "76.03.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.06.2005",
+    "name": "Tadisi",
+    "districtCode": "76.03.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.06.2006",
+    "name": "Sibanawa",
+    "districtCode": "76.03.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sumarorong"
+  },
+  {
+    "code": "76.03.07.1001",
+    "name": "Messawa",
+    "districtCode": "76.03.07",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Messawa"
+  },
+  {
+    "code": "76.03.07.2002",
+    "name": "Rippung",
+    "districtCode": "76.03.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Messawa"
+  },
+  {
+    "code": "76.03.07.2003",
+    "name": "Makuang",
+    "districtCode": "76.03.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Messawa"
+  },
+  {
+    "code": "76.03.07.2004",
+    "name": "Sepang",
+    "districtCode": "76.03.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Messawa"
+  },
+  {
+    "code": "76.03.07.2005",
+    "name": "Malimbong",
+    "districtCode": "76.03.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Messawa"
+  },
+  {
+    "code": "76.03.08.2002",
+    "name": "Orobua",
+    "districtCode": "76.03.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Orobua"
+  },
+  {
+    "code": "76.03.08.2003",
+    "name": "Paladan",
+    "districtCode": "76.03.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Orobua"
+  },
+  {
+    "code": "76.03.08.2004",
+    "name": "Orobua Timur",
+    "districtCode": "76.03.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Orobua"
+  },
+  {
+    "code": "76.03.08.2006",
+    "name": "Rante Puang",
+    "districtCode": "76.03.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Orobua"
+  },
+  {
+    "code": "76.03.09.2001",
+    "name": "Malabo",
+    "districtCode": "76.03.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tanduk Kalua"
+  },
+  {
+    "code": "76.03.09.2005",
+    "name": "Sindagamanik",
+    "districtCode": "76.03.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tanduk Kalua"
+  },
+  {
+    "code": "76.03.09.2006",
+    "name": "Parondobulawan",
+    "districtCode": "76.03.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tanduk Kalua"
+  },
+  {
+    "code": "76.03.09.2007",
+    "name": "Tamalantik",
+    "districtCode": "76.03.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tanduk Kalua"
+  },
+  {
+    "code": "76.03.10.2003",
+    "name": "Tadokalua",
+    "districtCode": "76.03.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabang"
+  },
+  {
+    "code": "76.03.10.2004",
+    "name": "Tabang Barat",
+    "districtCode": "76.03.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Tabang"
+  },
+  {
+    "code": "76.03.11.2016",
+    "name": "Sikamase",
+    "districtCode": "76.03.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Kabupaten 76.03",
+    "districtName": "Sikamase"
+  },
+  {
+    "code": "76.04.01.1001",
+    "name": "Tinambung",
+    "districtCode": "76.04.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2002",
+    "name": "Karama",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2003",
+    "name": "Tangnga Tangnga",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2004",
+    "name": "Lekopadis",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2005",
+    "name": "Galung Lombok",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2006",
+    "name": "Tandung",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2007",
+    "name": "Batulaya",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.01.2008",
+    "name": "Sepabatu",
+    "districtCode": "76.04.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tinambung"
+  },
+  {
+    "code": "76.04.02.1001",
+    "name": "Pappang",
+    "districtCode": "76.04.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2002",
+    "name": "Laliko",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2003",
+    "name": "Bonde",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2004",
+    "name": "Katumbangan Lemo",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2005",
+    "name": "Panyampa",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2006",
+    "name": "Suruang",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2007",
+    "name": "Lampoko",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2008",
+    "name": "Katumbangan",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2009",
+    "name": "Lapeo",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2010",
+    "name": "Parappe",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2011",
+    "name": "Ongko",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2012",
+    "name": "Kenje",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2013",
+    "name": "Sumarrang",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.02.2014",
+    "name": "Botto",
+    "districtCode": "76.04.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Campalagian"
+  },
+  {
+    "code": "76.04.03.1001",
+    "name": "Sidodadi",
+    "districtCode": "76.04.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2002",
+    "name": "Sidorejo",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2004",
+    "name": "Bumiayu",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2005",
+    "name": "Kebunsari",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2006",
+    "name": "Banua Baru",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2007",
+    "name": "Nepo",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2008",
+    "name": "Sugihwaras",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2009",
+    "name": "Campurjo",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2010",
+    "name": "Bumimulyo",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.03.2011",
+    "name": "Tumpiling",
+    "districtCode": "76.04.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Wonomulyo"
+  },
+  {
+    "code": "76.04.04.1001",
+    "name": "Polewali",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1002",
+    "name": "Wattang",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1003",
+    "name": "Sulewatang",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1004",
+    "name": "Lantora",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1005",
+    "name": "Takatidung",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1006",
+    "name": "Pekkabata",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1008",
+    "name": "Manding",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.04.1009",
+    "name": "Darma",
+    "districtCode": "76.04.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Polewali"
+  },
+  {
+    "code": "76.04.05.1001",
+    "name": "Taramanu",
+    "districtCode": "76.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.05.2002",
+    "name": "Ambopadang",
+    "districtCode": "76.04.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.05.2003",
+    "name": "Tubbi",
+    "districtCode": "76.04.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.05.2004",
+    "name": "Ratte",
+    "districtCode": "76.04.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.05.2005",
+    "name": "Besoangin",
+    "districtCode": "76.04.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.05.2006",
+    "name": "Piriang Tapiko",
+    "districtCode": "76.04.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Taramanu"
+  },
+  {
+    "code": "76.04.06.2001",
+    "name": "Tonyaman",
+    "districtCode": "76.04.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "76.04.06.2002",
+    "name": "Kuajang",
+    "districtCode": "76.04.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "76.04.06.2003",
+    "name": "Paku",
+    "districtCode": "76.04.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "76.04.06.2004",
+    "name": "Mirring",
+    "districtCode": "76.04.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "76.04.06.2006",
+    "name": "Batetangnga",
+    "districtCode": "76.04.06",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Binuang"
+  },
+  {
+    "code": "76.04.07.1001",
+    "name": "Pelitakan",
+    "districtCode": "76.04.07",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2002",
+    "name": "Tapango",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2003",
+    "name": "Rappang",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2004",
+    "name": "Dakka",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2005",
+    "name": "Batu",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2006",
+    "name": "Riso",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.07.2007",
+    "name": "Palatta",
+    "districtCode": "76.04.07",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Tapango"
+  },
+  {
+    "code": "76.04.08.2002",
+    "name": "Ugibaru",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.08.2003",
+    "name": "Rumpa",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.08.2005",
+    "name": "Kurma",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.08.2007",
+    "name": "Buku",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.08.2009",
+    "name": "Bonne Bonne",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.08.2011",
+    "name": "Beroangin",
+    "districtCode": "76.04.08",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Mapilli"
+  },
+  {
+    "code": "76.04.09.1001",
+    "name": "Matangnga",
+    "districtCode": "76.04.09",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matangnga"
+  },
+  {
+    "code": "76.04.09.2002",
+    "name": "Lilli",
+    "districtCode": "76.04.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matangnga"
+  },
+  {
+    "code": "76.04.09.2003",
+    "name": "Rangoan",
+    "districtCode": "76.04.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matangnga"
+  },
+  {
+    "code": "76.04.09.2004",
+    "name": "Tapua",
+    "districtCode": "76.04.09",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matangnga"
+  },
+  {
+    "code": "76.04.10.1004",
+    "name": "Batupanga",
+    "districtCode": "76.04.10",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2001",
+    "name": "Mambu",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2002",
+    "name": "Tenggelang",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2003",
+    "name": "Baru",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2005",
+    "name": "Pussui",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2007",
+    "name": "Sambali Wali",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.10.2008",
+    "name": "Batupanga Daala",
+    "districtCode": "76.04.10",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Luyo"
+  },
+  {
+    "code": "76.04.11.1001",
+    "name": "Limboro",
+    "districtCode": "76.04.11",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2002",
+    "name": "Lembang Lembang",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2004",
+    "name": "Samasundu",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2005",
+    "name": "Napo",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2006",
+    "name": "Todang Todang",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2007",
+    "name": "Pendulangan",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2008",
+    "name": "Renggeang",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.11.2009",
+    "name": "Salarri",
+    "districtCode": "76.04.11",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Limboro"
+  },
+  {
+    "code": "76.04.12.1002",
+    "name": "Balanipa",
+    "districtCode": "76.04.12",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2001",
+    "name": "Tammajarra",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2004",
+    "name": "Mosso",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2005",
+    "name": "Galung Tuluk",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2006",
+    "name": "Sabang Subik",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2007",
+    "name": "Pambusuang",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2008",
+    "name": "Bala",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2009",
+    "name": "Lambanan",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.12.2010",
+    "name": "Lego",
+    "districtCode": "76.04.12",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Balanipa"
+  },
+  {
+    "code": "76.04.13.2002",
+    "name": "Duampanua",
+    "districtCode": "76.04.13",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Anreapi"
+  },
+  {
+    "code": "76.04.13.2003",
+    "name": "Kelapa Dua",
+    "districtCode": "76.04.13",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Anreapi"
+  },
+  {
+    "code": "76.04.13.2005",
+    "name": "Kunyi",
+    "districtCode": "76.04.13",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Anreapi"
+  },
+  {
+    "code": "76.04.14.2002",
+    "name": "Petampanua",
+    "districtCode": "76.04.14",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matakali"
+  },
+  {
+    "code": "76.04.14.2003",
+    "name": "Barumbung",
+    "districtCode": "76.04.14",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matakali"
+  },
+  {
+    "code": "76.04.14.2004",
+    "name": "Pasiang",
+    "districtCode": "76.04.14",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matakali"
+  },
+  {
+    "code": "76.04.14.2005",
+    "name": "Tonrolima",
+    "districtCode": "76.04.14",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Matakali"
+  },
+  {
+    "code": "76.04.15.2002",
+    "name": "Mombi",
+    "districtCode": "76.04.15",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Allu"
+  },
+  {
+    "code": "76.04.15.2003",
+    "name": "Kalumammang",
+    "districtCode": "76.04.15",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Allu"
+  },
+  {
+    "code": "76.04.15.2004",
+    "name": "Pao-pao",
+    "districtCode": "76.04.15",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Polewali Mandar",
+    "districtName": "Allu"
+  },
+  {
+    "code": "76.05.01.1001",
+    "name": "Banggae",
+    "districtCode": "76.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Banggae"
+  },
+  {
+    "code": "76.05.01.1003",
+    "name": "Baru",
+    "districtCode": "76.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Banggae"
+  },
+  {
+    "code": "76.05.01.1007",
+    "name": "Pangali Ali",
+    "districtCode": "76.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Banggae"
+  },
+  {
+    "code": "76.05.01.1009",
+    "name": "Totoli",
+    "districtCode": "76.05.01",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Banggae"
+  },
+  {
+    "code": "76.05.02.1001",
+    "name": "Lalampanua",
+    "districtCode": "76.05.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.1002",
+    "name": "Sirindu",
+    "districtCode": "76.05.02",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.2003",
+    "name": "Adolang",
+    "districtCode": "76.05.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.2004",
+    "name": "Bababulo",
+    "districtCode": "76.05.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.2005",
+    "name": "Bonde",
+    "districtCode": "76.05.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.2006",
+    "name": "Betteng",
+    "districtCode": "76.05.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.02.2007",
+    "name": "Simbang",
+    "districtCode": "76.05.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Pamboang"
+  },
+  {
+    "code": "76.05.03.1001",
+    "name": "Mosso",
+    "districtCode": "76.05.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Sendana"
+  },
+  {
+    "code": "76.05.03.1002",
+    "name": "Mosso Dhua",
+    "districtCode": "76.05.03",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Sendana"
+  },
+  {
+    "code": "76.05.03.2007",
+    "name": "Tallubanua",
+    "districtCode": "76.05.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Sendana"
+  },
+  {
+    "code": "76.05.04.1001",
+    "name": "Malunda",
+    "districtCode": "76.05.04",
+    "type": "KELURAHAN",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Malunda"
+  },
+  {
+    "code": "76.05.04.2002",
+    "name": "Bambangan",
+    "districtCode": "76.05.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Malunda"
+  },
+  {
+    "code": "76.05.04.2004",
+    "name": "Lombang",
+    "districtCode": "76.05.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Malunda"
+  },
+  {
+    "code": "76.05.04.2005",
+    "name": "Lombong",
+    "districtCode": "76.05.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Malunda"
+  },
+  {
+    "code": "76.05.04.2006",
+    "name": "Mekkatta",
+    "districtCode": "76.05.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Majene",
+    "districtName": "Malunda"
+  },
+  {
+    "code": "76.06.01.2001",
+    "name": "Mahahe",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2002",
+    "name": "Salobaja",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2003",
+    "name": "Tobadak",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2004",
+    "name": "Palongaan",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2005",
+    "name": "Batu Parigi",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2006",
+    "name": "Bambadaru",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2007",
+    "name": "Sejati",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.01.2008",
+    "name": "Saloadak",
+    "districtCode": "76.06.01",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Mahahe"
+  },
+  {
+    "code": "76.06.02.2001",
+    "name": "Polo Pangale",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2002",
+    "name": "Pangale",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2004",
+    "name": "Polo Lereng",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2005",
+    "name": "Kuo",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2006",
+    "name": "Polo Camba",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2007",
+    "name": "Lamba-lamba",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2008",
+    "name": "Kombiling",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.02.2009",
+    "name": "Lemo-lemo",
+    "districtCode": "76.06.02",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Polo Pangale"
+  },
+  {
+    "code": "76.06.03.2001",
+    "name": "Babana",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2002",
+    "name": "Lumu",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2003",
+    "name": "Pontanakayang",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2004",
+    "name": "Salogatta",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2005",
+    "name": "Kire",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2006",
+    "name": "Tinali",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2007",
+    "name": "Salumanurung",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2008",
+    "name": "Pasapa",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2009",
+    "name": "Bojo",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2010",
+    "name": "Barakkang",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.03.2011",
+    "name": "Lembah Hada",
+    "districtCode": "76.06.03",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Babana"
+  },
+  {
+    "code": "76.06.04.2001",
+    "name": "Budong-budong",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2002",
+    "name": "Topoyo",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2003",
+    "name": "Tumbu",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2004",
+    "name": "Kabubu",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2005",
+    "name": "Waeputeh",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2006",
+    "name": "Tangkou",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2007",
+    "name": "Tabolang",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2008",
+    "name": "Paraili",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2009",
+    "name": "Salupangkang",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2010",
+    "name": "Salupangkang Iv",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2011",
+    "name": "Tappilina",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2012",
+    "name": "Bambamanurung",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2013",
+    "name": "Salulekbo",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2014",
+    "name": "Pangalloang",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.04.2015",
+    "name": "Sinabatta",
+    "districtCode": "76.06.04",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Budong-budong"
+  },
+  {
+    "code": "76.06.05.2001",
+    "name": "Karossa",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2002",
+    "name": "Tasokko",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2003",
+    "name": "Lara",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2004",
+    "name": "Kadaila",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2005",
+    "name": "Kayu Calla",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2006",
+    "name": "Lembah Hopo",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2007",
+    "name": "Benggaulu",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2008",
+    "name": "Suka Maju",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2009",
+    "name": "Kambunong",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2010",
+    "name": "Salubiro",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  },
+  {
+    "code": "76.06.05.2011",
+    "name": "Sanjango",
+    "districtCode": "76.06.05",
+    "type": "DESA",
+    "provinceName": "Sulawesi Barat",
+    "regencyName": "Mamuju Tengah",
+    "districtName": "Karossa"
+  }
+] as Village[];

@@ -3,8 +3,6 @@ import { Province, Regency, District, Village } from '../../core/entities';
 import { provinces } from '../../data/base/provinces';
 import { regencies } from '../../data/base/regencies';
 import { districts } from '../../data/base/districts';
-import { villages } from '../../data/base/villages';
-
 
 export class JsonDataProvider implements DataProvider {
   getProvinces(): Province[] {
@@ -20,7 +18,9 @@ export class JsonDataProvider implements DataProvider {
   }
 
   getVillages(): Village[] {
-    return villages;
+    // Loading all villages at once is not supported due to performance reasons.
+    // Please use getVillagesByDistrict or getVillagesByProvince instead.
+    throw new Error('Loading all villages is not supported. Please use a more specific query.');
   }
 
   async getRegenciesByProvince(provinceCode: string): Promise<Regency[]> {
@@ -31,26 +31,23 @@ export class JsonDataProvider implements DataProvider {
     return districts.filter(d => d.regencyCode === regencyCode);
   }
 
-  private async fetchJson<T>(url: string): Promise<T | null> {
-    try {
-      const response = await fetch(url);
-      if (!response.ok) {
-        return null;
-      }
-      return await response.json();
-    } catch (e) {
-      return null;
-    }
-  }
-
   async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
-    const villages = await this.fetchJson<Village[]>(`/data/villages/${provinceCode}.json`);
-    return villages || [];
+    try {
+      const module = await import(`../../data/villages/${provinceCode}`);
+      return module.default || [];
+    } catch (e) {
+      return [];
+    }
   }
 
   async getVillagesByDistrict(districtCode: string): Promise<Village[]> {
     const provinceCode = districtCode.substring(0, 2);
-    const villages = await this.fetchJson<Village[]>(`/data/villages/${provinceCode}.json`);
-    return (villages || []).filter(v => v.districtCode === districtCode);
+    try {
+      const module = await import(`../../data/villages/${provinceCode}`);
+      const villages = module.default || [];
+      return villages.filter((v: Village) => v.districtCode === districtCode);
+    } catch (e) {
+      return [];
+    }
   }
 }

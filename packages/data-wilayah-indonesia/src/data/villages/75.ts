@@ -1,0 +1,2560 @@
+import type { Village } from '../../core/entities';
+
+export default [
+  {
+    "code": "75.01.01.1003",
+    "name": "Hunggaluwa",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1004",
+    "name": "Bolihuangga",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1005",
+    "name": "Hepuhulawa",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1006",
+    "name": "Hutuo",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1007",
+    "name": "Dutulanaa",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1008",
+    "name": "Tenilo",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1009",
+    "name": "Biyonga",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1010",
+    "name": "Bongohulawa",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1011",
+    "name": "Bulota",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.01.1012",
+    "name": "Malahu",
+    "districtCode": "75.01.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Hunggaluwa"
+  },
+  {
+    "code": "75.01.02.2011",
+    "name": "Bulila",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.02.2014",
+    "name": "Mongolato",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.02.2015",
+    "name": "Luhu",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.02.2016",
+    "name": "Hulawa",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.02.2017",
+    "name": "Pilohayanga",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.02.2018",
+    "name": "Dulamayo Selatan",
+    "districtCode": "75.01.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Bulila"
+  },
+  {
+    "code": "75.01.03.2001",
+    "name": "Iluta",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Iluta"
+  },
+  {
+    "code": "75.01.03.2002",
+    "name": "Bua",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Iluta"
+  },
+  {
+    "code": "75.01.03.2003",
+    "name": "Huntu",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Iluta"
+  },
+  {
+    "code": "75.01.03.2004",
+    "name": "Payunga",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Iluta"
+  },
+  {
+    "code": "75.01.03.2012",
+    "name": "Barakati",
+    "districtCode": "75.01.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Iluta"
+  },
+  {
+    "code": "75.01.04.2001",
+    "name": "Isimu Utara",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2002",
+    "name": "Isimu Selatan",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2003",
+    "name": "Datahu",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2004",
+    "name": "Tolotio",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2005",
+    "name": "Labanu",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2006",
+    "name": "Reksonegoro",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2007",
+    "name": "Buhu",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2008",
+    "name": "Dunggala",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2009",
+    "name": "Molowahu",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2010",
+    "name": "Iloponu",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2011",
+    "name": "Ilomata",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.04.2012",
+    "name": "Motilango",
+    "districtCode": "75.01.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Isimu Utara"
+  },
+  {
+    "code": "75.01.05.2004",
+    "name": "Tontayuo",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2005",
+    "name": "Biluhu Timur",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2006",
+    "name": "Kayubulan",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2007",
+    "name": "Bongo",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2008",
+    "name": "Lopo",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2009",
+    "name": "Lamu",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.05.2012",
+    "name": "Olimoo'o",
+    "districtCode": "75.01.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Tontayuo"
+  },
+  {
+    "code": "75.01.09.2001",
+    "name": "Sidomulyo",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.09.2004",
+    "name": "Parungi",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.09.2006",
+    "name": "Diloniyohu",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.09.2007",
+    "name": "Sidodadi",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.09.2010",
+    "name": "Potanga",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.09.2011",
+    "name": "Motoduto",
+    "districtCode": "75.01.09",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sidomulyo"
+  },
+  {
+    "code": "75.01.10.2001",
+    "name": "Dulamayo Utara",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2002",
+    "name": "Ulapato A",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2003",
+    "name": "Ulapato B",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2004",
+    "name": "Talumelito",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2005",
+    "name": "Tuladenggi",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2006",
+    "name": "Pantungo",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2007",
+    "name": "Lupoyo",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2008",
+    "name": "Pentadio Timur",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2009",
+    "name": "Pentadio Barat",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2010",
+    "name": "Dumati",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.10.2011",
+    "name": "Modelidu",
+    "districtCode": "75.01.10",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo Utara"
+  },
+  {
+    "code": "75.01.11.2001",
+    "name": "Dulamayo",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2008",
+    "name": "Upomela",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2009",
+    "name": "Tohupo",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2010",
+    "name": "Molanihu",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2012",
+    "name": "Molas",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2013",
+    "name": "Batulayar",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2014",
+    "name": "Batuloreng",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2015",
+    "name": "Bongohulawa",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.11.2016",
+    "name": "Otopade",
+    "districtCode": "75.01.11",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Dulamayo"
+  },
+  {
+    "code": "75.01.13.2001",
+    "name": "Sukamakmur",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.13.2002",
+    "name": "Lakeya",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.13.2003",
+    "name": "Gandasari",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.13.2004",
+    "name": "Molohu",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.13.2007",
+    "name": "Polohungo",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.13.2009",
+    "name": "Tamaila",
+    "districtCode": "75.01.13",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Sukamakmur"
+  },
+  {
+    "code": "75.01.14.2001",
+    "name": "Paris",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2002",
+    "name": "Helumo",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2003",
+    "name": "Pilomonu",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2004",
+    "name": "Satria",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2005",
+    "name": "Karyamukti",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2006",
+    "name": "Talumopatu",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2007",
+    "name": "Sidomukti",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2008",
+    "name": "Payu",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2009",
+    "name": "Sukamaju",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.14.2010",
+    "name": "Huyula",
+    "districtCode": "75.01.14",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Paris"
+  },
+  {
+    "code": "75.01.16.2001",
+    "name": "Pongongaila",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2002",
+    "name": "Pulubala",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2003",
+    "name": "Molamahu",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2004",
+    "name": "Bakti",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2005",
+    "name": "Tridharma",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2006",
+    "name": "Molalahu",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2007",
+    "name": "Mulyonegoro",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2008",
+    "name": "Puncak",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.16.2009",
+    "name": "Toyidito",
+    "districtCode": "75.01.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pongongaila"
+  },
+  {
+    "code": "75.01.17.2001",
+    "name": "Pone",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2002",
+    "name": "Huidu",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2003",
+    "name": "Ombulo",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2004",
+    "name": "Daenaa",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2005",
+    "name": "Yosonegoro",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2006",
+    "name": "Tunggulo",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.01.17.2007",
+    "name": "Hutabohu",
+    "districtCode": "75.01.17",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.01",
+    "districtName": "Pone"
+  },
+  {
+    "code": "75.02.01.2004",
+    "name": "Bongo Nol",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2005",
+    "name": "Bongo Iv",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2006",
+    "name": "Molombulahe",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2007",
+    "name": "Mutiara",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2008",
+    "name": "Saripi",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2009",
+    "name": "Wonggahu",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2010",
+    "name": "Tangkobu",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2011",
+    "name": "Bongo Tua",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2013",
+    "name": "Mustika",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2014",
+    "name": "Tenilo",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2015",
+    "name": "Huwongo",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2016",
+    "name": "Karya Murni",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2019",
+    "name": "Girisa",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2020",
+    "name": "Batu Kramat",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2021",
+    "name": "Bualo",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2022",
+    "name": "Sosial",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2023",
+    "name": "Permata",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2024",
+    "name": "Hulawa",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2025",
+    "name": "Balate Jaya",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2026",
+    "name": "Rejonegoro",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.01.2027",
+    "name": "Diloato",
+    "districtCode": "75.02.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bongo Nol"
+  },
+  {
+    "code": "75.02.02.2004",
+    "name": "Mekarjaya",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2005",
+    "name": "Sukamaju",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2006",
+    "name": "Pangeya",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2007",
+    "name": "Jatimulya",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2009",
+    "name": "Sari Tani",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2010",
+    "name": "Dimito",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2011",
+    "name": "Tanjung Harapan",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2012",
+    "name": "Raharja",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.02.2014",
+    "name": "Dulohupa",
+    "districtCode": "75.02.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Mekarjaya"
+  },
+  {
+    "code": "75.02.03.2001",
+    "name": "Dulupi",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2002",
+    "name": "Tabongo",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2003",
+    "name": "Kotaraja",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2004",
+    "name": "Polohungo",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2005",
+    "name": "Pangi",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2006",
+    "name": "Tangga Jaya",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2007",
+    "name": "Tanah Putih",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.03.2008",
+    "name": "Tangga Barito",
+    "districtCode": "75.02.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Dulupi"
+  },
+  {
+    "code": "75.02.04.2001",
+    "name": "Limbato",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2002",
+    "name": "Piloliyanga",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2003",
+    "name": "Ayuhulalo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2004",
+    "name": "Hungayonaa",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2005",
+    "name": "Modelomo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2006",
+    "name": "Pentadu Barat",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2007",
+    "name": "Pentadu Timur",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2008",
+    "name": "Bajo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2009",
+    "name": "Mohungo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2010",
+    "name": "Lahumbo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2011",
+    "name": "Lamu",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.04.2018",
+    "name": "Tenilo",
+    "districtCode": "75.02.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Limbato"
+  },
+  {
+    "code": "75.02.05.2001",
+    "name": "Tabulo",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2002",
+    "name": "Kaaruyan",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2003",
+    "name": "Salilama",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2004",
+    "name": "Bendungan",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2005",
+    "name": "Mananggu",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2006",
+    "name": "Buti",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2007",
+    "name": "Pontolo",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2008",
+    "name": "Kramat",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.05.2009",
+    "name": "Tabulo Selatan",
+    "districtCode": "75.02.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tabulo"
+  },
+  {
+    "code": "75.02.06.2001",
+    "name": "Tutulo",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2002",
+    "name": "Hutamonu",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2003",
+    "name": "Patoameme",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2004",
+    "name": "Tapadaa",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2005",
+    "name": "Potanga",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2006",
+    "name": "Botumoito",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2007",
+    "name": "Bolihutuo",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2008",
+    "name": "Rumbia",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.06.2009",
+    "name": "Dulangeya",
+    "districtCode": "75.02.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Tutulo"
+  },
+  {
+    "code": "75.02.07.2001",
+    "name": "Bubaa",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2002",
+    "name": "Lito",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2003",
+    "name": "Limbatihu",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2004",
+    "name": "Bukit Karya",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2006",
+    "name": "Bangga",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2007",
+    "name": "Towayu",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.02.07.2008",
+    "name": "Olibu",
+    "districtCode": "75.02.07",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Boalemo",
+    "districtName": "Bubaa"
+  },
+  {
+    "code": "75.03.01.2004",
+    "name": "Talumopatu",
+    "districtCode": "75.03.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Talumopatu"
+  },
+  {
+    "code": "75.03.01.2005",
+    "name": "Talulobutu",
+    "districtCode": "75.03.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Talumopatu"
+  },
+  {
+    "code": "75.03.01.2006",
+    "name": "Dunggala",
+    "districtCode": "75.03.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Talumopatu"
+  },
+  {
+    "code": "75.03.01.2007",
+    "name": "Langge",
+    "districtCode": "75.03.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Talumopatu"
+  },
+  {
+    "code": "75.03.02.1008",
+    "name": "Padengo",
+    "districtCode": "75.03.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.1010",
+    "name": "Tumbihe",
+    "districtCode": "75.03.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.1011",
+    "name": "Pauwo",
+    "districtCode": "75.03.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.2006",
+    "name": "Dutohe",
+    "districtCode": "75.03.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.2007",
+    "name": "Tanggilingo",
+    "districtCode": "75.03.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.2012",
+    "name": "Toto Selatan",
+    "districtCode": "75.03.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.02.2013",
+    "name": "Poowo",
+    "districtCode": "75.03.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Kabila"
+  },
+  {
+    "code": "75.03.03.2011",
+    "name": "Tingkohubu",
+    "districtCode": "75.03.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tingkohubu"
+  },
+  {
+    "code": "75.03.03.2012",
+    "name": "Boludawa",
+    "districtCode": "75.03.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tingkohubu"
+  },
+  {
+    "code": "75.03.03.2013",
+    "name": "Bube",
+    "districtCode": "75.03.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tingkohubu"
+  },
+  {
+    "code": "75.03.04.2003",
+    "name": "Tamboo",
+    "districtCode": "75.03.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tamboo"
+  },
+  {
+    "code": "75.03.04.2004",
+    "name": "Bilungala",
+    "districtCode": "75.03.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tamboo"
+  },
+  {
+    "code": "75.03.04.2005",
+    "name": "Uabanga",
+    "districtCode": "75.03.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tamboo"
+  },
+  {
+    "code": "75.03.04.2008",
+    "name": "Tolotio",
+    "districtCode": "75.03.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tamboo"
+  },
+  {
+    "code": "75.03.04.2012",
+    "name": "Tongo",
+    "districtCode": "75.03.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Tamboo"
+  },
+  {
+    "code": "75.03.16.2002",
+    "name": "Menjadi Wil. Kec. Tapa",
+    "districtCode": "75.03.16",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.03",
+    "districtName": "Menjadi Wil. Kec. Tapa"
+  },
+  {
+    "code": "75.04.01.2003",
+    "name": "Torosiaje Jaya",
+    "districtCode": "75.04.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Torosiaje Jaya"
+  },
+  {
+    "code": "75.04.01.2004",
+    "name": "Popayato",
+    "districtCode": "75.04.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Torosiaje Jaya"
+  },
+  {
+    "code": "75.04.01.2008",
+    "name": "Telaga",
+    "districtCode": "75.04.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Torosiaje Jaya"
+  },
+  {
+    "code": "75.04.01.2012",
+    "name": "Torosiaje",
+    "districtCode": "75.04.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Torosiaje Jaya"
+  },
+  {
+    "code": "75.04.01.2015",
+    "name": "Bukit Tingki",
+    "districtCode": "75.04.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Torosiaje Jaya"
+  },
+  {
+    "code": "75.04.02.2001",
+    "name": "Lemito",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2002",
+    "name": "Wonggarasi Barat",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2004",
+    "name": "Lomuli",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2008",
+    "name": "Lemito Utara",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2009",
+    "name": "Kenari",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2010",
+    "name": "Wonggarasi Tengah",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.02.2011",
+    "name": "Suka Damai",
+    "districtCode": "75.04.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Lemito"
+  },
+  {
+    "code": "75.04.03.2001",
+    "name": "Motolohu",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2002",
+    "name": "Imbodu",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2003",
+    "name": "Manunggal Karya",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2009",
+    "name": "Huyula",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2012",
+    "name": "Omayuwa",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2013",
+    "name": "Ayula",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2014",
+    "name": "Patuhu",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.03.2015",
+    "name": "Banuroja",
+    "districtCode": "75.04.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Motolohu"
+  },
+  {
+    "code": "75.04.04.2003",
+    "name": "Marisa Selatan",
+    "districtCode": "75.04.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Marisa Selatan"
+  },
+  {
+    "code": "75.04.04.2004",
+    "name": "Marisa Utara",
+    "districtCode": "75.04.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Marisa Selatan"
+  },
+  {
+    "code": "75.04.04.2007",
+    "name": "Teratai",
+    "districtCode": "75.04.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Marisa Selatan"
+  },
+  {
+    "code": "75.04.04.2008",
+    "name": "Pohuwato",
+    "districtCode": "75.04.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Marisa Selatan"
+  },
+  {
+    "code": "75.04.05.1001",
+    "name": "Libuo",
+    "districtCode": "75.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.1002",
+    "name": "Pentadu",
+    "districtCode": "75.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.1003",
+    "name": "Siduan",
+    "districtCode": "75.04.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.2004",
+    "name": "Bunuyo",
+    "districtCode": "75.04.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.2005",
+    "name": "Sipayo",
+    "districtCode": "75.04.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.2006",
+    "name": "Soginti",
+    "districtCode": "75.04.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.2010",
+    "name": "Bumbulan",
+    "districtCode": "75.04.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.05.2012",
+    "name": "Maleo",
+    "districtCode": "75.04.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Paguat"
+  },
+  {
+    "code": "75.04.06.2001",
+    "name": "Iloheluma",
+    "districtCode": "75.04.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Iloheluma"
+  },
+  {
+    "code": "75.04.06.2002",
+    "name": "Balayo",
+    "districtCode": "75.04.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Iloheluma"
+  },
+  {
+    "code": "75.04.06.2003",
+    "name": "Suka Makmur",
+    "districtCode": "75.04.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Iloheluma"
+  },
+  {
+    "code": "75.04.06.2004",
+    "name": "Manawa",
+    "districtCode": "75.04.06",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Pohuwato",
+    "districtName": "Iloheluma"
+  },
+  {
+    "code": "75.05.01.2003",
+    "name": "Imana",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2004",
+    "name": "Bintana",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2005",
+    "name": "Buata",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2006",
+    "name": "Pinontoyonga",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2007",
+    "name": "Monggupo",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2008",
+    "name": "Kotajin",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.01.2011",
+    "name": "Ilomata",
+    "districtCode": "75.05.01",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Imana"
+  },
+  {
+    "code": "75.05.02.2001",
+    "name": "Pontolo",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2003",
+    "name": "Leboto",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2004",
+    "name": "Posso",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2005",
+    "name": "Titidu",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2006",
+    "name": "Moluo",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2010",
+    "name": "Mootinelo",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2011",
+    "name": "Bualemo",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.02.2013",
+    "name": "Bulalo",
+    "districtCode": "75.05.02",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Pontolo"
+  },
+  {
+    "code": "75.05.03.2001",
+    "name": "Ilangata",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.03.2002",
+    "name": "Tolongio",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.03.2006",
+    "name": "Tolango",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.03.2007",
+    "name": "Popalo",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.03.2008",
+    "name": "Dudepo",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.03.2009",
+    "name": "Mootilango",
+    "districtCode": "75.05.03",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Ilangata"
+  },
+  {
+    "code": "75.05.04.2007",
+    "name": "Buloila",
+    "districtCode": "75.05.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Buloila"
+  },
+  {
+    "code": "75.05.04.2009",
+    "name": "Kasia",
+    "districtCode": "75.05.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Buloila"
+  },
+  {
+    "code": "75.05.04.2010",
+    "name": "Kikia",
+    "districtCode": "75.05.04",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Buloila"
+  },
+  {
+    "code": "75.05.05.2001",
+    "name": "Tolinggula Tengah",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2002",
+    "name": "Tolinggula Pantai",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2003",
+    "name": "Tolinggula Ulu",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2006",
+    "name": "Limbato",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2007",
+    "name": "Papualangi",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2008",
+    "name": "Molangga",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.05.05.2011",
+    "name": "Cempaka Putih",
+    "districtCode": "75.05.05",
+    "type": "DESA",
+    "provinceName": "Gorontalo",
+    "regencyName": "Gorontalo Utara",
+    "districtName": "Tolinggula Tengah"
+  },
+  {
+    "code": "75.71.01.1001",
+    "name": "Dembe I",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1002",
+    "name": "Lekobalo",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1003",
+    "name": "Pilolodaa",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1004",
+    "name": "Buliide",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1005",
+    "name": "Tenilo",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1006",
+    "name": "Molosipat W",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.01.1008",
+    "name": "Buladu",
+    "districtCode": "75.71.01",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe I"
+  },
+  {
+    "code": "75.71.02.1010",
+    "name": "Biawao",
+    "districtCode": "75.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Biawao"
+  },
+  {
+    "code": "75.71.02.1012",
+    "name": "Biawu",
+    "districtCode": "75.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Biawao"
+  },
+  {
+    "code": "75.71.02.1013",
+    "name": "Limba B",
+    "districtCode": "75.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Biawao"
+  },
+  {
+    "code": "75.71.02.1019",
+    "name": "Limba U I",
+    "districtCode": "75.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Biawao"
+  },
+  {
+    "code": "75.71.02.1020",
+    "name": "Limba U Ii",
+    "districtCode": "75.71.02",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Biawao"
+  },
+  {
+    "code": "75.71.03.1003",
+    "name": "Dembe Ii",
+    "districtCode": "75.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe Ii"
+  },
+  {
+    "code": "75.71.03.1010",
+    "name": "Dulomo Selatan",
+    "districtCode": "75.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe Ii"
+  },
+  {
+    "code": "75.71.03.1014",
+    "name": "Dulomo Utara",
+    "districtCode": "75.71.03",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Dembe Ii"
+  },
+  {
+    "code": "75.71.04.1001",
+    "name": "Huangobotu",
+    "districtCode": "75.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Huangobotu"
+  },
+  {
+    "code": "75.71.04.1002",
+    "name": "Libuo",
+    "districtCode": "75.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Huangobotu"
+  },
+  {
+    "code": "75.71.04.1003",
+    "name": "Tomulabutao",
+    "districtCode": "75.71.04",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Huangobotu"
+  },
+  {
+    "code": "75.71.05.1003",
+    "name": "Heledulaa Utara",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  },
+  {
+    "code": "75.71.05.1004",
+    "name": "Heledulaa Selatan",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  },
+  {
+    "code": "75.71.05.1005",
+    "name": "Ipilo",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  },
+  {
+    "code": "75.71.05.1008",
+    "name": "Moodu",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  },
+  {
+    "code": "75.71.05.1009",
+    "name": "Padebuolo",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  },
+  {
+    "code": "75.71.05.1011",
+    "name": "Tamalate",
+    "districtCode": "75.71.05",
+    "type": "KELURAHAN",
+    "provinceName": "Gorontalo",
+    "regencyName": "Kabupaten 75.71",
+    "districtName": "Heledulaa Utara"
+  }
+] as Village[];
