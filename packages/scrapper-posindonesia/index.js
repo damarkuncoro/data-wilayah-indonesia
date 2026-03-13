@@ -10,7 +10,7 @@ async function getProvinces() {
     const page = await browser.newPage();
 
     console.log(`Navigating to ${URL}...`);
-    await page.goto(URL, { waitUntil: 'networkidle2' });
+    await page.goto(URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
     console.log('Extracting province data...');
     const provinces = await page.evaluate(() => {
