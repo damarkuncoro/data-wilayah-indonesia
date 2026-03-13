@@ -1,0 +1,3595 @@
+import type { Regency } from '../../core/entities';
+
+export const regencies: Regency[] = [
+  {
+    "code": "11.01",
+    "name": "Aceh Selatan",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.02",
+    "name": "Aceh Tenggara",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.03",
+    "name": "Aceh Timur",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.04",
+    "name": "Aceh Tengah",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.06",
+    "name": "Aceh Besar",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.07",
+    "name": "Pidie",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.08",
+    "name": "Aceh Utara",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.09",
+    "name": "Simeulue",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.10",
+    "name": "Aceh Singkil",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.14",
+    "name": "Aceh Jaya",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.15",
+    "name": "Nagan Raya",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.16",
+    "name": "Aceh Tamiang",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.71",
+    "name": "Banda Aceh",
+    "provinceCode": "11",
+    "type": "KOTA",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.72",
+    "name": "Sabang",
+    "provinceCode": "11",
+    "type": "KOTA",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.74",
+    "name": "Langsa",
+    "provinceCode": "11",
+    "type": "KOTA",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.75",
+    "name": "Subulussalam",
+    "provinceCode": "11",
+    "type": "KOTA",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "12.01",
+    "name": "Tapanuli Tengah",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.02",
+    "name": "Tapanuli Utara",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.04",
+    "name": "Nias",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.05",
+    "name": "Langkat",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.07",
+    "name": "Deli Serdang",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.08",
+    "name": "Simalungun",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.09",
+    "name": "Asahan",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.10",
+    "name": "Labuhanbatu",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.13",
+    "name": "Mandailing Natal",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.14",
+    "name": "Nias Selatan",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.16",
+    "name": "Humbang Hasundutan",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.17",
+    "name": "Samosir",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.19",
+    "name": "Batu Bara",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.23",
+    "name": "Labuhanbatu Utara",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.24",
+    "name": "Nias Utara",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.25",
+    "name": "Nias Barat",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.71",
+    "name": "Medan",
+    "provinceCode": "12",
+    "type": "KOTA",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.73",
+    "name": "Sibolga",
+    "provinceCode": "12",
+    "type": "KOTA",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.74",
+    "name": "Tanjung Balai",
+    "provinceCode": "12",
+    "type": "KOTA",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "13.01",
+    "name": "Pesisir Selatan",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.05",
+    "name": "Padang Pariaman",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.06",
+    "name": "Agam",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.09",
+    "name": "Kepulauan Mentawai",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.12",
+    "name": "Pasaman Barat",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.71",
+    "name": "Padang",
+    "provinceCode": "13",
+    "type": "KOTA",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.77",
+    "name": "Pariaman",
+    "provinceCode": "13",
+    "type": "KOTA",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "14.01",
+    "name": "Kampar",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.02",
+    "name": "Indragiri Hulu",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.03",
+    "name": "Bengkalis",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.04",
+    "name": "Indragiri Hilir",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.05",
+    "name": "Pelalawan",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.07",
+    "name": "Rokan Hilir",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.08",
+    "name": "Siak",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.10",
+    "name": "Kepulauan Meranti",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "15.04",
+    "name": "Batanghari",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.05",
+    "name": "Muaro Jambi",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.07",
+    "name": "Tanjung Jabung Timur",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "16.02",
+    "name": "Ogan Komering Ilir",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.03",
+    "name": "Muara Enim",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.07",
+    "name": "Banyuasin",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.71",
+    "name": "Palembang",
+    "provinceCode": "16",
+    "type": "KOTA",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "17.03",
+    "name": "Bengkulu Utara",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.71",
+    "name": "Bengkulu",
+    "provinceCode": "17",
+    "type": "KOTA",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "18.01",
+    "name": "Lampung Selatan",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.04",
+    "name": "Lampung Barat",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.06",
+    "name": "Tanggamus",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.07",
+    "name": "Lampung Timur",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.09",
+    "name": "Pesawaran",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.71",
+    "name": "Bandar Lampung",
+    "provinceCode": "18",
+    "type": "KOTA",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "19.01",
+    "name": "Bangka",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "19.02",
+    "name": "Belitung",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "19.03",
+    "name": "Bangka Selatan",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "19.04",
+    "name": "Bangka Tengah",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "19.05",
+    "name": "Bangka Barat",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "19.06",
+    "name": "Belitung Timur",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "21.01",
+    "name": "Bintan",
+    "provinceCode": "21",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.02",
+    "name": "Karimun",
+    "provinceCode": "21",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.03",
+    "name": "Natuna",
+    "provinceCode": "21",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.04",
+    "name": "Lingga",
+    "provinceCode": "21",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.05",
+    "name": "Kepulauan Anambas",
+    "provinceCode": "21",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.71",
+    "name": "Batam",
+    "provinceCode": "21",
+    "type": "KOTA",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "21.72",
+    "name": "Tanjung Pinang",
+    "provinceCode": "21",
+    "type": "KOTA",
+    "provinceName": "Kepulauan Riau"
+  },
+  {
+    "code": "31.01",
+    "name": "Kepulauan Seribu",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "31.71",
+    "name": "Jakarta Pusat",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "31.72",
+    "name": "Jakarta Utara",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "31.73",
+    "name": "Jakarta Barat",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "31.74",
+    "name": "Jakarta Selatan",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "31.75",
+    "name": "Jakarta Timur",
+    "provinceCode": "31",
+    "type": "KABUPATEN",
+    "provinceName": "DKI Jakarta"
+  },
+  {
+    "code": "32.02",
+    "name": "Sukabumi",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.03",
+    "name": "Cianjur",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.05",
+    "name": "Garut",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.06",
+    "name": "Tasikmalaya",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.12",
+    "name": "Indramayu",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.18",
+    "name": "Pangandaran",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "33.01",
+    "name": "Cilacap",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.05",
+    "name": "Kebumen",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.17",
+    "name": "Rembang",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.20",
+    "name": "Jepara",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "34.03",
+    "name": "Gunungkidul",
+    "provinceCode": "34",
+    "type": "KABUPATEN",
+    "provinceName": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "code": "35.01",
+    "name": "Pacitan",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.03",
+    "name": "Trenggalek",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.04",
+    "name": "Tulungagung",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.05",
+    "name": "Blitar",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.07",
+    "name": "Malang",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.09",
+    "name": "Jember",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.10",
+    "name": "Banyuwangi",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.12",
+    "name": "Situbondo",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.13",
+    "name": "Probolinggo",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.15",
+    "name": "Sidoarjo",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.25",
+    "name": "Gresik",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.27",
+    "name": "Sampang",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.29",
+    "name": "Sumenep",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "36.01",
+    "name": "Pandeglang",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.02",
+    "name": "Lebak",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.03",
+    "name": "Tangerang",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.04",
+    "name": "Serang",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.72",
+    "name": "Cilegon",
+    "provinceCode": "36",
+    "type": "KOTA",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "51.01",
+    "name": "Jembrana",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.03",
+    "name": "Badung",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.05",
+    "name": "Klungkung",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.07",
+    "name": "Karangasem",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.71",
+    "name": "Denpasar",
+    "provinceCode": "51",
+    "type": "KOTA",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "52.01",
+    "name": "Lombok Barat",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.02",
+    "name": "Lombok Tengah",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.03",
+    "name": "Lombok Timur",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.04",
+    "name": "Sumbawa",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.05",
+    "name": "Dompu",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.06",
+    "name": "Bima",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.07",
+    "name": "Sumbawa Barat",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.08",
+    "name": "Lombok Utara",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "53.01",
+    "name": "Kupang",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.02",
+    "name": "Kab Timor Tengah Selatan",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.05",
+    "name": "Alor",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.06",
+    "name": "Flores Timur",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.07",
+    "name": "Sikka",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.08",
+    "name": "Ende",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.09",
+    "name": "Ngada",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.10",
+    "name": "Manggarai",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.11",
+    "name": "Sumba Timur",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.12",
+    "name": "Sumba Barat",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.13",
+    "name": "Lembata",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.14",
+    "name": "Rote Ndao",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.15",
+    "name": "Manggarai Barat",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.16",
+    "name": "Nagekeo",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.17",
+    "name": "Sumba Tengah",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.20",
+    "name": "Sabu Raijua",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.21",
+    "name": "Uu. No. 3 Tahun 2013.",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "61.01",
+    "name": "Sambas",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.02",
+    "name": "Mempawah",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.03",
+    "name": "Sanggau",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.04",
+    "name": "Ketapang",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.07",
+    "name": "Bengkayang",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.11",
+    "name": "Kayong Utara",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.12",
+    "name": "Kubu Raya",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.71",
+    "name": "Pontianak",
+    "provinceCode": "61",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.72",
+    "name": "Singkawang",
+    "provinceCode": "61",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "62.01",
+    "name": "Kotawaringin Barat",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.02",
+    "name": "Kotawaringin Timur",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.03",
+    "name": "Kapuas",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.04",
+    "name": "Barito Selatan",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.06",
+    "name": "Katingan",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.08",
+    "name": "Sukamara",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.11",
+    "name": "Pulang Pisau",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.12",
+    "name": "Murung Raya",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.71",
+    "name": "Palangkaraya",
+    "provinceCode": "62",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "63.01",
+    "name": "Tanah Laut",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.02",
+    "name": "Kotabaru",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.03",
+    "name": "Banjar",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.04",
+    "name": "Barito Kuala",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.10",
+    "name": "Tanah Bumbu",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.71",
+    "name": "Banjarmasin",
+    "provinceCode": "63",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "64.01",
+    "name": "Paser",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.02",
+    "name": "Kutai Kartanegara",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.03",
+    "name": "Berau",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.07",
+    "name": "Kutai Barat",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.08",
+    "name": "Kutai Timur",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.09",
+    "name": "Penajam Paser Utara",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.71",
+    "name": "Balikpapan",
+    "provinceCode": "64",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.72",
+    "name": "Samarinda",
+    "provinceCode": "64",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "64.74",
+    "name": "Bontang",
+    "provinceCode": "64",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "65.01",
+    "name": "Bulungan",
+    "provinceCode": "65",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Utara"
+  },
+  {
+    "code": "65.02",
+    "name": "Malinau",
+    "provinceCode": "65",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Utara"
+  },
+  {
+    "code": "65.03",
+    "name": "Nunukan",
+    "provinceCode": "65",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Utara"
+  },
+  {
+    "code": "65.04",
+    "name": "Tana Tidung",
+    "provinceCode": "65",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Utara"
+  },
+  {
+    "code": "65.71",
+    "name": "Tarakan",
+    "provinceCode": "65",
+    "type": "KOTA",
+    "provinceName": "Kalimantan Utara"
+  },
+  {
+    "code": "71.01",
+    "name": "Bolaang Mongondow",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.02",
+    "name": "Minahasa",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.03",
+    "name": "Kepulauan Sangihe",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.04",
+    "name": "Kepulauan Talaud",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.06",
+    "name": "Minahasa Utara",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.07",
+    "name": "Minahasa Tenggara",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.08",
+    "name": "Bolaang Mongondow Utara",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.09",
+    "name": "Kep. Siau Tagulandang Biaro",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.10",
+    "name": "Bolaang Mongondow Timur",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.11",
+    "name": "Bolaang Mongondow Selatan",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.71",
+    "name": "Manado",
+    "provinceCode": "71",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.72",
+    "name": "Bitung",
+    "provinceCode": "71",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "72.01",
+    "name": "Banggai",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.03",
+    "name": "Donggala",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.04",
+    "name": "Toli Toli",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.05",
+    "name": "Buol",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.06",
+    "name": "Morowali",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.07",
+    "name": "Banggai Kepulauan",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.08",
+    "name": "Parigi Moutong",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.09",
+    "name": "Tojo Una Una",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.10",
+    "name": "Sigi",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.11",
+    "name": "Banggai Laut",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "73.01",
+    "name": "Kepulauan Selayar",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.02",
+    "name": "Bulukumba",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.04",
+    "name": "Jeneponto",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.05",
+    "name": "Takalar",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.06",
+    "name": "Gowa",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.08",
+    "name": "Bone",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.10",
+    "name": "Pangkajene Dan Kepulauan",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.11",
+    "name": "Barru",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.13",
+    "name": "Wajo",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.15",
+    "name": "Pinrang",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.17",
+    "name": "Pp. No. 80/2005 (pemindahan Ibukota).",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.22",
+    "name": "Luwu Utara",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.24",
+    "name": "Luwu Timur",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.71",
+    "name": "Makassar",
+    "provinceCode": "73",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.73",
+    "name": "Palopo",
+    "provinceCode": "73",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "74.01",
+    "name": "Kolaka",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.02",
+    "name": "Konawe",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.03",
+    "name": "Muna",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.04",
+    "name": "Buton",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.05",
+    "name": "Konawe Selatan",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.06",
+    "name": "Bombana",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.07",
+    "name": "Wakatobi",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.08",
+    "name": "Kolaka Utara",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.09",
+    "name": "Konawe Utara",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.12",
+    "name": "Konawe Kepulauan",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.13",
+    "name": "Muna Barat",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.14",
+    "name": "Buton Tengah",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.71",
+    "name": "Kendari",
+    "provinceCode": "74",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.72",
+    "name": "Bau Bau",
+    "provinceCode": "74",
+    "type": "KOTA",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "75.02",
+    "name": "Boalemo",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "75.04",
+    "name": "Pohuwato",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "75.05",
+    "name": "Gorontalo Utara",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "76.01",
+    "name": "Pasangkayu",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "76.02",
+    "name": "Mamuju",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "76.04",
+    "name": "Polewali Mandar",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "76.05",
+    "name": "Majene",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "76.06",
+    "name": "Mamuju Tengah",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "81.01",
+    "name": "Maluku Tengah",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.02",
+    "name": "Maluku Tenggara",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.03",
+    "name": "Kepulauan Tanimbar",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "11.05",
+    "name": "Kabupaten 11.05",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.11",
+    "name": "Kabupaten 11.11",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.12",
+    "name": "Kabupaten 11.12",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.13",
+    "name": "Kabupaten 11.13",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.17",
+    "name": "Kabupaten 11.17",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "11.73",
+    "name": "Kabupaten 11.73",
+    "provinceCode": "11",
+    "type": "KABUPATEN",
+    "provinceName": "Aceh"
+  },
+  {
+    "code": "12.03",
+    "name": "Kabupaten 12.03",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.06",
+    "name": "Kabupaten 12.06",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.11",
+    "name": "Kabupaten 12.11",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.12",
+    "name": "Kabupaten 12.12",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.15",
+    "name": "Kabupaten 12.15",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.18",
+    "name": "Kabupaten 12.18",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.20",
+    "name": "Kabupaten 12.20",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.21",
+    "name": "Kabupaten 12.21",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.22",
+    "name": "Kabupaten 12.22",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.72",
+    "name": "Kabupaten 12.72",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.75",
+    "name": "Kabupaten 12.75",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.76",
+    "name": "Kabupaten 12.76",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.77",
+    "name": "Kabupaten 12.77",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "12.78",
+    "name": "Kabupaten 12.78",
+    "provinceCode": "12",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Utara"
+  },
+  {
+    "code": "13.02",
+    "name": "Kabupaten 13.02",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.03",
+    "name": "Kabupaten 13.03",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.04",
+    "name": "Kabupaten 13.04",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.07",
+    "name": "Kabupaten 13.07",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.08",
+    "name": "Kabupaten 13.08",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.10",
+    "name": "Kabupaten 13.10",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.11",
+    "name": "Kabupaten 13.11",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.72",
+    "name": "Kabupaten 13.72",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.73",
+    "name": "Kabupaten 13.73",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.74",
+    "name": "Kabupaten 13.74",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.75",
+    "name": "Kabupaten 13.75",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "13.76",
+    "name": "Kabupaten 13.76",
+    "provinceCode": "13",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Barat"
+  },
+  {
+    "code": "14.06",
+    "name": "Kabupaten 14.06",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.09",
+    "name": "Kabupaten 14.09",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.71",
+    "name": "Kabupaten 14.71",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "14.72",
+    "name": "Kabupaten 14.72",
+    "provinceCode": "14",
+    "type": "KABUPATEN",
+    "provinceName": "Riau"
+  },
+  {
+    "code": "15.01",
+    "name": "Kabupaten 15.01",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.02",
+    "name": "Kabupaten 15.02",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.03",
+    "name": "Kabupaten 15.03",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.06",
+    "name": "Kabupaten 15.06",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.08",
+    "name": "Kabupaten 15.08",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.09",
+    "name": "Kabupaten 15.09",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.71",
+    "name": "Kabupaten 15.71",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "15.72",
+    "name": "Kabupaten 15.72",
+    "provinceCode": "15",
+    "type": "KABUPATEN",
+    "provinceName": "Jambi"
+  },
+  {
+    "code": "16.01",
+    "name": "Kabupaten 16.01",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.04",
+    "name": "Kabupaten 16.04",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.05",
+    "name": "Kabupaten 16.05",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.06",
+    "name": "Kabupaten 16.06",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.08",
+    "name": "Kabupaten 16.08",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.09",
+    "name": "Kabupaten 16.09",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.10",
+    "name": "Kabupaten 16.10",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.11",
+    "name": "Kabupaten 16.11",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.12",
+    "name": "Kabupaten 16.12",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.13",
+    "name": "Kabupaten 16.13",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.72",
+    "name": "Kabupaten 16.72",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.73",
+    "name": "Kabupaten 16.73",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "16.74",
+    "name": "Kabupaten 16.74",
+    "provinceCode": "16",
+    "type": "KABUPATEN",
+    "provinceName": "Sumatera Selatan"
+  },
+  {
+    "code": "17.01",
+    "name": "Kabupaten 17.01",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.02",
+    "name": "Kabupaten 17.02",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.04",
+    "name": "Kabupaten 17.04",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.05",
+    "name": "Kabupaten 17.05",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.06",
+    "name": "Kabupaten 17.06",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.07",
+    "name": "Kabupaten 17.07",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.08",
+    "name": "Kabupaten 17.08",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "17.09",
+    "name": "Kabupaten 17.09",
+    "provinceCode": "17",
+    "type": "KABUPATEN",
+    "provinceName": "Bengkulu"
+  },
+  {
+    "code": "18.02",
+    "name": "Kabupaten 18.02",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.03",
+    "name": "Kabupaten 18.03",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.05",
+    "name": "Kabupaten 18.05",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.08",
+    "name": "Kabupaten 18.08",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.10",
+    "name": "Kabupaten 18.10",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.11",
+    "name": "Kabupaten 18.11",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.12",
+    "name": "Kabupaten 18.12",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.13",
+    "name": "Kabupaten 18.13",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "18.72",
+    "name": "Kabupaten 18.72",
+    "provinceCode": "18",
+    "type": "KABUPATEN",
+    "provinceName": "Lampung"
+  },
+  {
+    "code": "19.71",
+    "name": "Kabupaten 19.71",
+    "provinceCode": "19",
+    "type": "KABUPATEN",
+    "provinceName": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "32.01",
+    "name": "Kabupaten 32.01",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.04",
+    "name": "Kabupaten 32.04",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.07",
+    "name": "Kabupaten 32.07",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.08",
+    "name": "Kabupaten 32.08",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.09",
+    "name": "Kabupaten 32.09",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.10",
+    "name": "Kabupaten 32.10",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.11",
+    "name": "Kabupaten 32.11",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.13",
+    "name": "Kabupaten 32.13",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.14",
+    "name": "Kabupaten 32.14",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.15",
+    "name": "Kabupaten 32.15",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.16",
+    "name": "Kabupaten 32.16",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.17",
+    "name": "Kabupaten 32.17",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.71",
+    "name": "Kabupaten 32.71",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.72",
+    "name": "Kabupaten 32.72",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.73",
+    "name": "Kabupaten 32.73",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.74",
+    "name": "Kabupaten 32.74",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.75",
+    "name": "Kabupaten 32.75",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.76",
+    "name": "Kabupaten 32.76",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.77",
+    "name": "Kabupaten 32.77",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.78",
+    "name": "Kabupaten 32.78",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "32.79",
+    "name": "Kabupaten 32.79",
+    "provinceCode": "32",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Barat"
+  },
+  {
+    "code": "33.02",
+    "name": "Kabupaten 33.02",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.03",
+    "name": "Kabupaten 33.03",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.04",
+    "name": "Kabupaten 33.04",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.06",
+    "name": "Kabupaten 33.06",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.07",
+    "name": "Kabupaten 33.07",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.08",
+    "name": "Kabupaten 33.08",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.09",
+    "name": "Kabupaten 33.09",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.10",
+    "name": "Kabupaten 33.10",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.11",
+    "name": "Kabupaten 33.11",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.12",
+    "name": "Kabupaten 33.12",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.13",
+    "name": "Kabupaten 33.13",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.14",
+    "name": "Kabupaten 33.14",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.15",
+    "name": "Kabupaten 33.15",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.16",
+    "name": "Kabupaten 33.16",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.18",
+    "name": "Kabupaten 33.18",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.19",
+    "name": "Kabupaten 33.19",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.21",
+    "name": "Kabupaten 33.21",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.22",
+    "name": "Kabupaten 33.22",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.23",
+    "name": "Kabupaten 33.23",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.24",
+    "name": "Kabupaten 33.24",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.25",
+    "name": "Kabupaten 33.25",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.26",
+    "name": "Kabupaten 33.26",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.27",
+    "name": "Kabupaten 33.27",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.28",
+    "name": "Kabupaten 33.28",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.29",
+    "name": "Kabupaten 33.29",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.71",
+    "name": "Kabupaten 33.71",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.72",
+    "name": "Kabupaten 33.72",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.73",
+    "name": "Kabupaten 33.73",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.74",
+    "name": "Kabupaten 33.74",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.75",
+    "name": "Kabupaten 33.75",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "33.76",
+    "name": "Kabupaten 33.76",
+    "provinceCode": "33",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Tengah"
+  },
+  {
+    "code": "34.01",
+    "name": "Kabupaten 34.01",
+    "provinceCode": "34",
+    "type": "KABUPATEN",
+    "provinceName": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "code": "34.02",
+    "name": "Kabupaten 34.02",
+    "provinceCode": "34",
+    "type": "KABUPATEN",
+    "provinceName": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "code": "34.04",
+    "name": "Kabupaten 34.04",
+    "provinceCode": "34",
+    "type": "KABUPATEN",
+    "provinceName": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "code": "34.71",
+    "name": "Kabupaten 34.71",
+    "provinceCode": "34",
+    "type": "KABUPATEN",
+    "provinceName": "Daerah Istimewa Yogyakarta"
+  },
+  {
+    "code": "35.02",
+    "name": "Kabupaten 35.02",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.06",
+    "name": "Kabupaten 35.06",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.08",
+    "name": "Kabupaten 35.08",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.11",
+    "name": "Kabupaten 35.11",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.14",
+    "name": "Kabupaten 35.14",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.16",
+    "name": "Kabupaten 35.16",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.17",
+    "name": "Kabupaten 35.17",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.18",
+    "name": "Kabupaten 35.18",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.19",
+    "name": "Kabupaten 35.19",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.20",
+    "name": "Kabupaten 35.20",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.21",
+    "name": "Kabupaten 35.21",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.22",
+    "name": "Kabupaten 35.22",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.23",
+    "name": "Kabupaten 35.23",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.24",
+    "name": "Kabupaten 35.24",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.26",
+    "name": "Kabupaten 35.26",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.28",
+    "name": "Kabupaten 35.28",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.71",
+    "name": "Kabupaten 35.71",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.72",
+    "name": "Kabupaten 35.72",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.73",
+    "name": "Kabupaten 35.73",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.74",
+    "name": "Kabupaten 35.74",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.75",
+    "name": "Kabupaten 35.75",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.76",
+    "name": "Kabupaten 35.76",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.77",
+    "name": "Kabupaten 35.77",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.78",
+    "name": "Kabupaten 35.78",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "35.79",
+    "name": "Kabupaten 35.79",
+    "provinceCode": "35",
+    "type": "KABUPATEN",
+    "provinceName": "Jawa Timur"
+  },
+  {
+    "code": "36.71",
+    "name": "Kabupaten 36.71",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.73",
+    "name": "Kabupaten 36.73",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "36.74",
+    "name": "Kabupaten 36.74",
+    "provinceCode": "36",
+    "type": "KABUPATEN",
+    "provinceName": "Banten"
+  },
+  {
+    "code": "51.02",
+    "name": "Kabupaten 51.02",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.04",
+    "name": "Kabupaten 51.04",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.06",
+    "name": "Kabupaten 51.06",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "51.08",
+    "name": "Kabupaten 51.08",
+    "provinceCode": "51",
+    "type": "KABUPATEN",
+    "provinceName": "Bali"
+  },
+  {
+    "code": "52.71",
+    "name": "Kabupaten 52.71",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "52.72",
+    "name": "Kabupaten 52.72",
+    "provinceCode": "52",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "53.03",
+    "name": "Kabupaten 53.03",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.04",
+    "name": "Kabupaten 53.04",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.18",
+    "name": "Kabupaten 53.18",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.19",
+    "name": "Kabupaten 53.19",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "53.71",
+    "name": "Kabupaten 53.71",
+    "provinceCode": "53",
+    "type": "KABUPATEN",
+    "provinceName": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "61.05",
+    "name": "Kabupaten 61.05",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.06",
+    "name": "Kabupaten 61.06",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.08",
+    "name": "Kabupaten 61.08",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.09",
+    "name": "Kabupaten 61.09",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "61.10",
+    "name": "Kabupaten 61.10",
+    "provinceCode": "61",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Barat"
+  },
+  {
+    "code": "62.05",
+    "name": "Kabupaten 62.05",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.07",
+    "name": "Kabupaten 62.07",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.09",
+    "name": "Kabupaten 62.09",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.10",
+    "name": "Kabupaten 62.10",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "62.13",
+    "name": "Kabupaten 62.13",
+    "provinceCode": "62",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Tengah"
+  },
+  {
+    "code": "63.05",
+    "name": "Kabupaten 63.05",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.06",
+    "name": "Kabupaten 63.06",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.07",
+    "name": "Kabupaten 63.07",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.08",
+    "name": "Kabupaten 63.08",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.09",
+    "name": "Kabupaten 63.09",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.11",
+    "name": "Kabupaten 63.11",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "63.72",
+    "name": "Kabupaten 63.72",
+    "provinceCode": "63",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Selatan"
+  },
+  {
+    "code": "64.11",
+    "name": "Kabupaten 64.11",
+    "provinceCode": "64",
+    "type": "KABUPATEN",
+    "provinceName": "Kalimantan Timur"
+  },
+  {
+    "code": "71.05",
+    "name": "Kabupaten 71.05",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.73",
+    "name": "Kabupaten 71.73",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "71.74",
+    "name": "Kabupaten 71.74",
+    "provinceCode": "71",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Utara"
+  },
+  {
+    "code": "72.02",
+    "name": "Kabupaten 72.02",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.12",
+    "name": "Kabupaten 72.12",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "72.71",
+    "name": "Kabupaten 72.71",
+    "provinceCode": "72",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tengah"
+  },
+  {
+    "code": "73.03",
+    "name": "Kabupaten 73.03",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.07",
+    "name": "Kabupaten 73.07",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.09",
+    "name": "Kabupaten 73.09",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.12",
+    "name": "Kabupaten 73.12",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.14",
+    "name": "Kabupaten 73.14",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.16",
+    "name": "Kabupaten 73.16",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.18",
+    "name": "Kabupaten 73.18",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.26",
+    "name": "Kabupaten 73.26",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "73.72",
+    "name": "Kabupaten 73.72",
+    "provinceCode": "73",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Selatan"
+  },
+  {
+    "code": "74.10",
+    "name": "Kabupaten 74.10",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.11",
+    "name": "Kabupaten 74.11",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "74.15",
+    "name": "Kabupaten 74.15",
+    "provinceCode": "74",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Tenggara"
+  },
+  {
+    "code": "75.01",
+    "name": "Kabupaten 75.01",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "75.03",
+    "name": "Kabupaten 75.03",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "75.71",
+    "name": "Kabupaten 75.71",
+    "provinceCode": "75",
+    "type": "KABUPATEN",
+    "provinceName": "Gorontalo"
+  },
+  {
+    "code": "76.03",
+    "name": "Kabupaten 76.03",
+    "provinceCode": "76",
+    "type": "KABUPATEN",
+    "provinceName": "Sulawesi Barat"
+  },
+  {
+    "code": "81.04",
+    "name": "Kabupaten 81.04",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.05",
+    "name": "Kabupaten 81.05",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.06",
+    "name": "Kabupaten 81.06",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.07",
+    "name": "Kabupaten 81.07",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.08",
+    "name": "Kabupaten 81.08",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.09",
+    "name": "Kabupaten 81.09",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.71",
+    "name": "Kabupaten 81.71",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "81.72",
+    "name": "Kabupaten 81.72",
+    "provinceCode": "81",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku"
+  },
+  {
+    "code": "82.01",
+    "name": "Kabupaten 82.01",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.02",
+    "name": "Kabupaten 82.02",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.03",
+    "name": "Kabupaten 82.03",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.04",
+    "name": "Kabupaten 82.04",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.05",
+    "name": "Kabupaten 82.05",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.06",
+    "name": "Kabupaten 82.06",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.07",
+    "name": "Kabupaten 82.07",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.08",
+    "name": "Kabupaten 82.08",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.71",
+    "name": "Kabupaten 82.71",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "82.72",
+    "name": "Kabupaten 82.72",
+    "provinceCode": "82",
+    "type": "KABUPATEN",
+    "provinceName": "Maluku Utara"
+  },
+  {
+    "code": "91.03",
+    "name": "Kabupaten 91.03",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.05",
+    "name": "Kabupaten 91.05",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.06",
+    "name": "Kabupaten 91.06",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.10",
+    "name": "Kabupaten 91.10",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.11",
+    "name": "Kabupaten 91.11",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.15",
+    "name": "Kabupaten 91.15",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.19",
+    "name": "Kabupaten 91.19",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.20",
+    "name": "Kabupaten 91.20",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "91.71",
+    "name": "Kabupaten 91.71",
+    "provinceCode": "91",
+    "type": "KABUPATEN",
+    "provinceName": "Papua"
+  },
+  {
+    "code": "92.01",
+    "name": "Kabupaten 92.01",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.02",
+    "name": "Kabupaten 92.02",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.03",
+    "name": "Kabupaten 92.03",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.04",
+    "name": "Kabupaten 92.04",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.05",
+    "name": "Kabupaten 92.05",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.06",
+    "name": "Kabupaten 92.06",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.07",
+    "name": "Kabupaten 92.07",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.08",
+    "name": "Kabupaten 92.08",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.09",
+    "name": "Kabupaten 92.09",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.10",
+    "name": "Kabupaten 92.10",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.11",
+    "name": "Kabupaten 92.11",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.12",
+    "name": "Kabupaten 92.12",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "92.71",
+    "name": "Kabupaten 92.71",
+    "provinceCode": "92",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Barat"
+  },
+  {
+    "code": "93.01",
+    "name": "Kabupaten 93.01",
+    "provinceCode": "93",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Selatan"
+  },
+  {
+    "code": "93.02",
+    "name": "Kabupaten 93.02",
+    "provinceCode": "93",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Selatan"
+  },
+  {
+    "code": "93.03",
+    "name": "Kabupaten 93.03",
+    "provinceCode": "93",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Selatan"
+  },
+  {
+    "code": "93.04",
+    "name": "Kabupaten 93.04",
+    "provinceCode": "93",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Selatan"
+  },
+  {
+    "code": "94.01",
+    "name": "Kabupaten 94.01",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.02",
+    "name": "Kabupaten 94.02",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.03",
+    "name": "Kabupaten 94.03",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.04",
+    "name": "Kabupaten 94.04",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.05",
+    "name": "Kabupaten 94.05",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.06",
+    "name": "Kabupaten 94.06",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.07",
+    "name": "Kabupaten 94.07",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "94.08",
+    "name": "Kabupaten 94.08",
+    "provinceCode": "94",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Tengah"
+  },
+  {
+    "code": "95.01",
+    "name": "Kabupaten 95.01",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.02",
+    "name": "Kabupaten 95.02",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.03",
+    "name": "Kabupaten 95.03",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.04",
+    "name": "Kabupaten 95.04",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.05",
+    "name": "Kabupaten 95.05",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.06",
+    "name": "Kabupaten 95.06",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.07",
+    "name": "Kabupaten 95.07",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  },
+  {
+    "code": "95.08",
+    "name": "Kabupaten 95.08",
+    "provinceCode": "95",
+    "type": "KABUPATEN",
+    "provinceName": "Papua Pegunungan"
+  }
+];

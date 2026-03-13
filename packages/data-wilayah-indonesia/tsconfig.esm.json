@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "outDir": "./lib/esm",
+    "emitDeclarationOnly": false
+  },
+  "exclude": ["node_modules", "lib", "**/*.test.ts"]
+}
