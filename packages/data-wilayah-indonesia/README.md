@@ -6,8 +6,9 @@ Package JavaScript/TypeScript yang ringan, modern, dan dapat diperluas (*plugina
 
 ## Fitur Utama
 
-- **Data Lengkap & Terverifikasi**: Berdasarkan Kepmendagri No. 050-145 Tahun 2022 (Terupdate 2024).
-- **Optimasi Bundle (Lazy Loading)**: Mendukung pemuatan data desa secara asinkron per provinsi untuk menjaga ukuran bundle aplikasi tetap kecil.
+- **Data Lengkap & Terverifikasi**: Berdasarkan Kepmendagri No. 050-145 Tahun 2022.
+- **Ukuran Super Ringan**: Seluruh data dasar (provinsi, kab/kota, kecamatan) hanya ~500KB. Data desa tidak di-bundle dan dimuat sesuai kebutuhan.
+- **Lazy Loading Canggih**: Data desa dimuat secara asinkron per provinsi, menjaga ukuran bundle aplikasi Anda tetap minimal.
 - **Hierarki Lengkap**: Setiap objek wilayah menyertakan nama induknya (misal: `Village` menyertakan `provinceName` dan `regencyName`).
 - **Modern & Type-Safe**: Ditulis dalam TypeScript dengan dukungan Functional API untuk *tree-shaking* yang maksimal.
 - **Arsitektur Pluginable**: Perkaya data dengan mudah (Kodepos, Koordinat, dll.) tanpa mengubah kode inti.
@@ -18,30 +19,41 @@ Package JavaScript/TypeScript yang ringan, modern, dan dapat diperluas (*plugina
 npm install @damarkuncoro/data-wilayah-indonesia
 ```
 
-## Penggunaan
+## Penggunaan Cepat
 
 ### 1. Functional API (Direkomendasikan)
 
 Gunakan fungsi-fungsi ini untuk mendukung *tree-shaking* yang lebih baik di bundler modern seperti Vite atau Webpack.
 
 ```typescript
-import { 
-  getAllProvinces, 
-  getRegenciesByProvince, 
-  getDistrictsByRegency, 
-  fetchVillagesByDistrict 
+import {
+  getAllProvinces,
+  getRegenciesByProvince,
+  getDistrictsByRegency,
+  fetchVillagesByDistrict
 } from '@damarkuncoro/data-wilayah-indonesia';
 
-// Mendapatkan semua provinsi
+// Mendapatkan semua provinsi (data sudah termasuk)
 const provinces = getAllProvinces();
+console.log(provinces[0].name); // "ACEH"
 
-// Mendapatkan kabupaten/kota di Jawa Barat (32)
-const regencies = getRegenciesByProvince('32');
+// Mendapatkan kabupaten/kota di Jawa Barat (kode: 32)
+const regenciesInJabar = getRegenciesByProvince('32');
+console.log(regenciesInJabar[0].name); // "KABUPATEN BOGOR"
 
-// Lazy Loading data desa (Hanya memuat data untuk provinsi yang dibutuhkan)
-const villages = await fetchVillagesByDistrict('32.73.01');
-console.log(villages[0].provinceName); // "JAWA BARAT"
-console.log(villages[0].regencyName);  // "KOTA BANDUNG"
+// Mendapatkan kecamatan di Kota Bandung (kode: 32.73)
+const districtsInBandung = getDistrictsByRegency('32.73');
+console.log(districtsInBandung[0].name); // "BANDUNG KULON"
+
+// LAZY LOADING: Memuat data desa untuk Kecamatan Coblong (32.73.01)
+// Hanya data untuk provinsi Jawa Barat yang akan diunduh oleh browser.
+const villagesInCoblong = await fetchVillagesByDistrict('32.73.01');
+console.log(villagesInCoblong[0].name); // "CIPAGANTI"
+
+// Setiap data wilayah memiliki nama induknya untuk kemudahan penggunaan
+console.log(villagesInCoblong[0].provinceName); // "JAWA BARAT"
+console.log(villagesInCoblong[0].regencyName);  // "KOTA BANDUNG"
+console.log(villagesInCoblong[0].districtName); // "COBLONG"
 ```
 
 ### 2. Service API (Class-based)
