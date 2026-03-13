@@ -13,16 +13,14 @@
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/index.d.ts",
-  "files": [
+"files": [
     "lib",
-    "data"
+    "README.md"
   ],
   "scripts": {
-    "build": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json",
-    "test": "jest",
-    "prepublishOnly": "npm test && npm run build"
-  },
-  "keywords": [
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json && cp -r src/data/postal-codes lib/data",
+    "prepublishOnly": "npm run build"
+  },"keywords": [
     "indonesia",
     "postal",
     "code",

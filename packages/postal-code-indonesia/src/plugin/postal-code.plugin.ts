@@ -44,7 +44,7 @@ export class PostalCodePlugin implements DataPlugin {
     const regencyCode = regencyFullCode.substring(3, 5);
 
     try {
-      const module = await import(`../data/postal-codes/${provinceCode}/${regencyCode}.ts`);
+      const module = await import(`../../data/postal-codes/${provinceCode}/${regencyCode}.ts`);
       this.cache[regencyFullCode] = module.default || {};
       return this.cache[regencyFullCode];
     } catch (e) {
