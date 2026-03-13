@@ -19,7 +19,8 @@
   "types": "./lib/index.d.ts",
   "files": [
     "lib",
-    "data"
+    "data",
+    "dist/data"
   ],
   "scripts": {
     "build": "node scripts/build-json.js && tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && tsc -p tsconfig.esm.json",

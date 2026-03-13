@@ -33,7 +33,7 @@ export class JsonDataProvider implements DataProvider {
 
   async getVillagesByProvince(provinceCode: string): Promise<Village[]> {
     try {
-      const module = await import(`../../data/villages/${provinceCode}`);
+      const module = await import(`../../../data/villages/${provinceCode}`);
       return module.default || [];
     } catch (e) {
       return [];

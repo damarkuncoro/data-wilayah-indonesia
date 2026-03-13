@@ -317,7 +317,7 @@ function processData(csvData) {
 
 // Main
 const tsDataDir = path.join(__dirname, '..', 'src', 'data', 'base');
-const tsVillagesDataDir = path.join(__dirname, '..', 'src', 'data', 'villages');
+const tsVillagesDataDir = path.join(__dirname, '..', 'dist', 'data', 'villages');
 const csvPath = path.join(__dirname, '..', '..', '..', 'data', 'indonesia_administrative_data.csv');
 
 // Create TS data directories if not exists
